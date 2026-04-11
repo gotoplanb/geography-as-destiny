@@ -12,6 +12,7 @@ This book argues that framework across eight chapters, from the Nile to the Silk
 - **`geography-as-destiny-seed.md`** — The original seed document, captured via voice-to-text on a walk in Gainesville, FL
 - **`table-of-contents.md`** — Full chapter structure with summaries
 - **`prologue.md`** — On method: how and why this was written the way it was
+- **`CLAUDE.md`** — Working instructions for the AI collaborator. This is how Dave tells Claude what the editorial standards are, how the drafting process works, and what voice to write in. Think of it as the style guide you'd hand a research assistant — except the research assistant has read everything and remembers nothing between sessions.
 
 ## What this is
 
