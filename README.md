@@ -1,1 +1,1 @@
-# geography-is-destiny
+# geography-as-destiny
