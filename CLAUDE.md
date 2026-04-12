@@ -56,6 +56,18 @@ When Dave arrives in an Alpha session, he's coming from Beta with ideas that nee
 - When surfacing a source, explain what it contributes to the argument and where it's strong or limited
 - Dave verifies everything himself — Claude is a research partner, not an oracle
 
+## Evidence Strength and GitHub Issues
+
+When the AI has vague or incomplete information, it will pattern-match to something plausible and run with it. That produces arguments that *look* right but rest on weak evidence. Worse, the correct answer might actually undermine the thesis — and no one would discover that if the pattern match went unchallenged.
+
+**Example:** In a Beta discussion about a resistance leader, the AI suggested Sitting Bull. Plausible — right archetype, right continent, right era. Dave rejected it because the *connections to the framework* were weak, did his own research, and came back with Tecumseh. The correct answer was dramatically stronger: Tecumseh's explicit unification strategy made the structural argument sharper. Sitting Bull would have been adequate-looking evidence that masked a weaker argument.
+
+**The rule:** Open a GitHub issue (labeled `evidence-strength`) when a specific fact, name, date, or claim is unconfirmed and building on it risks either:
+1. Constructing an argument on a plausible hallucination
+2. Missing that the real answer actually cuts *against* the thesis
+
+These are not reading assignments or tangential research tasks. They are specific verification points where getting the right answer materially changes the strength of the evidence. Dave resolves them from whatever source is appropriate — study guide, book, independent research — and the resolution gets propagated into the reference cards and chapter files.
+
 ## Voice and Tone
 
 - Confident, not defensive

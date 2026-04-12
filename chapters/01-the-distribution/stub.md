@@ -7,10 +7,16 @@
 
 ## Argument Structure
 
-This chapter does three things:
+This chapter does five things:
 1. Establishes the probabilistic frame — geography sets distributions, not outcomes
 2. Introduces the three lenses and shows why you need all three
 3. Presents the "replication test" that breaks great man theory: similar geographic contexts produce similar outcomes independently, across cultures with no contact
+4. Shows that geographic convergence goes deeper than institutions — it shapes epistemology itself (divination systems as geographically-determined pattern recognition; see `references/001-divination-as-geographic-epistemology.md`)
+5. Lays out the methodological toolkit — the scientific controls we borrow and the ones we can't use (see `references/003-falsifiability-and-counterfactual-method.md`):
+   - **Falsifiability:** the framework must name conditions under which it fails, or it's a belief, not a theory. Cases where geography *doesn't* predict the outcome are features, not bugs.
+   - **Counterfactual removal test:** for any great man claim, remove the person and ask if the structural outcome changes. For any geographic claim, change the terrain and ask the same.
+   - **Probabilistic language:** distributions, not determinism. We can't generate actual curves with real data (sample size = 1, history happened once), but the discipline of thinking in likelihoods produces better history than narrative assertion without methodological controls.
+   - **Parallel cases as natural experiments:** not clean, but convergence across independent cases (Russia/America, Nile/Yellow River) is more than anecdote and less than proof. It's evidence at the level history can provide.
 
 The chapter ends by previewing the Parallel Conquests as the thesis demonstrated at scale.
 

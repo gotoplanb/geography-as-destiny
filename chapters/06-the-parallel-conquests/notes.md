@@ -13,3 +13,32 @@ The railroad doesn't just collapse friction — it performs a 90-degree rotation
 This is the friction collapse described at the level of terrain logic, not just technology adoption. It's not that trains are faster than horses (though they are). It's that the *relationship between terrain and power* flips. The steppe goes from being legible only to the mobile to being legible only to the state.
 
 **Implication for the chapter:** This rotation happened identically on both sides of the planet because the terrain type was the same and the technology was the same. The rotation is the mechanism. The parallel is the proof.
+
+---
+
+## The Peter/Tecumseh Mirror (from Beta seminar, 2026-04-12)
+
+The anti-great-man argument as a matched pair:
+
+- **Peter the Great** — outlier who compressed the conquest timeline by a generation. The accelerant.
+- **Tecumseh** — outlier who extended the resistance timeline by a generation. The decelerant.
+
+Same distribution. Opposite tails. Remove either and the outcome is identical within twenty years. One is remembered as a builder of empires. One is remembered as a tragic hero. Both are noise around the same geographic signal.
+
+This may be the single cleanest illustration of the thesis in the entire book. See `references/004-peter-tecumseh-mirror.md`.
+
+---
+
+## The Tecumseh Pattern (from Beta seminar, 2026-04-12)
+
+Recurring archetype: the brilliant unifier who emerges at the moment of existential threat, correctly diagnoses that fragmentation = defeat, achieves unprecedented unity, and still loses because the structural differential is too large.
+
+Instances: Tecumseh, Sitting Bull, Vercingetorix, Boudicca, unnamed steppe leader from Tasar's lecture on pre-Petrine rebellions.
+
+Every instance validates the thesis. The best possible individual, executing the optimal strategy, still can't shift the distribution. See `references/005-tecumseh-pattern-archetype.md`.
+
+---
+
+## Pre-Railroad Pressures (from Tasar lecture, 2026-04-12)
+
+The conquest didn't start with the railroad. Russia was already pushing south, taxing nomadic routes, setting up toll stations. The nomads were already resisting — and their resistance leaders were already harsh toward those who wouldn't join. The pattern was set before Peter, before rail. The railroad made it inevitable rather than merely likely. See `references/006-pre-petrine-nomadic-taxation-rebellions.md`.

@@ -37,6 +37,18 @@ The human does the reading. The human forms the interpretations. The human makes
 - **`references/`** — Harvested passages and data points filed as encountered during reading
 - **`CLAUDE.md`** — Working instructions for the AI collaborator: editorial standards, drafting workflow, voice and tone guidelines
 
+## Challenge the evidence
+
+This project claims its thesis is falsifiable. Here's where you test that.
+
+If you find weak evidence, a stronger counter-argument, a misidentified source, or a case where geography clearly *doesn't* explain the outcome — [open an issue](https://github.com/gotoplanb/geography-as-destiny/issues). That's not a bug report. It's how scholarship works.
+
+A core risk of human-AI collaboration is that the AI pattern-matches to something plausible and the human accepts it because it *looks* right. We've already caught this happening during our own process — the AI suggested one historical figure, the human rejected it because the *connections to the argument* were weak, did independent research, and found a different figure that made the evidence dramatically stronger. The right answer changed the shape of the argument. The wrong answer would have hidden that.
+
+We use the `evidence-strength` label for these. You don't need to add the label yourself — just open the issue. Tell us what's weak, what's wrong, or what we missed. We'll take it seriously because the whole point of probabilistic reasoning is that you have to name the conditions under which you'd be wrong.
+
+If you can break the thesis, the thesis deserved to break.
+
 ## Status
 
 Semester 1. Listening to Eren Tasar's *Crossroads of Civilization* (Central Asian history). Reading Morrison, Starr, and Hämäläinen. Building the evidence base for the Parallel Conquests and Timurid Paradox chapters.
