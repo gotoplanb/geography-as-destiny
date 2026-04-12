@@ -19,6 +19,28 @@ Work top-down in iterative layers, not linearly. Each chapter goes through round
 
 Never draft detailed prose before Dave has reviewed the source stubs. Always present sources with why they're relevant, not just bibliographic citations.
 
+## The Semester Model
+
+This project follows the structure of a self-directed history PhD. Each "semester" is a focused reading period:
+
+1. A high-level lecture or survey book covering a big intellectual area (the seminar)
+2. Three deep-read books within that area (the reading list)
+3. Reference harvesting during reading — passages, facts, sources filed in `references/`
+4. Connectivity ideas brought back to the dissertation scaffolding
+
+Five semesters of this cascade should produce a dissertation-level evidence base. Semester topics aren't predetermined — they follow the evidence within the three-lens frame. See `semester-1.md` for the current term.
+
+## Alpha and Beta Chats
+
+Dave works with two Claude interfaces, named via NATO phonetic alphabet (for voice-to-text reliability):
+
+- **Alpha (Claude Code)** — This interface. Research assistant for the dissertation. Finds new things: sources, cross-references, connections to the argument. Files references, updates chapter stubs, maintains the project scaffolding.
+- **Beta (Claude for iOS app)** — Seminar partner. Dave listens to lectures and audiobooks, then discusses what he's hearing in real-time Beta conversations. Exploratory, stream-of-consciousness, working with already-synthesized material.
+
+The naming follows investment logic: Alpha = the original edge (new discovery). Beta = the baseline (working with existing synthesis).
+
+When Dave arrives in an Alpha session, he's coming from Beta with ideas that need to be filed, sourced, and connected to the big picture. Don't rehash the seminar — help him build the dissertation.
+
 ## Editorial Principles
 
 - **Probabilistic language, always.** This is statistics, not determinism. Geography shapes distributions, not outcomes.
