@@ -11,7 +11,7 @@ Before Peter the Great, Russia was already pushing south and east, blocking know
 - Russia was setting up toll stations to control nomadic routes
 - The nomads didn't want sedentary life — they knew it existed, they just didn't want it
 - Their culture was fundamentally different, shaped by the geography they'd lived in for millennia
-- A steppe leader (name TBD from Tasar) was harsh toward other steppe peoples who wouldn't join his rebellion — same dynamic as Tecumseh
+- **Kenesary Qasymov** — grandson of Ablai Khan, assembled 20,000–50,000 men across the three Kazakh hordes, attacked Russian forts and caravans, was harsh toward other steppe peoples who wouldn't join. Killed in 1847 not by the Russians but by Kyrgyz who viewed him as a brigand. Same dynamic as Tecumseh.
 
 ## Why this matters
 
@@ -21,5 +21,5 @@ Also demonstrates that the sedentary/nomadic clash was not about ignorance — t
 
 ## To resolve
 
-- Which specific leader/rebellion is Tasar describing? (Get the name from further listening or the PDF study guide)
+- ~~Which specific leader/rebellion is Tasar describing?~~ **Resolved: Kenesary Qasymov** (via Tasar PDF study guide)
 - Cross-reference with Khodarkovsky, *Russia's Steppe Frontier* if acquired

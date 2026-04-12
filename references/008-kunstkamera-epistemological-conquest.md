@@ -4,6 +4,8 @@
 **Type:** passage
 **Relevant to:** Chapter 6 (Parallel Conquests — narrative descent), Chapter 1 (The Distribution — epistemological depth)
 
+**STATUS: Deprioritized.** The Kunstkamera skull detail is color about colonial brutality, not structural evidence. The specific identity of the head is unverified and may not be worth chasing. The real parallel is Kenesary Qasymov ↔ Tecumseh (see refs 004, 005, 006). This card is retained for the epistemological-conquest concept ("the empire taxonomizes you") which may still be useful, but the specific Kunstkamera scene may get cut.
+
 ## Content
 
 Peter the Great crushes a steppe rebellion, defeats the resistance leader, and sends the severed head back to St. Petersburg to be displayed in the Kunstkamera — Russia's first public museum, Peter's curiosity cabinet of natural specimens, anatomical oddities, and ethnographic artifacts.
@@ -29,6 +31,6 @@ This operates on three levels simultaneously:
 ## Sources to find
 
 - Kunstkamera history and Peter's ethnographic collecting (possibly Asen Kirin, *Exotica: Fabricating a Wunderkammer*, or direct museum scholarship)
-- The specific steppe leader whose head was sent to St. Petersburg (identify from Tasar's lecture or PDF study guide)
+- ~~The specific steppe leader whose head was sent to St. Petersburg~~ **Resolved: Kenesary Qasymov** — though note: verify whether it was specifically Kenesary's head or another leader's. The Kunstkamera detail and the Kenesary rebellion may be separate events that we conflated. (Evidence-strength check.)
 - NAGPRA and the history of Native American remains in U.S. institutions as parallel (possibly Kathleen Fine-Dare, *Grave Injustice: The American Indian Repatriation Movement and NAGPRA*, 2002)
 - Michel Foucault's work on classification as power (*The Order of Things*, 1966) — if we want the theoretical vocabulary, though we may not need it; the image speaks for itself

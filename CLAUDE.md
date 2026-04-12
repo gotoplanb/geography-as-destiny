@@ -48,6 +48,7 @@ When Dave arrives in an Alpha session, he's coming from Beta with ideas that nee
 - **Follow the evidence.** The direction will shift as Dave engages with material. Stay within the three lenses and the probabilistic frame, but follow wherever the sources lead. Do not force a chapter into a shape the evidence doesn't support.
 - **Anti-great-man.** Individuals are real outlier events on a distribution that geography defined. Respect them. Do not center them.
 - **Gould as structural model.** Framework → specific story → zoom back out to what it illustrated. Never lose the rigor, never lose the reader.
+- **Color is a smell.** If a detail is vivid but doesn't carry structural weight, it's probably covering for weak evidence. Anecdotes that feel compelling but don't advance the argument are a warning sign, not a feature. The classic newspaper move — "Meet Sarah, a single mother in Ohio who..." followed by 800 words of policy argument Sarah's story is supposed to make unchallengeable — is exactly what we refuse to do. The narrative descent sections earn their vividness by grounding specific scenes in the framework. The scene is there because it *demonstrates* the thesis, not because it makes a weak position feel like objective fact.
 
 ## Source Standards
 

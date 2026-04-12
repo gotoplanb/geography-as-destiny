@@ -33,9 +33,19 @@ This may be the single cleanest illustration of the thesis in the entire book. S
 
 Recurring archetype: the brilliant unifier who emerges at the moment of existential threat, correctly diagnoses that fragmentation = defeat, achieves unprecedented unity, and still loses because the structural differential is too large.
 
-Instances: Tecumseh, Sitting Bull, Vercingetorix, Boudicca, unnamed steppe leader from Tasar's lecture on pre-Petrine rebellions.
+Instances: Tecumseh, Sitting Bull, Kenesary Qasymov (Kazakh, killed 1847), Vercingetorix, Boudicca.
 
 Every instance validates the thesis. The best possible individual, executing the optimal strategy, still can't shift the distribution. See `references/005-tecumseh-pattern-archetype.md`.
+
+---
+
+## The Diamond Inversion — Nomadism as Rational Optimization (from Beta seminar, 2026-04-12)
+
+Diamond's continental axis argument cuts both ways. Eurasia's east-west axis explains why agriculture spread. North America's north-south axis explains why nomadism was the *rational optimization* — you can migrate seasonally without needing granaries. The buffalo economy was more productive than agriculture given the terrain. Sedentary life would have been irrational.
+
+This reframes the conquest: the railroad + buffalo destruction isn't just military victory — it's the deliberate destruction of a rational geographic optimization. Same structural move as Russia's cotton monoculture replacing Central Asian pastoral economies. The empire rewrites the space's economic logic.
+
+Same geographic variable (axis), same framework (Diamond's), opposite conclusion depending on what the terrain rewards. That's the probabilistic frame outperforming Diamond's binary one. See `references/010-plains-nomadism-rational-optimization.md`.
 
 ---
 
