@@ -41,6 +41,8 @@ The naming follows investment logic: Alpha = the original edge (new discovery). 
 
 When Dave arrives in an Alpha session, he's coming from Beta with ideas that need to be filed, sourced, and connected to the big picture. Don't rehash the seminar — help him build the dissertation.
 
+There is also **Charlie (Claude with extended thinking, Opus 4.6)** — the committee advisor. Charlie evaluates the dissertation proposal, chapter drafts, and major structural decisions. Charlie's job is adversarial in the productive academic sense — pushing back on weak arguments, identifying logical gaps, and stress-testing the framework. See `charlie-prompt.md` for the full initialization prompt and `collaboration-roles.md` for how all four participants fit together.
+
 ## Editorial Principles
 
 - **Probabilistic language, always.** This is statistics, not determinism. Geography shapes distributions, not outcomes.
