@@ -49,6 +49,20 @@ Same geographic variable (axis), same framework (Diamond's), opposite conclusion
 
 ---
 
+## Empire Is the Constant. Friction Is the Variable. (from Beta seminar, 2026-04-13)
+
+The parallel conquests aren't a unique phenomenon — they're the fourth friction regime in a progression that goes back to the first empires. The will to expand is the constant. The technology that determines *how far* and *what kind* of administration is the variable.
+
+Four regimes: (1) overland corridors, (2) sail (low friction, high latency → autonomous extraction), (3) telegraph (information friction collapses → responsive admin), (4) railroad (physical friction collapses → interior accessible).
+
+The East Coast colonies existed 200+ years before westward expansion. Not because nobody wanted to go west — because the friction hadn't collapsed yet. The boat gets you across the ocean but not across the continent.
+
+Key insight: the *administrative model* follows the friction type, not the culture of the colonizer. High latency → abuse (feedback loop too slow to correct). This reframes colonial cruelty as structural, not cultural.
+
+See `references/013-empire-constant-friction-variable.md`.
+
+---
+
 ## Pre-Railroad Pressures (from Tasar lecture, 2026-04-12)
 
 The conquest didn't start with the railroad. Russia was already pushing south, taxing nomadic routes, setting up toll stations. The nomads were already resisting — and their resistance leaders were already harsh toward those who wouldn't join. The pattern was set before Peter, before rail. The railroad made it inevitable rather than merely likely. See `references/006-pre-petrine-nomadic-taxation-rebellions.md`.
