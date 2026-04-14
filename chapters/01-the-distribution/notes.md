@@ -6,6 +6,14 @@
 
 "Geography as destiny — unless someone else's technology collapses your geography first."
 
+"The river runs a model with ten thousand variables and a 0.97 R-squared. We call it a problem to be solved."
+
+"You're not replacing the model. You're improving the R-squared."
+
+"The river has more information than the engineer."
+
+"Great men are high-leverage draws from a loaded distribution."
+
 ## The Eugenics Reductio (candidate Chapter 1 opening)
 
 If you reject the geographic explanation, the only alternative is the racist one. The intelligence was identical. The incentive structure was different. This isn't just an interesting framework — it's the *necessary* one unless you're willing to be a eugenicist.
