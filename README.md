@@ -28,14 +28,26 @@ The human does the reading. The human forms the interpretations. The human makes
 
 ### What's in the repo
 
-- **`geography-as-destiny-seed.md`** — The original seed document, captured via voice-to-text on a walk in Gainesville, FL
-- **`table-of-contents.md`** — Full chapter structure with summaries
-- **`prologue.md`** — On method: how and why this was written the way it was
-- **`semester-1.md`** — The current term's syllabus: lecture series, three books, and focus questions
-- **`chapters/`** — Chapter stubs with source references, argument scaffolding, and working notes
-- **`literature-review/`** — One file per source: what it argues, what we use it for, key excerpts, limitations, and connections to other sources
-- **`references/`** — Harvested passages and data points filed as encountered during reading
-- **`CLAUDE.md`** — Working instructions for the AI collaborator: editorial standards, drafting workflow, voice and tone guidelines
+#### Drafts in progress
+- **[`prologue.md`](prologue.md)** — On method: the river metaphor, the R-squared framing, Shannon, and why human-AI collaboration is scholarship *(draft — in review)*
+- **[`chapters/01-the-distribution/draft.md`](chapters/01-the-distribution/draft.md)** — Chapter 1: the three lenses, the great man reframe, falsifiability, and the Parallel Conquests preview *(draft — in review)*
+
+#### Project scaffolding
+- **[`geography-as-destiny-seed.md`](geography-as-destiny-seed.md)** — The original seed document, captured via voice-to-text on a walk in Gainesville, FL
+- **[`table-of-contents.md`](table-of-contents.md)** — Full chapter structure with summaries
+- **[`dissertation-proposal.md`](dissertation-proposal.md)** — Formal proposal submitted to Charlie (committee advisor)
+- **[`collaboration-roles.md`](collaboration-roles.md)** — How Dave, Alpha, Beta, and Charlie work together
+- **[`visualizations.md`](visualizations.md)** — Planned graphs, distributions, and interactive maps
+
+#### Semester materials
+- **[`semester-1.md`](semester-1.md)** — Completed: Tasar's Central Asian history, Morrison, Starr, Hämäläinen
+- **[`semester-2.md`](semester-2.md)** — Next: Hansen's Silk Road, Frankopan, Starr, Rogers
+
+#### Research
+- **[`chapters/`](chapters/)** — Chapter stubs with source references, argument scaffolding, and working notes
+- **[`literature-review/`](literature-review/)** — One file per source: what it argues, what we use it for, key excerpts, limitations, and connections
+- **[`references/`](references/)** — 33 harvested reference cards filed during semester 1
+- **[`CLAUDE.md`](CLAUDE.md)** — Working instructions for the AI collaborator
 
 ## Challenge the evidence
 
@@ -51,7 +63,7 @@ If you can break the thesis, the thesis deserved to break.
 
 ## Status
 
-Semester 1. Listening to Eren Tasar's *Crossroads of Civilization* (Central Asian history). Reading Morrison, Starr, and Hämäläinen. Building the evidence base for the Parallel Conquests and Timurid Paradox chapters.
+Semester 1 complete. Semester 2 starting. Prologue and Chapter 1 drafted and in review. 33 reference cards harvested. Dissertation proposal submitted to Charlie (committee advisor) for adversarial review.
 
 ---
 

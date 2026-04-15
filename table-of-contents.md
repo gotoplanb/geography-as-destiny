@@ -4,21 +4,19 @@
 
 ---
 
-## Prologue: On Method
-How this book was made, why it was made this way, and what that implies about the future of synthesis. The tool is new. The dynamic is ancient.
+## [Prologue: On Method](prologue.md)
+How this book was made, why it was made this way, and what that implies about the future of synthesis. The river metaphor, the R-squared framing, Shannon, and the correction loop that proves the method works. *(Draft — in review)*
 
 ---
 
 ## Part I: The Framework
 
-### Chapter 1: The Distribution
+### [Chapter 1: The Distribution](chapters/01-the-distribution/draft.md)
 *Geography as probability, not destiny*
 
-The core thesis laid out with precision. Geography does not determine outcomes — it sets the probability distribution of outcomes. Rivers, terrain, climate, and resources define the ceiling and floor. Humans are the variable within that range. Technology is the occasional elevator that shifts the floor upward permanently.
+The three lenses (geographic determinism, friction collapse, diffusion) unified by Shannon's information theory. The eugenics reductio — why the geographic explanation is necessary, not optional. The river as thermodynamic framework. The Nile/Amazon/Volga triptych and the Inca rotation. The great man reframe — high-leverage draws from a loaded distribution, illustrated by the Peter/Tecumseh mirror. Falsifiability conditions. Previews the Parallel Conquests as the thesis demonstrated at scale. *(Draft — in review)*
 
-Introduces the three lenses (geographic determinism, friction collapse, diffusion) and the statistical language that governs the rest of the book. Establishes why the great man theory fails a basic replication test. Previews the parallel conquests as the thesis demonstrated.
-
-**Narrative descent:** The view from the Pamir Knot — standing at the hinge of Eurasia, where Afghanistan, Tajikistan, and China meet. Every direction leads to a different civilization. This single point of terrain explains more about world history than any ten kings.
+**Narrative descent:** TBD — candidates include the view from the Pamir Knot, parallel farmers in two river valleys, or two merchants in chokepoint economies.
 
 ---
 
