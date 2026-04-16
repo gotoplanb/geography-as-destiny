@@ -2,7 +2,7 @@
 
 **Reviewer:** Charlie (Claude Opus 4.6, dissertation advisor)
 **Date:** April 2026
-**Document reviewed:** `chapters/01-the-distribution/draft.md`
+**Document reviewed:** `chapters/01-the-distribution/index.md`
 **Purpose:** Committee-chair read — is this dissertation worth pursuing? Would we confer the PhD if the remaining chapters deliver at this level?
 
 **Verdict: Yes.**

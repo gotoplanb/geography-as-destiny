@@ -11,7 +11,7 @@ How this book was made, why it was made this way, and what that implies about th
 
 ## Part I: The Framework
 
-### [Chapter 1: The Distribution](chapters/01-the-distribution/draft.md)
+### [Chapter 1: The Distribution](chapters/01-the-distribution/index.md)
 *Geography as probability, not destiny*
 
 The three lenses (geographic determinism, friction collapse, diffusion) unified by Shannon's information theory. The eugenics reductio — why the geographic explanation is necessary, not optional. The river as thermodynamic framework. The Nile/Amazon/Volga triptych and the Inca rotation. The great man reframe — high-leverage draws from a loaded distribution, illustrated by the Peter/Tecumseh mirror. Falsifiability conditions. Previews the Parallel Conquests as the thesis demonstrated at scale. *(Draft — in review)*
@@ -138,8 +138,19 @@ Brief. The thesis restated not as argument but as observation. Geography held. T
 ## Notes on Sources and Method
 How the research was conducted. What the AI contributed. What the human contributed. Full transparency, not as apology but as demonstration.
 
+## Appendix: Speculative Connections and Future Research
+
+Patterns the framework generates that current evidence does not yet confirm. Each entry states: the framework predicts X, the available evidence is Y, future research in Z might resolve this. These are specific, testable predictions — not vague gestures at "more work is needed." They constitute a research agenda that any reader with the right expertise can pick up.
+
+First candidate: the Tarim mummies → Caspian steppe migrations → Bronze Age Collapse chain.
+
+---
+
+## Notes on Sources and Method
+How the research was conducted. What the AI contributed. What the human contributed. Full transparency, not as apology but as demonstration.
+
 ---
 
 *Estimated length: 80,000–100,000 words*
-*Format: 8 chapters + prologue + epilogue*
+*Format: 8 chapters + prologue + epilogue + appendix*
 *Structure: fractal (essay → narrative → diffusion) within each chapter*

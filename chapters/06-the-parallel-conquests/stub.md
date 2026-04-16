@@ -1,3 +1,11 @@
+---
+title: "Chapter 6: The Parallel Conquests"
+subtitle: "Same shock, same result, opposite sides of the planet"
+status: stub
+order: 6
+part: "Part IV: The Collapse of Friction"
+---
+
 # Chapter 6: The Parallel Conquests
 ### *Same shock, same result, opposite sides of the planet*
 
