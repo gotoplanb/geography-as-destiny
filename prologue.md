@@ -9,7 +9,29 @@ order: 0
 
 ---
 
-This book was written by a human and a machine. If that sentence makes you want to stop reading, this prologue is for you.
+History is written by the winners. Everyone knows this. Almost nobody follows the implication to its conclusion.
+
+If history is written by the winners, then the history we have is a sender-side artifact — a transmission designed by the people it celebrates, encoded in the language and categories that serve their purposes, amplified across centuries by the institutions they built. The receiver side — the conquered, the displaced, the peoples whose optimization for their terrain was destroyed by someone else's technology — is almost entirely silence.
+
+Alexander the Great understood this before anyone. He took a historian with him on campaign — Callisthenes, tasked with writing the biography in real time. Alexander was not merely conquering geography. He was engineering his own transmission. He wanted the signal to encode *Alexander*, not Greece, not Macedonia. He designed the narrative technology that made great man history possible, and every great man history written since is downstream of that original encoding decision.
+
+The Great Man Theory of history is not just analytically limited. It is a deliberate artifact, constructed by the first man who understood that controlling the narrative was as important as winning the battle.
+
+This book reads the channel instead.
+
+---
+
+Geography does not have survivor bias. The terrain is the same whether the empire won or lost. The river valley that funneled climate refugees into the conditions that produced agriculture does not care which civilization claims to have invented farming. The steppe that sustained nomadic cultures for four thousand years does not care which empire claims to have civilized it. The chokepoint that concentrates trade does not care which merchant writes the history of commerce.
+
+By reading the geography rather than the narrative, you bypass the transmission bias embedded in every sender-side history. You hear the signal that the winners didn't encode — the signal that was always there, written in terrain, climate, and the thermodynamic pressures that push populations toward equilibrium the way gravity pushes water downhill.
+
+We did not invent agriculture. We survived agriculture. The populations that could not adapt to the constraints imposed when desertification funneled them into river valleys are not here to tell their side. The story we tell — that farming was a great invention, that civilization was progress, that settlement was chosen — is the winner's transmission. The geographic record tells a different story: agriculture was a constraint response, adopted reluctantly when climate removed the alternative. The river valley did not offer civilization as a gift. It imposed civilization as the only remaining option.
+
+This book tries to hear what the terrain has been saying all along.
+
+---
+
+It was written by a human and a machine. If that sentence makes you want to stop reading, this prologue is for you.
 
 A large language model has read more history than any living historian. It has not understood any of it. Understanding requires a framework — a way of deciding what matters, what connects, and what the weight of evidence actually implies. Frameworks come from humans who have spent years holding two ideas in tension until a third one emerges from the gap.
 
@@ -49,7 +71,7 @@ The metaphor works because the thing it describes is the thing it is made of. Wa
 
 A word about models.
 
-Previous approaches to geographic history have run models with limited variables. Great man history explains visible actors and ignores everything else — an R-squared of perhaps 0.2. Jared Diamond's geographic determinism adds terrain and ecology and improves the picture considerably, but treats geography as static and outcomes as binary — you had agriculture or you didn't. Ian Morris quantifies geographic advantage over time but stays at the continental scale.
+Previous approaches to geographic history have run models with limited variables. Great man history explains visible actors and ignores everything else — an R-squared of perhaps 0.2, and a model that was designed by its own subject to produce exactly that result. Jared Diamond's geographic determinism adds terrain and ecology and improves the picture considerably, but treats geography as static and outcomes as binary — you had agriculture or you didn't. Ian Morris quantifies geographic advantage over time but stays at the continental scale.
 
 This book is not replacing those models. It is adding the variables they left out. Friction collapse — the punctuated equilibria when technology suddenly makes geographic constraints irrelevant — is an omitted variable in Diamond. The diffusion dynamics that determine how change actually propagates through populations — Everett Rogers' S-curves and adopter categories — are omitted variables in everyone. Claude Shannon's information theory, which shows that the outcome of any transmission depends on the receiver's decoding and the noise in the channel, not on the sender's intention — is an omitted variable in every history that explains colonial failure as incompetence rather than as a structural mismatch between the model and the system.
 
@@ -81,4 +103,4 @@ It is trying to be good. That is the only thing it is trying to be.
 
 ---
 
-*The tool is new. The dynamic is ancient. The river is old. Turn the page.*
+*The tool is new. The dynamic is ancient. The river is old. The terrain is patient. Turn the page.*
