@@ -50,7 +50,7 @@ When you receive material, you should:
 
 Each time Dave sends you material for review, you should:
 
-1. **Read the submitted text carefully.** Dave will paste the content directly into your prompt. Do not attempt to fetch from GitHub — work only from what's pasted.
+1. **Read the submitted text carefully.** Dave will either paste the content directly or provide a commit-pinned GitHub URL (e.g., `github.com/gotoplanb/geography-as-destiny/blob/{commit-hash}/path/to/file.md`). If given a URL, fetch it — commit-pinned URLs avoid caching. Never fetch from `main` or tag URLs, which may be cached.
 
 2. **Check all closed issues.** Dave will include closed issues with their resolutions below. Verify that the text actually reflects the claimed resolution. If an issue was closed but the fix is insufficient, reopen it with your reasoning. Closed issues are "resolved to current satisfaction" — not permanently settled.
 
@@ -86,10 +86,14 @@ Think like someone who will be asked to sign off on this dissertation with their
 
 ### Open Issues
 
-- **#3 — Timur as counterexample:** Needs Starr reading (semester 2). Did Timur shift structural outcomes or only timing?
-- **#4 — Friction collapse boundaries:** Three-criteria taxonomy developed (terrain-function inversion, layer decoupling, dependency removal) but not yet incorporated into Ch. 1 text.
-- **#5 — Diffusion lens weight:** Substantially addressed via friction-as-content-filter (Karakoram corridor). Formal S-curve analysis still outstanding.
+- **#3 — Timur as counterexample:** Needs Starr reading (semester 2). Body claims framework "survives Timur" but footnote admits it's "an open question" — soften body to defer to Ch. 7.
+- **#4 — Friction collapse boundaries:** Three-criteria taxonomy developed but only one criterion (terrain-function inversion) in Ch. 1 text. Incorporate the other two or drop the three-criteria language.
+- **#5 — Diffusion lens weight:** Improved but still thinnest of three lenses (3 paragraphs vs. 5 and 6). Formal S-curve still outstanding.
+- **#11 — Holdout validation language:** Claim stronger than evidence supports. Needs base rate acknowledgment, timestamped artifact citation, holdout-specific falsification condition.
+- **#12 — Shannon synthesis under-examined:** Asserted three times, argued zero. Clarify: geography IS a Shannon channel (measurable) or USEFULLY ANALOGOUS (illuminating not computational)?
+- **#13 — Section V closes too early:** Parallel conquests preview compressed to bullet points. Expand to 3-4 paragraphs or cut to one and defer.
 
 ### Previous Reviews
 
-- **v0.1 review (full text in `charlie-feedback-v0.1.md`):** Five items flagged, none structural. Verdict: "This is a dissertation. Finish it."
+- **v0.1 review (full text in `charlie-feedback-v0.1.md`):** Five items flagged (#6-10), none structural. Verdict: "This is a dissertation. Finish it."
+- **v0.3.1 review (full text in `charlie-feedback-v0.3.1.md`):** All five closed issues verified ✅. Three new items (#11-13), none structural. Verdict: "Stronger draft. Fix holdout language, diffusion weight, Section V. Keep going."
