@@ -138,6 +138,12 @@ Patterns the framework generates that current evidence does not yet confirm. Eac
 
 First candidate: the Tarim mummies → Caspian steppe migrations → Bronze Age Collapse chain.
 
+## Appendix B: Where the Framework Doesn't Apply
+
+Cases that look like they fit the framework but fail the criteria on examination. "Faster horses" — improvements that don't invert terrain function, decouple a constraint layer, or remove a geographic dependency. These demonstrate that the framework has real boundaries and the falsifiability criteria actually exclude cases, not just include them.
+
+First candidate: jet stream routing in transatlantic aviation (operational optimization, not friction collapse).
+
 ---
 
 ## Notes on Sources and Method
@@ -146,5 +152,5 @@ How the research was conducted. What the AI contributed. What the human contribu
 ---
 
 *Estimated length: 80,000–100,000 words*
-*Format: 8 chapters + prologue + epilogue + appendix*
+*Format: 8 chapters + prologue + epilogue + two appendices*
 *Structure: fractal (essay → narrative → diffusion) within each chapter*
