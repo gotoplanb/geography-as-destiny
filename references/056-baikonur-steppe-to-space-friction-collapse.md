@@ -1,6 +1,6 @@
 # Baikonur — The Steppe That Became a Launchpad
 
-**Source:** Conversation with a Kazakh immigrant at Dave & Buster's, Jacksonville, FL, 2026-04-17; Beta seminar discussion
+**Source:** Conversation with Rusian Imadiyev (Kazakh immigrant) at Dave & Buster's, Jacksonville, FL, 2026-04-17; Beta seminar discussion
 **Type:** connection
 **Relevant to:** Chapter 8 (Synthesis Frontier — modern friction collapse), Epilogue, ref 013 (friction regimes)
 
@@ -18,7 +18,7 @@ Same terrain. Two technologies. Two inversions of its function. The steppe went 
 
 This extends the friction-collapse timeline beyond the book's current scope into the space age. The fifth friction regime: rocketry collapses the friction of gravity itself. The steppe's geographic characteristics (flat, empty, southern latitude) were irrelevant to nomads, useful to railroads, and essential to rockets. Each technology re-evaluated the same terrain and found a different value.
 
-Also: contributed by a Kazakh immigrant in a casual conversation. The framework is generative enough that people who live the geography recognize the pattern without any academic framing. Same as George Stanton (ref 042) applying it to Japan on first read.
+Also: contributed by Rusian Imadiyev in a casual conversation. The framework is generative enough that people who live the geography recognize the pattern without any academic framing. Same as George Stanton (ref 042) applying it to Japan on first read.
 
 ## Editorial note
 
