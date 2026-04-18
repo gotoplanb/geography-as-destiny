@@ -29,3 +29,9 @@ The specific prisoner-of-war mechanism is widely repeated but the primary eviden
 - The *where* and *when* are high-confidence. The *exactly how* (prisoner, trade, both) is detail, not structure.
 
 The specific POW story is color. The civilizational contact at a geographic chokepoint producing technology transfer is the evidence. Don't build the argument on the anecdote when the structural claim is stronger.
+
+## Friction-Filter Confirmation (added 2026-04-17)
+
+The Battle of Talas occurred in the Talas River valley (modern Kyrgyzstan), northwest of the Tian Shan — solidly on the northern route. Paper diffused westward along the northern route exactly as the friction-filter model (ref 052) predicts. Paper is bulky, fragile, needs moisture protection — relatively low value by weight. Only viable on the low-friction northern corridor with established relay stations and Sogdian networks. Would never have survived the Karakoram filter.
+
+**Bidirectional flow — another sender-side erasure:** The name "Silk Road" captures only westward silk. Cotton moved *east* into China, eventually becoming a major Chinese crop. The corridor carried things in both directions. The name only captures one. "Silk Road" is Richthofen's sender-side encoding (ref 036) hiding bidirectional flow in a unidirectional label.
