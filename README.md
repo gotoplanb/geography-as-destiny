@@ -31,6 +31,7 @@ The human does the reading. The human forms the interpretations. The human makes
 #### Drafts in progress
 - **[`prologue.md`](prologue.md)** — On method: the river metaphor, the R-squared framing, Shannon, and why human-AI collaboration is scholarship *(draft — in review)*
 - **[`chapters/01-the-distribution/index.md`](chapters/01-the-distribution/index.md)** — Chapter 1: the three lenses, the great man reframe, falsifiability, and the Parallel Conquests preview *(draft — in review)*
+- **[`chapters/08-the-synthesis-frontier/index.md`](chapters/08-the-synthesis-frontier/index.md)** — Chapter 8: the correction loop, holdout validation, canal vs. river, process as evidence *(draft — in review)*
 
 #### Project scaffolding
 - **[`geography-as-destiny-seed.md`](geography-as-destiny-seed.md)** — The original seed document, captured via voice-to-text on a walk in Gainesville, FL

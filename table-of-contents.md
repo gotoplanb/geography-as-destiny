@@ -114,18 +114,12 @@ Sub-argument: while Europe was in the Dark Ages, the Central Asian corridor was 
 
 ## Part V: The Meta-Argument
 
-### Chapter 8: The Synthesis Frontier
+### [Chapter 8: The Synthesis Frontier](chapters/08-the-synthesis-frontier/index.md)
 *AI, friction collapse, and the future of scholarship*
 
-The book's own creation as the final case study. AI as the latest friction collapse — not of physical geography, but of synthesis friction. The same dynamic that the railroad applied to the steppe, large language models apply to the accumulated corpus of human knowledge.
+The book's own creation as the final case study. The correction loop (Sitting Bull → Tecumseh). The holdout validation (predicting Hansen's material from Tasar's framework). The canal versus the river (two dissertations, two incentive structures, same human). The process trail as unprecedented scholarly transparency. The large language model as the latest friction collapse — applied to synthesis rather than terrain.
 
-A human with a 20-year framework. An AI with access to the breadth of scholarship. The narrow crevice found together that neither finds alone. This is what academics have always done — the footnote is an institutionalized acknowledgment that you're building on someone else's thinking. The tool changed. The dynamic didn't.
-
-History will be one of the last disciplines to accept this. It sits at the laggard end of Rogers' diffusion curve. This book exists in the window before that normalizes.
-
-**No narrative descent in this chapter.** The narrative is the book itself. The reader has already lived it.
-
-**Diffusion analysis:** Where AI-assisted scholarship sits on the Rogers curve right now. Who the early adopters are (not historians). What the resistance mechanisms look like (legitimate and otherwise). What the S-curve probably looks like. A prediction the reader can check.
+**No narrative descent in this chapter.** The narrative is the book itself. The reader has already lived it. *(Draft — in review)*
 
 ---
 
