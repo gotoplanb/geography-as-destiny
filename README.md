@@ -62,9 +62,24 @@ We use the `evidence-strength` label for these. You don't need to add the label 
 
 If you can break the thesis, the thesis deserved to break.
 
+## Run your own committee review
+
+This project uses an AI committee advisor (Charlie) for adversarial evaluation of each draft. The full review protocol — role definition, core claims, review instructions, issue tracking, and review history — is in **[`charlie-prompt.md`](charlie-prompt.md)**.
+
+If you want to replicate the review process yourself:
+
+1. Open a new Claude session (Opus 4.6 or later, with extended thinking if available)
+2. Paste the contents of [`charlie-prompt.md`](charlie-prompt.md) as the system prompt
+3. Provide the chapter text — either pasted directly or via a commit-pinned GitHub URL (use the full commit hash, not `main`, to avoid caching)
+4. Charlie will verify closed-issue resolutions, assess open issues, and flag new weaknesses
+
+The prompt is a living document that gets updated after each review cycle. It carries the full project context — what's been resolved, what's still open, what previous reviews found. A fresh Claude instance with this prompt and the chapter text has everything it needs to do a rigorous committee review.
+
+Anyone can play committee advisor. If your review finds something ours missed, [open an issue](https://github.com/gotoplanb/geography-as-destiny/issues).
+
 ## Status
 
-Semester 1 complete. Semester 2 starting. Prologue and Chapter 1 drafted and in review. 33 reference cards harvested. Dissertation proposal submitted to Charlie (committee advisor) for adversarial review.
+Semester 2 in progress. Three chapters drafted (Prologue, Chapter 1, Chapter 8). 55 reference cards harvested. Two committee reviews completed with all initial issues resolved and three new issues identified. Six open issues, none structural.
 
 ---
 
