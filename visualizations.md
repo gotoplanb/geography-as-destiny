@@ -73,6 +73,11 @@ Andes cross-section showing altitudinal zones — potatoes, maize, coca, tropica
 
 **Analytical question:** How does vertical resource density substitute for horizontal river distribution?
 
+### 12. The Universal River Settlement Gradient
+Stylized river cross-section from headwaters to delta with settlement density curve overlaid. Headwaters = high energy, erosive, sparse (chokepoints only). Middle = moderating, early settlement. Floodplain = depositional, dense agriculture, cities. Delta = maximum fertility, highest density. Applicable to every major river civilization simultaneously.
+
+**Analytical question:** Does energy dissipation rate predict settlement density along any river?
+
 ---
 
 ## Design Principles
