@@ -34,6 +34,16 @@ This zone should be predictable from physics alone, before looking at a single a
 
 4. **Existing public data.** SRTM elevation data + archaeological databases + standard hydrology = a motivated graduate student with GIS skills could run this. The analysis doesn't require new fieldwork or proprietary data.
 
+## Asymmetry Prediction (added via pilot's lift-to-drag analogy)
+
+The Goldilocks zone is an optimization of a ratio, not a single variable — analogous to best glide speed in aviation, where lift-to-drag ratio is maximized. Not maximum flow (headwaters = too erosive) or minimum flow (delta = too flat). The optimal relationship between energy availability and energy manageability.
+
+**Specific prediction:** The settlement distribution should be asymmetric. The cost of being too far upstream (erosion, flooding, steep terrain) is more immediately catastrophic than being too far downstream (waterlogging, flood management challenges that degrade gradually). This should show up in the archaeological record as:
+- **Hard upstream boundary** — sites cluster sharply above a certain gradient threshold
+- **Soft downstream boundary** — sites diffuse gradually below it
+
+Testable from the same SRTM + archaeology data. If the asymmetry holds across multiple river systems, it's a second-order confirmation that the model captures the actual physics, not just a vague correlation.
+
 ## Evidence-strength note
 
 This is a prediction, not a result. We haven't run the analysis. Filing it as a testable hypothesis the framework generates. If we run it and it fails, that's important data about the framework's limits. If it succeeds, it's the strongest quantitative evidence in the book. Either way, stating the prediction before running the test is methodologically correct (holdout logic, ref 055).
