@@ -31,7 +31,10 @@ The human does the reading. The human forms the interpretations. The human makes
 #### Drafts in progress
 - **[`prologue.md`](prologue.md)** — On method: the river metaphor, the R-squared framing, Shannon, and why human-AI collaboration is scholarship *(draft — in review)*
 - **[`chapters/01-the-distribution/index.md`](chapters/01-the-distribution/index.md)** — Chapter 1: the three lenses, the great man reframe, falsifiability, and the Parallel Conquests preview *(draft — in review)*
-- **[`chapters/02-the-river-spine/index.md`](chapters/02-the-river-spine/index.md)** — Chapter 2: the thermodynamic river model, settlement gradient, Goldilocks zone, class structure, counter-cases *(draft — in review)*
+- **[`chapters/02-the-river-spine/index.md`](chapters/02-the-river-spine/index.md)** — Chapter 2: the thermodynamic river model, settlement gradient, Goldilocks zone, class structure *(draft — in review)*
+- **[`chapters/03-the-chokepoint/index.md`](chapters/03-the-chokepoint/index.md)** — Chapter 3: position not wealth, the pulsing frontier, chokepoint economy, peace through irrelevance *(draft — in review)*
+- **[`chapters/04-the-silk-road/index.md`](chapters/04-the-silk-road/index.md)** — Chapter 4: relay network not road, friction filter, maritime corridor, climate pulse, Sogdians *(draft — in review)*
+- **[`chapters/05-the-islamic-diffusion/index.md`](chapters/05-the-islamic-diffusion/index.md)** — Chapter 5: Islam's two curves, Manichaeism as contrast case, boundaries as load-bearing *(draft — in review)*
 - **[`chapters/08-the-synthesis-frontier/index.md`](chapters/08-the-synthesis-frontier/index.md)** — Chapter 8: the correction loop, holdout validation, canal vs. river, process as evidence *(draft — in review)*
 
 #### Project scaffolding
