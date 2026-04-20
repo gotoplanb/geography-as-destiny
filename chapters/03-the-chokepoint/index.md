@@ -17,7 +17,7 @@ Some places matter because of what they contain. River valleys contain fertile s
 
 Chokepoints matter because of where they sit. They contain nothing of intrinsic value — often they are harsh, mountainous, and agriculturally marginal. Their significance is entirely positional: everything that moves between two wealthy regions must pass through them. The chokepoint does not produce. It taxes. It filters. It controls.
 
-Afghanistan is the archetype. Its mountains are among the most inhospitable terrain on Earth. Its arable land is minimal. Its natural resources are modest. And yet it has been invaded more times than almost any territory in history — by Alexander, by the Persians, by the Arabs, by the Mongols, by the British, by the Soviets, by the Americans. Not because anyone wanted what Afghanistan contained, but because everyone needed what Afghanistan connected. It sits between the Indian subcontinent, Central Asia, Iran, and China. Every route between these civilizational spheres passes through or near Afghan territory.
+Afghanistan is the archetype. Its mountains are among the most inhospitable terrain on Earth. Its arable land is minimal. Its natural resources are modest. And yet it has been invaded more times than almost any territory in history — by Alexander, by the Persians, by the Arabs, by the Mongols, by the British, by the Soviets, by the Americans. Not because anyone wanted what Afghanistan contained, but because everyone needed what Afghanistan connected.[^1] It sits between the Indian subcontinent, Central Asia, Iran, and China. Every route between these civilizational spheres passes through or near Afghan territory.
 
 The mountains that make it unconquerable from outside are the same mountains that make it ungovernable from inside. The terrain fragments internal politics into valley fiefdoms — each valley is its own defensible unit, loyal to its own leadership, resistant to centralization from any direction. The same geography that makes the chokepoint strategically essential makes it politically incoherent.
 
@@ -31,7 +31,7 @@ Dunhuang sits at a different kind of chokepoint — not a mountain convergence b
 
 It is the last reliable water source before you commit to crossing around the Taklamakan Desert. Once you leave Dunhuang heading west, you are making a consequential geographic choice with no easy reversal — northern route or southern route, each with different friction profiles, different water sources, different risks.
 
-The Jade Gate just west of Dunhuang was the symbolic and administrative frontier of Chinese imperial control. Beyond it lay the Western Regions — nominally under Chinese suzerainty during strong dynasties, effectively independent during weak ones.
+The Jade Gate just west of Dunhuang was the symbolic and administrative frontier of Chinese imperial control.[^2] Beyond it lay the Western Regions — nominally under Chinese suzerainty during strong dynasties, effectively independent during weak ones.
 
 The gate is both literal and metaphorical. It is a chokepoint that functions as a valve — opened by imperial strength, closed by imperial weakness. Chinese power flowed west through it when the dynasty was strong and the water was plentiful. It retreated east when either condition failed.
 
@@ -45,7 +45,7 @@ Dunhuang's significance, like Afghanistan's, is entirely positional. It does not
 
 Gandhara occupies the upper Indus at the corner where Afghanistan and Pakistan meet the mountains. It sits at the confluence of four routes: the Indus headwaters coming from Tibet, the Khyber Pass connecting to Afghanistan and Central Asia, the routes south toward the Indian subcontinent, and the Kashmir corridor heading northeast.
 
-It is the eastern equivalent of Afghanistan as a chokepoint — the place where the Indian subcontinent, Central Asia, and China nearly touch. Three civilizational spheres, one geographic point. Not because anyone built an intersection there but because the terrain permits no other meeting place. The mountains everywhere else are impassable. Gandhara is where the cracks between the mountain ranges align.
+It is the eastern equivalent of Afghanistan as a chokepoint — the place where the Indian subcontinent, Central Asia, and China nearly touch.[^3] Three civilizational spheres, one geographic point. Not because anyone built an intersection there but because the terrain permits no other meeting place. The mountains everywhere else are impassable. Gandhara is where the cracks between the mountain ranges align.
 
 This explains Gandhara's extraordinary history. Alexander reached it — because his eastward expansion followed the only available corridor. The Kushana Empire centered there — because controlling the intersection controlled the trade between all three spheres. Buddhist art hybridized with Greek aesthetics there — because the cultural collision was physically concentrated at that point. Refugees from Gandhara carried their traditions to the Tarim Basin oasis cities — because the mountain route from India to the east passed through their territory.
 
@@ -59,7 +59,7 @@ The river chapter and the chokepoint chapter meet here. The Indus is both — a 
 
 A chokepoint civilization does not produce wealth in the way a river valley civilization does. It extracts it — from the traffic the terrain forces through its position.
 
-The mechanism is visible in the Chinese tributary system at Dunhuang. Sogdian merchants providing pickles, grain, and goods to the Chinese administration — framed as tribute on the Chinese side, experienced as a market-access fee on the Sogdian side. Same transaction, two encodings. The Chinese needed it to look like civilizational hierarchy. The Sogdians needed access to the most lucrative market on Earth. The chokepoint was where the toll was collected — regardless of which narrative framed the transaction.
+The mechanism is visible in the Chinese tributary system at Dunhuang.[^4] Sogdian merchants providing pickles, grain, and goods to the Chinese administration — framed as tribute on the Chinese side, experienced as a market-access fee on the Sogdian side. Same transaction, two encodings. The Chinese needed it to look like civilizational hierarchy. The Sogdians needed access to the most lucrative market on Earth. The chokepoint was where the toll was collected — regardless of which narrative framed the transaction.
 
 This is Shannon applied to imperial diplomacy. The sender encodes tribute. The receiver decodes market access. Which record survives determines which history gets written. The Chinese records are abundant. The Sogdian perspective survives in fragments — merchant letters, commercial documents, the occasional complaint about prices and debts. The sender side dominates the archive. The receiver side is mostly silence.
 
@@ -73,7 +73,7 @@ Not every geographic space between civilizations is a chokepoint. Some are too i
 
 Turkmenistan and the Karakum Desert occupy the space between Iran and the rest of Central Asia. The Karakum is the Sahara of inner Asia — a vast desert with nothing on the other side that cannot be reached more easily by other routes. There is nothing worth controlling through this corridor because there is no traffic to tax, no trade to filter, no connection to monopolize.
 
-Geography produces peace through irrelevance. Nobody invades the Karakum because nobody needs to cross it. The terrain does not funnel traffic — it repels it. The chokepoint's opposite is not the open road. It is the dead end.
+Geography produces peace through irrelevance.[^5] Nobody invades the Karakum because nobody needs to cross it. The terrain does not funnel traffic — it repels it. The chokepoint's opposite is not the open road. It is the dead end.
 
 This is the framework's negative prediction: where terrain creates no chokepoint — where geography offers no positional advantage — there should be no contest. No empires fighting over the space. No strategic significance attached to the territory. No perpetual cycle of invasion and resistance.
 
@@ -87,7 +87,7 @@ The chokepoint creates the contest. The irrelevant terrain creates the peace. Bo
 
 Chokepoints do not merely tax traffic. They filter it. Not everything that approaches the narrowing passes through — and what does pass through is transformed by the compression.
 
-This is the friction-filter principle developed in the previous chapter applied to a specific geographic feature. The chokepoint compresses all traffic through a narrow space and in doing so creates conditions for:
+This is the friction-filter principle developed in the previous chapter applied to a specific geographic feature.[^6] The chokepoint compresses all traffic through a narrow space and in doing so creates conditions for:
 
 **Selection:** Only goods, ideas, and people with sufficient value-to-weight ratio (relative to the crossing difficulty) justify the passage. The Karakoram filters for Buddhism. The Gansu Corridor filters for high-value trade goods. Every chokepoint has a friction threshold that determines its content signature.
 
@@ -105,4 +105,14 @@ The chokepoint does not just transmit. It generates. The creative output of chok
 
 ## Notes
 
-*Endnotes to be added after review. Key reference cards: 035, 037, 043, 053, 062, 068.*
+[^1]: Afghanistan's invasion history and its geographic explanation (position rather than intrinsic value) is widely documented. The specific framing — "unconquerable from outside and ungovernable from inside simultaneously" as a single geographic feature producing two effects — is our synthesis.
+
+[^2]: On Dunhuang and the Jade Gate as the administrative frontier of Chinese imperial control: Valerie Hansen, *The Silk Road: A New History* (Oxford: Oxford University Press, 2012), chapters 1–4. The "pulsing frontier" concept — imperial power flowing west during strong dynasties and retreating during weak ones, correlated with climate — emerged from our semester 2 seminar discussion. See [ref 043](../../references/043-dunhuang-jade-gate-chokepoint.md).
+
+[^3]: On Gandhara's position at the intersection of four routes: the geographic characterization draws on Hansen and on the Tarim Basin archaeological literature. The framing of Gandhara as "the eastern equivalent of Afghanistan as a chokepoint" and the observation that the Indus produces different civilization types at different points along its gradient are our synthesis. See [ref 068](../../references/068-indus-headwaters-vs-floodplain-gandhara-chokepoint.md).
+
+[^4]: On the Chinese tributary system as dual encoding: Tasar, *Crossroads of Civilization*, lectures 17–19. The Shannon framing — same transaction producing two different signals depending on the encoder (Chinese: tribute; Sogdian: market access fee) — is our synthesis. See [ref 053](../../references/053-tributary-system-sender-receiver-encoding.md).
+
+[^5]: The "peace through irrelevance" principle — that terrain producing no chokepoint generates no contest — is stated as a falsifiable prediction. The Karakum Desert/Turkmenistan as example. The framework predicts: where no positional advantage exists, no strategic contest should emerge. This can be checked against any map of historical conflict zones and geographic chokepoints.
+
+[^6]: The chokepoint-as-filter principle and the observation that compression produces cultural novelty (Gandharan art as hybrid generated by geographic compression rather than designed) draws on the friction-filter analysis developed in Chapter 4. See [ref 052](../../references/052-karakoram-friction-filter-diffusion-selection.md) and [ref 062](../../references/062-gandharan-buddha-greek-deities-weightless-diffusion.md).
