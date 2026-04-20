@@ -37,6 +37,8 @@ The physics predicts a settlement pattern, and the archaeological record confirm
 
 **Delta:** Maximum deposition, maximum fertility, maximum density. The great urban civilizations cluster here — where the river has fully discharged its energy and the accumulated sediment of the entire watershed creates the richest agricultural substrate on the planet. Memphis on the Nile. Ur and Eridu at the mouth of the Tigris-Euphrates. The Mekong Delta. Every delta is a sediment battery fully discharged.
 
+See [Figure 3: The River Settlement Gradient](../../figures/fig-003-river-settlement-gradient.md).
+
 This gradient is not approximate. It is testable. Take any river system on Earth — the Nile, the Indus, the Yellow River, the Tigris-Euphrates, the Mekong, the Mississippi — and map settlement density against elevation gradient. The pattern should hold: sparse at the headwaters, concentrated at the floodplain and delta, with first-settlement dates earliest in the middle zone.
 
 The pattern should also be asymmetric.[^2] The cost of being too far upstream — erosion, flooding, steep terrain — is more immediately catastrophic than being too far downstream, which degrades more gradually through waterlogging and flood-management challenges. Archaeological sites should cluster with a hard upstream boundary and a softer downstream boundary — a signature of the underlying physics that can be checked against digital elevation models and excavation records without any cultural theory at all.

@@ -61,6 +61,8 @@ Ancient empires expanded along geographic corridors — rivers, valleys, steppe 
 
 Each collapse is a punctuated equilibrium event. The distribution holds. The technology arrives. The distribution resets. The new equilibrium is not the old one.
 
+See [Figure 2: Friction Collapse as Punctuated Equilibrium](../../figures/fig-002-friction-collapse-timeline.md).
+
 Not everything that looks like a friction collapse is one. A faster horse is not a friction collapse. The railroad is. Aviation is not — it changed where people could visit, not where they could live; the terrain beneath the flight path remained geographically operative for everyone on the ground. The distinction matters for the framework's falsifiability, and it reduces to a single test: did the technology change *who the terrain serves*, or did it just help the same people do the same things faster?
 
 The open steppe served nomads for four thousand years — their highway, their strategic depth, their military advantage. The railroad made the same steppe serve the state. That is a friction collapse. A faster camel would have helped the nomads move faster across terrain that still served them. That is an improvement. The test is whether the terrain's function — who it advantages, who it excludes, what kind of civilization it selects for — inverts. If it does, friction has collapsed. If it does not, you merely have a better tool for operating within the existing geographic regime.[^15a]
@@ -94,6 +96,8 @@ Peter the Great is the test case on one end of the distribution. He compressed t
 Tecumseh is the test case on the other end. He extended the timeline of Native resistance by perhaps a generation. His strategy was explicitly geographic and political — he understood that fragmented resistance would be defeated piecemeal by a consolidated empire, and he independently derived the same unification logic the American founders had used.[^27] He was arguably the most strategically brilliant resistance leader of his era. He correctly diagnosed the problem, almost assembled the solution, and still could not overcome the structural differential. The technology gap, the population gap, and the organizational gap behind the expanding empire were too large. Remove Tecumseh and the resistance collapses slightly sooner. The outcome is identical.
 
 Peter and Tecumseh are outliers on opposite tails of the same probability distribution. One is remembered as the great man who built an empire. The other is remembered as the tragic hero who could not save his people. Remove either and the outcome is essentially the same within a generation. The distribution does not notice.[^28]
+
+See [Figure 1: The Great Man as Outlier](../../figures/fig-001-great-man-outlier.md).
 
 This is not a rebuttal of great man theory. It is a reframe. The strong version of great man theory — individuals as uncaused first movers who bend history by pure will — is wrong. But the hard determinist position — that the individual is irrelevant, that another person would have done exactly the same thing — is also wrong. It collapses variance to zero, and that is not how distributions work.[^29]
 
