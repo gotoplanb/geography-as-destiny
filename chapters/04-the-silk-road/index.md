@@ -79,7 +79,8 @@ You could reconstruct the friction level of ancient trade routes purely from the
 
 The mountains selected for Buddhism the same way the Nile selected for grain farmers. Geography as destiny operating on the content of human thought itself.
 
-See [Figure 9: Process Knowledge vs. Commodity Diffusion](../../figures/fig-009-process-vs-commodity-diffusion.md).
+![Process Knowledge vs. Commodity Diffusion](../../figures/output/fig-009-process-vs-commodity-diffusion.png)
+*[Figure 9: Process Knowledge vs. Commodity Diffusion](../../figures/fig-009-process-vs-commodity-diffusion.md)*
 
 ---
 

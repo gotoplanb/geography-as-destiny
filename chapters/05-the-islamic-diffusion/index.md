@@ -67,7 +67,8 @@ The adopter categories are identifiable — though a clarification is necessary.
 
 The gap between political Islam and cultural Islam is the gap between the step function and the S-curve — between the army that arrives in a year and the belief that takes three centuries to fully propagate. The translation projects, the standardized legal codes, the formalized educational institutions — these are the late-majority infrastructure. They exist to serve populations who have been administratively Muslim for generations but are only now culturally adopting the full content of the system.
 
-See [Figure 4: Two Curves for One Religion — and One That Failed](../../figures/fig-004-diffusion-s-curves.md).
+![Two Curves for One Religion — and One That Failed](../../figures/output/fig-004-diffusion-s-curves.png)
+*[Figure 4: Two Curves for One Religion — and One That Failed](../../figures/fig-004-diffusion-s-curves.md)*
 
 ---
 

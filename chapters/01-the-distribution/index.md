@@ -61,7 +61,8 @@ Ancient empires expanded along geographic corridors — rivers, valleys, steppe 
 
 Each collapse is a punctuated equilibrium event. The distribution holds. The technology arrives. The distribution resets. The new equilibrium is not the old one.
 
-See [Figure 2: Friction Collapse as Punctuated Equilibrium](../../figures/fig-002-friction-collapse-timeline.md).
+![Friction Collapse as Punctuated Equilibrium](../../figures/output/fig-002-friction-collapse-timeline.png)
+*[Figure 2: Friction Collapse as Punctuated Equilibrium](../../figures/fig-002-friction-collapse-timeline.md)*
 
 Not everything that looks like a friction collapse is one. A faster horse is not a friction collapse. The railroad is. Aviation is not — it changed where people could visit, not where they could live; the terrain beneath the flight path remained geographically operative for everyone on the ground. The distinction matters for the framework's falsifiability, and it reduces to a single test: did the technology change *who the terrain serves*, or did it just help the same people do the same things faster?
 
@@ -97,7 +98,8 @@ Tecumseh is the test case on the other end. He extended the timeline of Native r
 
 Peter and Tecumseh are outliers on opposite tails of the same probability distribution. One is remembered as the great man who built an empire. The other is remembered as the tragic hero who could not save his people. Remove either and the outcome is essentially the same within a generation. The distribution does not notice.[^28]
 
-See [Figure 1: The Great Man as Outlier](../../figures/fig-001-great-man-outlier.md).
+![Great Men Are Outliers on a Distribution Geography Defined](../../figures/output/fig-001-great-man-outlier.png)
+*[Figure 1: The Great Man as Outlier](../../figures/fig-001-great-man-outlier.md)*
 
 This is not a rebuttal of great man theory. It is a reframe. The strong version of great man theory — individuals as uncaused first movers who bend history by pure will — is wrong. But the hard determinist position — that the individual is irrelevant, that another person would have done exactly the same thing — is also wrong. It collapses variance to zero, and that is not how distributions work.[^29]
 
