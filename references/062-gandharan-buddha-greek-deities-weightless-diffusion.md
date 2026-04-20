@@ -21,3 +21,5 @@ The sender encoded Greek divine imagery. The receiver decoded it as Buddhist sac
 2. **Narrative descent candidate for Chapter 4 or 5.** A Greek sculptor's Apollo, carved in Gandhara, becoming a Buddhist icon in a Tarim Basin cave temple. The same face, different god. The geography that carried it is visible in the hybridization — you can trace the route in the art style.
 
 3. **Wood transaction tablets** with these carvings also found — mundane commercial records alongside sacred art. The relay trade (ref 035) carrying both commerce and religion simultaneously, but only the weightless content making it over the mountains.
+
+4. **The pattern repeats with Hindu iconography.** Shiva depicted with an erect lingam (deeply Indian religious symbolism) but wearing Sogdian boots (Central Asian nomadic footwear) — found in Sogdiana. Same mechanism: the theology traveled the high-friction corridor in memory. The aesthetic got localized at the destination. Apollo's posture became Buddha's posture. Shiva got Sogdian boots. The signal transforms in transit. The channel is consistent.
