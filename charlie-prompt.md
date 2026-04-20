@@ -70,11 +70,12 @@ Think like someone who will be asked to sign off on this dissertation with their
 
 *Update this section before each review session.*
 
-**Current version:** v0.3.1
+**Current version:** v0.4
 **Semesters completed:** 1 (Tasar — Central Asian history)
 **Semester in progress:** 2 (Hansen — Silk Road)
-**Reference cards:** 55
-**Chapters drafted:** Prologue, Chapter 1 (The Distribution), Chapter 8 (The Synthesis Frontier)
+**Reference cards:** 78
+**Chapters drafted:** Prologue, Chapter 1 (The Distribution), Chapter 2 (The River Spine), Chapter 3 (The Chokepoint), Chapter 4 (The Silk Road), Chapter 5 (The Islamic Diffusion), Chapter 8 (The Synthesis Frontier)
+**Chapters awaiting source reading:** Chapter 6 (Parallel Conquests — needs Morrison, Hämäläinen), Chapter 7 (Timurid Paradox — needs Starr)
 
 ### Closed Issues (verify resolutions in submitted text)
 
