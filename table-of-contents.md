@@ -14,7 +14,7 @@ How this book was made, why it was made this way, and what that implies about th
 ### [Chapter 1: The Distribution](chapters/01-the-distribution/index.md)
 *Geography as probability, not destiny*
 
-The three lenses (geographic determinism, friction collapse, diffusion) unified by Shannon's information theory. The eugenics reductio — why the geographic explanation is necessary, not optional. The river as thermodynamic framework. The Nile/Amazon/Volga triptych and the Inca rotation. The great man reframe — high-leverage draws from a loaded distribution, illustrated by the Peter/Tecumseh mirror. Falsifiability conditions. Previews the Parallel Conquests as the thesis demonstrated at scale. *(Draft — in review)*
+The three lenses (geographic determinism, friction collapse, diffusion) unified by Shannon's information theory. The eugenics reductio — why the geographic explanation is necessary, not optional. The river as thermodynamic framework. The Nile/Amazon/Volga triptych and the Inca rotation. The great man reframe — high-leverage draws from a loaded distribution, illustrated by the Peter/Tecumseh mirror. Falsifiability conditions and holdout validation. Previews the Parallel Conquests as the thesis demonstrated at scale. *(Draft — in review)*
 
 **Narrative descent:** TBD — candidates include the view from the Pamir Knot, parallel farmers in two river valleys, or two merchants in chokepoint economies.
 
@@ -23,62 +23,84 @@ The three lenses (geographic determinism, friction collapse, diffusion) unified 
 ## Part II: The River and the Wall
 
 ### Chapter 2: The River Spine
-*How water builds states*
+*How water builds states — and class structures*
 
-The Nile as the prototype. A river that is long but not too long creates a linear polity — it binds people economically and almost automatically produces a state. The Tigris/Euphrates, Indus, Yellow River — every cradle of civilization is the same story. The river does the state-building for you.
+The river as thermodynamic system: energy dissipation from headwaters to delta predicts settlement density, civilization type, and social hierarchy. The universal settlement gradient — testable against every river civilization on Earth. The Goldilocks zone where first movers settle. Civilizational succession along the energy gradient producing class stratification. The Saharan pump funneling climate refugees into the Nile.
 
-Contrast: Afghanistan. External crossroads, internal fragmentation. The mountains make it unconquerable from outside and ungovernable from inside simultaneously. The river builds the state; the mountain prevents it.
+Counter-cases: the Amazon (wrong soil, unmanageable flooding), the Volga (wrong climate, landlocked outlet, steppe-adjacent — but producing the Khazar Khaganate as a gradient outcome). Lake geometry vs. river geometry — radial distributes, linear concentrates. The Inca as the river valley rotated ninety degrees.
 
-**Narrative descent:** Daily life on the Nile during the Old Kingdom. The farmer whose entire economic existence is a function of the flood cycle. The tax collector who walks the same linear path every year. The geography that makes bureaucracy not just possible but inevitable.
+The five-variable model: climate, linear geometry, predictable flood cycle, connected outlet, favorable adjacency. Score any body of water and predict what it should produce. The asymmetry prediction: hard upstream boundary, soft downstream boundary.
 
-**Diffusion analysis:** How administrative technologies (writing, taxation, calendar systems) spread along river corridors vs. across mountain barriers. The S-curve of state formation along the Nile vs. the permanently flat adoption curve in the Hindu Kush.
+**Narrative descent:** The Nile farmer whose life is the flood cycle. Or: the Indus at two points — Gandhara as headwater chokepoint vs. Mohenjo-daro as floodplain grain city. Same river, different functions.
+
+**Diffusion analysis:** State formation itself as a Rogers diffusion curve shaped by geographic fitness. The Volga as laggard adopter of sedentary civilization. Administrative technologies spreading along river corridors vs. stalling at mountain barriers.
 
 ### Chapter 3: The Chokepoint
 *Where everything funnels through*
 
 Afghanistan as Egypt's structural twin — both are chokepoints where geography forces traffic through a narrow corridor, both have just enough fertility to support a population that extracts value from that traffic, both are perpetually fought over because of position rather than intrinsic wealth.
 
+Gandhara as the eastern chokepoint — where the Indian subcontinent, Central Asia, and China nearly touch. Dunhuang and the Jade Gate as the eastern funnel's narrowest point. The pulsing frontier — imperial power flowing west through the gate during strong dynasties, retreating during weak ones.
+
 The contrast with Turkmenistan (the Karakum Desert as the Sahara belt): when there's nothing worth controlling on the other side and no route through, geography produces peace through irrelevance.
 
-**Narrative descent:** A merchant in Balkh, circa 1200 CE, managing the chokepoint economy. What it means to live at a crossroads — the wealth, the vulnerability, the cosmopolitanism that geography imposes.
+**Narrative descent:** A merchant in Balkh or Dunhuang, managing the chokepoint economy. What it means to live at a crossroads.
 
-**Diffusion analysis:** How ideas, technologies, and religions move differently through chokepoints vs. open terrain. The chokepoint as filter, accelerator, and bottleneck simultaneously.
+**Diffusion analysis:** How ideas, technologies, and religions move differently through chokepoints vs. open terrain. The chokepoint as filter, accelerator, and bottleneck simultaneously. The tributary system as sender-side encoding at a chokepoint — same transaction, two narratives.
 
 ---
 
 ## Part III: The Corridor
 
 ### Chapter 4: The Silk Road as Circulatory System
-*Two funnels, two fans, a knot in the middle*
+*A relay network, not a road — overland and maritime*
 
-The Silk Road was never one road — it was a shifting network given a single label by a 19th-century German geographer. But its geographic structure is remarkably legible:
+The Silk Road was never a road. Richthofen named it for a railroad he wanted to build. It was a relay network of overlapping local exchanges — goods pooling at nodes, nobody swimming the whole length. The name is a sender-side encoding that distorted 150 years of historiography.
 
+**The overland corridor:**
 - Western fan: Mediterranean/Levant through Iran
 - Iranian plateau: the funnel
 - Afghan corridor: the chokepoint
 - Pamir Knot: the mountain hinge
-- Transoxiana: the heart — Samarkand and Bukhara between the Oxus and Syr Darya
+- Transoxiana: the heart — Samarkand and Bukhara, the Sogdians as operating system
+- Tarim Basin: the eastern gap, skirted not crossed, two routes around the Taklamakan
 - Gansu Corridor: the eastern funnel (sometimes only 15 miles wide)
 - Chinese interior: the eastern fan
 
-The Great Wall as Silk Road infrastructure — not just a military barrier but an economic control surface.
+The northern route (Tian Shan — reliable water, commercial traffic, Sogdian merchant letters) vs. the southern route (Kunlun — fragile oases, climatically precarious, Niya abandoned when the water table dropped). The Great Wall as Silk Road infrastructure.
 
-**Narrative descent:** Transoxiana at its peak. The space between the two rivers where Greek philosophy, Persian administration, Turkic military culture, and Chinese technology collided in the most cosmopolitan square mile on earth.
+**The friction-as-content-filter:** High-friction mountain corridors transmit only weightless content — Buddhism via monks, artistic conventions via memory, dharmas via oral tradition. Low-friction corridors transmit everything — silk, spices, paper, commercial records. The archaeological signature confirms it: religious artifacts on the mountain routes, trade documents on the northern route. You can reconstruct route friction from what survived.
 
-**Diffusion analysis:** The Silk Road as the world's longest innovation diffusion mechanism. How the corridor's geography shaped what moved (ideas travel light; bulk goods don't) and how fast (the bandwidth of a camel vs. the bandwidth of a monk who memorized a sutra).
+**The maritime corridor:**
+- Indian Ocean monsoon as natural friction collapse — bidirectional, seasonal, no human engineering
+- Sri Lanka → Bay of Bengal → Southeast Asia → South China Sea → Chinese ports
+- The Swahili Coast as oceanic chokepoint civilization — same node logic as Transoxiana
+- Maritime routes carried more volume than overland in many periods
+
+**The climate pulse:** The glacier metaphor — Chinese imperial power advancing and retreating through the Jade Gate correlated with wetter/drier periods. Oasis cities as climate-contingent infrastructure. The infrastructure trap: karez tunnels maximizing population in marginal terrain, then catastrophic collapse when the water retreated. 45 million deaths when engineered carrying capacity exceeded natural carrying capacity.
+
+**The Sogdians:** The Silk Road's operating system for centuries — Persian-speaking Central Asian merchants running the relay network. Their identity dissolved when the Abbasid conquest removed the ecological niche that sustained it (religion, trade structure, political autonomy, script). They didn't become the Turks. They became the Tajiks. Identity as adaptive response to conditions, not primordial essence.
+
+**Narrative descent:** Niya — a city killed by geography alone. Documents still readable a thousand years later. The receiver-side civilization erased not by a conqueror but by a water table.
+
+**Diffusion analysis:** The relay trade as diffusion mechanism. Apollo becoming Buddha becoming Shiva-in-Sogdian-boots — content re-encoded at every node. The absence of evidence along mountain routes is evidence of the transmission mechanism (oral encoding through high friction, written decoding at destinations).
 
 ### Chapter 5: The Islamic Diffusion
-*Two curves for one religion*
+*Two curves for one religion — and one that failed*
 
 Islam spread along two fundamentally different diffusion curves: conquest (fast, military, political) and trade routes (slow, merchant-driven, cultural). Same religion, same geography, radically different mechanisms and outcomes.
 
 The trade-route diffusion follows Rogers almost perfectly — early adopters (merchants who benefit from network membership), early majority (urban populations along routes), late majority (rural populations in the hinterland), laggards (remote communities that hold syncretic practices for centuries).
 
-The conquest diffusion is a step function, not an S-curve. It arrives with an army and a tax code. But the *cultural* adoption underneath still follows Rogers — the political overlay is fast; the actual belief diffusion is slow.
+The conquest diffusion is a step function, not an S-curve. It arrives with an army and a tax code. But the *cultural* adoption underneath still follows Rogers — the political overlay is fast; the actual belief diffusion is slow. Buddhist translations as late-majority compliance infrastructure — early adopters choose, laggards comply.
 
-**Narrative descent:** Two scenes, same century. A merchant in Malacca adopting Islam because his trading partners are Muslim — a network effect, not a conversion. A farmer in the Fergana Valley whose village was conquered a generation ago, still performing pre-Islamic rituals with an Islamic gloss.
+**The contrast case: Manichaeism.** Same corridor, same era, opposite boundary strategy, opposite outcome. Mani designed a maximum-entropy religion — dissolving all cultural boundaries, incorporating all traditions. It failed because friction zones are load-bearing features, not bugs. A religion that works for everyone works as an identity marker for no one. Religions get selected for boundary-drawing, not boundary-dissolving. Islam drew clean lines and thrived. Manichaeism dissolved them and vanished. Hold everything constant, vary boundary strategy, observe outcomes — a controlled experiment in religious diffusion.
 
-**Diffusion analysis:** Formal Rogers mapping of both curves. What the gap between political Islam and cultural Islam tells you about the difference between imposed adoption and organic diffusion.
+**The refugee absorption threshold:** Small groups arriving incrementally integrate (below threat threshold). Large population movements trigger defensive consolidation. The rate of arrival determines the receiver-side response, not the content. Rogers applied to population dynamics.
+
+**Narrative descent:** Two scenes, same century. A merchant in Malacca adopting Islam because his trading partners are Muslim — a network effect, not a conversion. A farmer in the Fergana Valley still performing pre-Islamic rituals with an Islamic gloss. And: Manichaean texts sealed in a cave, preserved by the desert that their religion couldn't survive.
+
+**Diffusion analysis:** Formal Rogers mapping of both Islamic curves plus the Manichaean failure. What the gap between political Islam and cultural Islam tells you about the difference between imposed adoption and organic diffusion. Why maximum-entropy designs fail: adoption requires gradients.
 
 ---
 
@@ -87,28 +109,40 @@ The conquest diffusion is a step function, not an S-curve. It arrives with an ar
 ### Chapter 6: The Parallel Conquests
 *Same shock, same result, opposite sides of the planet*
 
-The flagship chapter. American Westward Expansion and the Russian conquest of the Central Asian steppe. Same technology shock (railroad + firearms). Same timeline (mid-to-late 19th century). Same nomadic cultures on the receiving end. Same outcome. Neither civilization aware of the other's parallel campaign.
+The flagship chapter. American Westward Expansion and the Russian conquest of the Central Asian steppe. Same technology shock (railroad + firearms + telegraph). Same timeline (mid-to-late 19th century). Same nomadic cultures on the receiving end — peoples who had rationally optimized for their terrain. Same result. Neither civilization aware of the other's parallel campaign.
 
-The steppe that protected nomadic culture for thousands of years becomes suddenly indefensible when you can move troops and supplies by rail faster than horses can flee. This is friction collapse in its purest form — geography held for millennia, then a single technology made it irrelevant within decades.
+The orthogonal rotation: the railroad inverts who the steppe serves. The same open terrain that was the nomad's highway becomes their trap. The relationship between terrain and power rotates ninety degrees.
 
-The statistics of this parallel are almost impossible to explain without the geographic determinism framework. This chapter writes the thesis of the whole book.
+The pre-railroad equilibrium: Perovskii's 1839 Khiva campaign failing because the Russians couldn't manage camels. The fort chain as incremental friction collapse. The Transcaspian Railway and the Transcontinental Railroad — same decade, same function, same result.
 
-**Narrative descent:** Two parallel stories, intercut. A Comanche war chief watching the railroad approach from the east. A Turkmen tribal leader watching the railroad approach from the north. Neither knows the other exists. Both face the same calculus. Both lose.
+The Tecumseh Pattern: brilliant unifiers who correctly diagnose fragmentation as fatal, build unprecedented coalitions, and still lose. Kenesary Qasymov and Tecumseh as structural parallels — both killed by internal rivals, not the primary enemy.
 
-**Diffusion analysis:** The railroad as a diffusion mechanism — not just of people and goods, but of state power itself. The S-curve of territorial control following rail lines. How the adoption curve of railroad technology in Washington and St. Petersburg produced identical policy outcomes independently.
+Economic warfare: Russia's cotton monoculture destroying the pastoral economy. America's buffalo destruction eliminating the resource base of the Plains optimization. Same structural move — replace the geographic optimization with an extractive one the state can control.
+
+Empire is the constant. Friction is the variable. The four friction regimes as context: this is regime #4 (railroad/physical), following regimes #1 (overland corridors), #2 (oceanic sail), and #3 (telegraph).
+
+**Narrative descent:** Two parallel stories, intercut. Geok Tepe and Palo Duro Canyon. Neither protagonist knows the other exists. Both face the same calculus.
+
+**Diffusion analysis:** The railroad as a diffusion mechanism for state power. The S-curve of territorial control following rail lines. How the adoption curve of railroad technology in Washington and St. Petersburg produced identical policy outcomes independently.
+
+*Note: This chapter awaits semester 1 spine source reading (Morrison, Hämäläinen) for ground-level military and logistical detail. Conceptual framework is complete; evidence depth is not yet sufficient for drafting.*
 
 ### Chapter 7: The Timurid Paradox
 *When the river takes back what the great man dammed*
 
 Timur builds an empire of skulls through pure cult of personality. His descendants accidentally produce one of the great cultural flowerings of the medieval world. The brutal conqueror's grandchildren become Renaissance princes.
 
-This illustrates the thesis in miniature: great men can dam the river temporarily. They cannot redirect it permanently. Within two generations the underlying geographic and cultural logic reasserts itself. The Timurid cultural renaissance is not Timur's legacy — it is the terrain's legacy, using his resources.
+This illustrates the thesis in miniature: great men can dam the river temporarily. They cannot redirect it permanently. Within two generations the underlying geographic and cultural logic reasserts itself. The Timurid cultural renaissance is not Timur's legacy — it is the terrain's legacy, using his resources. The same geographic conditions (crossroads, cosmopolitan, irrigated) that produced the Sogdian golden age and the Samanid renaissance expressed themselves again through the Timurid dynasty — because the terrain selects for intellectual ferment regardless of who holds power.
 
-Sub-argument: while Europe was in the Dark Ages, the Central Asian corridor was where Greek philosophy, mathematics, astronomy, and medicine were being preserved, transmitted, and extended. The Renaissance has a Central Asian fingerprint almost nobody in the West recognizes.
+Sub-argument: while Europe was in the Dark Ages, the Central Asian corridor was where Greek philosophy, mathematics, astronomy, and medicine were being preserved, transmitted, and extended.
 
-**Narrative descent:** Ulugh Beg's observatory in Samarkand. A grandson of the most destructive conqueror since Genghis Khan, building the most advanced astronomical instruments in the world. The geographic logic of Transoxiana — crossroads, cosmopolitan, intellectually omnivorous — expressing itself through whatever dynasty happens to hold power.
+Identity as adaptive response: the Sogdians became the Tajiks. The Timurids became the Mughals. Same population, different incentive structures, different cultural output.
 
-**Diffusion analysis:** How the Timurid cultural output actually reached Europe. The diffusion path of specific mathematical and astronomical knowledge from Samarkand to Florence, through the same corridors the Silk Road always used. The innovation didn't care who conquered what.
+**Narrative descent:** Ulugh Beg's observatory in Samarkand. A grandson of the most destructive conqueror since Genghis Khan, building the most advanced astronomical instruments in the world.
+
+**Diffusion analysis:** How the Timurid cultural output actually reached Europe through the same corridors the Silk Road always used. The innovation didn't care who conquered what.
+
+*Note: This chapter awaits Starr reading (semester 2). Open question: does Timur shift structural outcomes or only timing? (Charlie's issue #3)*
 
 ---
 
@@ -127,22 +161,21 @@ The book's own creation as the final case study. The correction loop (Sitting Bu
 
 Brief. The thesis restated not as argument but as observation. Geography held. Technology shifted the floor. The distribution reasserted. The great men were real and they were outliers. The river is still there.
 
+Image: Kenesary Qasymov assembling fifty thousand horsemen on the same flat steppe where, a century later, Yuri Gagarin rode a rocket into orbit. Same terrain. The nomad's highway became the state's railroad corridor became humanity's launchpad.
+
 ---
 
-## Notes on Sources and Method
-How the research was conducted. What the AI contributed. What the human contributed. Full transparency, not as apology but as demonstration.
+## Appendix A: Speculative Connections and Future Research
 
-## Appendix: Speculative Connections and Future Research
+Patterns the framework generates that current evidence does not yet confirm. Each entry states: the framework predicts X, the available evidence is Y, future research in Z might resolve this. These are specific, testable predictions — not vague gestures at "more work is needed." They constitute a research agenda.
 
-Patterns the framework generates that current evidence does not yet confirm. Each entry states: the framework predicts X, the available evidence is Y, future research in Z might resolve this. These are specific, testable predictions — not vague gestures at "more work is needed." They constitute a research agenda that any reader with the right expertise can pick up.
-
-First candidate: the Tarim mummies → Caspian steppe migrations → Bronze Age Collapse chain.
+Candidates: the Tarim mummies → Bronze Age Collapse chain; the Goldilocks zone quantitative model (SRTM + archaeology); the climate-pulse-to-imperial-cycle correlation.
 
 ## Appendix B: Where the Framework Doesn't Apply
 
-Cases that look like they fit the framework but fail the criteria on examination. "Faster horses" — improvements that don't invert terrain function, decouple a constraint layer, or remove a geographic dependency. These demonstrate that the framework has real boundaries and the falsifiability criteria actually exclude cases, not just include them.
+Cases that look like they fit the framework but fail the criteria on examination. "Faster horses" — improvements that don't invert terrain function, decouple a constraint layer, or remove a geographic dependency. These demonstrate the framework has real boundaries.
 
-First candidate: jet stream routing in transatlantic aviation (operational optimization, not friction collapse).
+Candidates: jet stream routing, aviation, the internet (borderline — information layer decoupled but physical constraints unchanged).
 
 ---
 
