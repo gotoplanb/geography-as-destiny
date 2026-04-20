@@ -117,6 +117,12 @@ And initially it did. Manichaeism spread rapidly across an enormous geographic r
 
 Then it collapsed. Persecuted simultaneously by every major empire: Byzantine Christianity, Sassanid Persia, Abbasid Islam, Tang China. Only the Uyghur Empire provided sustained political shelter — and when that collapsed in 840 CE, the last protector vanished.[^10]
 
+A legitimate objection: Islam appeared three centuries after Manichaeism. The political landscape had changed — the Sassanid and Roman empires that persecuted Mani were not the Abbasid and Byzantine empires that hosted Muhammad's successors. Are we really holding geography constant, or did the political substrate change in ways that advantaged Islam for reasons other than boundary strategy?
+
+The Uyghur case answers this. Manichaeism briefly succeeded in exactly the sphere where Islam would later dominate — Central Asia, the steppe-sedentary frontier. It succeeded there through political patronage (state religion, 762 CE) rather than through organic boundary-drawing. When the patronage ended (840 CE), the religion collapsed immediately. It could not sustain itself without state protection because it lacked the boundary-maintenance capacity that generates self-sustaining social cohesion. Islam, arriving in the same geographic space centuries later, drew boundaries and persisted through multiple state collapses — because the social structure it generated was load-bearing independent of any single state's support.
+
+The timing objection isolates the wrong variable. The political context changed between the third and seventh centuries. But boundary strategy — the capacity to generate self-sustaining identity structures — is the variable that explains why one religion survived the loss of political patronage and the other did not, in the same geographic space, among the same populations.
+
 Why did every empire turn against it? Not because it was foreign — Islam was equally foreign to the Tang and they tolerated it. Not because it was weak — at its peak it had millions of adherents across the known world.
 
 Because it could not be weaponized as a boundary. An empire needs religion to do social work — to define membership, organize loyalty, distinguish insiders from outsiders. Islam does this cleanly. Christianity does this cleanly. Manichaeism, by design, does not. It cannot tell you who is *not* Manichaean because it was designed to include everyone.
