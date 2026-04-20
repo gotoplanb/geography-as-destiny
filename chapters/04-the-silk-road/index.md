@@ -41,6 +41,9 @@ The geographic structure of the overland corridor is legible from a topographic 
 
 **Transoxiana:** The heart. Between the Oxus and Syr Darya rivers — Samarkand, Bukhara, the Sogdian cities. This is where the relay network reached its greatest density. Not because it was the destination but because it was the crossroads. Every route from west to east passed through or near this space. The Sogdians — Persian-speaking, commercially brilliant, cosmopolitan — operated this intersection for centuries.
 
+![The Silk Road — A Relay Network, Not a Road](../../figures/output/fig-005-silk-road-corridor.png)
+*[Figure 5: The Silk Road Corridor — Terrain Determines Routes](../../figures/fig-005-silk-road-corridor.md) | [Interactive version](/book/figures/fig-005-silk-road-corridor)*
+
 **The Tarim Basin:** The eastern gap. The Taklamakan Desert — whose name in Uyghur means roughly "you go in, you don't come out" — cannot be crossed. It can only be skirted. Two routes diverge at Dunhuang:
 
 The **northern route** hugs the Tian Shan mountains. Better water from snowmelt, more pasture, more reliable. This is where the commercial traffic flowed — the Sogdian merchant letters, the bulk goods, the continuous trade. Cities on the northern route survived into the modern era because the water systems feeding them were robust.
