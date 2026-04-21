@@ -6,7 +6,7 @@
 
 ## Content
 
-Alexander the Great didn't just conquer. He engineered his own transmission. He took Callisthenes (a historian) with him on campaign to write his biography in real time. This was a deliberate information architecture decision — designing the sender-side signal before the message even finished being created.
+Alexander the Great didn't just conquer. He engineered his own transmission. He took Callisthenes — Aristotle's nephew — with him on campaign to write his biography in real time. The philosopher who developed the foundations of empirical observation sent his own nephew to write imperial propaganda. This was a deliberate information architecture decision — designing the sender-side signal before the message even finished being created.
 
 **The specific design choice:** Alexander wanted the signal to encode *Alexander*, not Greece, not Macedonia. He stripped the cultural carrier from the content. Only the great man should remain in the transmission.
 
@@ -37,6 +37,10 @@ The argument chain:
 
 ## Evidence-strength note
 
-The claim that Alexander took Callisthenes specifically to engineer his legacy is well-established in classical scholarship. Callisthenes was Alexander's official historian until he was executed for opposing Alexander's adoption of Persian court customs — which is itself a sender-side editing decision (the historian who stopped cooperating with the encoding got removed from the channel). Standard source: Robin Lane Fox, *Alexander the Great* (1973), or Paul Cartledge, *Alexander the Great* (2004).
+The claim that Alexander took Callisthenes specifically to engineer his legacy is well-established in classical scholarship. Callisthenes was Aristotle's nephew — making the family connection between Greek philosophy's empirical tradition and its first great propaganda project uncomfortably direct. Callisthenes was Alexander's official historian until he was executed for refusing to perform the Persian prostration ritual (*proskynesis*) before Alexander — which is itself a sender-side editing decision. The historian who stopped cooperating with the encoding got removed from the channel. Other Alexander historians (Ptolemy, later Arrian) continued the transmission.
+
+Note: Herodotus (5th century BCE, ~150 years before Alexander) is often called the Father of History and was arguably the first receiver-side thinker in Western historiography — he attempted to understand Persian and Egyptian perspectives rather than just Greek ones. Potential footnote for the Prologue: "Herodotus attempted this 2,500 years ago. The discipline has mostly forgotten."
+
+Standard source: Robin Lane Fox, *Alexander the Great* (1973), or Paul Cartledge, *Alexander the Great* (2004).
 
 The broader claim — that Great Man Theory as a genre originates with this deliberate act — is our synthesis. Own it as such (per Charlie's feedback on Shannon-Rogers, issue #10).
