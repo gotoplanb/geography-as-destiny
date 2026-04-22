@@ -28,3 +28,5 @@
 2. **The sacred container paradox.** Sacred encoding preserves knowledge (ref 001 — "you make it holy so the knowledge survives"). But the same sacredness can prevent practical application by quarantining the knowledge in a non-practical category. Preservation and application are in tension when the preservation mechanism is religious framing.
 
 3. **Counter to the "ideas are weightless" principle (ref 052).** Ideas may be weightless in transit, but they arrive with encoding that constrains their use. The compass idea traveled fine. The geomantic encoding it traveled in prevented maritime application for a millennium. The weight isn't in the idea — it's in the framing.
+
+4. **Core Rogers insight, sharpened:** The innovation doesn't diffuse when the technology arrives. It diffuses when the receiver's mental model shifts enough to see the technology in a new category. Adoption is a cognitive event, not a technological one. The compass case isolates this more cleanly than any modern case because you can't argue the technology wasn't available or the need wasn't there. The only variable is the mental model.
