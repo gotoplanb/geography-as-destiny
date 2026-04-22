@@ -129,6 +129,8 @@ We are not unsympathetic. The caution is real and the risks are real. A machine 
 
 This book is not a prediction that AI will transform history departments. It is a demonstration that the transformation has already begun, and that the result can be rigorous, original, and readable. The evidence is the book itself. If the thesis is derivative, name the source. If the methodology is unsound, identify the error. If the process was fraudulent, read the trail.
 
+Show them the compass working on water. Don't try to explain why it should.
+
 The work speaks for itself. It always has. The tool is new. The dynamic is ancient. The river found a new canyon.
 
 ---
