@@ -135,7 +135,7 @@ But the thinking did not collapse. The framework that recognized a throwaway ref
 
 The question a committee should ask is not "how long did this take?" It is: "does the framework produce original, testable, falsifiable predictions that survive adversarial review?" The process trail answers that question at whatever depth the reader demands. Every reference card is numbered and timestamped. Every prediction is documented before its confirmation. Every committee critique is preserved verbatim alongside the response. No traditional dissertation offers this level of auditability — not because traditional scholars are less rigorous, but because the tools to capture thinking at this resolution did not previously exist.
 
-The friction that collapsed was the toil of assembly. The rigor that remained was the rigor of thought. If the thought is sound, the speed is a feature. If the thought is unsound, no amount of time would have fixed it.
+The friction that collapsed was the toil of assembly. The rigor that remained was the rigor of thought. Faxian, the fifth-century Buddhist monk whose sea voyage we discussed in the previous chapter, did not write his own account. He dictated it after returning to China and it was transcribed and edited by others. One of the foundational texts of Buddhist pilgrimage literature, produced by a monk who sent for paper, ink, and scribes. Nobody questions his authorship. The idea has always been the scholarship, not the physical act of producing the characters. If the thought is sound, the speed is a feature. If the thought is unsound, no amount of time would have fixed it.
 
 Show them the compass working on water. Don't try to explain why it should.
 
