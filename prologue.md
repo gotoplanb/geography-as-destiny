@@ -43,6 +43,8 @@ What emerged was something else: a narrow crevice between what was known and wha
 
 This is not new. This is what scholars have always done. You read the fifty-page manuscript. You extract the two relevant paragraphs. You synthesize them into an argument that did not exist in either source. The footnote is an institutionalized acknowledgment that thinking is collaborative — that you are building on someone else's work and have the decency to say so. The tool that does the retrieval changed. The dynamic did not.
 
+The separation between thinking and transcription is even older than the footnote. Faxian, the fifth-century Buddhist monk whose sea voyage appears in Chapter 4 of this book, did not write his own account. He dictated it after returning to China. It was transcribed and edited by others. Nobody questions his authorship. Aristotle had scribes. Caesar had scribes. Every medieval scholar of consequence had scribes. The idea has always been the scholarship, not the physical act of producing the characters on durable material. The expectation that a scholar personally type every word is a twentieth-century artifact of the typewriter era — a brief historical anomaly, not a timeless standard.
+
 ---
 
 The method deserves a brief accounting.
