@@ -34,3 +34,5 @@
 3. **The receiver-side methodology in action.** Hansen takes the texts at face value as evidence of the community (sender-side reading — what the texts say about who made them). Dave asks what function the texts served for the people who used them (receiver-side reading — why these texts are here at all). Same evidence. Different analytical question. Different conclusion.
 
 4. **Evidence-strength note:** This is a framework-generated prediction, not a confirmed finding. Dave has not examined the Dunhuang archaeological record beyond Hansen's presentation. The prediction is stated clearly enough to be tested by someone with access to the site data. Honest about what we know and don't know.
+
+5. **Appendix A candidate — future research.** Testing this prediction against Hansen's interpretation requires deep primary source engagement and archaeological evidence review beyond this dissertation's scope. The dissertation states the prediction and defers the test. The framework generates the hypothesis. A future paper tests it. "The river identified a new canyon. We're not digging it today."
