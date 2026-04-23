@@ -37,4 +37,12 @@
 
 4. **Evidence-strength note:** This is a framework-generated prediction, not a confirmed finding. Dave has not examined the Dunhuang archaeological record beyond Hansen's presentation. The prediction is stated clearly enough to be tested by someone with access to the site data. Honest about what we know and don't know.
 
-5. **Appendix A candidate — future research.** Testing this prediction against Hansen's interpretation requires deep primary source engagement and archaeological evidence review beyond this dissertation's scope. The dissertation states the prediction and defers the test. The framework generates the hypothesis. A future paper tests it. "The river identified a new canyon. We're not digging it today."
+5. **Progressive silence as the decisive test (added 2026-04-23).** The 200-year documentary silence at Dunhuang (ref 092) and the Islamic conquest of Hotan are the same phenomenon from two vantage points. As Islam conquered Tarim Basin oases moving eastward (Kashgar, Hotan, etc.), each fallen oasis removed a Buddhist deployment zone and a field report source. The silence should be progressive — westernmost reports disappearing first, then eastern zones going dark as Islamic power advances.
+
+    **This distinguishes the models cleanly:**
+    - **Hansen (cosmopolitan community):** Documents continue regardless of Hotan. Internal religious life doesn't depend on external deployment. Silence would be uniform, needing a local explanation.
+    - **Dave (missionary training center):** Documents go progressively quieter as deployment zones become inaccessible. Silence correlates with the Islamic conquest timeline. The pattern of silence is the test.
+
+    The correlation between the Dunhuang documentary record and the Islamic conquest timeline is a testable hypothesis nobody has explicitly connected — because Dunhuang has been read as a community, not as operational infrastructure.
+
+6. **Appendix A candidate — future research.** Testing these predictions requires deep primary source engagement beyond this dissertation's scope. The dissertation states the predictions and defers the test. The framework generates the hypotheses. A future paper tests them.
