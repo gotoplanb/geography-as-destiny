@@ -20,6 +20,8 @@
 
 4. **The Hebrew talisman as tell.** A multicultural community would have Hebrew religious infrastructure — Torah, prayer books, community texts. A single talisman is exactly what a deployed monk brings back as a field artifact. Intelligence, not community practice.
 
+5. **Sogdian lobbying as competition, not coexistence.** Hansen mentions Sogdian missionaries attempting to influence the Chinese emperor's religious endorsement. In a genuinely cosmopolitan community, traditions coexist without needing to lobby for imperial patronage. The lobbying reveals these traditions understood themselves as *competitors*, not as equal participants in tolerant pluralism. The friction zone wasn't a multicultural haven — it was a site of intense ideological competition for imperial endorsement, funding, and deployment backing. Buddhism won. Manichaeism lost. The competition is invisible under the cosmopolitanism reading. The framework predicts it.
+
 **The testable distinction:** What archaeological evidence would distinguish the two readings?
 
 - **Hansen is right if:** burial records show diverse religious practices among residents (not travelers), residential archaeology shows distinct religious-community neighborhoods, evidence of non-Buddhist religious *practice* (not just texts) exists in the permanent community.
