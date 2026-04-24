@@ -88,9 +88,31 @@ Early adopters choose. Laggards comply.
 
 The translations are compliance infrastructure.
 
+The theological incentive structure determines which direction the adoption curve runs. Buddhist theology rewarded the distribution of texts — more copies of the dharma meant more spiritual merit. Buddhist monasteries were early institutional adopters of woodblock printing in China by the seventh century CE. The Diamond Sutra, dated 868 CE, is the oldest printed book in existence — produced by a Buddhist institution for merit accumulation.[^4a]
+
+Catholic theology, by contrast, valued the process of hand-copying itself. The scriptorium was a devotional practice — the slow, careful act of transcription was prayer in physical form. Mechanical reproduction didn't just offer a faster tool. It proposed to eliminate a spiritual practice. The Catholic Church resisted printing until the Protestant Reformation created a disruptive use case — pamphlets distributing heterodox ideas the scriptorium system would never have copied — that pushed the technology past the institutional resistance.[^4b]
+
+Same technology. Opposite theological incentive structures. Completely different adoption curves. The theology is the diffusion variable.
+
+The irony: the institution that resisted printing also preserved the manuscripts for a thousand years of hand-copying. The scriptorium that blocked the innovation was the same institution that kept the content alive long enough for the innovation to arrive. Even the friction served a function.
+
 ---
 
-## V. The Rate of Arrival
+## V. The Islam That Stayed
+
+Islam did not remain an Arabian export in Central Asia. The receiving culture absorbed it, transformed it, and produced its most sophisticated expressions independently of the Arabian origin.
+
+The Samanid Dynasty (819–999 CE) — the first Persian Muslim dynasty to assert independence from Abbasid control — produced the golden age of Central Asian Islamic civilization. Al-Khwarizmi, Ibn Sina, Rudaki, Firdausi. Persian language replacing Arabic as the prestige intellectual medium. A distinctly Central Asian Islam that owed more to Sogdian and Persian traditions than to Arabian ones.[^4c]
+
+This is not a periphery of Arabian civilization. This is Buddhism-in-China repeated: an existing civilization absorbing an incoming religion and making it their own because the religion solved coordination problems the existing framework didn't. The sender was Arabia. The receiver was Transoxiana. The receiver transformed the signal. The encoding traveled. The decoding was entirely local.
+
+The test: if Islam arrived as imperial power projection (Model A), Central Asian Islamic cultural production should track Abbasid political strength. It does not — the Samanid golden age occurs precisely as the Abbasid Caliphate weakens. If Islam arrived as diffusion adopted by existing sedentary cultures (Model B), Central Asian Islam should develop independently and potentially flourish more when the Arabian center weakens. It does.
+
+The frontal boundaries between civilizations persisted. Islam changed the religious overlay but not the underlying geographic logic. The trade nodes stayed where they were. The power centers stayed where they were. The cultural production stayed where it was. The terrain was the constant. The religion was the variable.
+
+---
+
+## VI. The Rate of Arrival
 
 Diffusion is not only about what arrives and through what channel. It is about how fast.
 
@@ -167,5 +189,11 @@ The religion designed for maximum diffusion was filtered out of the historical r
 [^8]: The "maximum entropy religion" framing — Manichaeism as attempting to reach thermodynamic equilibrium in the religious landscape, failing because equilibrium = zero structure = zero identity function — is our theoretical contribution. The thermodynamic language is metaphorical (applied to social systems rather than physical ones), which we acknowledge per the Shannon synthesis discussion (issue #12). See [ref 078](../../references/078-manichaeism-maximum-entropy-religion.md).
 
 [^9]: The Wald bomber applied to Manichaean textual survival — the sender-side record written by enemies, the receiver-side experience surviving only in desert-cave fragments — extends the methodology developed in [ref 064](../../references/064-wald-survivorship-bias-returning-bomber.md). The specific observation that "the religion designed for maximum diffusion was filtered out of the historical record by the survival bias of the boundaries it refused to draw" is our synthesis.
+
+[^4a]: On Buddhist institutional adoption of printing: the Diamond Sutra (868 CE), found in the Dunhuang cave, is the oldest dated printed book. Woodblock printing in China dates to the Tang Dynasty (~600s CE). Buddhist theology's merit-accumulation incentive (more copies = more merit) produced early institutional adoption. See [ref 089](../../references/089-printing-adoption-theological-incentive-structure.md).
+
+[^4b]: On Catholic scriptorium resistance to printing: the devotional value of hand-copying as spiritual practice, and the Protestant Reformation as the disruptive use case that pushed printing past institutional resistance. The scriptorium paradox — the institution that resisted the innovation also preserved the content for a thousand years until the innovation arrived — is our synthesis. See [ref 089](../../references/089-printing-adoption-theological-incentive-structure.md).
+
+[^4c]: On Islam in Central Asia as diffusion adoption rather than imperial power projection: the Samanid Dynasty evidence and the Model A/Model B test are developed in [ref 093](../../references/093-islam-central-asia-diffusion-not-projection.md). The Samanid golden age occurring as the Abbasid Caliphate weakens is the decisive evidence for Model B — the receiving culture transformed the incoming religion and produced its most sophisticated expressions independently.
 
 [^10]: The timing objection — that Islam appeared 300 years after Manichaeism and the political substrate changed — is acknowledged as a legitimate challenge. The response: boundary strategy is more explanatory than political context because Islam also succeeded in the Uyghur sphere where Manichaeism previously operated. Manichaeism briefly succeeded there through political patronage (Uyghur state religion, 762 CE) but collapsed immediately when patronage ended (840 CE), confirming that without boundary-drawing capacity the religion could not survive withdrawal of state support. The timing difference is real but the variable under test (boundary strategy) is isolated by this natural comparison. See Charlie's feedback [issue #18](https://github.com/gotoplanb/geography-as-destiny/issues/18).

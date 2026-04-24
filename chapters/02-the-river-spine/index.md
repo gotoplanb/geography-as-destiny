@@ -110,6 +110,10 @@ The Aztec exception proves the rule. Tenochtitlan on Lake Texcoco worked because
 
 The mountain range is a river valley rotated ninety degrees. The vertical resource density is actually superior in one dimension — a thousand miles of climate zones stacked within a day's walk, rather than extended over hundreds of miles downstream. This produced a compact, self-sufficient civilization with less pressure to expand laterally than a river civilization faces.
 
+**Archipelagos — the opposite forcing function.** The river traps. The island archipelago offers exit. With seventeen thousand islands and no single scarce Goldilocks zone, the forcing function is horizontal rather than vertical. You spread out and specialize rather than stack and stratify. Different islands develop different economic niches. The social organization that emerges is networked rather than hierarchical — trading confederations rather than pharaohs. The Majapahit and earlier Indonesian polities were loose networks with nominal centers because the periphery could always sail to the next island if the hierarchy became extractive.[^10a]
+
+The river valley produces the pharaoh because exit is impossible. The archipelago produces the trading confederation because exit is always available. Same humans. Different terrain. Different governance. The geographic forcing function determines not just where civilization forms but what kind of power structure it develops.
+
 ---
 
 ## VI. The Prediction
@@ -153,5 +157,7 @@ The river runs downhill. The prediction follows.
 [^8]: On the Inca exploitation of altitudinal zones: John Murra, *Formaciones económicas y políticas del mundo andino* (Lima: Instituto de Estudios Peruanos, 1975). The "river valley rotated ninety degrees" formulation is our synthesis. See [ref 017](../../references/017-western-hemisphere-geographic-analogs.md).
 
 [^9]: On lake geometry vs. river geometry: the observation that radial geometry distributes population while linear geometry concentrates it, and the Aztec Tenochtitlan as the exception that proves the rule (linear logic imposed artificially on a lake), emerged from a Beta seminar discussion. See [ref 021](../../references/021-lake-geometry-vs-river-geometry.md).
+
+[^10a]: The archipelago as opposite forcing function — horizontal networks vs. vertical hierarchies, exit option changing the power dynamic — emerged from a Beta seminar discussion about Indonesia's monsoon-forced stopover civilization. The river traps and produces pharaohs; the archipelago offers exit and produces trading confederations. See [ref 083](../../references/083-archipelago-horizontal-networks-vs-river-vertical-hierarchy.md) and [ref 082](../../references/082-indonesia-monsoon-forced-stopover-civilization.md).
 
 [^10]: The quantitative prediction — that early settlement should cluster in a predictable gradient threshold zone, testable against SRTM elevation data and archaeological databases — is stated as a hypothesis. It has not been tested by the authors. The SRTM data and archaeological databases required for the test are publicly available. See [ref 071](../../references/071-goldilocks-zone-predictive-model-quantitative.md) and Charlie's committee feedback [issue #14](https://github.com/gotoplanb/geography-as-destiny/issues/14).
