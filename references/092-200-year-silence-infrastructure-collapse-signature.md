@@ -29,3 +29,13 @@ No missionaries deployed = no field reports generated = no translation curriculu
 2. **Confirms the deployment-kit model (ref 073, ref 090).** If Dunhuang was a missionary training center, its documentary output should correlate with missionary deployment activity, not with general historical events. The 200-year silence confirms this: when the missionary network shut down, document production shut down, even though plenty of other historically significant things happened during those two centuries.
 
 3. **The framework predicts the silence.** Given the three simultaneous collapses (imperial patron, logistics, steppe protection), the thermodynamic model predicts documentary silence at friction-zone nodes. The energy inputs that sustained the production infrastructure all failed at once. The silence is the predicted output of the model, not an anomaly requiring special explanation.
+
+4. **The timeline closes the loop (added 2026-04-23).** The silence runs roughly 1000–1200 CE:
+   - ~1000–1006 CE: Islamic conquest of Hotan closes western deployment zones. The Dunhuang cave is sealed — someone protecting the curriculum of a network going dark, expecting conditions to improve.
+   - ~1211 CE: Kuchlug (Naiman prince, converted to Buddhism) briefly reconquers the Tarim Basin and outlaws Islam. Too unstable and too brief to restart the missionary infrastructure.
+   - ~1218 CE: Genghis Khan defeats Kuchlug. Mongol religious tolerance creates a new operational environment — but the Buddhist missionary network never reconstitutes in its original form.
+   - Pax Mongolica produces documents again, but different documents for different purposes — Mongol administrative records, not Buddhist field reports. Different power structure, different documentary signature, same geographic logic driving production at friction-zone nodes.
+
+   **The framework predicts what breaks the silence and what kind of documents resume.** The silence doesn't end with the Buddhist network restarting. It ends with a different infrastructure (Mongol administration) producing different documents at the same nodes. The sealed cave's contents were never retrieved for their intended purpose. The monk who sealed them expected the network to resume. It never did.
+
+5. **The sealed cave as artifact of the model.** The Dunhuang cave sealed ~1000 CE is the most poignant confirmation of the missionary training center interpretation. Someone sealed a curriculum expecting to retrieve it when conditions improved. Conditions never improved in the anticipated form. Stein found it 900 years later and took it to London. The field notes of a missionary network that went dark and never came back.
