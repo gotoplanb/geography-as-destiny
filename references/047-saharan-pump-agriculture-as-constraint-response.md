@@ -24,6 +24,8 @@ This connects to Scott's *Against the Grain* (already in the lit review) — Sco
 
 **The framework principle:** Geography doesn't just shape civilizations. It generates them by removing alternatives. Civilization is what you get when geography eliminates the option of not civilizing.
 
+**Contrast: the Great Plains concentration pump (from Hämäläinen reading).** The Saharan pump is a *dispersal* pump — resource contraction pushing population outward toward remaining gradients. The Great Plains during its productive wetter period operated as a *concentration* pump — resource expansion pulling multiple populations inward toward the same opening simultaneously. Same thermodynamic logic (populations following resource gradients), opposite direction. Contraction pushes outward → Nile. Expansion pulls inward → Plains boundary collisions. The Comanche emerged from the concentration pump: multiple nations arriving at the same productive zone, the horse determining who dominated the competition. Two pump types from the same framework principle.
+
 ## Why this matters
 
 This may be the deep prehistory foundation the book needs. If agriculture — and therefore all sedentary civilization — originated as a constraint response to climate change funneling populations into river valleys, then the entire arc of the book is one story: geography creates the conditions, technology amplifies them, and the distribution reasserts when the constraints change.
