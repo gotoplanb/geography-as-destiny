@@ -23,6 +23,8 @@ Then the railroad arrived before the reorganization completed.
 
 **This explains why the outcomes were the same despite different institutional starting points.** The Kazakhs had millennia of accumulated steppe doctrine. The Comanche had ~150 years. Both lost to the railroad. The Kazakhs lost because the railroad inverted their terrain advantage. The Comanche lost because the railroad arrived before they'd finished adapting to the horse — two shocks in sequence with no recovery time between them.
 
+**The speedrunning problem (added 2026-04-25).** The Comanche adopted stone → iron → guns in decades rather than the millennia this sequence took in Eurasia. Each technology arrived as a finished product from outside rather than emerging from internal development. Guns without metallurgy knowledge. Iron without mining tradition. Complete dependency on external supply chains for every capability upgrade. In Eurasia each technology step built institutional scaffolding (knowledge, maintenance, training) that the next step built on. The Comanche got the outputs without the institutional substrate that normally co-evolves with the technology. The capabilities were modern. The institutional depth to sustain them independently was absent.
+
 ## Evidence needed from Hämäläinen
 
 1. Does she map the cascade effects of Comanche expansion as a system-wide reorganization (Ute/Apache displacement as connected to horse acquisition) rather than isolated bilateral conflicts?
