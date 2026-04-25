@@ -50,6 +50,14 @@ The surviving documentary record is almost entirely from people the Mongols dest
 - "Pax Mongolica created a relatively stable environment for the development of global trade" (Richmond Fed)
 - Gold tablet passport: "supplied with everything needful in all the countries through which they should pass" (Richmond Fed, Marco Polo)
 
+**Primary academic authority — Jack Weatherford:**
+- Jack Weatherford, *Genghis Khan and the Making of the Modern World* (New York: Crown, 2004). NYT bestseller. MacAlester College anthropologist working from the *Secret History of the Mongols* (long-suppressed Mongol primary source).
+- "The surprising truth is that Genghis Khan was a visionary leader whose conquests joined backward Europe with the flourishing cultures of Asia to trigger a global awakening"
+- "To facilitate trade, Genghis offered protection for merchants... He also offered a higher status for merchants than that allowed by the Chinese or Persians who despised trade and traders"
+- "The sultan of Khwarizm had, in a grievously fatal mistake, provoked the enmity of Genghis Khan by looting a Mongol trade caravan and disfiguring the faces of Mongol ambassadors"
+- O'Rourke and Findlay (*Power and Plenty*): "globalization began with the unification of the central Eurasian... Mongolica"
+- **The dissertation's contribution beyond Weatherford:** Weatherford documents the phenomenon (Genghis was misunderstood, Pax Mongolica was real). The framework explains the structural mechanism that produces the misunderstanding (Wald bomber, phase-dependent encoding, geographic overdetermination). Weatherford provides the *what*. The framework provides the *why*.
+
 ## Why this matters
 
 1. **The most dramatic Wald bomber case for the methodology argument.** The most famous "barbarian destroyer" in world history is revealed, through the commercial and diplomatic record, as a norm enforcer whose violence had specific institutional logic. The conventional narrative is sender-side encoding by the destroyed. The receiver-side reading produces the opposite conclusion.
