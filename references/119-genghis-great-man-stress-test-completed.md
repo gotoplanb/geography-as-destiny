@@ -23,6 +23,10 @@ Genghis Khan is the most demanding test of the anti-great-man argument: universa
 - Chose to distribute forces as static garrisons rather than unified response — maximizing each city's vulnerability
 - Fled rather than defending. Died as refugee on a Caspian Sea island.
 
+**The 10-year consolidation pause.** After defeating the Khwarazmian Empire (1219-1221), Genghis consolidated for roughly a decade before the next major expansion. A purely conquest-driven actor doesn't pause for ten years. The consolidation is imperial thermodynamics: the system finding equilibrium after massive energy expenditure, recovering the resource base before re-expansion. Empires that skip consolidation collapse faster. The pause is behavioral evidence of strategic sophistication, not savagery — and the strongest single piece of counter-evidence to the bloodthirsty barbarian narrative.
+
+**The predicted fragmentation.** The push into Ukraine/Mediterranean represents expansion past the sustainable frontier — too far from the steppe energy base, logistical lines too long, administering incompatible sedentary populations. Unified empire fragments within two generations of Genghis (four separate khanates by the grandsons' generation) — not failure but the thermodynamic system finding its natural equilibrium level given the steppe resource base. Same pattern as every other overextended empire.
+
 **The counterfactual:** Remove Genghis. The Khwarazmian Empire probably collapses within thirty years through: Chinese pressure as the Jin situation resolved, Mongol confederation achieving dominance under a different leader, internal fragmentation, or Abbasid exploitation of the weakened eastern frontier.
 
 ### What Genghis actually changed
