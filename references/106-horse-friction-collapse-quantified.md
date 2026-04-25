@@ -12,7 +12,9 @@ Hämäläinen provides specific load capacity figures for horse adoption on the 
 - **Horse carrying:** 200 lbs of cargo
 - **Horse + travois:** 300 lbs dragged
 
-**4x increase in cargo capacity, almost overnight.** Not gradual improvement. Step-change discontinuity in the energy cost of moving material across the Plains.
+- **Daily range:** Horse covers 2x the distance of foot/dog travel per day
+
+**4x cargo capacity + 2x daily range = 8x effective throughput, almost overnight.** Not gradual improvement. Step-change discontinuity in the energy cost of moving material across the Plains.
 
 The travois is the key comparison. Pre-horse Plains cultures already had transportation technology (dogs + travois). The horse didn't introduce a new concept. It plugged into existing infrastructure and multiplied capacity by 4x. That's Rogers: compatible with existing practice, dramatically superior performance, low integration cost, immediately visible benefit. Rapid adoption predicted and observed.
 
