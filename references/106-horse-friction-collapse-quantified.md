@@ -1,6 +1,6 @@
 # Horse as Friction Collapse — Quantified
 
-**Source:** Hämäläinen, *The Comanche Empire*, Ch. 2 (~15h24m remaining)
+**Source:** Hämäläinen, *The Comanche Empire*, Ch. 2 (audiobook reverse timestamp: 15h24m remaining — use to locate page in print edition)
 **Type:** fact
 **Relevant to:** Chapter 6 (Parallel Conquests — empirical anchor for horse-as-friction-collapse)
 
