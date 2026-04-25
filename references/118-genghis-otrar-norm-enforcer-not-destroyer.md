@@ -42,6 +42,17 @@ The destruction enabled the most commercially open period in Silk Road history. 
 
 The surviving documentary record is almost entirely from people the Mongols destroyed — Khwarazmian chronicles, Persian survivor accounts, terrified European records. All encoding the destruction phase. The Mongol commercial and diplomatic record — showing the sequence of norm-following before military escalation — is underrepresented. The returning bombers are the destroyed cities' chronicles. The engine hits are the commercial logic that preceded and motivated the destruction.
 
+### The timing argument — immediate local talent recruitment
+
+The behavioral evidence most resistant to the barbarian narrative is not what the Mongols did but *when* they did it. A barbaric actor recruits local talent reactively during contraction. The Mongols recruited proactively during expansion:
+
+- **1204 (before the empire existed):** Captured the Naiman scribe Tata-tonga. Immediately recruited him to develop written Mongolian script from Uyghur alphabet, train Genghis's sons in literacy, compile the Great Yasa law code. Infrastructure investment before the empire officially existed. (Columbia University: "In 1204, even before he gained the title of 'Chinggis Khan,' Chinggis assigned one of his Uyghur retainers to develop a written language for the Mongols.")
+- **During Jin campaign:** Recruited 500 Chinese siege engineers during active combat operations.
+- **1209 Uyghur alliance:** Formed alliance specifically for administrative expertise. Married his daughter to the Uyghur Khan. The expertise was the strategic asset.
+- **10-year consolidation:** Active institution building — yam postal system, paiza passport system, Central Secretariat with multilingual translation infrastructure. Qaraqorum's most important population was scribes and translators.
+
+The barbarian hypothesis: local talent as last resort during contraction. The evidence: local talent immediately during expansion to build durable institutions. The timing distinguishes strategic sophistication from reactive barbarism.
+
 ## Key citations
 
 - Mongol historians: "adamant that Genghis at that time had no intention of invading" (Wikipedia, Mongol Invasion of the Khwarazmian Empire)
