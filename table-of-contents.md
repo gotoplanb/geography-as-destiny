@@ -77,7 +77,7 @@ The northern route (Tian Shan — reliable water, commercial traffic, Sogdian me
 - The Swahili Coast as oceanic chokepoint civilization — same node logic as Transoxiana
 - Maritime routes carried more volume than overland in many periods
 
-**The climate pulse:** The glacier metaphor — Chinese imperial power advancing and retreating through the Jade Gate correlated with wetter/drier periods. Oasis cities as climate-contingent infrastructure. The infrastructure trap: karez tunnels maximizing population in marginal terrain, then catastrophic collapse when the water retreated. 45 million deaths when engineered carrying capacity exceeded natural carrying capacity.
+**The climate pulse:** The glacier metaphor — Chinese imperial power advancing and retreating through the Jade Gate correlated with wetter/drier periods. Oasis cities as climate-contingent infrastructure. The infrastructure trap: karez tunnels maximizing population in marginal terrain, then catastrophic collapse when the water retreated. catastrophic population collapse (~36 million lost per Tang census data) when engineered carrying capacity exceeded natural carrying capacity.
 
 **The Sogdians:** The Silk Road's operating system for centuries — Persian-speaking Central Asian merchants running the relay network. Their identity dissolved when the Abbasid conquest removed the ecological niche that sustained it (religion, trade structure, political autonomy, script). They didn't become the Turks. They became the Tajiks. Identity as adaptive response to conditions, not primordial essence.
 
@@ -125,7 +125,7 @@ Empire is the constant. Friction is the variable. The four friction regimes as c
 
 **Diffusion analysis:** The railroad as a diffusion mechanism for state power. The S-curve of territorial control following rail lines. How the adoption curve of railroad technology in Washington and St. Petersburg produced identical policy outcomes independently.
 
-*Note: This chapter awaits semester 1 spine source reading (Morrison, Hämäläinen) for ground-level military and logistical detail. Conceptual framework is complete; evidence depth is not yet sufficient for drafting.*
+*(Draft — in review)*
 
 ### Chapter 7: The Great Man's Hardest Test
 *When the terrain absorbs the conqueror*

@@ -8,13 +8,13 @@
 
 **Turfan (Turpan Depression):** Below sea level, one of the hottest places in Asia, in Xinjiang (not Kyrgyzstan — geographic correction from audio). Fed by **karez** — hand-dug underground tunnels tapping glacial meltwater from surrounding mountains, delivering it underground to prevent evaporation. Ancient hydraulic engineering solving the thermodynamic problem: maximize water delivery, minimize energy loss to evaporation.
 
-**The population scale:** ~45 million deaths during 7th-8th century drought/collapse across the broader Tang sphere (An Lushan Rebellion period, coinciding with Battle of Talas). This implies extraordinary productive capacity of the hydraulically engineered landscape — tens of millions supported in what looks like desert.
+**The population scale:** The An Lushan Rebellion (755-763 CE) and its aftermath saw the Tang Dynasty's registered population drop from ~53 million to ~17 million — a loss of approximately 36 million through death, displacement, and administrative collapse (Mark Edward Lewis, *China's Cosmopolitan Empire*). The precise death toll is disputed (census collapse may reflect administrative failure as much as population loss), but the scale is not. This implies extraordinary productive capacity of the hydraulically engineered landscape — tens of millions supported in what looks like desert.
 
 **The infrastructure trap:** The more successfully you engineer around geographic constraints, the more catastrophically vulnerable you become when those constraints reassert themselves.
 - The karez system maximized population in a marginal environment
 - That maximization created fragile dependency on continued water supply
 - When drought hit, carrying capacity dropped catastrophically below the population the infrastructure had generated
-- The dam broke: 45 million is the cost of several centuries of successful friction collapse
+- The dam broke: ~36 million lost (per Tang census data) is the cost of several centuries of successful friction collapse
 
 **The principle:** The more you dam the river, the more catastrophic the dam failure. Infrastructure that collapses geographic friction doesn't eliminate the underlying constraint — it masks it while population grows to fill the new capacity. When the constraint reasserts (drought, climate shift), the population is far larger than the un-engineered landscape could support. The gap between engineered capacity and natural capacity is the measure of the catastrophe.
 
