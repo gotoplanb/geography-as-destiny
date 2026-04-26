@@ -16,8 +16,6 @@ How this book was made, why it was made this way, and what that implies about th
 
 The three lenses (geographic determinism, friction collapse, diffusion) unified by Shannon's information theory. The eugenics reductio — why the geographic explanation is necessary, not optional. The river as thermodynamic framework. The Nile/Amazon/Volga triptych and the Inca rotation. The great man reframe — high-leverage draws from a loaded distribution, illustrated by the Peter/Tecumseh mirror. Falsifiability conditions and holdout validation. Previews the Parallel Conquests as the thesis demonstrated at scale. *(Draft — in review)*
 
-**Narrative descent:** TBD — candidates include the view from the Pamir Knot, parallel farmers in two river valleys, or two merchants in chokepoint economies.
-
 ---
 
 ## Part II: The River and the Wall
@@ -31,8 +29,6 @@ Counter-cases: the Amazon (wrong soil, unmanageable flooding), the Volga (wrong 
 
 The five-variable model: climate, linear geometry, predictable flood cycle, connected outlet, favorable adjacency. Score any body of water and predict what it should produce. The asymmetry prediction: hard upstream boundary, soft downstream boundary.
 
-**Narrative descent:** The Nile farmer whose life is the flood cycle. Or: the Indus at two points — Gandhara as headwater chokepoint vs. Mohenjo-daro as floodplain grain city. Same river, different functions.
-
 **Diffusion analysis:** State formation itself as a Rogers diffusion curve shaped by geographic fitness. The Volga as laggard adopter of sedentary civilization. Administrative technologies spreading along river corridors vs. stalling at mountain barriers.
 
 ### Chapter 3: The Chokepoint
@@ -43,8 +39,6 @@ Afghanistan as Egypt's structural twin — both are chokepoints where geography 
 Gandhara as the eastern chokepoint — where the Indian subcontinent, Central Asia, and China nearly touch. Dunhuang and the Jade Gate as the eastern funnel's narrowest point. The pulsing frontier — imperial power flowing west through the gate during strong dynasties, retreating during weak ones.
 
 The contrast with Turkmenistan (the Karakum Desert as the Sahara belt): when there's nothing worth controlling on the other side and no route through, geography produces peace through irrelevance.
-
-**Narrative descent:** A merchant in Balkh or Dunhuang, managing the chokepoint economy. What it means to live at a crossroads.
 
 **Diffusion analysis:** How ideas, technologies, and religions move differently through chokepoints vs. open terrain. The chokepoint as filter, accelerator, and bottleneck simultaneously. The tributary system as sender-side encoding at a chokepoint — same transaction, two narratives.
 
@@ -121,8 +115,6 @@ Economic warfare: Russia's cotton monoculture destroying the pastoral economy. A
 
 Empire is the constant. Friction is the variable. The four friction regimes as context: this is regime #4 (railroad/physical), following regimes #1 (overland corridors), #2 (oceanic sail), and #3 (telegraph).
 
-**Narrative descent:** Two parallel stories, intercut. Geok Tepe and Palo Duro Canyon. Neither protagonist knows the other exists. Both face the same calculus.
-
 **Diffusion analysis:** The railroad as a diffusion mechanism for state power. The S-curve of territorial control following rail lines. How the adoption curve of railroad technology in Washington and St. Petersburg produced identical policy outcomes independently.
 
 *(Draft — in review)*
@@ -192,4 +184,4 @@ How the research was conducted. What the AI contributed. What the human contribu
 
 *Estimated length: 80,000–100,000 words*
 *Format: 8 chapters + prologue + epilogue + two appendices*
-*Structure: fractal (essay → narrative → diffusion) within each chapter*
+*Structure: essay → diffusion analysis within each chapter, with narrative descent where it earns structural weight*
