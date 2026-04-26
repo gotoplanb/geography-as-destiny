@@ -70,31 +70,32 @@ Think like someone who will be asked to sign off on this dissertation with their
 
 *Update this section before each review session.*
 
-**Current version:** v0.4
-**Semesters completed:** 1 (Tasar — Central Asian history)
-**Semester in progress:** 2 (Hansen — Silk Road)
-**Reference cards:** 78
-**Chapters drafted:** Prologue, Chapter 1 (The Distribution), Chapter 2 (The River Spine), Chapter 3 (The Chokepoint), Chapter 4 (The Silk Road), Chapter 5 (The Islamic Diffusion), Chapter 8 (The Synthesis Frontier)
-**Chapters awaiting source reading:** Chapter 6 (Parallel Conquests — needs Morrison, Hämäläinen), Chapter 7 (Timurid Paradox — needs Starr)
+**Current version:** v1.0-draft (fix pass applied)
+**Semesters completed:** 3 (Tasar — Central Asia, Hansen — Silk Road, Hämäläinen — Comanche + Starr — Lost Enlightenment)
+**Reference cards:** 120+
+**Chapters drafted:** All eight + Prologue
+**Chapters in review:** All — tentative final draft
 
 ### Closed Issues (verify resolutions in submitted text)
 
-- **#6 — Divination claim:** Downgraded from assertion to hypothesis. Text should read "if this pattern holds under rigorous comparative examination" and "a hypothesis worth testing rather than an established finding."
-- **#7 — Hitler example:** Narrowed from "fascist Germany" to "authoritarian Germany, even if the particular form that authoritarianism took might have differed." New endnote [29a] acknowledging Kershaw.
-- **#8 — Peter/Tecumseh timelines:** Softened from "twenty years" / "ten years" to "a generation" throughout.
-- **#9 — Volga/Khazar:** Revised to acknowledge Khazar Khaganate as gradient outcome — "sophisticated, cosmopolitan trading state" but "never a grain empire on the Nile's scale."
-- **#10 — Shannon-Rogers framing:** Changed to "We argue that Rogers is, at bottom, applied Claude Shannon." Owned as our synthesis.
+All issues from v0.1 through v0.6 remain closed and verified in the v1.0 regression suite. Key resolutions:
+- **#3 (Timur):** Resolved via Mongol case + Samanid substrate. Timur as budget mechanism.
+- **#4 (friction boundaries):** Single criterion: "did it change who the terrain serves?"
+- **#5 (diffusion weight):** Ch. 5 now 8 sections. Manichaeism controlled experiment.
+- **#6-10:** All original committee feedback resolved and holding.
+- **#11-18:** All resolved across v0.4 and v0.5 review cycles.
 
-### Open Issues
+### Open Issues (from v1.0 review)
 
-- **#3 — Timur as counterexample:** Needs Starr reading (semester 2). Body claims framework "survives Timur" but footnote admits it's "an open question" — soften body to defer to Ch. 7.
-- **#4 — Friction collapse boundaries:** Three-criteria taxonomy developed but only one criterion (terrain-function inversion) in Ch. 1 text. Incorporate the other two or drop the three-criteria language.
-- **#5 — Diffusion lens weight:** Improved but still thinnest of three lenses (3 paragraphs vs. 5 and 6). Formal S-curve still outstanding.
-- **#11 — Holdout validation language:** Claim stronger than evidence supports. Needs base rate acknowledgment, timestamped artifact citation, holdout-specific falsification condition.
-- **#12 — Shannon synthesis under-examined:** Asserted three times, argued zero. Clarify: geography IS a Shannon channel (measurable) or USEFULLY ANALOGOUS (illuminating not computational)?
-- **#13 — Section V closes too early:** Parallel conquests preview compressed to bullet points. Expand to 3-4 paragraphs or cut to one and defer.
+- **#24 — Ch. 6 bilateral deficit needs ground-level scene.** One specific Hämäläinen example of categorical incompatibility in treaty/trade encounter. Needs physical book page reference.
+- **#32 — charlie-prompt.md.** This file. Updated to current state.
+- **#34 — Narrative descents not uniformly delivered.** TOC promises fractal structure not fully delivered in Chs. 1-3, 6. Editorial decision: write them or revise the promise.
 
 ### Previous Reviews
 
-- **v0.1 review (full text in `charlie-feedback-v0.1.md`):** Five items flagged (#6-10), none structural. Verdict: "This is a dissertation. Finish it."
-- **v0.3.1 review (full text in `charlie-feedback-v0.3.1.md`):** All five closed issues verified ✅. Three new items (#11-13), none structural. Verdict: "Stronger draft. Fix holdout language, diffusion weight, Section V. Keep going."
+- **v0.1 review:** Five items (#6-10), none structural. "This is a dissertation. Finish it."
+- **v0.3.1 review:** Three new items (#11-13). "Stronger draft. Keep going."
+- **v0.4 review:** Five new items (#14-18). "Corridor chapters demonstrate the framework at full capacity."
+- **v0.4-final re-review:** All closed issues verified. "The book is earning its ambition."
+- **v0.6 review:** Five new items (#19-23), all "promote good thinking." "Ready for its hardest test."
+- **v1.0 review:** 13 items total, one regression (fixed), three high-severity sourcing (fixed). 17/20 regression suite items verified clean. "The dissertation is defensible. The contribution is real. Fix the sourcing. Then defend it."
