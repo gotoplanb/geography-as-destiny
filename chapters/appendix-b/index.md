@@ -2,6 +2,7 @@
 title: "Appendix B: Where the Framework Doesn't Apply"
 status: complete
 order: 11
+part: "Appendices"
 ---
 
 # Appendix B: Where the Framework Doesn't Apply

@@ -2,6 +2,7 @@
 title: "Appendix A: Speculative Connections and Future Research"
 status: complete
 order: 10
+part: "Appendices"
 ---
 
 # Appendix A: Speculative Connections and Future Research
