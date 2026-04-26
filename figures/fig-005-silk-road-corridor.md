@@ -3,7 +3,7 @@ id: fig-005
 title: "The Silk Road Corridor — Terrain Determines Routes"
 type: map
 implementation: leaflet
-status: concept
+status: rendered
 chapter: 4
 ---
 

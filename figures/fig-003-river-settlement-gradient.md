@@ -3,7 +3,7 @@ id: fig-003
 title: "Universal River Settlement Gradient"
 type: diagram
 implementation: python
-status: concept
+status: rendered
 chapter: 2
 ---
 

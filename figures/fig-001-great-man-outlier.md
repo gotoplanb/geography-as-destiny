@@ -3,7 +3,7 @@ id: fig-001
 title: "The Great Man as Outlier"
 type: graph
 implementation: python
-status: concept
+status: rendered
 chapter: 1
 ---
 

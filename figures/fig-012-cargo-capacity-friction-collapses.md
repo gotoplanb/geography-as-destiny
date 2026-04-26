@@ -3,7 +3,7 @@ id: fig-012
 title: "Cargo Capacity Across Plains Transportation Technologies"
 type: graph
 implementation: python
-status: concept
+status: rendered
 chapter: 6
 ---
 

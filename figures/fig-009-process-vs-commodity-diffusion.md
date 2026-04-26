@@ -3,7 +3,7 @@ id: fig-009
 title: "Process Knowledge vs. Commodity Diffusion"
 type: graph
 implementation: python
-status: concept
+status: rendered
 chapter: 4
 ---
 

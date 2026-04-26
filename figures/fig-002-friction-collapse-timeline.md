@@ -3,7 +3,7 @@ id: fig-002
 title: "Friction Collapse Timeline"
 type: graph
 implementation: python
-status: concept
+status: rendered
 chapter: 1
 ---
 

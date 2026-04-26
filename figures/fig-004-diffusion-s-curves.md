@@ -3,7 +3,7 @@ id: fig-004
 title: "Diffusion S-Curves: Islam's Two Mechanisms"
 type: graph
 implementation: python
-status: concept
+status: rendered
 chapter: 5
 ---
 

@@ -3,7 +3,7 @@ id: fig-011
 title: "Comanche Outposts as Non-Linear — No River Spine, No Fixed Infrastructure"
 type: map
 implementation: python
-status: concept
+status: rendered
 chapter: 6
 ---
 

@@ -3,7 +3,7 @@ id: fig-006
 title: "The Parallel Conquests — Same Decade, Opposite Sides"
 type: map
 implementation: d3
-status: concept
+status: rendered
 chapter: 6
 ---
 
