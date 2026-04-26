@@ -37,6 +37,9 @@ The horse broke that interdependency entirely. Horses grazed independently on th
 
 This is not a faster horse. This is the elimination of an entire cost category from the logistics chain. The same structural move the railroad would later make in the Tarim Basin — where camels needed oasis water but trains carried their own. The technology that removes a geographic dependency from the transportation equation is the technology that changes who the terrain serves.
 
+![Two Sequential Friction Collapses on the Same Terrain](../../figures/output/fig-012-cargo-capacity-friction-collapses.png)
+*[Figure 12: Cargo Capacity Across Plains Transportation Technologies](../../figures/fig-012-cargo-capacity-friction-collapses.md)*
+
 ---
 
 ## III. The Comanche Empire
@@ -83,6 +86,9 @@ Third, the climate incompatibility. East-west corridors connect civilizations at
 
 Twelve thousand years of human use at the Rocky Mountain foothills corridor. Zero permanent urban nodes. The framework predicts this from orientation, climate compatibility, and demand structure — and the archaeological record confirms it.[^18]
 
+![The Terrain Determines the Organizational Form](../../figures/output/fig-011-comanche-non-linear-outposts.png)
+*[Figure 11: Comanche Non-Linear Outposts vs. Gansu Corridor Linear Infrastructure](../../figures/fig-011-comanche-non-linear-outposts.md)*
+
 ---
 
 ## VI. The Orthogonal Rotation
@@ -100,6 +106,9 @@ In the American West, the Transcontinental Railroad (completed 1869) and the sub
 In Central Asia, the Transcaspian Railway (built 1880-1888) performed the identical function. General Annenkov built the line across the Karakum Desert from the Caspian Sea to Samarkand — turning a region that had been logistically impossible to hold into one that could be supplied, reinforced, and administered. Before the railroad, Perovskii's 1839 invasion of Khiva had failed because the Russians could not manage camels in the desert. Geography stopped the empire cold. The fort chain that followed was incremental friction reduction. The railroad was total friction collapse.[^21]
 
 Same technology. Same decade. Same geographic type. Same target culture. Same result. Neither empire aware of the other's parallel campaign.
+
+![The Parallel Conquests — Same Technology, Same Decade, Opposite Sides of the Planet](../../figures/output/fig-006-parallel-conquests.png)
+*[Figure 6: The Parallel Conquests](../../figures/fig-006-parallel-conquests-map.md) | [Interactive version](/book/figures/fig-006-parallel-conquests)*
 
 ---
 
