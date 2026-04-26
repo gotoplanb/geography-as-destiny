@@ -35,6 +35,8 @@ The human does the reading. The human forms the interpretations. The human makes
 - **[`chapters/03-the-chokepoint/index.md`](chapters/03-the-chokepoint/index.md)** — Chapter 3: position not wealth, the pulsing frontier, chokepoint economy, peace through irrelevance *(draft — in review)*
 - **[`chapters/04-the-silk-road/index.md`](chapters/04-the-silk-road/index.md)** — Chapter 4: relay network not road, friction filter, maritime corridor, climate pulse, Sogdians *(draft — in review)*
 - **[`chapters/05-the-islamic-diffusion/index.md`](chapters/05-the-islamic-diffusion/index.md)** — Chapter 5: Islam's two curves, Manichaeism as contrast case, boundaries as load-bearing *(draft — in review)*
+- **[`chapters/06-the-parallel-conquests/index.md`](chapters/06-the-parallel-conquests/index.md)** — Chapter 6: the flagship chapter — horse as friction collapse quantified, bilateral deficit, Why No Dunhuang, the orthogonal rotation, Atlantic parallel *(draft — in review)*
+- **[`chapters/07-the-great-mans-hardest-test/index.md`](chapters/07-the-great-mans-hardest-test/index.md)** — Chapter 7: Genghis as norm enforcer, four-khanate natural experiment, Timur as budget mechanism *(draft — in review)*
 - **[`chapters/08-the-synthesis-frontier/index.md`](chapters/08-the-synthesis-frontier/index.md)** — Chapter 8: the correction loop, holdout validation, canal vs. river, process as evidence *(draft — in review)*
 
 #### Project scaffolding
@@ -83,7 +85,7 @@ Anyone can play committee advisor. If your review finds something ours missed, [
 
 ## Status
 
-Semester 2 in progress. Three chapters drafted (Prologue, Chapter 1, Chapter 8). 55 reference cards harvested. Two committee reviews completed with all initial issues resolved and three new issues identified. Six open issues, none structural.
+All eight chapters drafted. 120+ reference cards harvested. Five committee reviews completed. The framework has been tested across six continents, multiple millennia, and the hardest cases available — including Genghis Khan as the great man stress test. Tentative final draft submitted for review.
 
 ---
 
