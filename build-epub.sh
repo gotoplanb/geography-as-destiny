@@ -13,8 +13,9 @@ AUTHOR="Dave Stanton & Claude (Anthropic)"
 DATE="2026"
 OUTPUT_DIR="build"
 OUTPUT_FILE="${OUTPUT_DIR}/geography-as-destiny.epub"
+TEMP_DIR="${OUTPUT_DIR}/temp_chapters"
 
-mkdir -p "$OUTPUT_DIR"
+mkdir -p "$OUTPUT_DIR" "$TEMP_DIR"
 
 # Chapter order — the reading sequence
 CHAPTERS=(
@@ -50,24 +51,35 @@ rights: "Open Access"
 ---
 EOF
 
+# Strip YAML frontmatter from each chapter to prevent pandoc from
+# using the last chapter's title as the book title
+STRIPPED_CHAPTERS=()
+for i in "${!CHAPTERS[@]}"; do
+    src="${CHAPTERS[$i]}"
+    dest="${TEMP_DIR}/$(printf '%02d' $i).md"
+    # Remove YAML frontmatter (everything between first --- and second ---)
+    sed '1{/^---$/!q;};1,/^---$/d' "$src" > "$dest"
+    STRIPPED_CHAPTERS+=("$dest")
+done
+
 # Build the epub
 # --toc: generate table of contents
 # --toc-depth=1: only top-level headings in TOC
-# --epub-chapter-level=1: split on H1 headings
+# --split-level=1: split on H1 headings
 # --metadata-file: book metadata
 # --resource-path: where to find images
 pandoc \
     --metadata-file="${OUTPUT_DIR}/metadata.yaml" \
     --toc \
     --toc-depth=1 \
-    --epub-chapter-level=1 \
+    --split-level=1 \
     --resource-path=.:figures/output:chapters \
     --strip-comments \
     -o "$OUTPUT_FILE" \
-    "${CHAPTERS[@]}"
+    "${STRIPPED_CHAPTERS[@]}"
 
-# Clean up temp metadata
-rm "${OUTPUT_DIR}/metadata.yaml"
+# Clean up temp files
+rm -rf "$TEMP_DIR" "${OUTPUT_DIR}/metadata.yaml"
 
 # Report
 FILE_SIZE=$(du -h "$OUTPUT_FILE" | cut -f1)
