@@ -7,6 +7,8 @@ Rivers build states. Mountains prevent them. Chokepoints create contests. And ev
 
 This book argues that framework across eight chapters, from the Nile to the Silk Road to a pair of parallel conquests that happened simultaneously on opposite sides of the planet, driven by the same technology, against the same kind of culture, with neither side aware of the other. That's not coincidence. That's geography.
 
+**[Download the epub](build/geography-as-destiny.epub)** — read on Kindle, Apple Books, or any epub reader. The complete book with all figures and endnotes. Reference cards and interactive figures are available on the [website](https://davestanton.com/book).
+
 ## How this is being made
 
 The obvious question: is a human-AI collaboration legitimate scholarship?

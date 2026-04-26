@@ -11,4 +11,4 @@ __pycache__/
 # IDE
 .vscode/
 .idea/
-build/
+# build/ tracked — epub available for download
