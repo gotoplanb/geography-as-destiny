@@ -28,16 +28,16 @@ The human does the reading. The human forms the interpretations. The human makes
 
 ### What's in the repo
 
-#### Drafts in progress
-- **[`prologue.md`](prologue.md)** — On method: the river metaphor, the R-squared framing, Shannon, and why human-AI collaboration is scholarship *(draft — in review)*
-- **[`chapters/01-the-distribution/index.md`](chapters/01-the-distribution/index.md)** — Chapter 1: the three lenses, the great man reframe, falsifiability, and the Parallel Conquests preview *(draft — in review)*
-- **[`chapters/02-the-river-spine/index.md`](chapters/02-the-river-spine/index.md)** — Chapter 2: the thermodynamic river model, settlement gradient, Goldilocks zone, class structure *(draft — in review)*
-- **[`chapters/03-the-chokepoint/index.md`](chapters/03-the-chokepoint/index.md)** — Chapter 3: position not wealth, the pulsing frontier, chokepoint economy, peace through irrelevance *(draft — in review)*
-- **[`chapters/04-the-silk-road/index.md`](chapters/04-the-silk-road/index.md)** — Chapter 4: relay network not road, friction filter, maritime corridor, climate pulse, Sogdians *(draft — in review)*
-- **[`chapters/05-the-islamic-diffusion/index.md`](chapters/05-the-islamic-diffusion/index.md)** — Chapter 5: Islam's two curves, Manichaeism as contrast case, boundaries as load-bearing *(draft — in review)*
-- **[`chapters/06-the-parallel-conquests/index.md`](chapters/06-the-parallel-conquests/index.md)** — Chapter 6: the flagship chapter — horse as friction collapse quantified, bilateral deficit, Why No Dunhuang, the orthogonal rotation, Atlantic parallel *(draft — in review)*
-- **[`chapters/07-the-great-mans-hardest-test/index.md`](chapters/07-the-great-mans-hardest-test/index.md)** — Chapter 7: Genghis as norm enforcer, four-khanate natural experiment, Timur as budget mechanism *(draft — in review)*
-- **[`chapters/08-the-synthesis-frontier/index.md`](chapters/08-the-synthesis-frontier/index.md)** — Chapter 8: the correction loop, holdout validation, canal vs. river, process as evidence *(draft — in review)*
+#### Chapters
+- **[`prologue.md`](prologue.md)** — On method: the river metaphor, the R-squared framing, Shannon, and why human-AI collaboration is scholarship *(complete — committee signed off)*
+- **[`chapters/01-the-distribution/index.md`](chapters/01-the-distribution/index.md)** — Chapter 1: the three lenses, the great man reframe, falsifiability, and the Parallel Conquests preview *(complete — committee signed off)*
+- **[`chapters/02-the-river-spine/index.md`](chapters/02-the-river-spine/index.md)** — Chapter 2: the thermodynamic river model, settlement gradient, Goldilocks zone, class structure *(complete — committee signed off)*
+- **[`chapters/03-the-chokepoint/index.md`](chapters/03-the-chokepoint/index.md)** — Chapter 3: position not wealth, the pulsing frontier, chokepoint economy, peace through irrelevance *(complete — committee signed off)*
+- **[`chapters/04-the-silk-road/index.md`](chapters/04-the-silk-road/index.md)** — Chapter 4: relay network not road, friction filter, maritime corridor, climate pulse, Sogdians *(complete — committee signed off)*
+- **[`chapters/05-the-islamic-diffusion/index.md`](chapters/05-the-islamic-diffusion/index.md)** — Chapter 5: Islam's two curves, Manichaeism as contrast case, boundaries as load-bearing *(complete — committee signed off)*
+- **[`chapters/06-the-parallel-conquests/index.md`](chapters/06-the-parallel-conquests/index.md)** — Chapter 6: the flagship chapter — horse as friction collapse quantified, bilateral deficit, Why No Dunhuang, the orthogonal rotation, Atlantic parallel *(complete — committee signed off)*
+- **[`chapters/07-the-great-mans-hardest-test/index.md`](chapters/07-the-great-mans-hardest-test/index.md)** — Chapter 7: Genghis as norm enforcer, four-khanate natural experiment, Timur as budget mechanism *(complete — committee signed off)*
+- **[`chapters/08-the-synthesis-frontier/index.md`](chapters/08-the-synthesis-frontier/index.md)** — Chapter 8: the correction loop, holdout validation, canal vs. river, process as evidence *(complete — committee signed off)*
 
 #### Project scaffolding
 - **[`geography-as-destiny-seed.md`](geography-as-destiny-seed.md)** — The original seed document, captured via voice-to-text on a walk in Gainesville, FL

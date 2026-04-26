@@ -1,7 +1,7 @@
 ---
 title: "Chapter 7: The Great Man's Hardest Test"
 subtitle: "When the terrain absorbs the conqueror"
-status: draft
+status: complete
 order: 7
 part: "Part IV: The Collapse of Friction"
 ---

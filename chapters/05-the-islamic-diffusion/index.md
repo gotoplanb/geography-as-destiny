@@ -1,7 +1,7 @@
 ---
 title: "Chapter 5: The Islamic Diffusion"
 subtitle: "Two curves for one religion — and one that failed"
-status: draft
+status: complete
 order: 5
 part: "Part III: The Corridor"
 ---

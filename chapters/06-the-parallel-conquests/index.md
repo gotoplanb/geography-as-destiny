@@ -1,7 +1,7 @@
 ---
 title: "Chapter 6: The Parallel Conquests"
 subtitle: "Same shock, same result, opposite sides of the planet"
-status: draft
+status: complete
 order: 6
 part: "Part IV: The Collapse of Friction"
 ---

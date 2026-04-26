@@ -1,7 +1,7 @@
 ---
 title: "Chapter 2: The River Spine"
 subtitle: "How water builds states — and class structures"
-status: draft
+status: complete
 order: 2
 part: "Part II: The River and the Wall"
 ---

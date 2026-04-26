@@ -1,7 +1,7 @@
 ---
 title: "Prologue: On Method"
 subtitle: "How this book was made, why it was made this way"
-status: draft
+status: complete
 order: 0
 ---
 

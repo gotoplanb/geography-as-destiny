@@ -1,7 +1,7 @@
 ---
 title: "Chapter 8: The Synthesis Frontier"
 subtitle: "AI, friction collapse, and the future of scholarship"
-status: draft
+status: complete
 order: 8
 part: "Part V: The Meta-Argument"
 ---

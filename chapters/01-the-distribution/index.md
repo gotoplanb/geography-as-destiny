@@ -1,7 +1,7 @@
 ---
 title: "Chapter 1: The Distribution"
 subtitle: "Geography as probability, not destiny"
-status: draft
+status: complete
 order: 1
 part: "Part I: The Framework"
 ---

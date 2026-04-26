@@ -1,7 +1,7 @@
 ---
 title: "Chapter 3: The Chokepoint"
 subtitle: "Where everything funnels through"
-status: draft
+status: complete
 order: 3
 part: "Part II: The River and the Wall"
 ---

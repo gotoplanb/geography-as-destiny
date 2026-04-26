@@ -1,7 +1,7 @@
 ---
 title: "Chapter 4: The Silk Road as Circulatory System"
 subtitle: "A relay network, not a road — overland and maritime"
-status: draft
+status: complete
 order: 4
 part: "Part III: The Corridor"
 ---
