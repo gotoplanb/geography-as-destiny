@@ -127,22 +127,28 @@ Empire is the constant. Friction is the variable. The four friction regimes as c
 
 *Note: This chapter awaits semester 1 spine source reading (Morrison, Hämäläinen) for ground-level military and logistical detail. Conceptual framework is complete; evidence depth is not yet sufficient for drafting.*
 
-### Chapter 7: The Timurid Paradox
-*When the river takes back what the great man dammed*
+### Chapter 7: The Great Man's Hardest Test
+*When the terrain absorbs the conqueror*
 
-Timur builds an empire of skulls through pure cult of personality. His descendants accidentally produce one of the great cultural flowerings of the medieval world. The brutal conqueror's grandchildren become Renaissance princes.
+**Primary case — the Mongol Empire as complete demonstration:**
 
-This illustrates the thesis in miniature: great men can dam the river temporarily. They cannot redirect it permanently. Within two generations the underlying geographic and cultural logic reasserts itself. The Timurid cultural renaissance is not Timur's legacy — it is the terrain's legacy, using his resources. The same geographic conditions (crossroads, cosmopolitan, irrigated) that produced the Sogdian golden age and the Samanid renaissance expressed themselves again through the Timurid dynasty — because the terrain selects for intellectual ferment regardless of who holds power.
+The most consequential individual in world history subjected to the framework's full analytical treatment. Genghis Khan reframed: not a bloodthirsty barbarian destroying civilization but a commercial norm enforcer whose violence was system correction after the Shah of Khwarazm violated the Silk Road's institutional framework. The Otrar incident as the specific trigger. The Pax Mongolica as the outcome — the most commercially open period in Silk Road history. (Refs 095, 118, 119)
 
-Sub-argument: while Europe was in the Dark Ages, the Central Asian corridor was where Greek philosophy, mathematics, astronomy, and medicine were being preserved, transmitted, and extended.
+The four-khanate natural experiment: one empire, four geographic zones, four predicted outcomes, four confirmations. Yuan absorbed by China, Ilkhanate absorbed by Persia, Golden Horde maintained nomadic form (lasted longest — closest to steppe energy base), Chagatai fragmented (corridor instability). Collapse sequence correlated with distance from steppe energy base. (Ref 120)
 
-Identity as adaptive response: the Sogdians became the Tajiks. The Timurids became the Mughals. Same population, different incentive structures, different cultural output.
+Immediate local talent recruitment as behavioral evidence: Tata-tonga recruited in 1204 before the empire existed. 500 Jin engineers during active combat. The timing distinguishes strategic sophistication from reactive barbarism. Weatherford's *Genghis Khan and the Making of the Modern World* as primary academic authority.
 
-**Narrative descent:** Ulugh Beg's observatory in Samarkand. A grandson of the most destructive conqueror since Genghis Khan, building the most advanced astronomical instruments in the world.
+**Supporting illustration — Timur in brief:**
 
-**Diffusion analysis:** How the Timurid cultural output actually reached Europe through the same corridors the Silk Road always used. The innovation didn't care who conquered what.
+Same corridor, same geographic logic, same pattern repeated. Timur as a high-variance draw from a distribution the Samanid cultural substrate had already prepared. His descendants' cultural flowering (Ulugh Beg's observatory, Herat school) continued and deepened after Timur's death — the terrain sustained the renaissance, not the great man. Two paragraphs demonstrating the pattern repeats without overstating Timur's analytical significance.
 
-*Note: This chapter awaits Starr reading (semester 2). Open question: does Timur shift structural outcomes or only timing? (Charlie's issue #3)*
+**The great man spectrum completed:**
+
+Peter (accelerant), Tecumseh/Kenesary (decelerants), Genghis (accelerant + institutional shaper), Timur (budget mechanism for pre-existing cultural substrate). All fit: high-leverage draws from loaded distributions. They shape timing and path. They don't create the destination.
+
+**Narrative descent:** Ulugh Beg's observatory in Samarkand. A grandson of a conqueror building the most advanced astronomical instruments in the world — because the terrain at Transoxiana's crossroads was selecting for intellectual output regardless of which dynasty happened to hold power.
+
+*Note: Charlie's issue #3 (does Timur shift structural outcomes?) is now addressed through the Mongol case's four-khanate evidence rather than through a dedicated Timurid counterfactual. Timur reduced to supporting illustration. Structural revision flagged for Charlie's review.*
 
 ---
 
