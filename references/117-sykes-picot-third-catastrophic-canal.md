@@ -42,6 +42,14 @@ The Shia Crescent (Iran → southern Iraq → Syria → Lebanon) traces the actu
 - Gulf War (1991): Kuwait's borders (British line-drawing) created the ambiguity Saddam exploited
 - Kurdish conflict: ongoing across all four states, never resolved because the geographic reality was never acknowledged
 
+### The knowledge problem — willful ignorance, not unavailable information
+
+The Middle East is one of the most intensively documented regions in human history. The Fertile Crescent, the Levant, Mesopotamia — centuries of Ottoman administrative records contained detailed ethnographic and geographic knowledge of community distributions, tribal networks, and the corridor's human organization. Sykes and Picot had access to none of it — not because it didn't exist but because they didn't consult it. Strategic priorities (British access to oil and the route to India, French influence in the Levant) determined the lines first. The geography was an afterthought.
+
+The Ottoman millet system is the key context: it governed communities, not territories. Four centuries of Ottoman administration didn't require hard ethnic borders because the system organized people by religious community regardless of geography. This flexibility worked for Ottoman purposes but left no territorial map of where communities were. When Sykes and Picot tried to draw hard territorial borders, there was no Ottoman precedent to translate — only a flexible communal system that had never needed one. The millet system's success at governing without hard borders made drawing hard borders after it collapsed nearly impossible.
+
+Compare: South American colonial borders were drawn more slowly over decades of actual colonial administration, surveying expeditions, and negotiation between powers with boots on the ground. Still imperfect but informed by direct geographic knowledge accumulated over time. The Middle East borders were drawn in wartime, in about a year, by two men with a map and competing imperial interests.
+
 ## Key citations
 
 - GEOPOL: "borders drawn with minimal regard for the ethnic, religious, tribal, and geographic realities of the region, became the political architecture of the modern Middle East"

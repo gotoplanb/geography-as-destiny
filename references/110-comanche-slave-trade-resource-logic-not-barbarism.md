@@ -21,6 +21,8 @@ Source: University of Montana, Chapter 7 Comanche Historical Ethnography.
 
 **The commercial hub:** The upper Arkansas River basin was the focal point — western Comanches running seasonal trade centers where native and European parties purchased horses and mules with guns and manufactured goods.
 
+**The guns-side mechanism (Spanish embargo bypass):** The Spanish maintained gun embargoes in their colonial territories, meaning Comanche access to firearms from the south was restricted. French and British traders operating from the north and northeast had no such embargo. The Comanche exploited the jurisdictional seam: trading horses south and west, acquiring guns through northern trade networks outside Spanish control. The commodity market was geographically structured by colonial policy, not just supply and demand — the Comanche were operating across a regulatory arbitrage gap that the Spanish had no mechanism to close.
+
 Source: History Cooperative, "The Rise and Fall of Plains Indian Horse Cultures."
 
 **The timeline:** By the 1720s, Comanche completed conquest of the Arkansas River valley. By the 1730s, they were the first fully-mounted bison-hunting nomads of the Great Plains — the first to make the full equestrian economy shift.
