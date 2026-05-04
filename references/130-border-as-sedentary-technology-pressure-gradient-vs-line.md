@@ -21,6 +21,14 @@ In every case, the sedentary empire wants the line. The nomadic confederation ne
 
 **The line wins eventually.** The sedentary empire can enforce the fixed border with railroads, forts, and legal systems. The nomadic confederation cannot enforce the gradient against military infrastructure that is itself geographically fixed. But the gradient was never wrong about how the terrain actually works. The pressure surface the nomadic economy was tracking — where grazing is, where water is, where seasonal resources concentrate — does not recognize the administrative line. It simply continues operating beneath it, expressed as smuggling, raiding, and "border violations" that are really just the terrain reasserting its actual logic against the administrative convenience imposed on it.
 
+**The ironic reversal — nomadic people requesting a sedentary border:** When Texas opened settlement into Indian lands without fixed borders, settlers poured in under the assumption that unfixed borders meant available land. The Comanche and Cherokee — whose territorial logic had always been gradient-based, who had no cultural need for fixed lines — responded by requesting a fixed border northwest of the Guadalupe Mountains. Not because a fixed line matched their territorial logic. Because they understood sedentary culture well enough to know it was the only language settlers could hear. They had been watching the sedentary border concept operate for generations. They knew that the only thing a sedentary civilization recognizes as a territorial limit is a line on a map with legal standing.
+
+So they asked for the line.
+
+This is the Rogers orthogonal encoding problem solved from the receiver side: if your signal isn't being received in the format you're transmitting it, reformat the signal. The Comanche reformatted their territorial claim into the only format Texas would recognize. The border concept was never their territorial logic — it was a translation, a deliberate adoption of the sedentary encoding system as a defensive tool.
+
+It failed anyway. Not because the request was unclear, but because Texas had already made the sedentary contraction problem explicit in statute (see ref 135).
+
 ## Why this matters
 
 1. **Explains the structural failure of every nomadic-sedentary treaty negotiation in the book.** The failure is not diplomatic incompetence or bad faith. It is a category mismatch: the two parties are negotiating over incompatible concepts of what a border is and does. This is the miscibility gradient problem (ref 022) applied to territorial logic.

@@ -23,6 +23,12 @@
 
 **Thermodynamic framing:** Expanding systems can afford to keep identity boundaries porous because the incoming energy (resources, talent, trade) exceeds the cost of diversity. Contracting systems can't afford the energy cost of maintaining diversity and default to exclusion — which is locally cheaper but systemically destructive.
 
+**The Lamar / Texas case:** Sam Houston had established trading relationships with Native nations — the Comanche commercial network was functioning, the merchant class was prospering. Mirabeau Lamar came to power during a moment of stress and uncertainty in the Republic of Texas and the scapegoating mechanism activated. His aggressive anti-Native policy wasn't random racism — it was the thermodynamically predictable response of a political class that needed to explain resource pressure and frontier stress without implicating its own overreach. The racism wasn't the cause of the contraction. It was the contraction's political expression.
+
+Lamar is not a villain in the framework's reading. He is the mechanism through which a thermodynamic contraction produces its predictable scapegoating response — the same analytical move as Jackson with the Indian Removal Act (ref 129). Remove Lamar and the contraction still produces the same political pressure. Someone else becomes the mechanism.
+
+**The precise formulation (Dave Stanton, 2026-05-04):** Racism loses during power expansion because it is counterproductive — excluding competent people based on identity when you need every advantage to sustain growth is expensive. Racism becomes prominent during contraction because it is politically functional — the administrative class can't honestly account for overreach, and scapegoating an outgroup is cheaper and more politically sustainable than honest thermodynamic accounting. The framework predicts *when* racism intensifies, not just *that* it exists. Timing and intensity are thermodynamically predictable.
+
 ## Why this matters
 
 1. **Chapter 4 gains explanatory depth.** The Sogdian dissolution (ref 076) wasn't just the Abbasid conquest removing their niche. The Tang were already turning against them before the full collapse. The persecution and the conquest were concurrent pressures from opposite directions.
