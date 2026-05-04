@@ -70,6 +70,7 @@ done
 # --resource-path: where to find images
 pandoc \
     --metadata-file="${OUTPUT_DIR}/metadata.yaml" \
+    --epub-cover-image=cover.png \
     --toc \
     --toc-depth=1 \
     --split-level=1 \
