@@ -70,6 +70,13 @@ Where cultural substrate existed — between the Comanche and other Plains natio
 
 The maturation curve that converts extractive frontier encounters into reciprocal institutional relationships — the process that took the Silk Road centuries to develop — never had time to complete. The velocity of American expansion overwhelmed the curve before it could produce stable institutions. The tragedy was not that equilibrium was impossible. It was that the pressure differential was too fast for even partial miscibility to generate enough friction to slow the overrun to a negotiable pace.[^ch6-15]
 
+The reason American velocity was so high is that American expansion was not confronting an intact sedentary empire. It was crystallizing in a vacuum that two prior forces had already created. The Comanche, following their commercial gradient southwest, had dissolved Mexican sovereignty over the northern frontier without intending to and without any interest in administering what they dissolved. Behind them, American settlement pressure was moving faster than the Comanche advance — an occluded front, a faster pressure system catching a slower one. The collision zone was Texas and New Mexico: not Americans fighting Mexicans, but Americans meeting Comanche at the leading edge of the faster front catching the slower one. Mexico barely appeared in the final act of its own territorial loss. The Americans weren't taking territory from Mexico. They were administering a vacuum the Comanche had already created.[^ch6-15a]
+
+The same mechanism operated on the Eurasian steppe a millennium earlier. Turkic confederations moving west dissolved Tang sovereignty over Transoxiana without being able or willing to administer what they dissolved. The Abbasid Caliphate, then the Samanid Persian revival, crystallized in the dissolved space — not by defeating the Tang directly, but by filling the administrative vacuum the steppe confederations had opened. The nomadic pressure system is the solvent. The incoming sedentary empire is what crystallizes when the solution cools. Sedentary empires rarely replace each other through direct confrontation. The nomadic intermediary does the dissolution work first.[^ch6-15b]
+
+![The Occluded Front — Nomadic Solvent and Sedentary Succession](../../figures/output/fig-014-occluded-front-nomadic-solvent.png)
+*[Figure 14: The Occluded Front — Nomadic Solvent and Sedentary Succession](../../figures/fig-014-occluded-front-nomadic-solvent.md)*
+
 ---
 
 ## V. Why No Dunhuang
@@ -215,3 +222,7 @@ Empire is the constant. Friction is the variable. The technology determines the 
 [^ch6-26]: The counterfactual removal test applied at group level rather than individual level. The Peter/Tecumseh mirror (ref 004) applied to an entire people. See [ref 026](../../references/026-great-men-as-high-leverage-draws.md).
 
 [^ch6-27]: On the Atlantic crossing as the oceanic parallel to the railroad — same orthogonal rotation, different medium: Spain going west and Portugal going east in the same decade, same technology, minimal coordination. See [ref 094](../../references/094-atlantic-crossing-friction-collapse-sail-parallels.md).
+
+[^ch6-15a]: The occluded front mechanism — two pressure systems moving in the same direction at different speeds, the faster catching the slower, with the collision zone at the leading edge — is developed in [ref 137](../../references/137-nomadic-universal-solvent-sedentary-succession.md). The Comanche were not American allies. They had no interest in American expansion. The coincidence of movement was thermodynamic, not coordinated. See also [ref 136](../../references/136-thermodynamic-vacuum-independent-convergence.md) on independent convergence without coordination.
+
+[^ch6-15b]: The nomadic universal solvent mechanism — steppe confederations dissolving incumbent sedentary order, incoming sedentary empire crystallizing in the dissolved space — is the structural principle underlying both the American Southwest and the Transoxiana successions. See [ref 137](../../references/137-nomadic-universal-solvent-sedentary-succession.md).
