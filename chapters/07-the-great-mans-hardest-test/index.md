@@ -15,7 +15,17 @@ part: "Part IV: The Collapse of Friction"
 
 Every previous chapter has argued that geography sets the probability distribution and great men are draws from it. This chapter subjects that argument to its hardest test: Genghis Khan, the most consequential individual in world history.
 
-If the framework cannot accommodate Genghis, it fails. If it can, every other great man in the book is a softer version of the same argument.[^ch7-1]
+Before the test begins, the framework's actual position on great individuals requires precise statement — because the most common misreading is the most damaging one.
+
+The framework is not arguing that great individuals are illusions, that specific people are interchangeable, or that Churchill and FDR didn't matter. They did. The war had to be won then or not at all. They actually did it. That is real and worth taking seriously.
+
+What the framework denies is a narrower and more precise claim: that without specific great individuals, the outcomes simply wouldn't have happened at all. That stronger claim makes history too contingent and too random to explain anything. It treats extraordinary individuals as uncaused first movers who operate outside the conditions that shaped them.
+
+The framework's positive formulation is this: great individuals compress timelines, shape specific paths, and determine which of several probable outcomes actually occurs. The years between Salk's vaccine and whoever would have followed are genuinely his. The lives saved in that window are a real and meaningful contribution — not the eventual solution, which conditions were already producing, but the specific timing, which wasn't overdetermined. Churchill's voice in 1940 produced outcomes a different leader might not have. That contribution is real. It operates within a distribution the underlying conditions created.
+
+The disagreement with great man theory is about degree, not kind. The conditions are the primary explanatory variable. The individual is the high-variance draw from the distribution those conditions produced. Both are necessary. Neither alone explains the outcome.
+
+If the framework cannot accommodate Genghis Khan — the most consequential individual in world history — it fails. If it can, every other great man in the book is a softer version of the same argument.[^ch7-1]
 
 ---
 
