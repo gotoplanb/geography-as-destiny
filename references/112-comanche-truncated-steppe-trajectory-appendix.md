@@ -12,7 +12,9 @@
 
 The railroad terminated this trajectory before it could mature. Not because the trajectory was impossible but because the second friction collapse arrived before the first adaptation completed.
 
-**Independent scholarly confirmation:** A reviewer of Hämäläinen (Haquelebac blog) independently reached the same conclusion:
+**Hämäläinen's own Huns comparison (Ch. 10):** In the course of describing Comanche pastoral activities, Hämäläinen herself draws the comparison to the Huns — noting the activities were "not dissimilar." This is the author of the definitive Comanche scholarship independently reaching for a Eurasian steppe parallel to describe what she is seeing in the evidence. She is not citing the framework. She is describing what the pastoral economy looked like and the most accurate available comparison is the Huns. Third independent confirmation of the steppe parallel, this time from the primary source itself rather than a reviewer of it.
+
+**Independent scholarly confirmation (Haquelebac):** A reviewer of Hämäläinen independently reached the same conclusion:
 
 > "A comparison can also be made with the Bulgar and Khazar trade states... These states were founded by nomad raiders akin to the Huns, but they eventually became nodes in a relatively peaceful trade network... These states were much larger and longer-lived than Comancheria, but they suggest a development trajectory which might have been possible under different historical circumstances."
 
