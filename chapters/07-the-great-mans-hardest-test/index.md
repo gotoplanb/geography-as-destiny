@@ -25,6 +25,18 @@ The framework's positive formulation is this: great individuals compress timelin
 
 The disagreement with great man theory is about degree, not kind. The conditions are the primary explanatory variable. The individual is the high-variance draw from the distribution those conditions produced. Both are necessary. Neither alone explains the outcome.
 
+The logical error underlying the great man theory's strongest claims is what might be called counterfactual determinism: because something happened, we assume that if it hadn't happened, it couldn't have happened. The specific path actually taken gets treated as the only path available, which makes the specific individuals on that path appear to be necessary conditions rather than contingent factors.
+
+The betting problem clarifies this. Choose one:
+
+**Bet A** — Remove Churchill specifically. The Allies lose. One individual is the necessary condition for the outcome of the largest conflict in human history.
+
+**Bet B** — Remove all the major leaders simultaneously. Churchill, Roosevelt, Stalin, Hitler, Mussolini, Hirohito, Tojo. Ask whether the world in 2026 looks roughly similar.
+
+Bet B is overwhelmingly more likely. The conditions that produced WWII — German humiliation from Versailles, economic collapse, Japanese resource competition in the Pacific, American industrial dominance — don't disappear when you remove the leaders. Different individuals emerge from those conditions, because the conditions were selecting for specific types of leaders. The broad outcome is still probably Allied victory, because the material reality still favors it: American industrial capacity plus Soviet manpower plus British naval geography plus German strategic overextension is the dominant equation regardless of who makes the specific decisions.
+
+Bet A requires a single point of failure in a massively redundant system. Bet B requires only that the underlying conditions were more powerful than any individual operating within them. The great man theory asks you to take Bet A. The framework asks you to take Bet B.
+
 If the framework cannot accommodate Genghis Khan — the most consequential individual in world history — it fails. If it can, every other great man in the book is a softer version of the same argument.[^ch7-1]
 
 ---
