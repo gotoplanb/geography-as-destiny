@@ -19,6 +19,7 @@ mkdir -p "$OUTPUT_DIR" "$TEMP_DIR"
 
 # Chapter order — the reading sequence
 CHAPTERS=(
+    foreword.md
     prologue.md
     chapters/01-the-distribution/index.md
     chapters/02-the-river-spine/index.md
