@@ -1,0 +1,18 @@
+/* Force footnotes to render as visible endnotes rather than hidden popup elements */
+section.footnotes {
+  display: block;
+}
+
+aside[epub:type="footnote"],
+div[epub:type="footnote"] {
+  display: block;
+  margin: 0.75em 0;
+  padding-left: 1em;
+  font-size: 0.88em;
+  line-height: 1.4;
+}
+
+aside[epub:type="footnote"] p,
+div[epub:type="footnote"] p {
+  margin: 0.25em 0;
+}

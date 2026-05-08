@@ -72,6 +72,7 @@ done
 pandoc \
     --metadata-file="${OUTPUT_DIR}/metadata.yaml" \
     --epub-cover-image=cover.png \
+    --css=epub.css \
     --toc \
     --toc-depth=1 \
     --split-level=1 \
