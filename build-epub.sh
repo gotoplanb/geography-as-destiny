@@ -22,6 +22,7 @@ CHAPTERS=(
     foreword.md
     prologue.md
     chapters/01-the-distribution/index.md
+    chapters/01a-bronze-age-substrate/index.md
     chapters/02-the-river-spine/index.md
     chapters/03-the-chokepoint/index.md
     chapters/04-the-silk-road/index.md
