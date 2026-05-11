@@ -78,7 +78,7 @@ High-friction corridors select for religious pilgrims — high-commitment early 
 
 Same diffusion logic. Different channel friction. Completely different content selection. Completely different archaeological signature.
 
-You could reconstruct the friction level of ancient trade routes purely from the content of what they transmitted — without any other geographic data. High-friction routes leave religious artifacts. Low-friction routes leave commercial records. This is a testable prediction. Check it against any corridor on Earth.
+You could reconstruct the friction level of ancient trade routes purely from the content of what they transmitted — without any other geographic data. High-friction routes leave religious artifacts. Low-friction routes leave commercial records. This is a testable prediction. Check it against any corridor on Earth.[^ch4-11]
 
 The mountains selected for Buddhism the same way the Nile selected for grain farmers. Geography as destiny operating on the content of human thought itself.
 
