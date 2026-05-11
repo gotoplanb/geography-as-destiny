@@ -12,3 +12,8 @@ __pycache__/
 .vscode/
 .idea/
 # build/ tracked — epub available for download
+# but inspection artifacts and intermediate build files are not
+build/build/
+build/epub_inspect/
+build/temp_chapters/
+build/metadata.yaml
