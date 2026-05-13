@@ -4,6 +4,20 @@
 **Type:** geographic mechanism / river-spine logic applied to the Tocharian story
 **Relevant to:** Bronze Age substrate interlude (Section VII — Tocharian Bridge), Chapter 2 (River Spine), Chapter 4 (Silk Road), ref 171 (Volga Goldilocks zone / Yamnaya prototype), ref 172 (triangulation methodology / Tocharian bridge), ref 177 (leapfrogging / chain migration), ref 186 (Dnieper rapids as Goldilocks zone at river-internal friction discontinuity), ref 187 (the long way home / five-thousand-year circuit), ref 196 (Dnieper-Volga federation / three-phase PIE crystallization)
 
+## Calibration Warning (added 2026-05-13)
+
+The card's specific identification of the Irtysh and Syr Darya as the rivers behind the Tocharian leapfrog and reconnection is geographically speculative and likely wrong in its details:
+
+**The Afanasievo culture is centered in the Minusinsk Basin (upper Yenisei drainage), not the Irtysh drainage.** The migration from the Pontic-Caspian homeland to the Altai-Sayan region likely crossed open Eurasian steppe through multiple river systems (Volga → Ural → Ishim → Tobol → Altai region) rather than following the Irtysh specifically as a corridor. The Irtysh is in the right general area but probably did not function as the singular "pull east" mechanism the card describes. The migration was more likely a steppe-corridor movement that intersected multiple drainage systems including the Irtysh, Yenisei, and Ob.
+
+**The Syr Darya does not directly connect the Tarim Basin to Transoxiana.** The Tarim Basin is south of the Tian Shan mountains; the Syr Darya flows from the Tian Shan's north slope southwest toward the Aral Sea. The actual route from Transoxiana to the Tarim Basin runs through the Wakhan corridor and Karakoram passes — the southern mountain-pass route — not through the Syr Darya drainage. The card's claim that "the Syr Darya enabled the eventual reconnection" misreads the geography.
+
+What the card got right: the general principle that rivers organize population movement and that the same river-spine system can function differently at different historical moments. The framework's river-spine apparatus reaches into temporal variation as well as terrain-context variation. The principle is sound.
+
+What it got wrong: the specific identification of the Irtysh and Syr Darya as the operating substrates of the Tocharian story. The actual geographic features involved are different. The Afanasievo migration likely crossed open steppe through multiple river systems; the Tarim Basin's reconnection to Silk Road material flows through southern mountain passes rather than through river drainages.
+
+Better-calibrated reading: the Tocharian story did involve specific geographic corridors the framework can identify, but the corridors should be checked against actual archaeological and trade-route evidence rather than asserted from a map reading. The general principle (rivers and corridors as both isolation and reconnection conduits at different historical moments) remains valid; the specific Irtysh-Syr-Darya identification is the framework reading geography too quickly and getting the details wrong. The card's content below should be read with this calibration in mind.
+
 ## The Observation (Dave Stanton)
 
 Looking at the rivers behind the Tocharian story reveals what the framework's river-spine logic predicts but Anthony has not yet explicitly stated: two specific river systems organize both the migration that isolated the Tocharian populations and the corridor that eventually reconnected them.

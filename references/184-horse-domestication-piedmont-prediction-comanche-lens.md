@@ -4,6 +4,18 @@
 **Type:** Saussure-mode prediction / framework refinement
 **Relevant to:** Bronze Age substrate interlude, ref 156 (Comanche multi-species management), ref 157 (industrial belt friction collapse), ref 159 (Anthony reading opens), ref 163 (modern cases as Rosetta Stone), ref 164 (horse domestication as framework Big Bang), ref 167 (Saussure laryngeals / falsifiable predictions), ref 169 (innovation source vs amplification zone), ref 171 (Volga Goldilocks zone), ref 181 (bronze diffusion Caucasus to Denmark)
 
+## Calibration Warning (added 2026-05-13)
+
+The card's specific prediction — that horse domestication occurred in piedmont or transitional terrain rather than on the open steppe — is contradicted by current archaeological consensus and by Anthony's actual position. Anthony argues that horseback riding emerged around 4200 BCE in the Pontic-Caspian *steppe* itself, specifically within the Sredny Stog culture. The Botai culture evidence from northern Kazakhstan (~3500 BCE) is also from open steppe rather than piedmont.
+
+The Comanche-lens reasoning (PIE-speakers acquired already-domesticated horses from piedmont specialists, structurally parallel to the Comanche acquiring Spanish horses) is structurally invalid for this case. The Comanche acquired horses through centuries of prior Old World pastoral selection; PIE-speakers were likely the originating domesticators themselves, operating on open steppe terrain with no prior horse-domestication tradition to acquire from.
+
+What the card got right: the general framework principle that animal domestication often requires containment infrastructure — applicable to sheep, goats, and cattle. What it got wrong: extending this principle to horses without checking the archaeological evidence, and applying the Comanche lens to a structurally non-analogous case (originating domestication, not acquisition).
+
+The general framework apparatus (innovation source vs amplification zone, the Rosetta Stone move from documented cases to pre-documentary periods) is sound. The specific piedmont prediction was the framework overreaching by applying the apparatus too confidently to a case where the underlying mechanism is different.
+
+Better-calibrated reading: horse domestication occurred at the contact zone where multiple existing pastoralist traditions converged on the Pontic-Caspian steppe, where Sredny Stog populations had been accumulating sheep/goat/cattle pastoralism for centuries before incorporating horses. The terrain was steppe, not piedmont. The card's content below should be read with this calibration in mind — the general framework principles remain valuable; the specific piedmont prediction is likely wrong.
+
 ## The Prediction (Dave Stanton)
 
 Anthony documents the Carpathian piedmont as one of the early zones for livestock (sheep, goat) domestication. The geographic logic is clear: valley topography creates natural containment infrastructure. Mountains and hill systems serve as the fences a piedmont domesticator does not need to build. Box canyons corner the animals. Habituation across generations selects for docility. The terrain does the domestication infrastructure work.

@@ -4,6 +4,20 @@
 **Type:** framework synthesis / Saussure-mode prediction of the PIE crystallization sequence
 **Relevant to:** Bronze Age substrate interlude (Section III — Volga as Pastoralist Spine, Section IV — Pressure Wave), ref 122 (seasonal trade fair as universal nomad-sedentary interface), ref 160 (lingua francas as recurring universes), ref 161 (Babel as encoded memory), ref 164 (horse domestication as framework Big Bang), ref 165 (two-phase framework scope), ref 171 (Volga Goldilocks zone / Yamnaya prototype), ref 174 (robust frontiers), ref 185 (pre-Big Bang pressure reversal / capacitor-discharge), ref 188 (climate forcing function), ref 192 (frontier lifecycle), ref 194 (pressure differential threshold), ref 195 (koryos institutional mechanism)
 
+## Calibration Warning (added 2026-05-13)
+
+Two specific claims in this card are speculative and likely to be challenged or refuted by Anthony's actual evidence:
+
+**The PIE-lingua-franca-during-federation timing claim** (Phase 1, ~5000-4200 BCE) is contested. Standard linguistic dating places Late PIE at ~3500-2500 BCE, which is the Yamnaya period itself (Phase 3 in this card's framing). Anthony's position is closer to: PIE was being spoken in a relatively localized area during the federation phase, and the diversification into daughter languages happened *during and after* the Phase 3 expansion. The framework's claim that PIE was already a "widespread lingua franca for the federation" before expansion overreaches what the linguistic evidence supports.
+
+**The generalization that "lingua francas crystallize during federation phase, not expansion phase"** is contradicted by clear counterexamples. English spread very widely *during* British imperial expansion, not in a prior federation phase. Latin spread through Roman expansion, not before it. The lingua-franca timing claim should be limited to specific cases (possibly Sogdian during the Silk Road tidal-system phase, possibly Comanche during the Plains federation) rather than asserted as a universal pattern.
+
+What the card got right: the general three-phase mechanism (federation crystallization → power explosion via climate forcing → simultaneous expansion) is structurally plausible. The Sredny Stog → Khvalynsk → Yamnaya archaeological sequence does roughly correspond to these phases. The capacitor-discharge model (card 185) plus climate forcing function (card 188) plus pressure differential threshold (card 194) integrate into a coherent historical sequence that Anthony's evidence supports in broad outline.
+
+What it got wrong: the specific PIE-timing claim within that sequence, and the generalization across all documented lingua francas. Both were the framework overreaching by extending plausible mechanisms further than the evidence supports.
+
+Better-calibrated reading: the framework predicts a three-phase sequence for the Yamnaya expansion in broad outline. PIE diversification likely happened during the Phase 3 expansion itself, not before it. The lingua-franca timing claim is local to specific cases, not universal. The card's content below should be read with this calibration in mind.
+
 ## The Reconstructed Sequence (Dave Stanton)
 
 PIE became widespread as a lingua franca through a specific three-phase sequence operating across the Dnieper-Volga geographic substrate. The sequence runs:
