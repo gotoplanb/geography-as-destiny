@@ -2,7 +2,26 @@
 
 **Source:** Beta session synthesis (Dave Stanton observation), 2026-05-13. Anthony reading arc, on the 2100 BCE aridification event and Sintashta culture as critical-resource concentration response.
 **Type:** framework application to post-Yamnaya collapse sequence + refinement of climate-forcing mechanism
-**Relevant to:** Bronze Age substrate interlude (Section V — Receiving End, Section IX — Long Way Home), ref 081 (imperial tolerance cycle / Saharan pump), ref 094 (Atlantic crossing as friction collapse), ref 165 (two-phase framework scope), ref 188 (cold killed the cattle / climate forcing function), ref 191 (exhausted geographic buffer), ref 192 (frontier lifecycle), ref 194 (pressure differential threshold), ref 195 (koryos institutional mechanism), ref 199 (wagon and Big Bang conjunction), ref 202 (frontier-management social technology stack)
+**Relevant to:** Bronze Age substrate interlude (Section V — Receiving End, Section VI — Second Friction Collapse, Section X — Long Way Home), ref 081 (imperial tolerance cycle / Saharan pump), ref 094 (Atlantic crossing as friction collapse), ref 165 (two-phase framework scope), ref 188 (cold killed the cattle / climate forcing function), ref 191 (exhausted geographic buffer), ref 192 (frontier lifecycle), ref 194 (pressure differential threshold), ref 195 (koryos institutional mechanism), ref 199 (wagon and Big Bang conjunction), ref 202 (frontier-management social technology stack), ref 204 (two friction collapses — restructuring)
+
+## Framework-Positioning Update (added 2026-05-13) — Sintashta as Second Friction Collapse
+
+This card's original framing positioned the 2100 BCE Sintashta concentration as a *post-Yamnaya collapse response* — what happens to an overextended pressure system when climate stress hits. Under the corrected DOM2 chronology (Librado et al. 2021 — modern domestic horse emerges ~2200 BCE), Sintashta's position in the framework is more central than the original framing recognized:
+
+**Sintashta is the framework's second friction collapse, not merely a collapse-response event.**
+
+The concentration response to the 4.2 kya megadrought (which this card documents) is the *setup* for the second friction collapse. From the fortified Sintashta settlements emerges the DOM2-and-chariot technology conjunction — the demographic-replacement-scale horse-cavalry-warfare revolution that dominates Eurasian history for the next 3500 years. The cohesion-mechanism inversion (koryos producing fragmentation under contraction) and the state-dependent climate forcing principle this card articulates are the framework's structural account of why the second friction collapse happens *where* and *when* it does — at the concentration node, in response to the overextension-plus-climate-stress conditions.
+
+The two-friction-collapse structure of the Bronze Age substrate (developed in [ref 204](204-two-friction-collapses-wagon-then-dom2-chariot.md)) makes this card's mechanism load-bearing in the framework's pre-documentary apparatus:
+
+- **First friction collapse (~3300 BCE)**: wagon-driven, charging-capacitor system, Yamnaya expansion outward
+- **Second friction collapse (~2200 BCE)**: DOM2-and-chariot driven, overextended system, Sintashta concentration → second-wave Indo-Iranian expansion
+
+This card's substantive content — the 4.2 kya climate forcing, the cohesion-mechanism inversion, the resource-defensive territoriality at Sintashta, the chariot innovation, the Indo-Iranian southward trajectory — is the framework's account of the second friction collapse's mechanism and outcome. The card is now more central to the framework than the original framing recognized.
+
+The Beta-prediction Samarkand/Constantinople timing-overreach (acknowledged in the original calibration note below) was correctly flagged: the post-Sintashta arc reaches those documented-chokepoint civilizations through multiple intermediate transformations over millennia, not as direct continuous succession. The corrected framing makes the multi-pulse demographic trajectory more honest: Sintashta produces the cavalry-warfare template; subsequent Eurasian history runs on that template through multiple intermediate confederations (Scythian, Xiongnu, Mongol, eventually Comanche) before any specific chokepoint civilization gets reached.
+
+The card content below preserves the original Sintashta-as-collapse-response framing for archival purposes. The corrected framing treats Sintashta as the inflection point where the wagon-pastoralist era transitions into the horse-cavalry era through the concentration-then-emergence sequence — the framework's clearest pre-documentary case of the state-dependent climate-forcing-function mechanism producing not collapse but *technology-conjunction emergence at the concentration node*.
 
 ## Calibration Note
 

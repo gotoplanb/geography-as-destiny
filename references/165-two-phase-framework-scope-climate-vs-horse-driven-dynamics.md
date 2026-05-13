@@ -2,7 +2,21 @@
 
 **Source:** Beta session synthesis (Dave Stanton observation), 2026-05-10. Anthony reading arc, refinement of card 164.
 **Type:** framework refinement / temporal scope precision
-**Relevant to:** Chapter 1 (framework / temporal scope), Chapter 4 (Silk Road as mature expression), ref 081 (imperial tolerance cycle / Saharan pump), ref 094 (Atlantic crossing as friction collapse), ref 114 (Apache forced sedentism / Saharan pump speedrun), ref 159 (Anthony reading opens), ref 160 (lingua francas as recurring universes), ref 164 (horse domestication as framework's Big Bang)
+**Relevant to:** Chapter 1 (framework / temporal scope), Chapter 4 (Silk Road as mature expression), ref 081 (imperial tolerance cycle / Saharan pump), ref 094 (Atlantic crossing as friction collapse), ref 114 (Apache forced sedentism / Saharan pump speedrun), ref 159 (Anthony reading opens), ref 160 (lingua francas as recurring universes), ref 164 (horse domestication as framework's Big Bang), ref 199 (wagon and Big Bang conjunction), ref 203 (Sintashta inversion), ref 204 (two friction collapses — restructuring)
+
+## Calibration Update (added 2026-05-13) — Three-Phase Scope, Not Two
+
+The original card's two-phase framing (pre-horse climate-driven slow dynamics vs post-horse mobility-driven fast dynamics) collapses what should be three distinct phases. The DOM2 redating (Librado et al. 2021, see [ref 204](204-two-friction-collapses-wagon-then-dom2-chariot.md)) makes the intermediate phase visible:
+
+- **Pre-wagon period** (before ~3300 BCE): foot-speed dynamics; generational pressure-wave velocity; climate-driven slow dynamics; this is the pre-Big Bang period the original card named
+- **Wagon-pastoralist period** (~3300-2200 BCE): household-mobility dynamics; decadal pressure-wave velocity; Yamnaya horizon and successors; the first friction collapse's outcome
+- **Horse-cavalry period** (~2200 BCE onward): chariot/cavalry-speed dynamics; the framework's full apparatus operating at maximum velocity; the second friction collapse's outcome
+
+The framework's "specialized fast dynamics" the original card attributed to the post-horse-domestication period actually appear in two stages — wagon-enabled mobility scaling at ~3300 BCE, then cavalry-enabled mobility scaling at ~2200 BCE. The intermediate wagon-pastoralist phase produces real demographic-replacement-scale outcomes (Yamnaya expansion) but at lower velocity than the post-Sintashta cavalry-warfare era.
+
+The original card's substantive distinction — that the framework specializes in mobility-multiplied dynamics rather than foot-speed dynamics — survives. What gets refined is the boundary: the phase transition from foot-speed to mobility-multiplied dynamics is itself a two-stage process, not a single event. The two-stage transition is the Bronze Age substrate the interlude documents.
+
+Card content below preserves the original two-phase argumentation. Use this calibration update plus [ref 204](204-two-friction-collapses-wagon-then-dom2-chariot.md) for the corrected three-phase framing.
 
 ## The Refinement (Dave Stanton)
 

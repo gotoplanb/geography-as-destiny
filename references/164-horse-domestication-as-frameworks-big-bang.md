@@ -2,7 +2,23 @@
 
 **Source:** Beta session synthesis (Dave Stanton observation), 2026-05-10. Anthony reading arc.
 **Type:** framework-defining move / temporal scope reframe
-**Relevant to:** Chapter 1 (framework / temporal scope), Chapter 6 (Parallel Conquests), Chapter 8 (Synthesis), foreword, ref 094 (Atlantic crossing as friction collapse / sail parallels), ref 100 (compressed sequential friction collapses), ref 159 (Anthony reading opens), ref 160 (lingua francas as recurring universes), ref 161 (Babel as encoded memory), ref 162 (theoretical/experimental physics methodology), ref 163 (modern cases as Rosetta Stone)
+**Relevant to:** Chapter 1 (framework / temporal scope), Chapter 6 (Parallel Conquests), Chapter 8 (Synthesis), foreword, ref 094 (Atlantic crossing as friction collapse / sail parallels), ref 100 (compressed sequential friction collapses), ref 159 (Anthony reading opens), ref 160 (lingua francas as recurring universes), ref 161 (Babel as encoded memory), ref 162 (theoretical/experimental physics methodology), ref 163 (modern cases as Rosetta Stone), ref 199 (wagon and Big Bang conjunction), ref 203 (2100 BCE collapse / Sintashta inversion), ref 204 (two friction collapses — restructuring)
+
+## Calibration Update (added 2026-05-13) — Big Bang Restructured as Two-Event Sequence
+
+The original "horse domestication as single Big Bang ~4000 BCE" framing in this card is superseded by the two-friction-collapse structure developed in [ref 204](204-two-friction-collapses-wagon-then-dom2-chariot.md). Three things drive the restructuring:
+
+1. **Empirical redating.** Librado et al. 2021 *Nature* establishes that modern domestic horse lineage (DOM2) emerged in the lower Don-Volga region ~2200 BCE, with rapid Eurasia-wide spread after ~2000 BCE synchronous with Sintashta chariot culture. Anthony's 2007 ~4000 BCE horse-domestication anchor was current consensus when written but has been superseded by post-2014 ancient DNA work. Pre-DOM2 horse populations (Sredny Stog ~4000 BCE, Botai ~3500 BCE) show some horse-human relationship but are not in the DOM2 ancestry; Botai is linked to the Przewalski lineage.
+
+2. **Disaggregation of the Big Bang.** What this card had been treating as a single horse-domestication event is more accurately two friction collapses ~1500 years apart:
+   - **First friction collapse (~3300 BCE)**: wagon-driven Yamnaya expansion. The wagon converts pastoralist mobility from herding-radius to permanent-occupation-radius. Pre-DOM2 horses present in mixed herds but not the demographic-replacement-scale mobility tech. Climate forcing: 4200 BCE cold event. Outcome: Yamnaya horizon and three-direction expansion.
+   - **Second friction collapse (~2200 BCE)**: DOM2 + chariot conjunction at Sintashta. The actual horse-cavalry-warfare revolution that subsequent Eurasian history runs on. Climate forcing: 4.2 kya megadrought. Outcome: Sintashta concentration → chariot warfare → Indo-Iranian southward expansion.
+
+3. **Framework strengthening, not weakening.** The framework's load-bearing claims (geography sets distributions, friction collapse mechanism, diffusion through friction gradients, pressure-differential thresholds, anti-eugenic positioning) are all preserved. The corrected anchor makes the framework's apparatus more precise — two discrete friction collapses with distinct climate forcings, distinct pressure-system states, and distinct civilizational outcomes — rather than less. Card 199's wagon-as-friction-collapse reading turns out to have been more right than originally credited.
+
+The card's substantive claim about post-Bronze-Age dynamics (operational range multiplied, pressure-wave velocity increased, frontiers become dynamic) is unchanged but properly attaches to the *second* friction collapse, not the first. The framework's "post-horse phase" properly begins at ~2200 BCE with DOM2 + chariot. The earlier wagon-pastoralist period (~3300-2200 BCE) is an intermediate phase that the original framing collapsed into either side.
+
+The card content below preserves the original argumentation for archival purposes. Use [ref 204](204-two-friction-collapses-wagon-then-dom2-chariot.md) as the corrected anchor for the framework's pre-documentary temporal scope.
 
 ## The Reframe (Dave Stanton)
 

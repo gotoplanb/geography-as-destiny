@@ -2,7 +2,23 @@
 
 **Source:** Beta session synthesis (Dave Stanton observation), 2026-05-13. Anthony reading arc, on Anthony's discussion of the Carpathian-Danube-Baltic expansion and the wagon as the technology that converted raiding range into permanent occupation range.
 **Type:** framework refinement / conjunction event redefining the Big Bang
-**Relevant to:** Bronze Age substrate interlude (Section II — The First Rotation, Section IV — Pressure Wave), ref 094 (Atlantic crossing as friction collapse), ref 100 (compressed sequential friction collapses), ref 164 (horse domestication as framework Big Bang), ref 165 (two-phase framework scope), ref 168 (process knowledge vs artifact transmission), ref 185 (pre-Big Bang pressure reversal / capacitor-discharge), ref 188 (climate forcing function), ref 198 (Maykop as friction-boundary relay node)
+**Relevant to:** Bronze Age substrate interlude (Section II — Two Friction Collapses, Section IV — Pressure Wave), ref 094 (Atlantic crossing as friction collapse), ref 100 (compressed sequential friction collapses), ref 164 (horse domestication as framework Big Bang — superseded), ref 165 (two-phase framework scope — refined), ref 168 (process knowledge vs artifact transmission), ref 185 (pre-Big Bang pressure reversal / capacitor-discharge), ref 188 (climate forcing function), ref 198 (Maykop as friction-boundary relay node), ref 203 (Sintashta inversion / second friction collapse), ref 204 (two friction collapses — restructuring)
+
+## Calibration Update (added 2026-05-13) — Wagon Reading Strengthened by DOM2 Redating
+
+This card was more right than originally credited. The original framing identified the wagon as part of a "conjunction event" with horse domestication producing the framework's Big Bang. Under the corrected DOM2 chronology (Librado et al. 2021 — modern domestic horse emerges ~2200 BCE, not ~4000 BCE), the conjunction reading shifts:
+
+**The wagon WAS the first friction collapse's defining technology.** It did not need to be in conjunction with horse domestication at ~3300 BCE because the demographic-replacement-scale horse-mobility revolution had not happened yet. The Yamnaya expansion (~3300-2500 BCE) is wagon-driven — oxen-drawn wagons converting pastoralist mobility from herding-radius to permanent-occupation-radius, with pre-DOM2 horses as supplementary livestock in the mixed pastoral toolkit, not as the primary mobility technology.
+
+The "wagon is to the Yamnaya expansion what the railroad was to the American and Russian conquests" framing in this card is the **correct framework reading of the first friction collapse**. The wagon converts operational range into occupation range; produces demographic replacement rather than negotiated coexistence; arrives at a moment when the pressure differential has crossed the threshold from exchange to conflict. All structurally parallel to the railroad's later operation.
+
+The horse-cavalry-warfare pattern — which the original card had folded into the conjunction reading — is properly the *second* friction collapse, ~1500 years later at Sintashta. DOM2 emerges in the lower Don-Volga region ~2200 BCE; chariot warfare emerges synchronously with the DOM2 spread; together they produce the cavalry-warfare military pattern that dominates Eurasian history afterward. This is a separate friction collapse with a separate climate forcing function (4.2 kya megadrought rather than 4200 BCE cold event) and a separate civilizational outcome (Indo-Iranian southward expansion, chariot-warrior aristocracies).
+
+See [ref 204](204-two-friction-collapses-wagon-then-dom2-chariot.md) for the full two-friction-collapse restructuring.
+
+**Framework strengthening:** The wagon-as-friction-collapse mechanism is now the framework's canonical pre-documentary case of single-technology friction collapse (parallel to the railroad case). The corrected reading makes the wagon's structural role more important, not less. The original framing's "horse + wheel + wagon conjunction" obscured what the evidence actually shows: wagons did the first friction collapse's work, horses came in at the second friction collapse 1500 years later.
+
+The card content below preserves the original "conjunction event" argumentation. The wagon-as-friction-collapse structural reading is preserved by the corrected chronology; the conjunction-with-horse framing is superseded.
 
 ## Calibration Note
 

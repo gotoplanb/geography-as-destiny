@@ -2,7 +2,7 @@
 
 **Source:** Beta session synthesis (Dave Stanton observation), 2026-05-11. Anthony reading arc, predicting where horse domestication occurred geographically.
 **Type:** Saussure-mode prediction / framework refinement
-**Relevant to:** Bronze Age substrate interlude, ref 156 (Comanche multi-species management), ref 157 (industrial belt friction collapse), ref 159 (Anthony reading opens), ref 163 (modern cases as Rosetta Stone), ref 164 (horse domestication as framework Big Bang), ref 167 (Saussure laryngeals / falsifiable predictions), ref 169 (innovation source vs amplification zone), ref 171 (Volga Goldilocks zone), ref 181 (bronze diffusion Caucasus to Denmark)
+**Relevant to:** Bronze Age substrate interlude, ref 156 (Comanche multi-species management), ref 157 (industrial belt friction collapse), ref 159 (Anthony reading opens), ref 163 (modern cases as Rosetta Stone), ref 164 (horse domestication as framework Big Bang), ref 167 (Saussure laryngeals / falsifiable predictions), ref 169 (innovation source vs amplification zone), ref 171 (Volga Goldilocks zone), ref 181 (bronze diffusion Caucasus to Denmark), ref 204 (two friction collapses — DOM2 emergence)
 
 ## Calibration Warning (added 2026-05-13)
 
@@ -14,7 +14,15 @@ What the card got right: the general framework principle that animal domesticati
 
 The general framework apparatus (innovation source vs amplification zone, the Rosetta Stone move from documented cases to pre-documentary periods) is sound. The specific piedmont prediction was the framework overreaching by applying the apparatus too confidently to a case where the underlying mechanism is different.
 
-Better-calibrated reading: horse domestication occurred at the contact zone where multiple existing pastoralist traditions converged on the Pontic-Caspian steppe, where Sredny Stog populations had been accumulating sheep/goat/cattle pastoralism for centuries before incorporating horses. The terrain was steppe, not piedmont. The card's content below should be read with this calibration in mind — the general framework principles remain valuable; the specific piedmont prediction is likely wrong.
+## Further Update (added 2026-05-13) — DOM2 Emergence Localizes the Innovation
+
+Librado et al. 2021 *Nature* refines the picture further. Modern domestic horse lineage (DOM2) emerges in the **lower Don-Volga region** around 2200 BCE — not on Pontic-Caspian steppe broadly, not in piedmont, but at a specific geographic node where Sintashta-era concentration around critical-resource production selected for the docility and back-resilience traits that define modern domestic horses. See [ref 204](204-two-friction-collapses-wagon-then-dom2-chariot.md) for the framework restructuring this implies.
+
+The pre-DOM2 horse populations (Sredny Stog ~4000 BCE, Botai ~3500 BCE) Anthony documented are real but represent earlier horse-human relationships that did not produce the demographic-replacement-scale mobility revolution. The actual horse-cavalry-warfare emergence is at ~2200 BCE in the lower Don-Volga concentration zone — terrain-mediated emergence at a specific node under climate-forced concentration conditions.
+
+This is actually consistent with the framework's underlying principle (innovation emerges at specific terrain-mediated nodes where structural conditions converge), just localized to a different specific terrain than the original piedmont prediction. The framework's anti-eugenic positioning is strengthened by the corrected evidence: DOM2 emerges at a tightly constrained terrain node under specific climate forcing, not as the achievement of a particularly innovative population.
+
+Better-calibrated reading: pre-DOM2 horse populations were used at small scales across the Pontic-Caspian steppe from ~4000 BCE onward; the demographic-replacement-scale DOM2 lineage emerged specifically in the lower Don-Volga concentration zone around 2200 BCE under 4.2 kya climate forcing; the chariot-warfare conjunction at Sintashta then powered the subsequent expansion. The card's content below should be read with this calibration in mind — the general framework principles remain valuable; the specific piedmont prediction is wrong; the corrected DOM2 emergence story is in [ref 204](204-two-friction-collapses-wagon-then-dom2-chariot.md).
 
 ## The Prediction (Dave Stanton)
 
