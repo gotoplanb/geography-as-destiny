@@ -4,6 +4,16 @@
 **Type:** fact
 **Relevant to:** Chapter 6 (Parallel Conquests — pre-conquest buildup)
 
+## Calibration Update (added 2026-05-13) — Framing Correction
+
+The card's title and the chronology of its content do not match. Catherine the Great reigned 1762–1796 (post-Peter). Kenesary Qasymov's rebellion ran 1837–1847 (under Nicholas I). Neither is "pre-Petrine." The card's actual subject is **18th–19th-century Russian imperial pressure on the Kazakh steppe and the rebellions it provoked** — the pre-conquest-era buildup before the railroad consolidation, not the pre-Petrine period.
+
+The structural point holds: Russia was already exerting toll-station and route-taxation pressure on nomadic populations *before* the railroad-era friction collapse that Chapter 6 documents. That pressure-then-collapse sequence remains the card's contribution to the dissertation's narrative. But the "pre-Petrine" framing is wrong. The card is about the long imperial-pressure buildup that preceded the railroad, not the pre-Peter era specifically.
+
+Suggested fix in a future pass: rename the card and recenter the framing on "imperial-era pressure buildup" or "pre-railroad Russian-steppe friction." If pre-Petrine cases are actually wanted (17th-century Bashkir revolts, Don Cossack rebellions, earlier Volga frontier conflicts), they would need separate sourcing. The Kenesary material belongs to the later period the card actually documents.
+
+Framework impact: none. The pressure-buildup-then-friction-collapse pattern is preserved either way.
+
 ## Content
 
 Before Peter the Great, Russia was already pushing south and east, blocking known nomadic highways and attempting to tax nomadic routes. Catherine sent Cossack forces to suppress rebellions caused by this pressure. The Kyrgyz (Russian generic name for steppe peoples) rebelled because:

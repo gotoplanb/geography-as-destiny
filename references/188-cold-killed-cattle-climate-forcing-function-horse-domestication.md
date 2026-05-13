@@ -2,7 +2,27 @@
 
 **Source:** Beta session synthesis (Dave Stanton observation), 2026-05-11. Anthony reading arc, identifying the climate forcing function that drove the pastoral transition to horse management.
 **Type:** framework refinement / Big Bang causal mechanism
-**Relevant to:** Bronze Age substrate interlude (Section II — First Rotation), ref 081 (imperial tolerance cycle / Saharan pump as constraint response), ref 164 (horse domestication as framework Big Bang), ref 165 (two-phase framework scope), ref 169 (innovation source vs amplification zone), ref 171 (Volga Goldilocks zone), ref 184 (horse domestication piedmont prediction), ref 185 (pre-Big Bang pressure reversal / capacitor-discharge), ref 167 (Saussure laryngeals — falsifiable predictions)
+**Relevant to:** Bronze Age substrate interlude (Section II — First Rotation), ref 081 (imperial tolerance cycle / Saharan pump as constraint response), ref 164 (horse domestication as framework Big Bang), ref 165 (two-phase framework scope), ref 169 (innovation source vs amplification zone), ref 171 (Volga Goldilocks zone), ref 184 (horse domestication piedmont prediction), ref 185 (pre-Big Bang pressure reversal / capacitor-discharge), ref 167 (Saussure laryngeals — falsifiable predictions), ref 203 (2100 BCE collapse / state-dependent climate forcing)
+
+## Calibration Update (added 2026-05-13) — Distinguish Two Climate Events
+
+The original card conflated two distinct climate events under one "climate forcing function" label. The framework actually wants them **distinguished**, not merged:
+
+- **~4200 BCE cold event** (≈6.2 kya) — cold winters across Pontic-Caspian steppe. Coincides with Old Europe disruption. The "cold killed the cattle" mechanism this card names operates on this event.
+- **4.2 kya event** (≈2200 BCE) — global megadrought/aridification. Coincides with Akkadian collapse, Old Kingdom Egypt collapse, Indus Valley contraction. Card 203 names this as the trigger for **Sintashta concentration** under the cohesion-mechanism inversion framework.
+
+These are two different events ~2000 years apart, doing two different things to the framework's pressure systems. The original card's "recurring pattern" framing collapsed them into one, weakening the distinction card 203 just established.
+
+**The corrected reading sharpens the framework rather than weakening it.** Card 203 articulated the state-dependent climate forcing principle — climate stress on a *charging-capacitor* system discharges outward; climate stress on an *overextended* system concentrates inward. The two events instantiate exactly this distinction:
+
+- 4200 BCE cold event hits a charging-capacitor system → outward Yamnaya expansion
+- 4.2 kya megadrought hits an overextended Yamnaya-successor system → inward Sintashta concentration
+
+Same forcing mechanism, opposite outcomes, because the pressure-system state was different. The two events are the framework's empirical anchors for the state-dependent forcing principle.
+
+The card's substantive "cold killed the cattle" mechanism remains valid for the 4200 BCE event. The 4.2 kya material belongs to card 203's analysis, not as a second instance of the same mechanism. References to "the climate-forcing-function pattern is recurring" should be read as "two distinct climate events with state-dependent responses," not "the same event repeated."
+
+**Note on horse domestication dating.** Recent ancient DNA work (Librado et al. 2021 *Nature*) places the emergence of modern domestic horse lineage (DOM2) in the lower Don-Volga region around **2200 BCE** — synchronous with the 4.2 kya event and Sintashta chariot culture, not with the 4200 BCE cold event. Earlier horse use (Sredny Stog ~4000 BCE, Botai ~3500 BCE) is real but represents different horse populations and forms of management; the demographic-replacement-scale horse mobility revolution is the later event. This wants framework-level discussion separately — the card's "cold killed the cattle → horse adoption" narrative may need rewriting around an earlier non-DOM2 horse adaptation followed by the DOM2 emergence under different climate conditions.
 
 ## The Hypothesis (Dave Stanton)
 

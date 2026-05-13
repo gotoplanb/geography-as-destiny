@@ -2,7 +2,28 @@
 
 **Source:** Beta session synthesis (Dave Stanton observation), 2026-05-11. Anthony reading arc, recognizing the structural arc connecting the Yamnaya horizon to the Golden Horde through Genghis Khan's westward campaign.
 **Type:** synthesis / structural arc spanning the dissertation's full temporal range
-**Relevant to:** Chapter 7 (Great Man's Hardest Test — Mongol case), Chapter 8 (Synthesis Frontier — closing image), Bronze Age substrate interlude, ref 164 (horse domestication as Big Bang), ref 165 (two-phase framework scope), ref 171 (Volga Goldilocks zone / Yamnaya prototype), ref 172 (Tocharian bridge), ref 177 (leapfrog-fossil mechanism), ref 185 (pre-Big Bang pressure reversal / capacitor-discharge), ref 173 (persistent frontiers)
+**Relevant to:** Chapter 7 (Great Man's Hardest Test — Mongol case), Chapter 8 (Synthesis Frontier — closing image), Bronze Age substrate interlude, ref 164 (horse domestication as Big Bang), ref 165 (two-phase framework scope), ref 171 (Volga Goldilocks zone / Yamnaya prototype), ref 172 (Tocharian bridge), ref 177 (leapfrog-fossil mechanism), ref 185 (pre-Big Bang pressure reversal / capacitor-discharge), ref 173 (persistent frontiers), ref 197 (Afanasievo geography correction)
+
+## Calibration Update (added 2026-05-13) — Geography and Descent
+
+Two corrections without disturbing the long-way-home structural arc:
+
+**1. Afanasievo geography.** "The eastern branch leapfrogged into the Altai-Sayan region as the Afanasievo cultural complex" should read **the Minusinsk Basin (upper Yenisei drainage)**, which sits between the Sayan and Altai ranges. The eastward-leapfrog mechanism is unaffected by the correction.
+
+**2. Afanasievo→Tocharian descent.** The card asserts Afanasievo populations "eventually moved south into the Tarim Basin and became the Tocharian populations." Recent ancient DNA evidence complicates this:
+
+- Zhang et al. 2021 *Nature* found the earliest Tarim Basin populations (Xiaohe horizon, ~2100-1700 BCE) were a genetic isolate descended primarily from Ancient North Eurasian ancestry, with **no detectable Western Steppe (Yamnaya/Afanasievo) ancestry**
+- Damgaard et al. 2018 similarly found genetic discontinuity between Afanasievo and later Central Asian populations
+- The Tocharian-speaking populations of the late first-millennium-CE oasis cities likely emerge from more complex layered population movements, not direct Afanasievo descent
+
+**Framework impact on the long-way-home arc: real but recoverable.** The structural claim — that the Yamnaya expansion has an eastern endpoint and that the Mongol/Golden Horde later occupies the same terrain class as the Yamnaya homeland — does not require the specific Afanasievo→Tocharian demographic continuity to be true. The arc's two endpoints are:
+
+- **Western endpoint**: Golden Horde occupies the same Pontic-Caspian steppe terrain as the Yamnaya horizon. Terrain-selection mechanism. Documented.
+- **Eastern endpoint**: Yamnaya expansion produces an eastward outpost (Afanasievo, Minusinsk Basin, ~3000 BCE). The Tarim Basin later contains Indo-European-speaking populations (Tocharians) attested in first-millennium-CE manuscripts. The connection between these two facts is the question.
+
+The honest framing is that the Tocharian-speaking populations represent some kind of Indo-European linguistic presence in the easternmost steppe corridor, but the demographic chain from Afanasievo to those populations is no longer clean. The "long way home" arc still works structurally; the descent claim wants softening to "linguistic continuity through complex demographic mechanisms" rather than "direct Afanasievo descent."
+
+The "Golden Horde returns to the location of the first horde" closing image stands — same terrain class produces same civilizational form across five thousand years, regardless of the specific Tocharian descent question.
 
 ## The Observation (Dave Stanton)
 

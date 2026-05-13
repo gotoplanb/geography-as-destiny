@@ -2,7 +2,21 @@
 
 **Source:** Beta session synthesis (Dave Stanton observation), 2026-05-11. Anthony reading arc, chapter 6.
 **Type:** methodology / cross-arc bridge connecting Anthony material to existing dissertation
-**Relevant to:** Chapter 4 (Silk Road — Tarim Basin and Dunhuang material), Chapter 5 (diffusion lens), foreword (methodology), ref 043 (Dunhuang Jade Gate chokepoint), ref 053 (tributary system as sender-receiver encoding), ref 068 (Indus headwaters / Gandhara chokepoint), ref 159 (Anthony reading opens), ref 162 (theoretical/experimental physics methodology), ref 164 (horse domestication as Big Bang), ref 169 (three-wave European genetics), ref 171 (Volga Goldilocks zone)
+**Relevant to:** Chapter 4 (Silk Road — Tarim Basin and Dunhuang material), Chapter 5 (diffusion lens), foreword (methodology), ref 043 (Dunhuang Jade Gate chokepoint), ref 053 (tributary system as sender-receiver encoding), ref 068 (Indus headwaters / Gandhara chokepoint), ref 159 (Anthony reading opens), ref 162 (theoretical/experimental physics methodology), ref 164 (horse domestication as Big Bang), ref 169 (three-wave European genetics), ref 171 (Volga Goldilocks zone), ref 197 (Afanasievo geography correction)
+
+## Calibration Update (added 2026-05-13) — Geography and Descent
+
+Two corrections without disturbing the triangulation methodology argument:
+
+**1. Afanasievo geography.** The original card placed Afanasievo "in the Altai-Sayan region." More precisely, Afanasievo (~3300-2500 BCE) is centered in the **Minusinsk Basin (upper Yenisei drainage)**, between the Sayan and Altai mountain ranges. "Altai-Sayan region" is loose but not catastrophic; the corrected location is just east via the steppe spine. The eastward-leapfrog mechanism is unaffected.
+
+**2. Afanasievo→Tocharian descent.** The original card asserted that "The Afanasievo population eventually moved south into the Tarim Basin and became the Tocharians" as established fact. This is **one hypothesis** (Mallory/Anthony lineage) but is contested by recent ancient DNA evidence (Zhang et al. 2021 *Nature*; Damgaard et al. 2018). Zhang et al. found that the earliest Tarim Basin populations (Xiaohe horizon, ~2100-1700 BCE) were a genetic isolate descended primarily from Ancient North Eurasian ancestry, with **no detectable Western Steppe (Yamnaya/Afanasievo) ancestry**. The Tocharian-language carriers may have arrived later through a different mechanism than direct Afanasievo descent.
+
+This complicates but does not break the triangulation methodology. The eastward expansion of Yamnaya-affiliated populations is documented (Afanasievo in the Minusinsk Basin is real). The continuity to the Tocharian-speaking populations of the first-millennium-CE Tarim oasis cities is more complex than a single demographic pulse and may involve multiple later population movements layering Indo-European-speaking groups onto an earlier genetic isolate.
+
+**Framework impact: triangulation methodology preserved; specific descent claim weakened.** The "PIE bridges Bronze Age to Silk Road" connection works at the language/cultural-substrate level but cannot rest on a clean Yamnaya→Afanasievo→Tarim demographic pulse. A more honest framing: Yamnaya expansion produces an eastward outpost (Afanasievo, Minusinsk Basin); the Tocharian-speaking populations of the Tarim Basin oasis cities emerge through more complex mechanisms including possibly later Indo-Iranian-speaking groups arriving and being absorbed into an earlier genetic substrate.
+
+The card content below should be read in light of this correction.
 
 ## The Triangulation Methodology
 

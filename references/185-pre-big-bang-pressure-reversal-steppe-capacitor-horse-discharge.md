@@ -2,7 +2,17 @@
 
 **Source:** Beta session synthesis (Dave Stanton observation), 2026-05-11. Anthony reading arc, extending card 164's horse-domestication-as-Big-Bang framing.
 **Type:** framework refinement / pre-Big Bang causal sequence
-**Relevant to:** Bronze Age substrate interlude (Section II — The First Rotation), ref 164 (horse domestication as framework Big Bang), ref 165 (two-phase framework scope), ref 169 (three-wave European population history / innovation source vs amplification zone), ref 171 (Volga Goldilocks zone), ref 179 (thermodynamic gradient following), ref 182 (directionality of knowledge flow), ref 183 (tidal vs breaking wave), ref 184 (horse domestication piedmont prediction)
+**Relevant to:** Bronze Age substrate interlude (Section II — The First Rotation), ref 164 (horse domestication as framework Big Bang), ref 165 (two-phase framework scope), ref 169 (three-wave European population history / innovation source vs amplification zone), ref 171 (Volga Goldilocks zone), ref 179 (thermodynamic gradient following), ref 182 (directionality of knowledge flow), ref 183 (tidal vs breaking wave), ref 184 (horse domestication piedmont prediction), ref 197 (Afanasievo geography correction)
+
+## Calibration Update (added 2026-05-13)
+
+Two corrections needed without disturbing the underlying mechanism:
+
+**1. Rhetorical overclaim.** The original card asserted that "This is the framework's most thermodynamically precise statement to date of why the Big Bang produced the specific outward directionality the Yamnaya expansion exhibits." The capacitor-discharge model is *framework-internal theoretical construction*, not a claim confirmed by Anthony's evidence. The pressure-accumulation-then-discharge mechanism is a defensible inference and a useful framework formulation, but it is not "thermodynamically precise" in any literal sense — it is a structural metaphor borrowing physics vocabulary. Read all instances of "thermodynamic" in this card as structural-metaphor rather than physics-mechanism. The framework's confidence in the mechanism should be calibrated to "plausible reading of the directionality pattern," not "confirmed thermodynamic statement."
+
+**2. Afanasievo geography.** The card's reference to "Eastward into the Altai and the Tarim Basin... The Afanasievo cultural complex is the eastward leapfrog outpost" carries forward the geographic error corrected in card 197. Afanasievo is in the **Minusinsk Basin (upper Yenisei drainage)**, between the Sayan and Altai ranges — not "in the Altai." The eastward-leapfrog mechanism is unaffected by the correction; the location is just east via the steppe spine. Also: the Afanasievo→Tocharian descent claim is contested by 2018+ ancient DNA (Damgaard et al.) and should not be asserted as established.
+
+**Framework impact: none on mechanism, calibration on rhetoric.** The pressure-accumulation → discharge → reversed-gradient sequence remains a useful framework reading. The card should be read as *interpretive framework* applied to Anthony's documented expansion pattern, not as a derivation from physics or a claim confirmed by archaeology. The directionality of the Yamnaya expansion is documented; the capacitor-discharge framing is the framework's structural reading of why that directionality occurred.
 
 ## The Causal Sequence (Dave Stanton)
 

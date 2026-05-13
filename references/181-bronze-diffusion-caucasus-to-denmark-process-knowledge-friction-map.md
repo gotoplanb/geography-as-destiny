@@ -4,6 +4,31 @@
 **Type:** connection / framework application to Bronze Age technology diffusion
 **Relevant to:** Chapter 1 (framework / diffusion lens), Chapter 4 (Silk Road papermaking parallel), ref 031 (compass in geomancy drawer / phase-zero diffusion), ref 159 (Anthony reading opens), ref 168 (process knowledge vs artifact transmission / language as flight recorder), ref 169 (innovation source vs amplification zone), ref 171 (Volga Goldilocks zone), ref 173 (persistent frontiers), ref 174 (robust frontiers / Anthony citation), ref 177 (leapfrogging / chain migration as Rogers diffusion)
 
+## Calibration Update (added 2026-05-13) — Framework Refinement
+
+The original framing below ("bronze metallurgy originated at or near the Caucasus frontier around 3300 BCE") is factually wrong but framework-strengthening once corrected. The actual archaeological record:
+
+- **Earliest tin bronze**: Vinča Pločnik, Serbia/Bulgaria, ~4650 BCE — over 1300 years earlier than the card's "origin" date, and **west** of the Caucasus
+- **Maykop arsenical bronze**: North Caucasus, ~3700-3500 BCE — arsenical not tin bronze, and a different production tradition
+- **Anatolian and Mesopotamian metallurgical traditions**: independently developing through the same period
+- **Transcaucasian tin bronze**: documented only from the 16th century BCE
+
+Current consensus treats Bronze Age metallurgy as **multiple independent origins** with complex multi-directional transmission, not a single Caucasus-to-Denmark diffusion line.
+
+**Why this strengthens rather than weakens the framework:** Multiple independent origins is exactly what friction-zone theory predicts. High-friction terrain produces parallel discovery rather than single-source diffusion. The card chose convenient evidence (clean single origin → linear thousand-year diffusion to Denmark) for a story that the messier multi-origin reality actually tells *better*.
+
+The friction-map-made-visible reading still holds — adoption timing maps friction gradients along specific corridors. But the corrected mechanism is more sophisticated:
+
+- **Process knowledge transmits across friction zones** when contact is sustained — bronze knowledge clearly moved across the Caucasus, Aegean, and steppe corridors over centuries
+- **Where local copper, tin, and craft knowledge combine, local production emerges** — multiple origins is the signature of this mechanism operating in parallel across different terrain zones
+- **The friction-gradient effect shows up in *timing of adoption density*, not in single origin-to-periphery diffusion** — different regions adopted bronze production at different times based on their distance from any of the multiple originating zones and the friction profile of intervening terrain
+
+The corrected reading: bronze is the framework's clearest pre-documentary case of **distributed innovation** under friction conditions, not a clean single-origin diffusion. This actually matches card 169's innovation-source-vs-amplification-zone distinction more cleanly than the original Caucasus-origin framing, and it preempts the simpler-but-wrong diffusion narrative the original card built.
+
+The papermaking parallel still holds — papermaking *was* a single-origin diffusion (Han China → Islamic world → Christian Europe). The bronze case is the *contrasting* case: distributed origins across the friction map. Together they bracket the two diffusion patterns the framework predicts.
+
+The sections below preserve the original argumentation for archival purposes but should be read in light of this correction. A future revision should rewrite the card around the multi-origin reading rather than patching it.
+
 ## The Observation (Dave Stanton)
 
 Anthony documents that bronze metallurgy originated at or near the Caucasus frontier around 3300 BCE and took approximately a thousand years to reach Denmark. The temporal lag is structurally identical to the papermaking diffusion case the dissertation has already documented — the Chinese papermaking technology reaching the Islamic world centuries before reaching Europe, with the timing gap mapping the friction gradient along the diffusion path.

@@ -4,11 +4,25 @@
 **Type:** methodology / exemplar case for theoretical-experimental validation
 **Relevant to:** Chapter 1 (framework / receiver-side reading), foreword (methodology), ref 064 (Wald survivorship-bias / returning bomber), ref 153 (encoding slips in ethnohistory), ref 154 (citation incentives), ref 159 (Anthony reading opens), ref 160 (lingua francas as recurring universes), ref 162 (theoretical/experimental physics methodology), ref 163 (modern cases as Rosetta Stone)
 
+## Calibration Update (added 2026-05-13) — Date Correction
+
+The original card's "thirty-six years earlier" framing was wrong. The correct sequence:
+
+- **1878** — Saussure publishes *Mémoire sur le système primitif des voyelles* (the work is dated 1879 on the title page but actually appeared December 1878), postulating "sonantic coefficients"
+- **1915** — Bedřich Hrozný demonstrates that Hittite is Indo-European (this is the decipherment event, not the laryngeal confirmation)
+- **1927** — Jerzy Kuryłowicz publishes "ə indo-européen et ḫ hittite," identifying the Hittite consonant ḫ as the reflex of Saussure's predicted laryngeals — *this* is the confirmation event
+
+The actual gap is **~49 years** (1878 → 1927), not 36. Hrozný established Hittite as IE; Kuryłowicz applied it to laryngeal theory and substantiated Saussure's prediction. Only after Kuryłowicz's 1927 work did Indo-Europeanists generally accept the laryngeal theory.
+
+**Framework impact: none.** The methodological exemplar still works. Saussure made a theoretical prediction; independent evidentiary instruments (Hittite decipherment, then specific laryngeal-pattern matching) eventually confirmed it. A 49-year gap is, if anything, a *stronger* case for the framework's "predictions can wait decades for confirmation" methodological claim than 36 years was. The two-step decipherment-then-application structure also better matches the framework's situation — pre-documentary predictions don't get confirmed by a single moment of discovery but through accumulated evidence over time.
+
+The corrected text below uses 1878/1927 and the two-step Hrozný/Kuryłowicz sequence.
+
 ## The Case
 
-In 1879, the Swiss linguist Ferdinand de Saussure published *Mémoire sur le système primitif des voyelles dans les langues indo-européennes* — a theoretical analysis of the vowel system in Proto-Indo-European based purely on systematic comparison of daughter languages. Saussure noticed that the sound patterns in the documented daughter languages contained gaps that only made sense if certain now-vanished consonants had once existed in PIE. He called them "sonantic coefficients." He derived the prediction from the structure of the comparative evidence, without any direct evidence the sounds had ever existed in any extant or recovered language.
+In 1878, the Swiss linguist Ferdinand de Saussure published *Mémoire sur le système primitif des voyelles dans les langues indo-européennes* — a theoretical analysis of the vowel system in Proto-Indo-European based purely on systematic comparison of daughter languages. Saussure noticed that the sound patterns in the documented daughter languages contained gaps that only made sense if certain now-vanished consonants had once existed in PIE. He called them "sonantic coefficients." He derived the prediction from the structure of the comparative evidence, without any direct evidence the sounds had ever existed in any extant or recovered language.
 
-In 1915, the Czech linguist Bedřich Hrozný deciphered Hittite — a Bronze Age Anatolian language preserved in cuneiform tablets that had been sitting in archives since their excavation. Hittite had branched off from PIE early enough to retain features all the later daughter languages had lost. There, in the deciphered Hittite texts, were the sounds Saussure had predicted thirty-six years earlier. The laryngeal consonants Saussure had postulated as theoretical placeholders turned out to be directly attested in Hittite.
+In 1915, the Czech linguist Bedřich Hrozný demonstrated that Hittite — a Bronze Age Anatolian language preserved in cuneiform tablets — was Indo-European. Hittite had branched off from PIE early enough to retain features all the later daughter languages had lost. Twelve years later, in 1927, the Polish linguist Jerzy Kuryłowicz published "ə indo-européen et ḫ hittite," identifying the Hittite consonant ḫ as the direct reflex of Saussure's predicted laryngeals. Forty-nine years after Saussure made the prediction, an independent evidentiary instrument confirmed it. Only after Kuryłowicz's 1927 paper did Indo-Europeanists generally accept the laryngeal theory.
 
 The prediction was falsifiable. The prediction was specific. The confirmation came from an independent evidentiary instrument operating decades after the prediction was made. This is the highest standard of scientific validation applied to historical linguistics.
 
