@@ -2,6 +2,18 @@
 
 Version history for *Geography as Destiny*. Each version corresponds to a git tag and a built epub. The colophon and title page of the epub display the version that built them.
 
+## v3.0.1 — 2026-05-14
+
+**Foreword polish.**
+
+Three targeted foreword changes:
+
+1. **Hard-coded durations removed.** The project is a continuous evolution; the git log preserves exact dates for anyone who wants them. "Twenty years before the first word was written" → "long before the first word was written"; "Two decades of building" → "Years of building"; redundant "twenty years of usability and human factors research" references → "professional usability and human factors research"; "a month of walks in Gainesville and New Orleans" → "listening, talking, writing, and walking — audiobooks ranging from Central Asian history to Comanche expansion, conversations with an AI research partner, and the streets of Gainesville and New Orleans while the ideas connected."
+2. **Card-count framing reworked.** "More than a hundred reference cards" replaced with explanation of what the cards do plus current count: "Each synthesis, connection, and framework move is recorded as a reference card — the research lineage and its history preserved alongside the prose. The card count is currently 208 and growing."
+3. **Long theory paragraph broken up.** Single dense block split into seven shorter paragraphs at natural logical breaks (opening / Diamond / Gimbutas-Anthony-Librado / Rogers-Shannon / UX foundation / anti-eugenics-social-constructionism / closing one-liner). Previously rendered as one continuous block of text filling an entire iPhone screen in the epub.
+
+---
+
 ## v3.0 — 2026-05-13
 
 **Bronze Age substrate restructured around two-friction-collapse framework.**
