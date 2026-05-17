@@ -2,6 +2,38 @@
 
 Version history for *Geography as Destiny*. Each version corresponds to a git tag and a built epub. The colophon and title page of the epub display the version that built them.
 
+## v3.4 — 2026-05-17
+
+**Chapters 7 and 8 Hammond-arc integration — great-man/anti-hero deepening and explicit methodological commitments articulation.**
+
+Continuing the Hammond-arc framework integration. v3.2 landed foundational extensions in Foreword and Chapter 1; v3.3 landed the Tang/Silk Road/Dunhuang narrative arc in Chapter 4; v3.4 lands the great-man/anti-hero deepening in Chapter 7 and the explicit methodological commitments articulation in Chapter 8.
+
+### Chapter 7 (the great man's hardest test)
+
+**Section IV — Shah-as-canonical-anti-hero framing made explicit.** The chapter already discussed the Shah's catastrophic role in triggering the Mongol invasion. Added paragraph naming this explicitly as the canonical anti-hero case — actor whose locally rational calculation went against the substrate flow with catastrophic consequences proportional to the system's accumulated potential. Wu wei violated as Buddhist/Taoist vocabulary naming the mechanism. Connects to the anti-hero subsection now in Chapter 1 v3.2. New footnote `ch7-18`.
+
+**Section V — bumper-as-transformer mechanism + Ibn Khaldun connection.** Extended the four-khanate analysis with the bumper-as-transformer mechanism: each khanate's terrain converted Mongol invasion energy into local-system assimilation energy whenever the terrain did not reward the Mongols' steppe-aligned organizational forms. Variable absorption rates track substrate-compatibility precisely. Connection to Ibn Khaldun's *Muqaddimah* (1377) and the *asabiyya* concept as sociological-cultural articulation of the same substrate-driven cyclical dynamic. Substrate-resonance convergence between framework apparatus and Khaldunian apparatus. New footnote `ch7-19`.
+
+**Section VI — unification-vs-sustainment distinction applied to Timur.** Extended the Timur analysis with the unification-vs-sustainment distinction: coercive extraction can achieve large-scale political unification across a single generation; coercion-only sustainment is impossible across multiple generations. Timur structurally parallel to Qin Shi Huang. The Mongols accomplished the middleware-rebuild (yam relay, paiza passport, religious tolerance, administrative cooptation) that the Timurids did not. New footnote `ch7-20`.
+
+### Chapter 8 (synthesis frontier)
+
+**New Section VII — The Framework's Methodological Commitments.** Inserted between previous Section VI (The Process as Evidence) and what is now Section VIII (What This Means, formerly Section VII). The new section articulates the framework's central purpose statement and five methodological commitments developed through the Hammond arc:
+
+1. **Probabilistic, not deterministic.** Geography sets the distribution but doesn't eliminate variance within it. Like weather, macro-patterns predictable while specific micro-events involve substantial variance.
+2. **Substrate-determinism questions vs definitional questions.** The framework can articulate substrate-conditions for definitional choices without resolving the choices themselves. Roman continuity debate as canonical illustration.
+3. **Receiver-side decoding of curriculum bias.** The standard curriculum optimizes for testable named events (returning bombers); the framework recovers the engine-hit substrate processes the curriculum systematically obscures. "The interesting stuff is always in what gets breezed past."
+4. **Substrate-resonance convergence with multiple independent traditions.** Buddhist/Taoist + meteorological + Ibn Khaldunian + Hammond's spontaneous language all converging on substrate-recognition vocabulary. Multiple independent observers arriving at convergent insights about non-existent dynamics would not happen; the convergence is what substrate-aligned traditions look like when they meet.
+5. **Multi-scale apparatus integration.** Framework reads from continental terrain through to aggregate patterns in individual psychological responses, with the Niya household + Hammond's Tang dynastic-cycle + Anthony's prehistoric baseline as the cross-semester triangulation case.
+
+New footnotes `ch8-11` through `ch8-16`. The previous Section VII (What This Means) renumbered to Section VIII; the chapter's external structure preserved.
+
+### Remaining Hammond-arc integration opportunities
+
+- **v3.5 candidate**: Appendix C entries (Buddhist/Taoist substrate-resonance; Ibn Khaldun's *Muqaddimah*) + Appendix A new falsifiable predictions from the Hammond arc.
+
+---
+
 ## v3.3 — 2026-05-17
 
 **Chapter 4 Silk Road integration — Tang cosmopolitan flowering, Battle of Talas Wald bomber, and the full Dunhuang causal chain.**
