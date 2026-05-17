@@ -2,6 +2,14 @@
 
 Version history for *Geography as Destiny*. Each version corresponds to a git tag and a built epub. The colophon and title page of the epub display the version that built them.
 
+## v3.5.1 — 2026-05-17
+
+**Appendix C entry 12 added: Abraham Wald and Survivorship Bias.**
+
+The Wald bomber apparatus is one of the framework's most-used analytical moves — referenced extensively across multiple chapters and across the recent Hammond arc (cards 215, 219, 224, 228, 232). The curious reader who encounters the framework's repeated "returning bombers" and "engine hits" vocabulary deserves the same one-page primer treatment that Shannon, Rogers, Diamond, Anthony, Gimbutas, and the other intellectual-lineage figures already received. This patch adds entry 12 to Appendix C documenting Abraham Wald (1902–1950), the WWII Statistical Research Group bomber-armor analysis, the underlying survivorship-bias logic, and the framework's specific extension of the apparatus to historiography (returning bombers as testable surviving content; engine hits as substrate processes systematically absent from the surviving record because the survival mechanism itself biases against them).
+
+---
+
 ## v3.5 — 2026-05-17
 
 **Appendix C extended with Buddhist/Taoist and Ibn Khaldun substrate-resonance entries; Appendix A extended with five new Hammond-arc falsifiable predictions.**
