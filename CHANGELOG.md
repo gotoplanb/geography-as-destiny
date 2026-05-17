@@ -2,6 +2,30 @@
 
 Version history for *Geography as Destiny*. Each version corresponds to a git tag and a built epub. The colophon and title page of the epub display the version that built them.
 
+## v3.2 — 2026-05-17
+
+**Foundational Hammond-arc framework extensions integrated into Foreword and Chapter 1.**
+
+The Hammond arc (cards 209-232) developed substantial new framework apparatus across the Chinese dynastic-cycle, cultural-religious-philosophical, and methodological dimensions. This release integrates the most foundational extensions into the foreword and Chapter 1, where the original framework apparatus is articulated. Subsequent releases (v3.3+) will integrate Hammond-arc material into Chapter 4 (Silk Road / Tang / Dunhuang), Chapter 7 (great man / anti-hero extensions), and Chapter 8 (synthesis frontier / methodological commitments).
+
+### Foreword
+
+Added a brief central-purpose + weather-metaphor articulation paragraph near the end. The framework's central purpose statement ("the framework is the tool for perceiving the larger system; the dissertation is the argument that the larger system is geographic and thermodynamic and legible if you use the right lens") and the weather-metaphor refinement ("the terrain is the surface, the populations are the pressure systems, the history is the weather") both land in compact form to preserve the existing polished quality. New footnote `fwd-14` provides the analytical apparatus articulation for both.
+
+### Chapter 1 (the distribution)
+
+**Section II — terrain-feature toolkit extended from five to seven categories.** Added bumpers (terrain features that deflect displaced populations rather than absorb them, with bumper-as-transformer mechanism converting displaced-population kinetic energy into local-system assimilation energy) and receiving basins (terrain features that catch deflected populations and channel them into specific corridors; distinct from gravity wells). Iranian plateau, Tibetan plateau, Siberian forest, southern Chinese hills as canonical bumpers; Transoxiana as canonical receiving basin. New footnote `ch1-58` documents the framework apparatus.
+
+**Section II — weather-metaphor paragraph added after the river-delta diffusion framing.** The river-delta vocabulary captures flow dynamics; the weather metaphor captures multi-pressure-system interaction and emergent phenomena that neither pressure system nor terrain alone would generate. Mountains do not just block weather; they force uplift, create precipitation shadows, generate local circulation patterns. The Caucasus does not just slow steppe expansion; it generates the Maykop relay station, the specific bronze diffusion pattern, the PIE linguistic features that crossed versus did not. New footnote `ch1-59` documents the framework apparatus.
+
+**Section IV — anti-hero subsection added extending the great-man reframe.** A second category of individual action: anti-heroes as variance-mechanism actors whose locally rational calculations against the substrate flow produce catastrophic consequences proportional to the system's accumulated potential. Cross-civilizational pattern (Shah of Khwarazm and Mongol invasion; Yang Guozhong and An Lushan Rebellion; Soviet engineers and Aral Sea collapse). Wu wei violated as the Buddhist/Taoist vocabulary naming the mechanism. The framework's humility case articulated explicitly: geography sets the distribution; geography does not eliminate variance within the distribution. The framework's complete three-category apparatus for reading individual action in history (great men as outliers; anti-heroes as variance-mechanism; substrate-aligned actors operating with the flow) named explicitly. New footnotes `ch1-60` and `ch1-61` document the framework apparatus.
+
+### Card status note
+
+Many additional Hammond-arc integration opportunities remain for subsequent tagged releases — particularly the Chapter 4 Silk Road / Tang / Dunhuang material (cards 226, 228, 232) and the Chapter 8 synthesis methodological commitments (cards 218, 219, 220, 223, 224, 225, 227, 230, 231).
+
+---
+
 ## v3.1.1 — 2026-05-17
 
 **Shannon-Weaver diagram embedded in Appendix C.**
