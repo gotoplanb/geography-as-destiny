@@ -2,6 +2,36 @@
 
 Version history for *Geography as Destiny*. Each version corresponds to a git tag and a built epub. The colophon and title page of the epub display the version that built them.
 
+## v3.3 — 2026-05-17
+
+**Chapter 4 Silk Road integration — Tang cosmopolitan flowering, Battle of Talas Wald bomber, and the full Dunhuang causal chain.**
+
+Continuing the Hammond-arc framework integration begun in v3.2 (which landed foundational extensions in Foreword and Chapter 1). This release lands the most narratively coherent sequence from the Hammond arc into Chapter 4 — the Tang trajectory from cosmopolitan peak through terminal preservation event.
+
+### Chapter 4 Section VI (The Climate Pulse)
+
+Extended the Tang projection passage with two new paragraphs:
+
+**Tang projection through cultural middleware stack + Tang cosmopolitan flowering.** The Tang reach into Central Asia operated not through military projection alone but through the cultural middleware stack (Buddhism + tributary system + Silk Road commercial relationships + protectorate system) that five centuries of prior Silk Road diffusion had built up. The substrate was prepared in advance; the projection succeeded operationally because the substrate was ready. What the substrate produced at the corridor terminus was the Tang cosmopolitan flowering — the framework's terrain-to-culture chain (terrain → corridor → cosmopolitanism → cultural flowering) operating at its highest expression. New footnotes `ch4-30` and `ch4-31`.
+
+**Battle of Talas (751 CE) as canonical Wald bomber moment.** The named battle gets remembered (specific date; specific commanders; specific outcome decided by Karluk Turk defection); the paper-technology-transfer that accompanied the battle's aftermath gets a footnote despite permanently transforming Islamic and eventually European intellectual culture. The Wald survivorship apparatus operating on a specific named event with unusual analytical clarity. New footnote `ch4-32`.
+
+### Chapter 4 Section VIII (The Silence)
+
+Extended the Dunhuang cave-sealing passage with the full causal chain and time-capsule preservation mechanism:
+
+**The Han Yu → Huichang → Tang collapse → Dunhuang sealing causal chain articulated.** Han Yu's 819 CE memorial as bellwether of substrate-level contraction (xenophobic moral revival detecting contraction in cultural-religious language before political-military evidence made it undeniable). Huichang Suppression of Buddhism (842–845 CE) as institutional consequence dismantling Buddhist middleware that had supported Tang cosmopolitan flowering. Tang collapse (907 CE) as political end of the structure that had sustained Silk Road maximum function. Dunhuang cave sealing (~1000 CE) as terminal preservation event in this nearly-two-century chain.
+
+**Cave 17 as physical embodiment of Tang cosmopolitan moment + time-capsule preservation mechanism.** Tens of thousands of manuscripts in multiple languages, frozen at the moment the substrate system that produced them stopped functioning. The framework's clearest case of time-capsule preservation: Wald bomber apparatus operating in deliberate-preservation mode rather than accidental-survival mode. The cave was sealed because the world that filled it had ended. The river had found a new channel. New footnote `ch4-33`.
+
+### Remaining Hammond-arc integration opportunities
+
+Subsequent tagged releases will integrate the remaining Hammond-arc material:
+- **v3.4 candidate**: Chapter 7 (great man / anti-hero deeper integration; Marcus Aurelius as canonical sender-position case) + Chapter 8 (synthesis frontier; full dynastic-cycle apparatus; methodological commitments)
+- **v3.5 candidate**: Appendix C entries (Buddhist/Taoist substrate-resonance; Ibn Khaldun) + Appendix A new falsifiable predictions
+
+---
+
 ## v3.2 — 2026-05-17
 
 **Foundational Hammond-arc framework extensions integrated into Foreword and Chapter 1.**
