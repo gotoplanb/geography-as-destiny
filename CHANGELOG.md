@@ -2,6 +2,16 @@
 
 Version history for *Geography as Destiny*. Each version corresponds to a git tag and a built epub. The colophon and title page of the epub display the version that built them.
 
+## v3.1.1 — 2026-05-17
+
+**Shannon-Weaver diagram embedded in Appendix C.**
+
+Added the canonical Shannon-Weaver communication model block diagram (Information Source → Transmitter → Channel → Receiver → Destination, with Noise Source feeding into the Channel) as Figure 16, embedded in the Shannon section of the new Appendix C. The diagram is the picture behind the framework's epistemological apparatus — every historical source is a message produced by exactly this pipeline.
+
+New files: `figures/src/fig_016_shannon_weaver_model.py`, `figures/fig-016-shannon-weaver-model.md`, `figures/output/fig-016-shannon-weaver-model.{png,svg}`.
+
+---
+
 ## v3.1 — 2026-05-17
 
 **Reader-onboarding apparatus added: foreword popovers + Appendix C "Intellectual Lineage."**

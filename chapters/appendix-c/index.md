@@ -19,6 +19,9 @@ The entries are arranged in the order the names appear in the foreword. Each is 
 
 The framework borrows two things from Shannon. The first is technical: communication is a sender-channel-receiver process in which noise is unavoidable and encoding choices shape what the receiver can actually reconstruct. The second is epistemological. Historical records are not transparent windows onto the past. They are messages sent through specific channels by specific senders with specific encoding choices — official histories, court chronicles, victors' accounts, retrospective national narratives. The historian's job is receiver-side reconstruction: stripping the encoding to recover the underlying signal.
 
+![The Shannon-Weaver Communication Model](../../figures/output/fig-016-shannon-weaver-model.png)
+*[Figure 16: The Shannon-Weaver Communication Model](../../figures/fig-016-shannon-weaver-model.md) — the canonical block diagram from Shannon's 1948 paper and the 1949 Weaver-co-authored book. Every historical source the framework reads is a message produced by exactly this pipeline.*
+
 This is why the framework treats sources like the Chinese tributary system, the Mandate of Heaven, and Renaissance accounts of Genghis Khan not as direct evidence of what happened but as encoded transmissions that reveal as much about the sender as about the events. Shannon's apparatus makes the encoding visible.
 
 ---
