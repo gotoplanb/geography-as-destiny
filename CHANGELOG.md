@@ -2,6 +2,19 @@
 
 Version history for *Geography as Destiny*. Each version corresponds to a git tag and a built epub. The colophon and title page of the epub display the version that built them.
 
+## v3.1 — 2026-05-17
+
+**Reader-onboarding apparatus added: foreword popovers + Appendix C "Intellectual Lineage."**
+
+The foreword's name-drops (Shannon, Rogers, Diamond, Anthony, Gimbutas, Kurgan hypothesis, Yamnaya, Sintashta, DOM2, Pontic-Caspian steppe, Librado et al. 2021, propaganda research, human factors, anti-eugenics, social constructionism) were a barrier for new readers who had not encountered these figures and theories before. Two-tier solution added:
+
+1. **Brief popover footnotes in the foreword** (13 new `[^fwd-NN]` notes) — each is a ~80–120-word explainer that pops up on tap in the epub, giving enough orientation to keep reading without breaking flow. Each ends with "See Appendix C."
+2. **New Appendix C: Intellectual Lineage** — 9 longer entries (~300–500 words each) covering Shannon & Information Theory; Rogers & Diffusion of Innovations; The Propaganda Research Tradition; Diamond & Continental Geography; Gimbutas & the Kurgan Hypothesis; Anthony & the Pontic-Caspian Archaeology; Yamnaya, Sintashta & DOM2 (bundled); Human Factors & Usability Research; Anti-Eugenics & Social Constructionism. Arranged in the order names appear in the foreword.
+
+Wired into `build-epub.sh` and `table-of-contents.md`. Minor bump (not patch) because this is substantive content addition that meaningfully expands the book's surface area, not a typo or correction.
+
+---
+
 ## v3.0.1 — 2026-05-14
 
 **Foreword polish.**

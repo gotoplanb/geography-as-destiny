@@ -175,6 +175,10 @@ Cases that look like they fit the framework but fail the criteria on examination
 
 Candidates: jet stream routing, aviation, the internet (borderline — information layer decoupled but physical constraints unchanged).
 
+## Appendix C: Intellectual Lineage
+
+One-page sketches of the major figures and theories the foreword names — Shannon, Rogers, the propaganda research tradition, Diamond, Anthony, Gimbutas, the Kurgan hypothesis, Yamnaya/Sintashta/DOM2 and the Pontic-Caspian steppe, human factors and usability research, anti-eugenics and social constructionism. For readers who want more than the popover footnotes in the foreword provide.
+
 ---
 
 ## Notes on Sources and Method

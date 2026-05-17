@@ -64,6 +64,7 @@ CHAPTERS=(
     chapters/08-the-synthesis-frontier/index.md
     chapters/appendix-a/index.md
     chapters/appendix-b/index.md
+    chapters/appendix-c/index.md
     ${TEMP_DIR}/colophon.md
 )
 
