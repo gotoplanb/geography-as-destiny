@@ -105,4 +105,98 @@ If you are a researcher with the right expertise and want to test one, the evide
 
 ---
 
+## 7. The Anti-Hero Pattern — Locally Rational Action Against the Substrate Flow
+
+**Prediction:** Across historical cases globally, locally rational action against substrate flow should systematically produce catastrophic consequences proportional to the system's accumulated potential. The pattern should be predictable from structural analysis of (a) the actor's perceptual horizon and local rationality; (b) the substrate flow being acted against; (c) the system's accumulated potential at the moment of the action. The framework names these actors "anti-heroes" — distinct from the great-man category that addresses individuals as outliers on substrate-determined distributions. Anti-heroes are the variance-mechanism actors within the distribution whose wu-wei-violating calculations select catastrophic draws from the available outcomes the substrate has defined.
+
+**Canonical cases the framework reads through this lens:**
+- **Shah of Khwarazm executing Mongol trade envoys (1218 CE)** — locally rational sovereignty assertion produced the Mongol invasion that destroyed Khwarazmian civilization and reorganized the Eurasian landmass
+- **Yang Guozhong triggering the An Lushan Rebellion (755 CE)** — locally rational factional maneuvering at the Tang court produced eight years of civil war and permanent damage to Tang centralized administration
+- **Soviet engineers diverting Aral Sea feeder rivers (1960s onward)** — locally rational cotton-agriculture decision produced ecological collapse proportional to Aral Sea ecosystem scale
+- **Sykes and Picot partitioning Ottoman Middle East (1916)** — locally rational diplomatic-imperial coordination produced century-scale political-cultural disruption proportional to the cultural-substrate networks the partition cut across
+
+**What would test it further:** Systematic coding of additional historical cases globally against (a) structural conditions present in each case, (b) specific local rationality of the actor's calculation, (c) substrate flow the action went against, (d) catastrophic consequences proportional to system scale. Candidate additional cases: various Cold War miscalculations (Cuban Missile Crisis as substrate-aligned-actor counterexample where catastrophe was averted; Bay of Pigs as anti-hero case where catastrophe was incurred); various colonial-era miscalculations; various specific environmental-engineering catastrophes; various specific military-strategic miscalculations.
+
+**What would falsify it:** Locally rational actions against substrate flow systematically failing to produce catastrophic consequences; catastrophic consequences systematically occurring without corresponding locally rational anti-hero action; anti-hero pattern systematically failing to predict the magnitude of consequences from the system's accumulated potential.
+
+*See [ref 230](references/230-anti-hero-wu-wei-violated-framework-humility-locally-rational-action-against-flow.md)*
+
+---
+
+## 8. The Han Yu Moment — Xenophobic Moral Revival as Bellwether of Waning Power
+
+**Prediction:** Across civilizational cases globally, xenophobic moral revival in cultural-religious production should systematically precede political-military confirmation of substrate-level contraction by approximately one to two generations. Cultural-religious detection-and-encoding apparatus operates with greater sensitivity than political-military detection because cultural-religious production is partly responsive to broader population-level lived experience and broader cultural-mood shifts. The framework names this the "Han Yu moment" after the canonical Chinese case: Han Yu's 819 CE memorial criticizing Emperor Xianzong's veneration of a Buddha relic — calling Buddhism a foreign barbarian religion unworthy of Chinese imperial dignity — was the bellwether that detected the substrate-level contraction the Tang was undergoing and articulated the detection in cultural-religious language before political-military evidence made the contraction undeniable.
+
+**Canonical cases the framework reads through this lens:**
+- **Tang China: Han Yu 819 CE → Huichang persecution 845 CE → Tang collapse 907 CE** — bellwether preceding visible decline by approximately three to nine decades depending on which subsequent event one tracks
+- **Republic of Texas: Lamar's racism (1838–1841) → Mexican-power contraction in the region** — bellwether preceding broader regional power-transition
+- **Late Ottoman Empire: Young Turk nationalism + Armenian genocide (1915–1923) → 1922 CE Ottoman collapse** — bellwether preceding visible imperial dissolution
+
+**Additional candidate cases for systematic testing:** Late Roman / late Byzantine xenophobic revivals; medieval Christian-European nativist movements during specific stress periods; various Western nativist movements operating during periods when Western powers face declining relative global influence; various non-Western nationalist movements operating during periods of specific civilizational transition; various religious-fundamentalist movements operating during periods of cultural-political transformation.
+
+**What would falsify it:** Civilizational decline systematically occurring without preceding xenophobic moral revival; xenophobic moral revival systematically failing to precede subsequent visible decline; timing systematically uncorrelated with the cultural-religious-vs-political-military detection lag.
+
+*See [ref 231](references/231-han-yu-moment-xenophobic-moral-revival-bellwether-waning-power.md)*
+
+---
+
+## 9. Cultural Middleware and Frontier-Encounter Outcomes
+
+**Prediction:** Across frontier-encounter cases globally, the cases that produce stable long-term arrangements should be the ones with substantial pre-existing middleware infrastructure (shared religious or philosophical reference frame, established diplomatic protocol traditions, institutional bilingualism, neutral institutional spaces for cross-cultural transaction). The cases that produce catastrophic failures should be the ones lacking such infrastructure. Power-asymmetry alone should not predict outcome variance; the interaction of power-asymmetry with middleware-infrastructure presence/absence should. The framework names this "cultural middleware" — the protocol layer that enables coordination across cultural heterogeneity even when the parties' native frameworks remain incompatible.
+
+**Canonical cases the framework reads through this lens:**
+- **Chinese tributary system across multiple counterparty civilizations** (Korea, Vietnam, Japan, various Central Asian polities, Tibet, Southeast Asian maritime states) — stable-arrangement pattern with substantial middleware infrastructure present
+- **American frontier across multiple Native nations** (Cherokee, Comanche, Sioux, Apache, Navajo, Pueblo, Iroquois Confederacy) — catastrophic-failure pattern with middleware infrastructure absent
+- **European-Ottoman diplomatic system** — intermediate pattern with middleware infrastructure (shared diplomatic protocol traditions, institutional bilingualism, the "Capitulations" system) developing over time
+- **Spanish-Aztec and Spanish-Andean encounters** — both catastrophic failures with extreme cultural-impedance mismatch; framework's apparatus reads outcomes through cultural-impedance variable rather than through pure power-asymmetry
+
+**Sub-prediction on conquest-dynasty assimilation:** Conquest dynasties governing large sedentary populations should systematically converge on adopting whatever substrate-aligned middleware combination the prior local dynasties had developed, regardless of the conquerors' original cultural traditions. The Mongol Yuan and Manchu Qing adopting Confucian-Buddhist middleware in China provide the canonical Chinese-civilization cases; the framework predicts similar patterns across other conquest-dynasty cases (Hellenistic successor states adopting Persian apparatus; Islamic Caliphate adopting Byzantine and Persian apparatus; British Raj adopting Mughal apparatus; etc.).
+
+**What would test it:** Systematic coding of frontier-encounter and conquest-dynasty cases globally against (a) substrate conditions producing middleware-infrastructure availability, (b) specific middleware adoption observed, (c) duration and stability of resulting arrangements. The framework's prediction is that middleware-infrastructure presence/absence should predict outcome variance more reliably than power-asymmetry alone.
+
+**What would falsify it:** Stable frontier-encounter arrangements occurring without middleware infrastructure; catastrophic failures occurring despite substantial middleware infrastructure; conquest dynasties succeeding through pure cultural-replacement rather than middleware-adoption.
+
+*See [ref 216](references/216-cultural-middleware-religion-cross-cultural-interoperability-protocol.md) and [ref 224](references/224-bumper-as-transformer-energy-absorption-conversion-ibn-khaldun-four-khanates.md)*
+
+---
+
+## 10. The Expansion-Contraction Economic-Policy Cycle
+
+**Prediction:** Across imperial economic-policy histories globally, expansion-phase empires should systematically adopt productive-actor-enabling commercial policy (relatively non-interventionist; private actors and regional economies allowed to develop organically; state revenue captured through general taxation on organic growth) and contraction/overextension-phase empires should systematically adopt extraction policy (monopolies, state trading companies, currency manipulation, forced labor or tribute systems, wealth confiscations). The extraction-phase policies should systematically produce short-term revenue gains and long-term substrate-erosion that contributes to subsequent imperial collapse or stress. The framework names this the "expansion-contraction economic-policy cycle" — the substrate-driven pattern by which imperial economic policy systematically varies with the empire's position in its expansion-contraction trajectory.
+
+**Canonical cases the framework reads through this lens:**
+- **Han China: Huang-Lao laissez-faire (early Han) → Emperor Wu monopolies → Salt and Iron Debates (81 BCE) → partial reversal** — the canonical documented case; the *Yan tie lun* preserves the formal policy debate at the inflection point
+- **East India Company in India** (eighteenth-nineteenth century) — early commercial-network operation → direct extraction post-Plassey 1757 → systematic substrate erosion (Bengal famine 1770; long-term deindustrialization)
+- **Spanish silver extraction from Latin America** (sixteenth-eighteenth century) — short-term Spanish revenue + long-term colonial substrate destruction + ironic Spanish substrate destruction through silver inflation
+- **Soviet collectivization** (1928-1933) — short-term mobilization capacity + long-term agricultural substrate destruction (Ukrainian famine; structural agricultural underperformance)
+
+**Additional candidate cases:** Roman imperial economy (early Principate market dynamics → late imperial *annona* extraction); Ottoman imperial economy (early commercial integration → late tax-farming intensification); Chinese subsequent dynasties (Tang, Song, Ming, Qing — each exhibiting their own expansion-contraction cycles).
+
+**What would test it:** Systematic coding of imperial economic-policy regimes globally against (a) empire's expansion-contraction phase position, (b) policy regime adopted, (c) substrate effects observed.
+
+**What would falsify it:** Expansion-phase empires systematically adopting extraction policies; contraction-phase empires systematically adopting market-enabling policies; extraction-phase policies producing long-term substrate-growth rather than substrate-erosion.
+
+*See [ref 218](references/218-expansion-markets-vs-contraction-extraction-salt-iron-debates-saussure-confirmation.md)*
+
+---
+
+## 11. Time-Capsule Preservation Mechanism
+
+**Prediction:** Across substrate-transition periods globally, time-capsule preservation cases should systematically occur at moments when local communities recognize that the substrate apparatus producing cultural artifacts is no longer reliably operating. The specific preservation actions should reflect deliberate community choices to protect specific materials from anticipated loss; the preservations should produce unusually rich physical-artifact evidence base for the transitioning apparatus when the materials are eventually rediscovered. The framework names this "time-capsule preservation" — discrete cases where the Wald survivorship apparatus operates in deliberate-preservation mode rather than accidental-survival mode, producing engine-hit material preserved by deliberate action of people who recognized what they were losing.
+
+**Canonical cases the framework reads through this lens:**
+- **Dunhuang Cave 17 (sealed ~1000 CE; rediscovered 1900 CE)** — the physical embodiment of the Tang cosmopolitan moment preserved in darkness as Western Xia expansion threatened the Tarim Basin; tens of thousands of manuscripts in multiple languages
+- **Dead Sea Scrolls (sealed ~1st century BCE-1st century CE; rediscovered 1947-1956 CE)** — preserved by Jewish communities anticipating destruction or contamination during Roman-Jewish conflict period
+- **Nag Hammadi library (Gnostic Christian texts; sealed ~4th century CE; rediscovered 1945 CE)** — preserved by communities anticipating persecution under orthodox Christianity's consolidation as Roman state religion
+
+**Additional candidate cases:** Various other religious-text preservation cases; various secular-archive preservation cases; potentially: various twentieth-century cases where political-regime transitions produced deliberate-preservation actions.
+
+**What would test it:** Systematic coding of time-capsule preservation cases globally against (a) substrate-transition conditions producing the preservation, (b) specific apparatus that the preservation preserved, (c) eventual rediscovery and scholarly recovery dynamics.
+
+**What would falsify it:** Time-capsule preservation cases systematically failing to correspond to substrate-transition periods; substrate-transition periods systematically failing to produce time-capsule preservation cases even where the institutional capacity for preservation existed.
+
+*See [ref 232](references/232-dunhuang-cave-sealing-causal-chain-closure-time-capsule-tang-cosmopolitan-moment.md)*
+
+---
+
 *Each entry is a canyon the river identified. We're not digging them today. But the predictions are timestamped, the logic is documented, and anyone with the right tools can test them.*

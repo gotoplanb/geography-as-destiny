@@ -2,6 +2,40 @@
 
 Version history for *Geography as Destiny*. Each version corresponds to a git tag and a built epub. The colophon and title page of the epub display the version that built them.
 
+## v3.5 — 2026-05-17
+
+**Appendix C extended with Buddhist/Taoist and Ibn Khaldun substrate-resonance entries; Appendix A extended with five new Hammond-arc falsifiable predictions.**
+
+Completes the Hammond-arc framework integration begun in v3.2 and continued through v3.3 and v3.4. The Hammond arc's substantive new framework concepts now land across the dissertation's full apparatus: foreword (v3.2), Chapter 1 (v3.2), Chapter 4 (v3.3), Chapter 7 (v3.4), Chapter 8 (v3.4), and now Appendices A and C (v3.5).
+
+### Appendix C (Intellectual Lineage)
+
+Two new entries added at the end, extending the existing nine entries:
+
+**Entry 10 — Buddhist and Taoist Flow-Substrate Insights.** Documents the framework's substrate-resonance convergence with Buddhist and Taoist apparatus (per cards 220, 223). Carefully framed: the framework is NOT derivatively Buddhist or Taoist; its explicit intellectual sources are diverse and Western-tradition-heavy. The framework independently arrives at insights that Buddhist and Taoist traditions articulated millennia earlier in their respective vocabularies. The convergence is what substrate-aligned analytical traditions look like when they meet across radically different intellectual contexts. The Taoist *wu wei* apparatus and the Buddhist diagnosis that the fundamental human problem is local optimization without perceiving the larger system both exhibit substantial structural parallel to the framework's apparatus operating through different specific vocabulary.
+
+**Entry 11 — Ibn Khaldun and the *Muqaddimah*.** Documents Ibn Khaldun's fourteenth-century apparatus (the *asabiyya*-based cyclical theory of nomadic-sedentary dynamics) and the framework's substrate-resonance convergence with it (per card 224). Connection is structural-equivalence rather than derivative-lineage: Ibn Khaldun explains the cyclical pattern through sociological-cultural variables; the framework explains the same observed pattern through substrate-geographic variables; the two apparatus identify the same underlying historical pattern through different specific mechanism explanations. Future framework engagements can deploy the Ibn Khaldun connection both as additional historical material for testing framework predictions and as additional substrate-resonance convergence evidence.
+
+### Appendix A (Speculative Connections and Future Research)
+
+Five new entries added at the end, extending the existing six entries:
+
+**Entry 7 — The Anti-Hero Pattern.** Cross-civilizational test of locally rational action against substrate flow producing catastrophic consequences proportional to system's accumulated potential. Canonical cases: Shah of Khwarazm (1218 CE); Yang Guozhong/An Lushan Rebellion (755 CE); Soviet Aral Sea engineers (1960s onward); Sykes-Picot (1916 onward). Predicted distinct from great-man category (variance-mechanism within distribution vs outlier on distribution). Per card 230.
+
+**Entry 8 — The Han Yu Moment.** Cross-civilizational test of xenophobic moral revival as bellwether preceding political-military confirmation of substrate-level contraction by approximately one to two generations. Canonical cases: Han Yu Tang (819 CE → 845 CE → 907 CE); Lamar Texas (1838-1841); late Ottoman (1915-1923 → 1922 CE). Predicted because cultural-religious detection operates with greater sensitivity than political-military detection. Per card 231.
+
+**Entry 9 — Cultural Middleware and Frontier-Encounter Outcomes.** Cross-civilizational test of middleware-infrastructure presence/absence predicting frontier-encounter outcome stability more reliably than power-asymmetry alone. Canonical cases: Chinese tributary system (stable); American frontier (catastrophic); European-Ottoman (intermediate); Spanish-Aztec/Andean (extreme cultural-impedance mismatch). Sub-prediction on conquest-dynasty assimilation patterns. Per cards 216, 224.
+
+**Entry 10 — The Expansion-Contraction Economic-Policy Cycle.** Cross-civilizational test of imperial economic policy systematically varying with empire's position in expansion-contraction trajectory. Canonical cases: Han Salt and Iron Debates (81 BCE — earliest documented formal policy debate on extraction-vs-investment tradeoff); East India Company; Spanish silver; Soviet collectivization. Per card 218.
+
+**Entry 11 — Time-Capsule Preservation Mechanism.** Cross-civilizational test of time-capsule preservation cases systematically occurring at substrate-transition moments when local communities recognize the apparatus producing cultural artifacts is no longer reliably operating. Canonical cases: Dunhuang Cave 17 (~1000 CE → 1900 CE); Dead Sea Scrolls (~1st century BCE-CE → 1947-1956 CE); Nag Hammadi library (~4th century CE → 1945 CE). Per card 232.
+
+### Hammond-arc integration complete
+
+With v3.5, the substantive new framework concepts from the Hammond arc (cards 209-232) have been integrated across the dissertation's full apparatus. Future arc work can continue card-only sessions until the next prose-integration tier emerges from a subsequent semester of reading.
+
+---
+
 ## v3.4 — 2026-05-17
 
 **Chapters 7 and 8 Hammond-arc integration — great-man/anti-hero deepening and explicit methodological commitments articulation.**
