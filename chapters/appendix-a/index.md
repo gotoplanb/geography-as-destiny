@@ -199,4 +199,62 @@ If you are a researcher with the right expertise and want to test one, the evide
 
 ---
 
+## 12. The Buffer-Removal Anti-Hero Variant
+
+**Prediction:** Across historical cases globally where actors arm or enable one pressure system to eliminate another, consequences should systematically follow the buffer-removal pattern — the eliminated pressure system was managing accumulated substrate pressure that does not disappear with the elimination; the new pressure system fills the vacuum; the arming actor faces the new pressure system without the buffer the old pressure system had provided. The pattern should operate regardless of whether the arming actor has prior experience with the buffer-removal mistake. This is a discrete sub-pattern within the broader anti-hero apparatus (Appendix A entry 7) — distinct from the original-anti-hero variant (Shah of Khwarazm) because the buffer-removal variant operates through specifically using one pressure system to eliminate another rather than through direct violation of an institutional framework.
+
+**Canonical cases the framework reads through this lens:**
+- **Song-Jurchen (1115–1127 CE)** — Northern Song armed Jurchen against the Khitan Liao to escape tribute; Jurchen Jin then conquered Northern Song territory
+- **Song-Mongol (1233–1279 CE)** — Southern Song repeated the same mistake allying with Mongols against Jurchen Jin; Mongols destroyed Jin then conquered Southern Song. Same pattern. Same predictable catastrophic consequence.
+- **Roman use of barbarian *foederati*** — pressure-system-momentum producing post-Roman successor states; foederati eventually became substantial pressure systems with their own dynamics
+- **Various colonial-era cases** of European powers arming local groups against rivals — armed groups frequently developed dynamics colonial powers could not subsequently control
+- **Cold War cases** of superpower arming of insurgent groups against rival-superpower client states — Afghan mujahideen → al-Qaeda sequence as canonical late-twentieth-century illustration
+
+**Pressure-system-momentum principle:** Pressure systems are not tools that can be deployed for specific purposes and demobilized when convenient. They retain their own dynamics — internal momentum from their organizational forms, accumulated capacity, the substrate conditions that produced them. The arming actor's local rationality does not constrain the armed system's subsequent behavior.
+
+**What would falsify it:** Buffer-removal arrangements systematically failing to produce subsequent pressure-system problems; pressure-system-momentum systematically failing to operate (armed pressure systems demobilizing when their original objectives are achieved); arming actors systematically retaining control over the pressure systems they create.
+
+*See [ref 233](references/233-buffer-removal-anti-hero-song-jurchen-pressure-system-momentum-southern-hills-bumper.md)*
+
+---
+
+## 13. The Cultural-Middleware Differential Adoption Pattern
+
+**Prediction:** Across cultural-middleware diffusion cases globally, existential-technology middleware (apparatus that solves problems existing regardless of substrate type — psychological-cosmological technology with universal applicability, Buddhism canonical) should systematically diffuse faster, reach further, sequence earlier, and persist longer than administrative-technology middleware (apparatus that solves coordination problems specific to particular substrate types — substrate-dependent governance technology, Confucianism canonical). Administrative-technology adoption should correlate with the receiving population's substrate-condition development that produces the specific coordination problems the administrative-technology solves.
+
+**The sequence prediction:** When both middleware types are available to a population, existential-technology middleware should systematically diffuse first; administrative-technology middleware should follow only when the receiving population develops or acquires the substrate conditions that produce the relevant coordination problems.
+
+**Canonical cases the framework reads through this lens:**
+- **Korea**: Buddhism 4th century CE; comprehensive Confucianism approximately one millennium later under Joseon (1392–1897)
+- **Japan**: Buddhism 6th century CE; comprehensive Confucianism in waves over subsequent centuries (Taika Reforms 645; Edo period 1603–1868)
+- **Jurchen Jin**: Buddhism alongside or shortly after conquest of northern China; Confucian administrative apparatus adopted progressively during century-plus rule as substrate-driven pressure to govern Chinese agricultural population operated
+
+**The cross-civilizational generalization:** The pattern should operate across multiple civilizational contexts beyond East Asia. Candidate cases include Christianity vs Roman law diffusion across post-Roman Europe; Islam vs *shari'a* administrative apparatus diffusion; modern universal-human-rights ideology vs specific democratic-administrative apparatus.
+
+**What would falsify it:** Administrative-technology middleware systematically diffusing faster or further than existential-technology middleware; sequence systematically reversing (administrative-technology preceding existential-technology in cross-civilizational diffusion cases); existential-technology middleware systematically failing to persist where administrative-technology middleware persists.
+
+*See [ref 234](references/234-differential-adoption-cultural-middleware-existential-vs-administrative-technology.md)*
+
+---
+
+## 14. The Risk-Invisibility-During-Optimization Principle
+
+**Prediction:** Across optimization cases globally, populations that successfully optimize for specific stable conditions should systematically face catastrophic vulnerability when those conditions change. The vulnerability should be invisible during the optimization period and become visible only after disruption reveals the dependencies optimization created. The pattern should operate regardless of actor intelligence or strategic foresight because the perceptual-temporal asymmetry is structural rather than contingent. This is the framework's most uncomfortable prediction — successful optimization is partly the setup for the next disruption.
+
+**The mechanism articulated through machine learning vocabulary:** Local optimization through gradient descent settles into trapped positions where the algorithm has no way to distinguish a local minimum from a global minimum. The Southern Song commercial economy is the canonical historical illustration — every local decision was correct given the immediate gradient; the system settled into what looked like the optimal position; the Mongol conquest changed the loss function entirely and revealed that the optimization had been condition-specific rather than substrate-aligned.
+
+**Canonical cases the framework reads through this lens:**
+- **Southern Song commercial optimization** → Mongol disruption catastrophic (1276–1279 CE)
+- **Comanche horse-based commercial optimization** → railroad disruption catastrophic (~1860s–1880s CE)
+- **Various medieval European commercial cities** → various subsequent disruptions (Italian commercial republics, Hanseatic League cities, others)
+- **British imperial commercial optimization** → various twentieth-century disruptions
+
+**The regularization complement:** Cultural-moral frameworks that operate as inefficient overhead under stable conditions actually preserve resilience capacity that pure efficiency-optimization would have destroyed. Future framework engagements with cultural-moral revival movements (Stoicism in late Roman Empire; Zhu Xi's Neo-Confucianism in late Southern Song; Romantic movement in industrial era; various contemporary moral-revival movements) can test whether these movements systematically operate as regularization apparatus during optimization periods.
+
+**What would falsify it:** Successful optimization systematically producing durable success rather than vulnerability; disruption-revealed vulnerabilities systematically being predictable during optimization period by actors with sufficient intelligence and strategic foresight; the perceptual-temporal asymmetry systematically failing to operate as structural mechanism.
+
+*See [ref 237](references/237-risk-invisibility-optimization-southern-song-commercial-boom-government-revenue-intoxication.md) and [ref 238](references/238-local-minimum-trap-regularization-machine-learning-apparatus-neo-confucianism-resilience-penalty.md)*
+
+---
+
 *Each entry is a canyon the river identified. We're not digging them today. But the predictions are timestamped, the logic is documented, and anyone with the right tools can test them.*

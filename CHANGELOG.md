@@ -2,6 +2,71 @@
 
 Version history for *Geography as Destiny*. Each version corresponds to a git tag and a built epub. The colophon and title page of the epub display the version that built them.
 
+## v3.6 — 2026-05-18
+
+**Hammond-arc cards 233-238 integrated across Chapter 1, Chapter 4, Chapter 7, Chapter 8, Appendix A, and Appendix C.**
+
+Continuing the Hammond-arc framework integration completed for cards 209-232 across v3.2-v3.5.1. This release integrates the substantive new framework concepts from the most recent six cards (233-238) — buffer-removal anti-hero variant, cultural-middleware typology, pressure-equalization-trade-establishment, compass terrain-filtering, risk-invisibility-during-optimization, local-minimum-trap and regularization.
+
+### Chapter 1 (the distribution)
+
+Extended the anti-hero subsection (added in v3.2) with a new subsection "The Optimization Trap" articulating:
+- **Risk-invisibility-during-optimization principle** (card 237) — successful optimization creates dependencies that operate as catastrophic vulnerabilities when conditions change; perceptual-temporal asymmetry is structural rather than contingent
+- **Local-minimum-trap concept** (card 238) — gradient descent settling into trapped positions that look optimal from local perspective but cannot escape disruption-revealed vulnerabilities; Southern Song commercial economy as canonical case
+- **Three-metaphor analytical toolkit** extending card 223's central-metaphor refinement — thermodynamics explains the flow; gradient descent explains why the flow gets trapped; regularization explains why cultural and moral frameworks that seem inefficient are actually doing load-bearing resilience work
+- **Regularization framing of cultural-moral apparatus** — Zhu Xi's Neo-Confucianism as canonical regularization case responding to commercial over-optimization
+
+New footnotes `ch1-62` and `ch1-63`.
+
+### Chapter 4 (the Silk Road)
+
+Added new Section IX "The Maritime Pivot" between previous Section VIII (Silence) and what is now Section X (Peak — formerly Section IX). Section XI (Corridor Goes Dark) renumbered from previous Section X. New section articulates:
+- Southern Song retreat to Hangzhou (1138 CE) and commercial flow redirecting south
+- Capital geography shaping commercial energy direction (Chang'an → west via Gansu Corridor; Hangzhou → southeast via maritime routes)
+- Song copper coins as de facto East Asian currency; ceramics distribution as maritime Silk Road map
+- Pressure-equalization-trade-establishment dynamic at Song-Jin frontier (cards 233, 235)
+- Hangzhou as canonical 12th-century commercial-specialization case alongside Tang Chang'an as 8th-century cosmopolitan-flowering case
+- Commercial-specialization-strategic-vulnerability pattern that Mongol conquest revealed (cards 235, 237)
+- Local-minimum-trap reading and Comanche cross-civilizational parallel (card 238)
+- "The river found the ocean route because the land route was blocked. No strategic vision required. Pressure differential following the path of least resistance."
+
+New footnote `ch4-34`. Section X (formerly IX) and Section XI (formerly X) renumbered.
+
+### Chapter 7 (the great man's hardest test)
+
+Extended the anti-hero subsection (added in v3.4) with the buffer-removal anti-hero variant (card 233):
+- Song-Jurchen sequence (1115–1127 CE) as canonical buffer-removal case
+- Song-Mongol sequence (1233–1279 CE) as same mistake repeated
+- Pressure-system-momentum principle (pressure systems retain their own dynamics regardless of arming actor's local rationality)
+- Cross-civilizational generalization (Roman foederati; colonial-era proxy arrangements; Cold War cases; Afghan mujahideen → al-Qaeda as canonical late-twentieth-century illustration)
+
+New footnote `ch7-21`.
+
+### Chapter 8 (synthesis frontier)
+
+Extended the methodological commitments section (added in v3.4) from five to seven commitments:
+- **Sixth commitment**: Three-metaphor analytical toolkit (thermodynamics + gradient descent + regularization) — extends card 223's central-metaphor refinement with explicit machine learning dimension; Neo-Confucianism as canonical regularization case (cards 223, 238)
+- **Seventh commitment**: The framework's most uncomfortable prediction — the better you optimize for current conditions, the more vulnerable you become to the disruption that changes those conditions. Southern Song / Comanche cross-civilizational structural-equivalence cases (cards 237, 238)
+
+New footnotes `ch8-17` and `ch8-18`.
+
+### Appendix C (Intellectual Lineage)
+
+Added new entry 13: **Machine Learning Analytical Apparatus** documenting gradient descent, local minima, regularization, loss function, and related concepts as additional intellectual-lineage resource the framework's apparatus draws on (card 238). Carefully framed: framework is NOT derivatively machine learning; structural-equivalence with machine learning apparatus operates as analytical extension making existing framework concepts more precise. Extends the substrate-resonance convergence pattern (entries 10 Buddhist/Taoist, 11 Ibn Khaldun) to a fourth independent analytical tradition.
+
+### Appendix A (Speculative Connections and Future Research)
+
+Added three new falsifiable predictions:
+- **Entry 12**: The Buffer-Removal Anti-Hero Variant — cross-civilizational test of pressure-system-momentum principle (card 233)
+- **Entry 13**: The Cultural-Middleware Differential Adoption Pattern — cross-civilizational test of existential-technology vs administrative-technology middleware diffusion (card 234)
+- **Entry 14**: The Risk-Invisibility-During-Optimization Principle — cross-civilizational test of optimization-vulnerability dynamics (cards 237, 238)
+
+### Hammond-arc integration milestone
+
+With v3.6, the Hammond arc cards 209-238 (thirty cards) are now fully integrated across the dissertation's complete apparatus. Future Hammond arc work continues through standard card-only sessions until the next prose-integration tier emerges.
+
+---
+
 ## v3.5.1 — 2026-05-17
 
 **Appendix C entry 12 added: Abraham Wald and Survivorship Bias.**
