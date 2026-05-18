@@ -2,6 +2,66 @@
 
 Version history for *Geography as Destiny*. Each version corresponds to a git tag and a built epub. The colophon and title page of the epub display the version that built them.
 
+## v3.7 — 2026-05-18
+
+**Hammond-arc closing meta-apparatus cluster (cards 239-244) integrated across Foreword, Chapter 1, Chapter 7, Chapter 8, Appendix A, and Appendix C.**
+
+The closing six cards of the Hammond arc articulate the framework's mature meta-methodological position: order-is-heat-death (239), no-view-from-nowhere Shannon epistemology (240), cultural-gravity conversion clock (241), random-walk-on-gradient apparatus (242), macro/micro economics analogy (243), and the generous-critique formulation of the anti-great-man position with the rock-vs-river apparatus (244). This release integrates the substantive new framework concepts from the cluster across the dissertation's meta-methodological chapters and appendices.
+
+### Foreword
+
+Added penultimate paragraph articulating the framework's compact epistemological position via the triple-form summary (card 244):
+- "Microeconomics generalized as macroeconomics" — first error
+- "Description generalized as explanation" — second error
+- "The random walk mistaken for the gradient" — third error
+- Rock-vs-river apparatus naming the structural mistake: the rock is real and shapes the eddy; the river's course was determined before the rock existed; the great man theory mistakes the rock for the river
+
+New footnote `fwd-15`.
+
+### Chapter 1 (the distribution)
+
+Extended "The Great Man Reframe" section with three new paragraphs articulating the generous-critique formulation (cards 242, 243, 244):
+- Conceding great man theory's micro-level validity with three illustrative examples (Churchill 1940; Genghis Khan in Khwarazmian campaign; An Lushan in Tang crisis)
+- Identifying the error as macro-level extrapolation, not the underlying observation
+- Rock-vs-river apparatus naming the structural error
+- Macro/micro economics analogy as canonical division-of-labor model for framework's relationship to traditional historiography
+- "Both descriptions are true. Only one is explanatory."
+
+New footnotes `ch1-64`, `ch1-65`, `ch1-66`.
+
+### Chapter 7 (the great man's hardest test)
+
+Added new closing Section VII "The Rock and the River" applying the rock-vs-river apparatus to the chapter's central Genghis Khan case (cards 241, 242, 243, 244):
+- Generous-critique articulation of the chapter's hardest-test case: conceding Genghis Khan's specific qualities produced real variance in outcomes; identifying the extrapolation to macro-level theory as the specific error
+- Four-khanate evidence demonstrating substrate-driven outcomes regardless of specific Mongol individuality
+- Macro/micro economics analogy applied to Mongol historiography
+- Cultural-gravity conversion clock making the macro/micro distinction empirically tractable through the synchronized timing of three khanate dissolutions vs. Golden Horde divergence
+- "Great individuals are rocks. Terrain is the river. The rock shapes the eddy. The rock does not explain the river's course."
+
+New footnotes `ch7-22`, `ch7-23`, `ch7-24`.
+
+### Chapter 8 (synthesis frontier)
+
+Extended methodological commitments from seven to nine (cards 242, 243, 244):
+- **Eighth commitment**: The framework describes the gradient, not the walk. It operates at macro scale; traditional historiography operates at micro scale; both legitimate; neither displaces the other. Macroeconomics/microeconomics division-of-labor analogy as canonical model; triple-form compact summary
+- **Ninth commitment**: Generous-critique methodological pattern — concede what the critiqued tradition observes correctly; identify what it overgeneralizes; name the specific error. Signature application to anti-great-man critique; generalization to broader framework engagement with disagreed-with traditions
+
+New footnotes `ch8-19` and `ch8-20`.
+
+### Appendix A (Speculative Connections and Future Research)
+
+Added new entry 15: **The Cultural-Gravity Conversion Clock** (card 241) — cross-civilizational test of substrate-driven assimilation timeline operating at similar rates regardless of specific civilizational substrate when substrate-incompatibility produces a conversion gradient. Canonical case: synchronized Mongol four-khanate collapse timing (Ilkhanate 1335; Chagatai 1340s-1360s; Yuan 1368) vs. Golden Horde persistence into 1490s-1500s. Methodological pairing with entries 9 (cultural middleware) and 12 (buffer-removal anti-hero variant).
+
+### Appendix C (Intellectual Lineage)
+
+Added new entry 14: **The Macro/Micro Economics Division of Labor** (card 243) — primer on the economics-discipline distinction the framework imports as canonical model for its relationship to traditional historiography. Documents Keynes-era institutionalization of the division; sub-discipline-specific apparatus; framework's analytical extension positioning traditional historiography as microeconomics and framework as macroeconomics; complementarity framing; caveat on macroeconomics' contested epistemic status; triple-form compact summary generalizing the macro/micro distinction across multiple intellectual contexts.
+
+### Hammond-arc completion milestone
+
+With v3.7, the Hammond arc cards 209-244 (thirty-six cards) are now fully integrated across the dissertation's complete apparatus. The closing meta-apparatus cluster (239-244) articulates the framework's mature meta-methodological position. Future Hammond arc work continues through standard card-only sessions until the next prose-integration tier emerges.
+
+---
+
 ## v3.6 — 2026-05-18
 
 **Hammond-arc cards 233-238 integrated across Chapter 1, Chapter 4, Chapter 7, Chapter 8, Appendix A, and Appendix C.**
