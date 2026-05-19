@@ -2,6 +2,62 @@
 
 Version history for *Geography as Destiny*. Each version corresponds to a git tag and a built epub. The colophon and title page of the epub display the version that built them.
 
+## v3.8 — 2026-05-19
+
+**Cross-domain extension cards (245, 247, 248) integrated across Chapter 1, Chapter 4, Chapter 6, and Appendix A.**
+
+Four post-Hammond cards demonstrated the framework's apparatus reaching reliably into new application domains (Newton/Leibniz scientific intellectual history; contemporary geopolitics; Manila Galleon trade as Pacific Silk Road; Spanish-American War 1898 chokepoint acquisitions). This release integrates the three cards whose substantive content fits naturally into the existing book structure (cards 245, 247, 248). Card 246 (contemporary geopolitics) remains as card-only material flagged as candidate for potential future epilogue per Dave's framing during the original Beta exchange.
+
+### Chapter 1 (the distribution)
+
+Extended "The Great Man Reframe" section with two new paragraphs articulating the framework's anti-great-man apparatus operating in scientific intellectual history (card 245):
+- **Newton/Leibniz simultaneous independent discovery of calculus** as cleanest available natural experiment for the overdetermined-outcome argument; pre-calculus substrate enumeration (Fermat, Cavalieri, Barrow, Descartes, Wallis); the gradient pointing directly at calculus by 1660
+- **Substrate-prepared-receiver apparatus** as scientific-domain instantiation of Shannon receiver-side methodology — great scientists as Shannon's most gifted decoders rather than transmitters of novel information generated from nothing
+- **Stigler's law of eponymy** as substrate-resonance convergence — sociological-historical pattern matching framework's substrate-prepared-receiver prediction
+- Newton positioned as canonical scientific-domain instantiation of same pattern Peter and Tecumseh demonstrate in political-military domains
+
+New footnotes `ch1-67` and `ch1-68`.
+
+### Chapter 4 (the Silk Road)
+
+Added new closing Section XII "The Pacific Recurrence" — substantial new section absorbing the Manila Galleon trade material from card 247:
+- **Manila Galleon trade (1565-1815)** as Pacific expression of Silk Road's corridor-civilization positional logic — 250-year operation; Spain controlling silver-supply endpoint; China controlling manufactured-goods endpoint; Philippines as intermediate entrepôt extracting value from the connection
+- **Urdaneta wind-system discovery (1565)** as friction-collapse on Pacific scale — eastward Pacific return route structurally impossible against the trades; Urdaneta's high-latitude westerly route discovery made the round-trip Pacific commercial route tractable; refines friction-collapse apparatus from broad mobility-regime transitions to specific-route-discovery cases
+- **American silver flow as concrete cross-civilizational substrate coupling** — Spanish silver-mining substrate coupled through Pacific maritime substrate to Chinese fiscal substrate (Single Whip Reform); effects in each substrate that neither would have produced alone; late-Ming fiscal crisis substrate-coupling-induced volatility
+- **Single Whip Reform as canonical cross-civilizational optimization-trap case** — third independent civilizational case (alongside Southern Song and Comanche) of optimization-and-substrate-shift sequence operating through different specific mechanism
+- **Chokepoint continuity across Spanish-American transition** — Manila/Hawaii/Guam retained strategic significance across political-actor transition; "The Spanish pioneered the route. The Americans took the chokepoints."
+- Forward connection to card 246 contemporary-geopolitical material (held as potential future epilogue)
+
+New footnotes `ch4-35` through `ch4-39`.
+
+### Chapter 6 (the parallel conquests)
+
+Extended Section XI ("The Pacific Extension") with substantial new paragraph anchoring the 1898 American Pacific acquisitions in the 250-year Manila Galleon precedent (card 248):
+- The specific Pacific nodes the Americans acquired had a 250-year proven track record under Spanish control
+- Substrate-driven positional logic independent of which specific political actor controls the nodes
+- "The route was already there. The Americans took the tollbooths."
+- Connection to Chapter 4 Section XII for the substantive Manila Galleon material; reciprocal cross-chapter referencing
+
+New footnote `ch6-38`.
+
+### Appendix A (Speculative Connections and Future Research)
+
+Added two new falsifiable predictions:
+
+**Entry 16: The Substrate-Prepared Receiver Pattern in Simultaneous Scientific Discovery** (card 245) — cross-civilizational test of substrate-prepared-receiver apparatus extending into scientific intellectual history. Canonical cases: Newton/Leibniz calculus; Darwin/Wallace natural selection; Mendeleev/Meyer periodic table; Einstein vs Lorentz-Poincaré pre-substrate. Stigler's law of eponymy as sociological-historical confirmation. Falsification path through systematic coding of major scientific discovery cases against intellectual-substrate-state.
+
+**Entry 17: Chokepoint Continuity Across Political-Actor Transitions** (cards 247, 248) — cross-civilizational test of substrate-driven temporal persistence of geographic-positional significance across political transitions. Canonical cases: Pacific chokepoints across Spanish-American transition; Mediterranean chokepoints across multiple transitions; Central Asian chokepoints across multiple transitions with eventual decline due to substrate-condition change rather than political-actor change. Paired with bumper-as-transformer (entry 9) as substrate-driven temporal-persistence vs cross-substrate-variation apparatus.
+
+### Card 246 (contemporary geopolitics) deliberately not integrated
+
+Dave's explicit framing during the original Beta exchange — "Maybe something for an epilogue or just a notecard for future predictions at macro level" — together with Beta's "Not for the book. But the framework is doing real explanatory work on live geopolitics again" — flagged card 246's contemporary-geopolitics material as candidate for potential future epilogue rather than main-chapter integration. The card remains as substantive reference material; the Weimar-Russia parallel, asymmetric-multipolarity prediction, and Silk-Road-structural-recurrence-into-present apparatus are available for future epilogue integration if the book's structure evolves to include forward-looking application material.
+
+### Cross-domain reach milestone
+
+With v3.8, the framework's apparatus has demonstrated reliable cross-domain reach across four substantive new application domains (cards 245-248). The cluster operates as substantive holdout-test confirmation of the framework's apparatus extending beyond its primary training material on Bronze Age substrate / overland Silk Road / Hammond-arc Chinese material. Substrate-prepared receiver, chokepoint continuity, cross-civilizational substrate coupling, and the Pacific Silk Road as structural-recurrence are framework concepts emerging from cross-domain application rather than from the original arc material — the framework producing new analytical concepts as it reaches into new domains.
+
+---
+
 ## v3.7 — 2026-05-18
 
 **Hammond-arc closing meta-apparatus cluster (cards 239-244) integrated across Foreword, Chapter 1, Chapter 7, Chapter 8, Appendix A, and Appendix C.**
