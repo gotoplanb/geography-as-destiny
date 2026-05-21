@@ -315,4 +315,51 @@ If you are a researcher with the right expertise and want to test one, the evide
 
 ---
 
+## 18. Commercial-Toolkit-Determines-Visibility and the Vacuum-Filling Selection Mechanism
+
+**Prediction:** Across geopolitical-and-commercial cases globally, different actors with different commercial-and-organizational toolkits should systematically see different geographic landscapes operating on the same physical terrain. Terrain that one actor's commercial logic cannot see as resource may be visible and valuable to another actor with a different commercial toolkit. Power vacuums — zones outside the dominant power's commercial-logic capture — should systematically select for the actor whose specific toolkit matches the resources the vacuum contains. The framework names the apparatus "commercial-toolkit-determines-visibility" (extending the framework's Shannon receiver-side methodology from historiography to commercial-strategic valuation of terrain itself) paired with "vacuum-filling selection mechanism" (the substrate-selection process by which power vacuums get filled by actors whose toolkits match available resources).
+
+**Canonical cases the framework reads through this lens:**
+- **Russian Fort Ross / northern California fur trade (1812–1841)** — northern California coast invisible to Spanish silver-and-mission commercial logic; Russian-American Company fur-trade toolkit matched sea otter pelt → Chinese luxury market resource configuration; Fort Ross operated through the toolkit-resource match until sea-otter-population-collapse (1841) destroyed the resource the operation depended on (sub-case of optimization-trap apparatus)
+- **Comanche filling Spanish administrative retreat (early-to-mid eighteenth century)** — Spanish frontier administration weakened by various imperial-strategic constraints; Comanche horse-based commercial-and-military toolkit matched the southern Plains resource configuration; Comanche Empire developed through the toolkit-resource match
+- **Americans filling Comanche collapse (mid-to-late nineteenth century)** — Comanche commercial-economic system destabilized by railroad friction-collapse and buffalo destruction; American agricultural-and-railroad-administrative toolkit matched the post-Comanche resource configuration
+- **Hudson's Bay Company across Pacific Northwest (eighteenth-nineteenth century)** — British fur-trade toolkit matching the Pacific Northwest resource configuration in zones marginal to Spanish, French, and Russian colonial-administrative logics
+
+**Cross-case substrate selection mechanism:** The vacuum does not just open — it selects. The matching toolkit is what determines which actor among possibly multiple candidates actually occupies the vacuum. The selection mechanism articulates that vacuum-filling is not random or contingent at the macro-pattern level even though specific-actor identity may have contingent micro-level variation.
+
+**The sender-positioned terrain valuation principle:** No view from nowhere on what makes terrain valuable. The framework's apparatus must account for the receiving actor's commercial-logic in evaluating which terrain features count as resources for that specific actor. Terrain value is substrate-driven (the terrain features are real and persistent) and receiver-positioned (which features count as resources depends on which actor is doing the seeing).
+
+**What would test it further:** Systematic coding of vacuum-filling cases globally against (a) substrate-conditions producing the vacuum (which dominant power's commercial logic created the blind spot); (b) toolkit-resource match between the filling actor's commercial logic and the available resources; (c) durability of the filling operation as function of resource-toolkit match strength and resource persistence; (d) substrate dynamics producing eventual exit (resource exhaustion; political-actor displacement; toolkit obsolescence).
+
+**What would falsify it:** Vacuum-filling cases systematically failing to correlate with toolkit-resource match; toolkit-resource-mismatched actors systematically occupying vacuums their toolkits cannot capture; substrate selection systematically failing to operate at the macro-pattern level.
+
+*See [ref 249](references/249-commercial-toolkit-determines-visibility-russian-fort-ross-vacuum-filling-selection-mechanism.md)*
+
+---
+
+## 19. Extraction-Disguised-as-Exchange vs Mutual-Exchange in Corridor-Civilization Cases
+
+**Prediction:** Across corridor-civilization cases globally, two structurally different substrate dynamics operate on superficially similar surface-commercial-form. *Mutual-exchange* corridor operation produces prosperity at both endpoints and at the corridor civilizations between, sustained by demand at both ends of the corridor and willingness to participate at both ends. *Extraction-disguised-as-exchange* corridor operation produces prosperity at one endpoint at the cost of the other endpoint's social-and-economic decline, sustained by a product-or-mechanism designed to create dependency at the receiving end that systematically eliminates the consumer-choice conditions making free exchange meaningful. Both patterns look superficially similar; they operate through structurally different substrate mechanisms with opposite long-term substrate consequences. The framework's corridor-civilization apparatus should distinguish them through specific diagnostic indicators.
+
+**Canonical cases the framework reads through this lens:**
+- **Silk Road at its Pax Mongolica best (c. 1250–1350)** — genuinely mutual exchange; Chinese, Persian, and European endpoints all extracting value; Sogdian, Uyghur, and other corridor civilizations prospering from facilitation; mutual demand at both endpoints; willing participation throughout the corridor
+- **Manila Galleon trade (1565–1815)** — substantively mutual at the commercial-form level but with substantial extraction asymmetries through Spanish silver-and-encomienda labor coercion at the South American mining substrate (mixed case showing the spectrum between pure mutual exchange and pure extraction-disguised-as-exchange)
+- **Opium Wars / triangle trade (canonical extraction-disguised-as-exchange, 1839–1860)** — British silver-extraction sustained by Chinese addiction; Indian agricultural substrate forced into opium monoculture under coercive cultivation requirements; Chinese commercial-and-social substrate destabilized by silver outflow and addiction effects; British imperial substrate sustained by silver-and-tea revenues. Each leg profitable; system sustained by mechanism (addiction) that systematically eliminated consumer-choice preconditions for free exchange
+- **Atlantic slave trade (canonical extraction case operating through different specific mechanism)** — multi-substrate coupling (West African slave-supply ↔ Caribbean plantation labor-demand ↔ European capital substrate) operating through extraction at multiple stages; not a corridor-civilization case in the same sense but adjacent structural pattern worth comparative analysis
+
+**Proposed diagnostic indicators distinguishing the patterns:**
+- (a) Whether the traded commodity creates dependency (eliminating consumer-choice conditions) or operates within voluntary-choice conditions
+- (b) Whether the trade is supported by sovereign-state political institutions of both endpoints or imposed by one through military force
+- (c) Whether the long-term substrate consequences favor both endpoints proportionally or asymmetrically
+- (d) Whether the corridor civilizations prosper proportionally or are themselves extracted-through
+- (e) Whether the encoding apparatus operating to legitimate the trade requires preconditions the activity systematically eliminates (encoding-as-active-contradiction, the apparatus articulated in Chapter 8's tenth methodological commitment)
+
+**What would test it further:** Systematic coding of historical commercial-corridor cases globally against the diagnostic indicators; assessment of whether the mutual-vs-extractive distinction reliably predicts long-term substrate consequences; identification of intermediate cases (substantively mixed) and what produces the mixed character.
+
+**What would falsify it:** Mutual-exchange and extraction-disguised-as-exchange systematically producing identical long-term substrate consequences; diagnostic indicators systematically failing to correlate with the mutual-vs-extractive distinction; the distinction itself failing to operate at the macro-pattern level when systematically tested.
+
+*See [ref 250](references/250-opium-wars-east-india-company-corporate-structure-as-encoding-free-trade-as-extraction-disguised-as-exchange.md)*
+
+---
+
 *Each entry is a canyon the river identified. We're not digging them today. But the predictions are timestamped, the logic is documented, and anyone with the right tools can test them.*

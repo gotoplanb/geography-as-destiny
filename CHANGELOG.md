@@ -2,6 +2,72 @@
 
 Version history for *Geography as Destiny*. Each version corresponds to a git tag and a built epub. The colophon and title page of the epub display the version that built them.
 
+## v3.9 — 2026-05-20
+
+**Cards 249-250 integrated across Chapter 4, Chapter 6, Chapter 8, and Appendix A. Fan Kuan frontispiece added.**
+
+Two substantive Hammond-arc-and-extension cards integrated into book prose. Cards 246, 251, 252 remain as card-only material per Dave's "future epilogue / contemporary geopolitics" hold-back framing on each.
+
+### Frontispiece (new front matter)
+
+Added Fan Kuan's *Travelers Among Mountains and Streams* (谿山行旅圖, Northern Song dynasty, c. 1000 CE) as frontispiece appearing between cover and foreword. The painting is the framework's thesis in visual form: travelers and pack animals barely visible against the mountain that occupies most of the composition; human activity is real and worth seeing but the terrain is what the eye should rest on. Fan Kuan reportedly spent years living in the mountains he painted before composing the picture — receiver-side methodology applied to landscape a thousand years before Shannon named it. Image attribution, brief framework-resonant caption, and Wikipedia link included.
+
+### Chapter 4 (the Silk Road)
+
+Extended Section XII "The Pacific Recurrence" (added in v3.8) with substantial new material from cards 249-250:
+
+- **Commercial-toolkit-determines-visibility mechanism** (card 249) — Russian Fort Ross (1812–1841) as canonical case; northern California coast invisible to Spanish silver-and-mission commercial logic; Russian fur-trade toolkit matched the sea otter pelt → Chinese luxury market resource configuration. The vacuum-filling selection mechanism articulated as cross-case pattern. Sea-otter-population-collapse triggering Russian withdrawal as sub-case of optimization-trap apparatus. Sender-positioned terrain valuation as extension of card 240's no-view-from-nowhere principle.
+
+- **Opium Wars as Silk Road's dark mirror** (card 250) — extraction-disguised-as-exchange (one endpoint capturing the other's surplus through dependency-creation) as substantive distinction within the corridor-civilization apparatus. Triangle trade (Indian opium → China; Chinese silver → Britain; British manufactured goods → India) as cross-civilizational substrate-coupling at unprecedented scale. East India Company corporate structure as institutional-encoding apparatus.
+
+- **Encoding-as-active-contradiction** — free-trade encoding requires conditions (willing buyers and sellers) the encoded activity (drug trade designed to create dependency) systematically eliminates. The Wald bomber apparatus operating at full power: returning bombers are free-trade arguments in Hansard; engine hits are millions of Chinese opium addicts.
+
+- **Mutual-vs-extractive distinction** within corridor-civilization apparatus — both patterns look superficially similar; operate through structurally different substrate mechanisms with opposite long-term consequences.
+
+New footnotes `ch4-40`, `ch4-41`, `ch4-42`.
+
+### Chapter 6 (the parallel conquests)
+
+Extended Section XI's encoding-work-scales-with-gap material with substantial new paragraphs absorbing card 250:
+
+- **Opium Wars as canonical extreme case** on the encoding-work-scales spectrum
+- **Corporate-structure-as-encoding** apparatus refining the framework's Shannon receiver-side methodology with institutional-organizational forms as discrete encoding mechanism alongside narrative-and-rhetorical encoding
+- **Three-category encoding refinement** introduced: narrative-encoding (McKinley prayer story); institutional-encoding (East India Company quasi-governmental private corporate structure); categorical-encoding (free-trade / civilizational-uplift frames smuggling normative weight into descriptive vocabulary)
+- **Encoding-as-active-contradiction** as discrete sub-category within sender-side encoding pattern
+
+New footnotes `ch6-39` and `ch6-40`.
+
+### Chapter 8 (synthesis frontier)
+
+Extended methodological commitments from nine to ten (card 250):
+
+- **Tenth commitment**: Sender-side encoding analysis distinguishes among three discrete pattern categories — narrative-encoding (translating substrate-driven decisions into political-discourse legitimating form via specific stories); institutional-encoding (organizational-jurisdictional forms producing plausible deniability for substrate-driven operations); encoding-as-active-contradiction (framework-claims whose preconditions the encoded activity systematically eliminates). Encoding-stripping moments as discrete analytical opportunities when underlying substrate-driven logic becomes structurally visible.
+
+New footnote `ch8-21`.
+
+### Appendix A (Speculative Connections and Future Research)
+
+Added two new falsifiable predictions:
+
+**Entry 18: Commercial-Toolkit-Determines-Visibility and the Vacuum-Filling Selection Mechanism** (card 249) — cross-civilizational test of toolkit-resource matching producing actor-specific terrain visibility. Canonical cases: Russian Fort Ross / Spanish blind-spot; Comanche / Spanish administrative retreat; Americans / Comanche collapse; Hudson's Bay Company / Pacific Northwest. The vacuum selection mechanism articulated with falsification path.
+
+**Entry 19: Extraction-Disguised-as-Exchange vs Mutual-Exchange in Corridor-Civilization Cases** (card 250) — substantive distinction within corridor-civilization apparatus with five proposed diagnostic indicators. Canonical cases: Silk Road at Pax Mongolica best (mutual); Manila Galleon (mixed with extraction asymmetries through encomienda labor coercion); Opium Wars triangle trade (canonical extraction); Atlantic slave trade (adjacent structural pattern).
+
+### Cards 246, 251, 252 deliberately not integrated
+
+Three cards remain as card-only material per Dave's explicit framing during the original Beta exchanges:
+- **246** (Weimar-Russia parallel / asymmetric multipolarity / Silk-Road-structural-recurrence into present) — "Maybe something for an epilogue or just a notecard for future predictions at macro level"
+- **251** (Taiwan-as-Bactria / semiconductors as bronze / first island chain geometry) — "Not for the dissertation's main text — too contemporary and too speculative for the evidentiary standard established for historical cases"
+- **252** (Technology-relocatable / terrain-non-relocatable / encoding-stripping / not-living-in-post-geography-world) — "I don't want to get too much into current politics and pontificating stuff in the notecards"
+
+The three cards together constitute substantive material for potential future epilogue / standalone paper / V4 use cases. Available when the structure evolves to include forward-looking application material.
+
+### Cross-domain reach continues
+
+Cards 247-250 now form a four-card Pacific-and-China commercial-and-strategic-history cluster integrated into the book prose, with continuity of apparatus from sixteenth-century Manila Galleon trade through nineteenth-century Opium Wars and 1898 Pacific chokepoint acquisitions. The framework continues to produce substantive new analytical concepts through engagement with new domains rather than restating existing apparatus.
+
+---
+
 ## v3.8 — 2026-05-19
 
 **Cross-domain extension cards (245, 247, 248) integrated across Chapter 1, Chapter 4, Chapter 6, and Appendix A.**
