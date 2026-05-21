@@ -51,6 +51,7 @@ EOF
 
 # Chapter order — the reading sequence
 CHAPTERS=(
+    frontispiece.md
     foreword.md
     prologue.md
     chapters/01-the-distribution/index.md
