@@ -2,6 +2,82 @@
 
 Version history for *Geography as Destiny*. Each version corresponds to a git tag and a built epub. The colophon and title page of the epub display the version that built them.
 
+## v4.1 — 2026-05-21
+
+**Cards 253-256 integrated across Chapter 1, Chapter 6, Chapter 7, Chapter 8, Appendix A, and Epilogue.**
+
+Four-card Hammond-arc sequence on the 1945-substrate-decisive-moment-and-its-Chinese-consequences plus the meta-framework intellectual-honesty commitment that emerged from sustained engagement with the Stalin material. Substantive new framework apparatus: marginal-environment substrate-selection of cognitive competence; barbarism-encoding as fourth sub-category of sender-side encoding; targeted-vs-random violence analytical distinction; bumper-as-transformer mechanism operating on ideology rather than only on conquering peoples; intellectual honesty as eleventh methodological commitment.
+
+### Chapter 1 (the distribution)
+
+Extended Anti-Hero subsection with:
+
+- **Yalta Conference (February 1945) as additional canonical anti-hero case** (card 254) — multi-actor diplomatic configuration where the substrate-misalignment outcome emerged from asymmetric negotiating capacity rather than from any single actor's substrate-blindness. Roosevelt physically dying, Churchill from declining-British-power constraints, Stalin operating with singular clarity. Yalta added to the three-category individual-action apparatus's anti-hero canonical cases list (alongside Shah of Khwarazm, Yang Guozhong, Soviet Aral Sea engineers, Sykes-Picot).
+
+- **Targeted vs random violence analytical distinction** (card 256) — substantive analytical move within the framework's apparatus. Targeted violence operates through substrate-aligned strategic logic (eliminating specific threats; destroying specific reconstitution-enabling infrastructure; removing specific alternative power centers); random violence operates as substrate-misaligned action without coherent strategic logic. Both produce body counts; operational logic differs.
+
+New footnote `ch1-69`.
+
+### Chapter 6 (the parallel conquests)
+
+Extended Section XI encoding-work-scales material with:
+
+- **Barbarism-encoding as fourth sub-category** of sender-side encoding pattern (card 256) — operates through emphasis on brutality and body counts that obscures substrate-selected strategic competence. Conventional Western encoding of Genghis Khan and Stalin as canonical cases. Body counts real; substrate-selected competence obscured by encoding. Requires specific decoding work to recover what the encoding has obscured.
+
+- **The intellectual-honesty commitment articulated within the chapter** — "Calling them idiots is intellectually comfortable. Understanding them is more useful." Cross-references Chapter 8's eleventh methodological commitment.
+
+New footnote `ch6-41`. Encoding-pattern sub-categories now refined to four: narrative-encoding; institutional-encoding; encoding-as-active-contradiction; barbarism-encoding.
+
+### Chapter 7 (the great man's hardest test)
+
+Added new closing Section VIII "The Mongol Pattern Repeats — Stalin and the Soviet Diffusion" — most substantive new content of this release. Six-component section absorbing the full four-card cluster:
+
+- **Soviet Pacific campaign August 1945 as substrate-aligned-actor-with-extraordinary-timing-skill case** (card 253) — three weeks of Soviet military action redirecting the trajectory of the world's most populous country for the next seventy-five years and counting. Yalta as diplomatic substrate-precondition; the August 1945 timing as substrate-aligned exploitation.
+
+- **Yalta as exhausted-great-powers-divide-the-map predecessor-and-WWII-expression** (card 254) — Sykes-Picot 1916 and Yalta 1945 as cross-temporal cases of the same substrate-misalignment pattern operating through different specific failure modes (confident ignorance vs informed exhaustion). The canal dug in February 1945 still generating floods forty years later.
+
+- **Marginal-environment substrate-selection of cognitive competence** (card 256) — both Genghis (Mongol steppe) and Stalin (Georgian periphery and Bolshevik revolutionary underground) developed substrate-selected competencies in environments where the cost of miscalculation was death. Coalition building under mutual suspicion; reading the terrain and timing intervention; using local talent immediately; instrumental use of violence.
+
+- **Intellectual honesty methodological commitment applied to historical actors** — substrate-selected strategic competence accurately read regardless of moral judgments subsequently rendered. Body counts real; substrate-selected competence obscured by conventional barbarism-encoding. Targeted-vs-random violence distinction operating as substantive analytical move.
+
+- **Bumper-as-transformer mechanism operating on ideology** (card 255) — Marxism's diffusion into Chinese substrate as canonical case. Substrate-compatible organizational elements survived (hierarchical party structure; collective discipline; state direction of economy; anti-merchant ideology mapping onto Confucian administrative traditions); substrate-incompatible ideological content evaporated (proletarian internationalism; dialectical materialism; the European-industrial-context premise of the proletariat as revolutionary subject). Same Rogers compatibility mechanism operating on political ideology that operates on technology and religion.
+
+- **Graceful exothermic reaction as named framework concept** — post-Mao reform era from 1978 onward as gradual energy dissipation through institutional channels rather than catastrophic dissipation (Cultural Revolution alternative). The Yuan became Chinese. Chinese communism became Confucian capitalism with party characteristics. Same substrate-driven absorption pattern; different specific entering apparatus; eight hundred years apart; identical bumper-as-transformer mechanism.
+
+New footnotes `ch7-25` through `ch7-29`. Chapter 7 closing line updated to acknowledge the Mongol pattern repeating through Stalin.
+
+### Chapter 8 (synthesis frontier)
+
+Extended methodological commitments from ten to eleven:
+
+- **Eleventh commitment: Intellectual honesty as substantive methodological commitment** (card 256) — framework prefers analytical accuracy over moral comfort when the two conflict. Operates symmetrically with the generous-critique commitment (ninth commitment per card 244): don't over-claim individual-causal-weight for great individuals; don't dismiss substrate-aligned strategic competence as idiocy or barbarism. Framework reads first; moral judgment operates on what the apparatus has read accurately.
+
+- **Tenth commitment expanded** to include the fourth encoding sub-category (barbarism-encoding) alongside narrative-encoding, institutional-encoding, and encoding-as-active-contradiction.
+
+New footnote `ch8-22`. `ch8-21` updated to incorporate fourth sub-category.
+
+### Appendix A (Speculative Connections and Future Research)
+
+- **Entry 7 (Anti-Hero Pattern)** extended with Yalta (Roosevelt-Churchill-Stalin February 1945) as fifth canonical case demonstrating the asymmetric-negotiating-capacity sub-pattern.
+
+- **New Entry 20: Marginal-Environment Substrate-Selection of Cognitive Competence** (card 256) — cross-civilizational test of substrate-driven selection of cognitive-and-strategic competence through marginal-environment substrate-conditions. Canonical cases: Genghis Khan (Mongol steppe); Stalin (Georgian periphery and Bolshevik revolutionary underground); various other military-and-political-marginal-environment cases. Sub-prediction on substrate-aligned-actor with extraordinary timing skill. Methodological pairing with Chapter 8's eleventh methodological commitment.
+
+### Epilogue
+
+Section II "The Twenty-Year Distraction" extended with brief paragraph connecting Soviet 1945 substrate injection to contemporary Chinese substrate dynamics. The Soviet energy Stalin injected into the Chinese system in 1945 still working its way through the substrate seventy-five years later in transformed form (state capitalism; Belt and Road; Taiwan question). Cross-references Chapter 7's new Section VIII.
+
+### Hammond-arc trilogy + meta-framework move
+
+Cards 253-256 collectively articulate the framework's reading of the 1945-substrate-decisive-moment-and-its-Chinese-consequences:
+- 253: substrate-aligned-action at the substrate-decisive moment (Stalin August 1945)
+- 254: diplomatic substrate-precondition / exhausted-great-powers-divide-the-map (Yalta as Sykes-Picot of WWII)
+- 255: substrate-driven absorption over multi-generational timescales (Stalin as Genghis Khan of different age; bumper-as-transformer operating on ideology)
+- 256: meta-framework intellectual-honesty commitment (marginal-environment substrate-selection; barbarism-encoding obscuring sophistication)
+
+The framework's apparatus continues producing substantive new analytical concepts through engagement with primary Hammond-arc material as Dave's listening sequence moves through the WWII / Chinese-Civil-War / Mao consolidation period.
+
+---
+
 ## v4.0 — 2026-05-20
 
 **Epilogue added. The book now reaches into the present.**
