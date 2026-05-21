@@ -63,6 +63,7 @@ CHAPTERS=(
     chapters/06-the-parallel-conquests/index.md
     chapters/07-the-great-mans-hardest-test/index.md
     chapters/08-the-synthesis-frontier/index.md
+    epilogue.md
     chapters/appendix-a/index.md
     chapters/appendix-b/index.md
     chapters/appendix-c/index.md

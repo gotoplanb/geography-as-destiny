@@ -2,6 +2,44 @@
 
 Version history for *Geography as Destiny*. Each version corresponds to a git tag and a built epub. The colophon and title page of the epub display the version that built them.
 
+## v4.0 — 2026-05-20
+
+**Epilogue added. The book now reaches into the present.**
+
+Major version bump because this crosses the dissertation boundary Dave had explicitly held throughout v3.x — the book now applies the framework's apparatus forward into contemporary geopolitical configuration. Cards 246, 251, 252 (previously flagged as future-epilogue / standalone-paper candidates) integrated into book prose as the substantive material the epilogue absorbs and builds on. Earlier cards 247-250 (already integrated in v3.8 and v3.9) provide the substrate the epilogue builds the contemporary reading on.
+
+### New: Epilogue (between Chapter 8 and Appendix A)
+
+Seven-section epilogue applying the framework's apparatus to the present moment:
+
+- **I. Not Post-Geography** — the framework's central claim restated at contemporary scale. The friction collapses of the past three decades reduced friction; they did not eliminate the terrain. The Strait of Malacca did not get wider when the internet arrived; the Taiwan Strait did not move when TSMC went to 3nm; the first island chain did not relocate when container shipping made the Pacific a frictionless conveyor.
+
+- **II. The Twenty-Year Distraction** — Dave's substantive framing point: US-China dynamics were in place long before 9/11/2001. The post-9/11 / Global War on Terror era operated as twenty-year sender-side narrative-encoding distraction from the substrate-driven US-China structural competition the framework's apparatus would have read as overdetermined throughout. The macro/micro distinction operating at contemporary scale: 9/11 and its sequelae as random-walk steps; US-China structural competition as the gradient. The 2021 Afghanistan withdrawal as encoding-stripping moment when the underlying substrate-driven strategic competition became structurally visible in political discourse.
+
+- **III. The Silk Road Continues** — asymmetric multipolarity prediction at 20-50 year timescales (card 246). Europe and Russia in the Eurasian middle position between American Atlantic and Chinese Pacific power as contemporary expression of Transoxianan corridor logic. Weimar-Russia parallel with power-differential-at-humiliation refinement. The dangerous-incapacity inversion (humiliated power without closeable gap potentially more dangerous than one that can actually win).
+
+- **IV. Taiwan as the New Bactria** — gravity-well structural-recurrence apparatus (card 251). Same geographic logic operating across four millennia. Semiconductors as bronze (strategic-material recurrence). First island chain geometry. The painted-into-a-corner security dilemma extending the anti-hero apparatus from individual-actor cases to dyadic strategic configurations. The semiconductor encoding as legitimating apparatus for geometric logic — TSMC as the encoding that translates abstract geometric logic into concrete economic terms democratic political systems can process and fund.
+
+- **V. What Moves and What Stays** — technology-relocatable / terrain-non-relocatable distinction as substantive framework articulation (card 252). TSMC can be redistributed; the first island chain cannot. Ports of Shanghai, Busan, Singapore, Hong Kong, Kaohsiung as substrate-selected over centuries. Encoding-stripping analytical move when TSMC relocation forces the honest geometric argument into the open. "The shipping-lane infrastructure is not infrastructure at all. It is geography."
+
+- **VI. What the Framework Predicts and What It Doesn't** — framework's epistemic posture on contemporary predictions: macro-pattern predictions appropriate at 20-50 year timescales; specific event predictions structurally outside framework's reach; explicit framework humility about live-case random-walk noise.
+
+- **VII. The Terrain Is Patient** — closing meditation. "The technology changes what moves through the terrain. It does not change the terrain." The river found its canyon; the canyon continues to widen; the river remembers where it was going. "We are not living in a post-geography world."
+
+Six new epilogue footnotes (`ep-1` through `ep-6`) cross-reference to the relevant reference cards and existing chapters.
+
+### Build script
+
+`epilogue.md` added to CHAPTERS array in `build-epub.sh` between Chapter 8 and Appendix A.
+
+### What this version means structurally
+
+v3.x held the dissertation boundary: the book ended at Chapter 8's synthesis frontier; cards 246, 251, 252 were explicitly "not for the book" / "future epilogue candidate" / "too contemporary and too speculative." v4.0 crosses that boundary deliberately. The framework's apparatus is now applied to the contemporary moment as substantive book content rather than as standalone-paper or epilogue-candidate material. The cards remain as reference cards documenting the framework's development; the epilogue is their substantive book-form integration.
+
+The dissertation now reaches across the full temporal sweep: Bronze Age substrate → Silk Road → parallel conquests → Pacific recurrence → contemporary configuration. Same framework apparatus operating across all the cases.
+
+---
+
 ## v3.9 — 2026-05-20
 
 **Cards 249-250 integrated across Chapter 4, Chapter 6, Chapter 8, and Appendix A. Fan Kuan frontispiece added.**
