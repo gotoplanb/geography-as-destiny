@@ -2,6 +2,92 @@
 
 Version history for *Geography as Destiny*. Each version corresponds to a git tag and a built epub. The colophon and title page of the epub display the version that built them.
 
+## v4.2 — 2026-05-23
+
+**Reich-arc cards 257-264 integrated across Foreword, Chapter 1 (Sections I, III, V), Chapter 1a, and Chapter 8.**
+
+Eight-card Reich-arc cluster opening the third major reading arc after Tasar (Central Asia), Anthony (Bronze Age), and Hammond (Chinese history). Reich's *Who We Are and How We Got Here* (2018) extends the framework's evidentiary base with substrate-objective ancient DNA evidence; the engagement has produced substantive new framework apparatus at high density plus substantial methodological refinement.
+
+### Foreword
+
+Extended footnote `fwd-7` (anti-eugenic positioning) with cross-species demonstration material reinforcing the framework-as-structural-opposite-of-biological-determinism positioning (card 264).
+
+### Chapter 1 Section I (geographic explanation as necessary)
+
+Added new paragraph articulating:
+- **Framework as special case of well-established biological principle** (card 264) — geographic determinism in population genetics and speciation applied to the specific case of human populations with the added complexity of technology-driven friction collapse
+- **Chimp-bonobo Congo River cross-species demonstration** (cards 263, 264) — Congo River creating hard barrier exceeding mobility capacity; populations diverging; speciation following. No language, culture, technology, or specifically human capacity required
+- **Darwin's finches as additional cross-species case** — geographic isolation across Galápagos islands producing adaptive radiation
+- **Preemptive refutation of "geography only applies to humans" objection** — the mechanism operates regardless of cognitive capacity
+- "Geography as destiny operates on all living creatures. Humans are interesting because technology periodically collapses the geographic barriers."
+
+New footnote `ch1-70`.
+
+### Chapter 1 Section III (friction collapse / temporal scope)
+
+Added paragraph articulating:
+- **Velocity threshold as the criterion defining the framework's temporal scope** (card 262) — minimum velocity of population movement and cultural exchange that horse-enabled movement provided
+- **Walking-speed vs pressure-wave dynamics as discrete regime distinction** — slow diffusion below the threshold; pressure-wave-and-corridor-civilization dynamics above it
+- "Pre-horse is prologue. Horse domestication is chapter one."
+- Connection back to cross-species material from Section I (the chimp-bonobo case operates below the velocity threshold; demonstrates the underlying mechanism)
+
+New footnote `ch1-71`.
+
+### Chapter 1 Section V (methodology)
+
+Added two new paragraphs articulating:
+- **Paired Wald-bomber-recovery (positive-evidence + absence-as-data)** (cards 261, 263) — 1-4% Neanderthal DNA as positive-evidence recovery; absence of living Neanderthals as paired absence-as-data signal; both modes operate as Wald-bomber-recovery
+- **Ancient DNA as third substrate-objective evidentiary instrument category** (card 258) — alongside documentary evidence and geographic-terrain evidence; substrate-objective in the technical sense that genetic-ancestry traces persist regardless of documentary survival or sender-side decisions
+- **Convergent confirmation across three substrate-objective evidentiary categories** as particularly robust validation
+
+New footnotes `ch1-72`, `ch1-73`.
+
+### Chapter 1a (Bronze Age substrate interlude)
+
+Section I extended with two new paragraphs articulating:
+- **Substrate-conjunction as named framework concept** (card 259) — multiple substrate changes occurring within compatible temporal window producing emergent outcome neither change would produce alone
+- **Bronze Age friction collapses as substrate-conjunction cases** — climate forcing function plus technology conjunction plus accumulated pressure-system state
+- **50,000-year out-of-Africa expansion as canonical substrate-conjunction case** at deeper temporal scale — FOXP2-related cognitive substrate × Saharan-pump climatic substrate × population-density × behavioral-organizational substrate
+- **Behavioral-organizational substrate as discrete substrate category** alongside geographic and technological substrates
+- **Multi-mechanism geographic-determinism articulation** — "Same geographic determinism. Different mechanism." (card 263)
+- Specific mechanisms operating across the framework enumerated (geographic-barrier-driven speciation; slow-diffusion-driven population genetics; pressure-wave dynamics; corridor-civilization positional logic; friction-collapse events; chokepoint-continuity; bumper-as-transformer; various others)
+
+New footnotes `int-25`, `int-26`.
+
+### Chapter 8 (synthesis frontier)
+
+Extended methodological commitments from 11 to 12 (card 264) plus substantive refinement of 11th commitment:
+
+- **11th commitment extended** with reflexive application of intellectual-honesty to framework's own analytical attractions (cards 260, 262, 263) — catching cognitive preferences for simple-causal-flip narratives when the substantive evidence reveals multi-substrate-change conjunction
+- **12th commitment**: Framework as special case of well-established biological principle. Substantive methodological positioning move grounding the framework's claims in well-established biological mechanism (geographic determinism in population genetics and speciation) applied to the specific case of human populations with added complexity of technology-driven friction collapse. Cross-species demonstration material from chimp-bonobo case and multi-species cross-case array (Darwin's finches; Congo apes; Yamnaya expansion; Comanche horse empire) operates as substantive grounding. Preemptive refutation of sophisticated possible challenge ("geography only applies to humans" objection). Framework's anti-eugenic methodological commitment reinforced through general-mechanism reading.
+
+New footnote `ch8-23`. `ch8-22` updated with reflexive-application material.
+
+### Reich-arc apparatus introduced across v4.2 integration
+
+Substantive new framework apparatus:
+- Substrate-conjunction as named framework concept (card 259)
+- Behavioral-organizational substrate as discrete substrate category (card 259)
+- Velocity threshold as foundational framework boundary (card 262)
+- Ancient DNA as third substrate-objective evidentiary instrument category (card 258)
+- Paired positive-evidence + absence-as-data Wald-bomber-recovery (cards 261, 263)
+- Multi-mechanism geographic-determinism articulation (card 263)
+- Framework as special case of well-established biological principle (card 264)
+- Cross-species demonstration of substrate-driven mechanism (cards 263, 264)
+- Multi-species cross-case array (card 264)
+
+Substantive methodological refinement:
+- Single-causal-flip cognitive-attraction failure mode (card 260)
+- Anti-eugenic methodological stress-test (card 260)
+- Reflexive intellectual-honesty applied to framework attractions (cards 260, 262, 263)
+- "Pre-horse is prologue. Horse domestication is chapter one." (card 262)
+
+### Cumulative framework state
+
+The framework's apparatus now spans from the chimp-bonobo Congo River speciation case (pre-velocity-threshold cross-species demonstration of underlying mechanism) through the Bronze Age friction collapses (substrate-conjunction cases producing post-velocity-threshold dynamics) through the documented historical period (Silk Road, Mongol khanates, parallel conquests, etc.) through the contemporary configuration (epilogue's US-China-Russia-Europe material). The Reich arc's substantive contribution is grounding the framework's general logic in cross-species and pre-historical evidence that the framework's primary apparatus mechanisms operate at slow-diffusion temporal scale through the same underlying substrate-driven logic.
+
+---
+
 ## v4.1 — 2026-05-21
 
 **Cards 253-256 integrated across Chapter 1, Chapter 6, Chapter 7, Chapter 8, Appendix A, and Epilogue.**
