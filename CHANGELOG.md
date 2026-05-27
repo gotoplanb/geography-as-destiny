@@ -2,6 +2,51 @@
 
 Version history for *Geography as Destiny*. Each version corresponds to a git tag and a built epub. The colophon and title page of the epub display the version that built them.
 
+## v4.3 — 2026-05-27
+
+**Reich-arc cards 265-272 integrated across Foreword, Chapter 1 (Sections I, III, V), Chapter 1a (Sections II, VII, IX), and Chapter 8.**
+
+Eight-card second Reich-arc cluster, continuing the integration that v4.2 began with cards 257-264. This batch carries the Reich engagement from fundamentals and Bronze Age confirmation through the ancestry/inequality and Native American material, and — for the first time — sends the framework past Reich's 2018 text to score its open questions against newer ancient-DNA literature (the Indus Valley genetics; the Beringian back-migration). The arc reaches the Western Hemisphere.
+
+### Foreword
+
+Extended footnote `fwd-7` (anti-eugenic positioning) with Reich's "mixture is fundamental to who we are" as the genome's own refutation of the racial-purity premise — continuous admixture where the ideology requires continuous separation (cards 267, 269).
+
+### Chapter 1 Section I (geographic explanation as necessary)
+
+New paragraph: the same substrate logic shapes biology as well as civilization — Eurasian terrain diversity producing adaptation diversity; the EPAS1 high-altitude variant as a capability acquired through Denisovan interbreeding rather than evolved in isolation; continuous mixing as the texture the eugenic story cannot accommodate (cards 265, 267). New footnote `ch1-74`.
+
+### Chapter 1 Section III (the three lenses — diffusion / friction collapse)
+
+New paragraph: two-speed propagation (technology at information speed, population at demographic speed) dissolving the migration-versus-diffusion dispute; differential friction (the Scandinavian case); and the Beringian land bridge as the showcase where diffusion curve and friction collapse act on a single feature at once — the orthogonal rotation that freezes rather than moves populations, leaving an American-derived language family stranded in Siberia (cards 266, 272). New footnote `ch1-75`.
+
+### Chapter 1 Section V (methodology)
+
+New paragraph stating the boundary on the ancient-DNA instrument: *the genome records the outcome, not the experience* (voluntary exchange and conquest leave the identical signature; male-biased admixture records asymmetry of power, not how it was experienced); the evidence base is itself terrain-gated (DNA preservation as a function of climate; the Indus Valley picture resting on a single genome); and honest hit-and-miss scoring of framework predictions, including the clean miss on an African-origin hypothesis for the Indus Valley population (cards 270, 271). New footnote `ch1-76`.
+
+### Chapter 1a Section II (The First Friction Collapse — The Wagon)
+
+New paragraph: the wheel as a technology the Yamnaya received (likely via Maykop across the Caucasus friction sieve), the technology-origin-versus-technology-scaling distinction ("the Maykop gave the Yamnaya the wheel; the steppe gave the wheel its maximum expression"), and the friction-collapse-as-expansion-of-habitable-land geographic framing (card 268). New footnote `int-32`.
+
+### Chapter 1a Section VII (The Three-Wave European Population History)
+
+Three new paragraphs:
+- Ancient DNA converting the three-wave reconstruction from inference to direct observation; the Anatolian wave as both diffusion and replacement (aDNA overturning the diffusion-only consensus); the Bronze Age Big Bang visible in the genome; three-discipline triangulation (cards 266, 267). Footnote `int-33`.
+- The character of the steppe overlay: male-biased admixture as the genomic record of asymmetric power; plague as a disease-mediated displacement co-mechanism recurring four thousand years apart; the outcome-not-experience boundary (cards 269, 270). Footnote `int-34`.
+- The Indus Valley counter-case: same expansion, opposite demographic outcome — a deep-time-robust *core* substrate that absorbs rather than is replaced, contributing two-thirds to three-quarters of modern South Asian ancestry (card 271). Footnote `int-35`.
+
+### Chapter 1a Section IX (The Robust Frontier in Bronze Age Form)
+
+New paragraph extending robust frontiers into deep time: Lake Baikal (the Mal'ta individual / Ancient North Eurasians ancestral to both Native Americans and Western Europeans) and Bactria as a genetic crossroads at 30,000 BCE — the deep-time genetic record extending the framework's reach below the velocity threshold (card 265). New footnote `int-36`.
+
+### Chapter 8 Section VII (The Framework's Methodological Commitments)
+
+Added a thirteenth methodological commitment (count updated from twelve): the substrate-objective instruments record outcomes, not experiences, and the framework does not let the recoverable outcome stand in for the unrecoverable experience; the instrument is itself terrain-gated (cards 270, 271). New footnote `ch8-24`.
+
+### Known issue (pre-existing, not introduced this version)
+
+Chapter 1a's Notes contain duplicate footnote labels `[^int-25]` and `[^int-26]` — the original DOM2/Sintashta definitions plus orphaned definitions (referencing cards 259, 263, 264) appended during the v4.2 pass without body anchors. The orphaned definitions do not render. Flagged for a separate cleanup pass.
+
 ## v4.2 — 2026-05-23
 
 **Reich-arc cards 257-264 integrated across Foreword, Chapter 1 (Sections I, III, V), Chapter 1a, and Chapter 8.**
