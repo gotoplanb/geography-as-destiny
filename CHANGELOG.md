@@ -2,6 +2,14 @@
 
 Version history for *Geography as Destiny*. Each version corresponds to a git tag and a built epub. The colophon and title page of the epub display the version that built them.
 
+## v4.3.1 — 2026-05-27
+
+**Footnote cleanup in Chapter 1a — resolves the duplicate-label issue flagged in v4.3.**
+
+The v4.2 integration of cards 259, 263, and 264 reused the labels `[^int-25]` and `[^int-26]` — which already belonged to the DOM2/Librado and Sintashta/4.2-kya footnotes — for both the new body anchors (the substrate-conjunction and multi-mechanism paragraphs in Section I) and appended definitions. The collision meant the substrate-conjunction paragraph rendered the DOM2 footnote and the multi-mechanism paragraph rendered the Sintashta footnote, while the cards 259/263/264 definitions were dropped entirely.
+
+Fix: renumbered the two Reich anchors and their definitions to fresh labels (`int-37` for the substrate-conjunction / card 259 note; `int-38` for the multi-mechanism / cards 263–264 note), leaving the correctly-paired DOM2 (`int-25`) and Sintashta (`int-26`) notes untouched. Every footnote label in the chapter now has exactly one definition and at least one body anchor; the cards 259/263/264 footnotes render for the first time. No prose changed.
+
 ## v4.3 — 2026-05-27
 
 **Reich-arc cards 265-272 integrated across Foreword, Chapter 1 (Sections I, III, V), Chapter 1a (Sections II, VII, IX), and Chapter 8.**
