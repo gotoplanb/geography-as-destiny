@@ -2,6 +2,14 @@
 
 Version history for *Geography as Destiny*. Each version corresponds to a git tag and a built epub. The colophon and title page of the epub display the version that built them.
 
+## v4.3.2 — 2026-05-27
+
+**Epilogue footnote cleanup — anchors the six previously-orphaned epilogue notes; rebuilds the epub.**
+
+The epilogue's six footnotes (`ep-1` through `ep-6`) were defined in the Notes section but never referenced in the body — pandoc flagged each as "defined but not used," and none appeared linked in the built book. Each maps cleanly to one section; added a body anchor for each at that section's core claim (`ep-1`→§I, `ep-2`→§II, `ep-3`→§III, `ep-4`→§IV, `ep-5`→§V, `ep-6`→§VI). Every epilogue footnote now resolves, and the epub builds with zero footnote warnings.
+
+This patch also re-commits the built epub, which the v4.3 and v4.3.1 source commits had omitted; the artifact now reflects the full cumulative state (Reich-arc integration, the Chapter 1a footnote fix, and this epilogue fix).
+
 ## v4.3.1 — 2026-05-27
 
 **Footnote cleanup in Chapter 1a — resolves the duplicate-label issue flagged in v4.3.**
