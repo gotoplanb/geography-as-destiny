@@ -2,6 +2,55 @@
 
 Version history for *Geography as Destiny*. Each version corresponds to a git tag and a built epub. The colophon and title page of the epub display the version that built them.
 
+## v4.4 — 2026-05-29
+
+**Reich-arc closing cluster — cards 273–284 integrated across Foreword, Chapter 1 (Sections I, III, V), Chapter 1a (Section IX), and Chapter 8 (Section VII). Reich arc closed.**
+
+Third Reich-arc integration cluster (continuing v4.2 with 257–264 and v4.3 with 265–272). This batch covers the closing material across four substantive categories:
+
+- **Methodology cluster** (cards 273, 274, 276, 281): meta-synthesis of the arc; the genome as second-least-encoded channel; temporal-stability axis distinct from encoding-hops axis; description vs explanation applied to genomics; multi-mechanism convergence refining the outcome-not-experience boundary.
+- **Cascade pair** (cards 277, 278): thermodynamic gradient cascade deriving Chinese settlement to its two extreme termini (Tibetan Plateau west via Gansu/Tarim; Pacific Ocean south via the outrigger-canoe Austronesian expansion).
+- **Kalahari prediction case** (card 279): pure-terrain-logic prediction of a geographic feature without consulting a map; KhoeSan split confirmed; Kalahari extending the robust-frontier apparatus to sub-Saharan Africa.
+- **Self-articulation and applied/normative cards** (cards 280, 282, 283, 284): static Diamond vs dynamic framework distinction precisely stated; inequality reframed from moral to engineering (safe failure design); substantive anti-eugenic terrain mechanism across two temporal scales (centuries — English/Clark/East Asian falsification; decades — Comanche horse-empire formation).
+
+### Foreword
+
+- `fwd-4` (Diamond): extended with the *static Diamond vs dynamic framework* distinction. Diamond treats geography's starting conditions as destiny; the framework treats geography as setting probability distributions continuously recalculated as friction collapses and reasserts. A structurally different argument than Diamond makes, not a softer version (card 280).
+
+- `fwd-7` (anti-eugenic positioning): extended with the framework's substrate-driven *terrain mechanism* as the analytical contribution that completes Reich's anti-eugenic pushback. English Industrial Revolution + Clark backdoor-eugenics argument refuted; East Asian industrialization (Korea, Japan, Taiwan, Singapore) as real-time falsification of genomic determinism; Comanche four-to-five-generation horse-empire formation as timescale-mismatch demonstration. *The genome records what happened; the terrain explains why it happened; conflating the two is what produces eugenics.* (cards 283, 284)
+
+### Chapter 1 Section I (geographic explanation as necessary)
+
+New paragraph + footnote `ch1-77`: Kalahari Desert as within-species human analogue of the Congo chimp-bonobo cross-species speciation mechanism (KhoeSan northwest/southeast genetic divergence across ~30,000 years); Comanche horse-empire formation within four to five generations as cleanest single-case anti-eugenic demonstration. *The people were interchangeable in the genomic sense. The terrain and the timing were not.* (cards 279, 284)
+
+### Chapter 1 Section III (the three lenses)
+
+- New paragraph + footnote `ch1-78`: outrigger canoe as canonical Pacific friction-collapse technology alongside horse, wagon, railroad, oceanic sail; population density as friction (Madagascar case); framework operating in the most terrain-constrained substrate it has read. *Empty terrain beats proximate terrain every time.* (card 278)
+
+- New paragraph + footnote `ch1-79`: Han north-radiation-vs-south-mixing pattern as East Asian instance of differential-friction-determining-replacement-vs-mixing (paired with the Anatolian-farmer central-Europe-vs-Scandinavia case); the *paired Goldilocks zones within one civilizational space* refinement (Yellow River loess + Yangtze rice delta); pressure-equilibrium gradient-redirector producing Han westward projection through the Gansu Corridor as substrate-driven rather than imperial-ambition-driven (cards 275, 277).
+
+### Chapter 1 Section V (methodology)
+
+- New paragraph + footnote `ch1-80`: three-tier evidentiary-instrument ordering with both axes (encoding hops + temporal stability); historical geology as deepest substrate-objective signal; genome as the Wald-bomber flight recorder recovering populations that did not survive to write; *two instruments detecting the same signal* as the framework's general validation methodology (cards 273, 274).
+
+- New paragraph + footnote `ch1-81`: description-vs-explanation distinction applied specifically to genomics; multi-mechanism convergence refining the outcome-not-experience boundary at the mechanism level (the genome records the concentration outcome without recovering which mechanism produced what fraction); moral evaluation as separate analytical level (cards 276, 281).
+
+### Chapter 1a Section IX (Robust Frontier in Bronze Age Form)
+
+New paragraph + footnote `int-39`: Kalahari Desert as canonical sub-Saharan deep-time robust frontier extending the Caucasus/Altai/Lake Baikal/Bactria apparatus to a third continent; forager-vs-pastoralist mobility-technology threshold as a discrete pre-Bronze-Age friction-collapse boundary operating below the velocity threshold; Bantu expansion as canonical bridging event (card 279).
+
+### Chapter 8 Section VII (methodological commitments)
+
+Commitment count updated **Thirteen → Fifteen**.
+
+- **Fourteenth commitment** (footnote `ch8-25`): *moral evaluation operates at a separate analytical level from mechanistic description, and the framework deliberately does not occupy the moral level* — methodological discipline operating symmetrically; pairs with the intellectual-honesty commitment (eleventh) and the outcome-not-experience boundary commitment (thirteenth). The Bronze Age Y-chromosome stratification case as canonical demonstration (card 281).
+
+- **Fifteenth commitment** (footnote `ch8-26`): *safe failure design as the framework's actionable applied prescription* — the prescriptive counterpart to the seventh commitment (optimization-vulnerability). Engineering-vs-morality reframing of the inequality debate as a third analytical position distinct from both conservative and progressive conventional positions. Silk Road graceful-failure vs Pax Mongolica efficient-but-fragile as canonical historical demonstration. *You cannot prevent the storm. You can design the drainage system.* (card 282)
+
+### Reich arc closed
+
+This integration closes the Reich arc. Twenty-eight cards (257–284) across three versions of integration (v4.2 integrated 257–264; v4.3 integrated 265–272; v4.4 integrates 273–284). The arc produced substantial material across three categories: specific-case cards engaging substantive Reich material; methodology cards articulating the framework's contribution to genomic-and-historical methodology; and applied/normative cards extending the framework into contemporary applied discourse. The methodology and applied/normative apparatus emerging from the arc constitutes the framework's most substantively integrated methodological-payoff to date.
+
 ## v4.3.2 — 2026-05-27
 
 **Epilogue footnote cleanup — anchors the six previously-orphaned epilogue notes; rebuilds the epub.**
