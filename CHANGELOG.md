@@ -2,6 +2,13 @@
 
 Version history for *Geography as Destiny*. Each version corresponds to a git tag and a built epub. The colophon and title page of the epub display the version that built them.
 
+## v4.4.1 — 2026-05-31
+
+**Foreword reader-note + card-count update.**
+
+- Added an italicized reader's note at the top of the foreword explaining the deliberate footnote strategy: footnoted terms are tappable in the ebook edition, giving curious readers quick access to biographical sketches, definitions, and source context without dissolving the dissertation structure or running the book past two thousand pages. The synthesis depends on prose precision; the footnotes carry the explanatory depth.
+- Updated the inline card count in the foreword from "currently 208 and growing" to "currently 284" — the reference base is now closed at the v4.4 state rather than presented as open-ended.
+
 ## v4.4 — 2026-05-29
 
 **Reich-arc closing cluster — cards 273–284 integrated across Foreword, Chapter 1 (Sections I, III, V), Chapter 1a (Section IX), and Chapter 8 (Section VII). Reich arc closed.**
