@@ -2,6 +2,18 @@
 
 Version history for *Geography as Destiny*. Each version corresponds to a git tag and a built epub. The colophon and title page of the epub display the version that built them.
 
+## v4.4.2 — 2026-06-04
+
+**Constantine removed from Appendix A Section 6 "Self-Inflicted Friction Collapse" — framework-discipline revision; card 101 calibrated.**
+
+A closer reading of the structural record shows that Constantine's 330 CE relocation to Byzantium fails the Section 6 category test. Diocletian's tetrarchy (293 CE) had already split imperial administration across four capitals — Nicomedia, Sirmium, Mediolanum, Trier, none of them Rome — and the eastern tax base, the Persian frontier, and the Danube defensive line had been pulling the operational center eastward for a century before Constantine was born. Constantine formalized a structural drift already in motion; he did not initiate it. Treating him as a single-actor catastrophic-canal cause would concede the great-man ground the framework otherwise rejects.
+
+- **Appendix A Section 6:** Constantine removed from "cases identified" list. New "Case removed on closer reading" paragraph documents the structural reading and the framework-discipline rationale (the structural reading sharpens the boundary between Section 6 and Section 7's anti-hero pattern, which is reserved for actors who genuinely dig catastrophic canals against substrate flow). "What would test it" condition reworded since Constantine is no longer the headline case. The Abbasid and Mongol candidates remain on the list pending the same discipline applied to them.
+
+- **Reference card 101** (process journal documenting the original Constantine leap): new `Calibration — 2026-06-04` section appended. Verbatim April 2026 exchange preserved as historical artifact of how the leap was made. The calibration documents the structural reading, the removal from Appendix A Section 6, and the discipline pattern. The card's original cognitive-pattern observation (human generates the analytical move, AI elaborates and provides vocabulary) remains intact and unaffected by the substantive correction.
+
+This is the framework operating its own self-correction discipline. When closer examination reveals that what looked like an individual-actor catastrophic decision was actually a formalization of pre-existing structural drift, the case gets reclassified. The discipline matters more than any specific case the discipline reclassifies away from.
+
 ## v4.4.1 — 2026-05-31
 
 **Foreword reader-note + card-count update.**

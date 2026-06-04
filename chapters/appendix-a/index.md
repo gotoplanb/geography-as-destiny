@@ -95,13 +95,14 @@ If you are a researcher with the right expertise and want to test one, the evide
 **Prediction:** A systematic pattern exists of empires making rationally defensible administrative decisions that inadvertently destroy the geographic conditions of their own longevity.
 
 **Cases identified:**
-- Constantine's relocation to Byzantium (optimized for eastern tax base, drained the western geographic reservoir)
 - Potentially: Abbasid move from Damascus to Baghdad (optimized for Persian administrative tradition, exposed the western frontier the Umayyads had managed)
 - Potentially: Mongol capital shifts eastward as the empire expanded
 
-**What would test it:** Comparative analysis of imperial capital relocations and subsequent frontier stability on the abandoned side. If relocations systematically predict frontier collapse on the vacated side within two generations, the self-inflicted friction collapse is a general pattern, not just a Roman anomaly.
+**Case removed on closer reading — Constantine's relocation to Byzantium (330 CE).** An earlier framework iteration treated Constantine as the lead case under this prediction. The structural record does not support it. Diocletian's tetrarchy (293 CE) had already split imperial administration across four capitals — Nicomedia, Sirmium, Mediolanum, Trier — none of them Rome; the eastern tax base, the Persian frontier, and the Danube defensive line had been pulling the operational center eastward for a century before Constantine was born. He built the permanent city at the point where the river was already flowing. A single-actor catastrophic-canal framing of Constantine concedes the great-man ground the framework otherwise rejects; the structural reading both fits the evidence better and sharpens the boundary between this section and Section 7's anti-hero pattern, which is reserved for actors who genuinely dug catastrophic canals against substrate flow.
 
-*See [ref 101](references/101-process-journal-rome-idea-generation-human-vs-ai.md)*
+**What would test it:** Comparative analysis of imperial capital relocations and subsequent frontier stability on the abandoned side. If relocations systematically predict frontier collapse on the vacated side within two generations, the self-inflicted friction collapse is a general pattern rather than a candidate-Abbasid or candidate-Mongol observation.
+
+*See [ref 101](references/101-process-journal-rome-idea-generation-human-vs-ai.md) for the original Constantine reading and the calibration that later revised it.*
 
 ---
 
