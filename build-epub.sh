@@ -67,6 +67,7 @@ CHAPTERS=(
     chapters/appendix-a/index.md
     chapters/appendix-b/index.md
     chapters/appendix-c/index.md
+    chapters/appendix-d/index.md
     ${TEMP_DIR}/colophon.md
 )
 

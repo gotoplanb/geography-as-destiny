@@ -179,6 +179,10 @@ Candidates: jet stream routing, aviation, the internet (borderline — informati
 
 One-page sketches of the major figures and theories the foreword names — Shannon, Rogers, the propaganda research tradition, Diamond, Anthony, Gimbutas, the Kurgan hypothesis, Yamnaya/Sintashta/DOM2 and the Pontic-Caspian steppe, human factors and usability research, anti-eugenics and social constructionism. For readers who want more than the popover footnotes in the foreword provide.
 
+## Appendix D: Chronology
+
+A time-ordered listing of the dated events the reference cards engage with, from deep prehistory to the present. The book is organized by argument, not by chronology; this appendix gives a chronological reader an entry point and lets anyone verify that a single argument actually spans the millennia it claims to span. Card references are given for each entry so the underlying evidence can be located.
+
 ---
 
 ## Notes on Sources and Method
@@ -187,5 +191,5 @@ How the research was conducted. What the AI contributed. What the human contribu
 ---
 
 *Estimated length: 80,000–100,000 words*
-*Format: 8 chapters + prologue + epilogue + two appendices*
+*Format: 8 chapters + prologue + epilogue + four appendices*
 *Structure: essay → diffusion analysis within each chapter, with narrative descent where it earns structural weight*

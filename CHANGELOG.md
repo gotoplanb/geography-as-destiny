@@ -2,6 +2,20 @@
 
 Version history for *Geography as Destiny*. Each version corresponds to a git tag and a built epub. The colophon and title page of the epub display the version that built them.
 
+## v4.5 — 2026-06-07
+
+**Appendix D: Chronology added — a chronological reader's interface to the 284-card evidence base.**
+
+The book is organized by argument, not by time. Appendix D gives a chronological reader an entry point and lets anyone verify that a single argument actually spans the millennia it claims to span. Compiled by scanning all 284 reference cards for dated events — historical events, archaeological cultures, climate horizons, dynasties, reconstructed-language phases, treaties, lifespans of figures the cards engage with — then deduplicating and ordering from deepest prehistory to the present.
+
+- **New file:** `chapters/appendix-d/index.md`. Approximately 250 entries grouped into eleven era sections from Deep Time and the Out-of-Africa Window through Post-1991. Each entry carries its source-card references in parentheses so the underlying evidence is one lookup away. BCE/CE convention throughout.
+
+- **Curatorial choices documented in the appendix itself:** purely methodological cards (Shannon encoding apparatus, Wald survivorship correction, framework-building cards with no temporal anchor) are excluded. Scholarly publication dates of the books the cards engage with — Diamond 1997, Anthony 2007, Hämäläinen 2008, Hansen 2012, Reich 2018 — are included as a final cluster because they are events the project responds to even if not historical events proper. A closing "A Note on What's Missing" flags the asymmetry honestly: Bronze Age substrate dense; 20th century thinner; 21st century mostly the publication timeline of engaged scholarship.
+
+- **Table of contents and build manifest updated:** Appendix D added after Appendix C with a one-paragraph description; total appendix count updated from two to four; epub build script wired to include the new file.
+
+The chronology is not a substitute for the chapters. The dates are anchors; the arguments are in the prose. But for readers who think chronologically — and there are many of them, including most working historians — Appendix D provides the entry point the dissertation-by-argument structure otherwise withholds.
+
 ## v4.4.2 — 2026-06-04
 
 **Constantine removed from Appendix A Section 6 "Self-Inflicted Friction Collapse" — framework-discipline revision; card 101 calibrated.**
