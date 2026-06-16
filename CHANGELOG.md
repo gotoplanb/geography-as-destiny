@@ -2,6 +2,18 @@
 
 Version history for *Geography as Destiny*. Each version corresponds to a git tag and a built epub. The colophon and title page of the epub display the version that built them.
 
+## v4.6 — 2026-06-16
+
+**Foreword and Chapter 1 footnote refinements integrating the Thompson cluster (cards 285–295) and the Black Sea hypothesis rejection (card 296). Card archive work between v4.5 and v4.6 included 12 new reference cards (285–296) and one calibration to card 161.**
+
+The Thompson cluster filed during Dave's listening of Christina Thompson, *Sea People: The Puzzle of Polynesia* (2019), produced eleven cards extending the framework's apparatus into the Pacific maritime substrate. Card 296 applied the framework's terrain logic to reject the Ryan-Pitman Black Sea hypothesis as the primary origin of the Mesopotamian flood narrative tradition, with a calibration appended to card 161 (Babel as encoded memory) superseding a passing bullet that had implicitly endorsed the post-glacial-inundation reading. The cards stand as archive work; this version bump integrates two of their substantive moves into the reader-facing prose where the existing framing left room to be sharpened.
+
+- **Foreword footnote `fwd-7`** (anti-eugenics positioning): one sentence added on *"migration of the X people"* framings as category errors — the methodological consequence Reich's mixture-is-fundamental data forces. The named population is the cascade's product, not its origin; the analytical question is what cascade *produced* the X people in their recognizable form rather than where the X people came *from*. Sharpens the foreword's anti-eugenic positioning at the level of how to *read* migration narratives, complementing the existing material on the genetic correction. Draws on card 288 (with the 19th-century Aryan Māori instance in card 287 and the contemporary one-way-frame instance in card 293 as the supporting cluster).
+
+- **Chapter 1 footnote `ch1-78`** (Pacific cascade): extended substantially. Card 289 added as refinement of card 278's launch-site framing — Out-of-Taiwan launched from Taiwan-resident populations who had been on Taiwan for a millennium or more (Formosan languages as the deepest branches of Austronesian per Blust's reconstruction), not from mainland Chinese using Taiwan as a brief stepping stone. The cleaner anti-eugenic reading of redirect-under-pressure replaces the implicit Chinese-via-Taiwan reading that 278's compressed framing left room for. The Pacific cascade now reconstructed through three convergent instruments — outrigger (technology, card 278), Proto-Oceanic (linguistics, card 292), Lapita dentate-stamped pottery (material culture, card 290) — with the substrate-adaptation of the Pacific tattoo tradition (Tahitian *tatau* origin) as a Rogers-compatibility refinement (card 291). Yangtze-pressure-as-specific-trigger hypothesis flagged as under open evidence-strength evaluation. Blust's *The Austronesian Languages* (rev. ed. 2013) and Kirch's *On the Road of the Winds* (rev. ed. 2017) added to the footnote's mainstream-scholarship citations.
+
+The Pacific cascade is now the most fully-instrumented non-Eurasian case in the book's footnote apparatus, mirroring its depth in the card archive. The book's anti-eugenic positioning is sharpened with the methodological refinement of how migration narratives should be read.
+
 ## v4.5 — 2026-06-07
 
 **Appendix D: Chronology added — a chronological reader's interface to the 284-card evidence base.**
