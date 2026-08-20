@@ -2,6 +2,14 @@
 
 Version history for *Geography as Destiny*. Each version corresponds to a git tag and a built epub. The colophon and title page of the epub display the version that built them.
 
+## v4.6.1 — 2026-08-20
+
+**Appendix D (Chronology) brought current with card-archive growth from 284 to 327 cards — new dated events added across the Cunliffe *By Steppe, Desert, and Ocean* arc (cards 297–327) and the Pacific/Austronesian cluster (285–293).**
+
+The chronology was compiled at v4.5 against a 284-card base and not extended as subsequent cards were filed. This patch brings it current. New entries span: the Natufian and the Younger Dryas (carrying the framework's contested-forcing calibration — a thermodynamic incentive-nudge, not a clean forcing); Aegean and Corsican Mesolithic seafaring; the LBK / Cardial / Ertebølle Neolithic-spread cluster; the Austronesian "Out of Taiwan" expansion and the Lapita horizon; the Uralic (Yakutia_LNBA) northern-forest corridor and Seima-Turbino; the Late Bronze Age Near East militaria (Hyksos, Megiddo, the Minoan collapse as a *separate* ~1450 BCE event, Uluburun, Kadesh, and the Battle of the Delta with Egypt's *retracted-but-intact* survival of the collapse); Phoenician westward colonization under Assyrian pressure (Carthage 814 BCE, Massalia); the Roman–India spice trade and the recurring "East as bullion sink" pattern; the 3rd-century Gothic naval raids and the Hunnic-driven Danube crossing / Adrianople; the Mongol pluvial; and the Ming treasure-fleet sequence (Zheng He, the 1421 Beijing capital move, the 1433 abandonment, the 1449 Tumu Crisis) as the flagship case of power-projection contraction.
+
+No prose-chapter changes. This is chronology-appendix cleanup reflecting archive work already filed as reference cards — a patch, not new framework material.
+
 ## v4.6 — 2026-06-16
 
 **Foreword and Chapter 1 footnote refinements integrating the Thompson cluster (cards 285–295) and the Black Sea hypothesis rejection (card 296). Card archive work between v4.5 and v4.6 included 12 new reference cards (285–296) and one calibration to card 161.**
