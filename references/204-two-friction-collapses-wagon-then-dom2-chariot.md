@@ -62,6 +62,10 @@ This makes card 165's two-phase framework scope (pre-horse climate-driven slow d
 
 The wagon-pastoralist period is the intermediate phase the original framework collapsed into either side. The new structure makes it visible.
 
+## Calibration note (2026-08-20) — hold the chariot's "military friction-collapse" framing with the prestige/terrain-gating caveat
+
+This card frames the Sintashta chariot as an *offensive military technology* / "chariot-warrior aristocracy." Card 325's refinement (Dave, 2026-08-20) qualifies that: chariot **function is prestige-dominant and geographically distributed** — the prestige/status role is ~universal (elite burials, display, hunting, racing, *even where the terrain forbids military use*), while the **military role is terrain-gated**, viable only on flat, firm, open ground (Near East/Egypt/Asian plains; it collapses to pure prestige in rugged Greece or forested Celtic Europe). Two implications for this card: (1) the chariot is an **elite, expensive, terrain-limited arm**, *not* a mobility-democratizing friction collapse of the same order as the ridden horse — which is precisely why ride-into-battle cavalry later displaced it; treat "second friction collapse" as *weaker/narrower* than the wagon and the later cavalry revolutions. (2) The Sintashta chariot's earliest phase is heavily **elite/burial (prestige)** context; its military-system centrality is a later, terrain-selected development (card 065's status-first→utility-follows arc). Don't over-assert the Sintashta chariot as a primarily-military friction collapse in prose without this caveat. See card 325 (Refinement) and the prestige-goods apparatus (065/302/123).
+
 ## What This Implies for the Framework
 
 Five things this restructuring establishes:
