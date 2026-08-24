@@ -29,7 +29,7 @@ Anti-eugenics positions the framework as the structural opposite of biological d
 
 Six traditions in one room. The book is what happens when they start talking.
 
-The dissertation you're holding emerged from listening, talking, writing, and walking — audiobooks ranging from Central Asian history to Comanche expansion, conversations with an AI research partner, and the streets of Gainesville and New Orleans while the ideas connected. Each synthesis, connection, and framework move is recorded as a reference card — the research lineage and its history preserved alongside the prose. The card count is currently 336. Eleven chapters and an interlude. A pipeline that separated thinking from execution so cleanly that the execution took minutes once the thinking was done.
+The dissertation you're holding emerged from listening, talking, writing, and walking — audiobooks ranging from Central Asian history to Comanche expansion, conversations with an AI research partner, and the streets of Gainesville and New Orleans while the ideas connected. Each synthesis, connection, and framework move is recorded as a reference card — the research lineage and its history preserved alongside the prose. The card count is currently 337. Eleven chapters and an interlude. A pipeline that separated thinking from execution so cleanly that the execution took minutes once the thinking was done.
 
 The collaboration is acknowledged directly because it deserves to be. The framework, the connections, the analytical architecture — those are mine, accumulated across parallel threads finally finding their common shape. The synthesis engine, the citation apparatus, the prose elaboration — that's Claude. The distinction between them is documented in the process trail anyone can read.
 
