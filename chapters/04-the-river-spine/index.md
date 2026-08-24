@@ -1,12 +1,12 @@
 ---
-title: "Chapter 2: The River Spine"
+title: "Chapter 4: The River Spine"
 subtitle: "How water builds states — and class structures"
 status: complete
-order: 2
-part: "Part II: The River and the Wall"
+order: 4
+part: "Part III: The River and the Wall"
 ---
 
-# Chapter 2: The River Spine
+# Chapter 4: The River Spine
 ### *How water builds states — and class structures*
 
 ---

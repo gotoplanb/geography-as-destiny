@@ -1,12 +1,12 @@
 ---
-title: "Chapter 5: The Islamic Diffusion"
+title: "Chapter 8: The Islamic Diffusion"
 subtitle: "Two curves for one religion — and one that failed"
 status: complete
-order: 5
-part: "Part III: The Corridor"
+order: 8
+part: "Part IV: The Corridor"
 ---
 
-# Chapter 5: The Islamic Diffusion
+# Chapter 8: The Islamic Diffusion
 ### *Two curves for one religion — and one that failed*
 
 ---
@@ -200,4 +200,4 @@ The religion designed for maximum diffusion was filtered out of the historical r
 
 [^ch5-10]: The timing objection — that Islam appeared 300 years after Manichaeism and the political substrate changed — is acknowledged as a legitimate challenge. The response: boundary strategy is more explanatory than political context because Islam also succeeded in the Uyghur sphere where Manichaeism previously operated. Manichaeism briefly succeeded there through political patronage (Uyghur state religion, 762 CE) but collapsed immediately when patronage ended (840 CE), confirming that without boundary-drawing capacity the religion could not survive withdrawal of state support. The timing difference is real but the variable under test (boundary strategy) is isolated by this natural comparison. See Charlie's feedback [issue #18](https://github.com/gotoplanb/geography-as-destiny/issues/18).
 
-[^ch5-11]: On religion deployed top-down as a governance technology — the instrumental case distinct from bottom-up diffusion. Ashoka (reigned c. 268–232 BCE) is the earliest *self-documented* instance: after the conquest of Kalinga (c. 261 BCE) he promulgated *Dhamma* on rock and pillar edicts across the Mauryan empire, in local Prakrits and — at the northwestern Hellenized fringe — in Greek and Aramaic (the bilingual Kandahar edict). Because he carved the reasoning rather than leaving it to be inferred, this is the rare instrumental-religion move that does not depend on a Wald-style reconstruction of motive. The framework reading — legitimacy is a low-marginal-cost, high-reach holding technology while coercion is expensive and local, so a diverse empire bound by shared civic ethic is cheaper than one held by garrisons — connects to [ref 217](../../references/217-coercive-unification-vs-legitimating-sustainment-qin-timur-mongol-pattern.md) (coercive unification vs. legitimating sustainment) and recurs in Han Confucianism and the Pax Mongolica's religious tolerance (Chapter 4). The genuine exception is Ashoka's grandfather Chandragupta, who by Jain tradition abdicated to become an ascetic — religion overriding statecraft rather than serving it. See [ref 329](../../references/329-ashoka-kalinga-to-dhamma-hold-by-legitimating-ideology-not-sword-self-documented-mode3-legitimacy-cheaper-than-coercion.md) and [ref 328](../../references/328-chandragupta-jain-abdication-correction-renunciation-as-exception-to-instrumental-religion-mode3-but-substrate-legible-vs-ashoka.md).
+[^ch5-11]: On religion deployed top-down as a governance technology — the instrumental case distinct from bottom-up diffusion. Ashoka (reigned c. 268–232 BCE) is the earliest *self-documented* instance: after the conquest of Kalinga (c. 261 BCE) he promulgated *Dhamma* on rock and pillar edicts across the Mauryan empire, in local Prakrits and — at the northwestern Hellenized fringe — in Greek and Aramaic (the bilingual Kandahar edict). Because he carved the reasoning rather than leaving it to be inferred, this is the rare instrumental-religion move that does not depend on a Wald-style reconstruction of motive. The framework reading — legitimacy is a low-marginal-cost, high-reach holding technology while coercion is expensive and local, so a diverse empire bound by shared civic ethic is cheaper than one held by garrisons — connects to [ref 217](../../references/217-coercive-unification-vs-legitimating-sustainment-qin-timur-mongol-pattern.md) (coercive unification vs. legitimating sustainment) and recurs in Han Confucianism and the Pax Mongolica's religious tolerance (Chapter 6). The genuine exception is Ashoka's grandfather Chandragupta, who by Jain tradition abdicated to become an ascetic — religion overriding statecraft rather than serving it. See [ref 329](../../references/329-ashoka-kalinga-to-dhamma-hold-by-legitimating-ideology-not-sword-self-documented-mode3-legitimacy-cheaper-than-coercion.md) and [ref 328](../../references/328-chandragupta-jain-abdication-correction-renunciation-as-exception-to-instrumental-religion-mode3-but-substrate-legible-vs-ashoka.md).

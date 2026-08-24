@@ -55,14 +55,17 @@ CHAPTERS=(
     foreword.md
     prologue.md
     chapters/01-the-distribution/index.md
-    chapters/01a-bronze-age-substrate/index.md
-    chapters/02-the-river-spine/index.md
-    chapters/03-the-chokepoint/index.md
-    chapters/04-the-silk-road/index.md
-    chapters/05-the-islamic-diffusion/index.md
-    chapters/06-the-parallel-conquests/index.md
-    chapters/07-the-great-mans-hardest-test/index.md
-    chapters/08-the-synthesis-frontier/index.md
+    chapters/02-the-anti-hero/index.md
+    chapters/02a-bronze-age-substrate/index.md
+    chapters/03-the-bronze-age-collapse/index.md
+    chapters/04-the-river-spine/index.md
+    chapters/05-the-chokepoint/index.md
+    chapters/06-the-silk-road/index.md
+    chapters/07-the-maritime-turn/index.md
+    chapters/08-the-islamic-diffusion/index.md
+    chapters/09-the-parallel-conquests/index.md
+    chapters/10-the-great-mans-hardest-test/index.md
+    chapters/11-the-synthesis-frontier/index.md
     epilogue.md
     chapters/appendix-a/index.md
     chapters/appendix-b/index.md
