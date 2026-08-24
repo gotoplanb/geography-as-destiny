@@ -72,7 +72,7 @@ The framework leans on the Kurgan hypothesis for the deep prehistory of friction
 
 Anthony's signature contributions are the operational details. He showed how the domestication of the horse around 3500 BCE, the introduction of the wheel and wagon around 3300 BCE, and the eventual development of the chariot around 2000 BCE produced sequential mobility revolutions that reorganized the steppe and pushed waves of population outward. He identified the specific terrain features — the Urals as a millennium-long diffusion delay, the Caucasus as a friction sieve, the Don and Volga corridors as movement axes — that the framework's apparatus operationalizes systematically.
 
-If Diamond gives the continent-scale orientation logic and Gimbutas gives the Kurgan-hypothesis foundation, Anthony gives the regional-resolution detail. The framework's reading of the Bronze Age substrate, including most of the substrate interlude (Chapter 1a), is built on Anthony's apparatus, refined by the framework's friction-collapse vocabulary and by the post-2021 ancient DNA chronology.
+If Diamond gives the continent-scale orientation logic and Gimbutas gives the Kurgan-hypothesis foundation, Anthony gives the regional-resolution detail. The framework's reading of the Bronze Age substrate, including most of the Bronze Age Substrate interlude, is built on Anthony's apparatus, refined by the framework's friction-collapse vocabulary and by the post-2021 ancient DNA chronology.
 
 ---
 

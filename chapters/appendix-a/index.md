@@ -76,7 +76,7 @@ If you are a researcher with the right expertise and want to test one, the evide
 
 ---
 
-## 5. The Tarim Mummies — Divergence Prediction from Terrain Logic
+## 5. The Aztlán Divergence Prediction — Common Origin Across the Rockies
 
 **Prediction:** Ancestral Puebloan, Mexica/Aztec, and California basin cultures share a common origin population that diverged along different resource gradients on opposite sides of the Rocky Mountains. Southward migration down the east side during drought (~1276-1299 CE) produced the Mexica in central Mexico. Separate northward migration along the west side during wet periods produced California basin cultures. The Rockies as the divergence mechanism.
 
@@ -107,6 +107,8 @@ If you are a researcher with the right expertise and want to test one, the evide
 ---
 
 ## 7. The Anti-Hero Pattern — Locally Rational Action Against the Substrate Flow
+
+*Now developed as core framework material in Chapter 2 (The Anti-Hero). What remains open for this research agenda is the systematic global case-coding described below.*
 
 **Prediction:** Across historical cases globally, locally rational action against substrate flow should systematically produce catastrophic consequences proportional to the system's accumulated potential. The pattern should be predictable from structural analysis of (a) the actor's perceptual horizon and local rationality; (b) the substrate flow being acted against; (c) the system's accumulated potential at the moment of the action. The framework names these actors "anti-heroes" — distinct from the great-man category that addresses individuals as outliers on substrate-determined distributions. Anti-heroes are the variance-mechanism actors within the distribution whose wu-wei-violating calculations select catastrophic draws from the available outcomes the substrate has defined.
 
@@ -184,6 +186,8 @@ If you are a researcher with the right expertise and want to test one, the evide
 
 ## 11. Time-Capsule Preservation Mechanism
 
+*Now developed as framework apparatus through the Dunhuang Cave 17 case (Chapter 6) and the Wald survivorship entry (Appendix C, entry 12). What remains open for this research agenda is the systematic global case-coding described below.*
+
 **Prediction:** Across substrate-transition periods globally, time-capsule preservation cases should systematically occur at moments when local communities recognize that the substrate apparatus producing cultural artifacts is no longer reliably operating. The specific preservation actions should reflect deliberate community choices to protect specific materials from anticipated loss; the preservations should produce unusually rich physical-artifact evidence base for the transitioning apparatus when the materials are eventually rediscovered. The framework names this "time-capsule preservation" — discrete cases where the Wald survivorship apparatus operates in deliberate-preservation mode rather than accidental-survival mode, producing engine-hit material preserved by deliberate action of people who recognized what they were losing.
 
 **Canonical cases the framework reads through this lens:**
@@ -240,6 +244,8 @@ If you are a researcher with the right expertise and want to test one, the evide
 ---
 
 ## 14. The Risk-Invisibility-During-Optimization Principle
+
+*Now developed as core framework material — the optimization trap (Chapter 2), the Southern Song case (Chapter 7), and the seventh of Chapter 11's methodological commitments. What remains open for this research agenda is the cross-case coding described below.*
 
 **Prediction:** Across optimization cases globally, populations that successfully optimize for specific stable conditions should systematically face catastrophic vulnerability when those conditions change. The vulnerability should be invisible during the optimization period and become visible only after disruption reveals the dependencies optimization created. The pattern should operate regardless of actor intelligence or strategic foresight because the perceptual-temporal asymmetry is structural rather than contingent. This is the framework's most uncomfortable prediction — successful optimization is partly the setup for the next disruption.
 
@@ -300,7 +306,7 @@ If you are a researcher with the right expertise and want to test one, the evide
 
 ## 17. Chokepoint Continuity Across Political-Actor Transitions
 
-**Prediction:** Across geopolitical cases globally, strategically-significant chokepoints should retain significance across political-actor transitions because the substrate-driven geographic logic that produced their significance is independent of which specific political actor controls them. When one political actor's power declines and another's rises, the chokepoints should remain the same chokepoints; the substrate-driven commercial-and-strategic logic should continue producing similar substrate-aligned outcomes regardless of which specific political actor occupies the nodes. The framework names this "chokepoint continuity" — the discrete framework concept articulating substrate-driven temporal persistence of geographic-positional significance across political transitions, paired with the bumper-as-transformer apparatus (Appendix A entry 9) which articulates substrate-driven cross-substrate variation across geographic contexts.
+**Prediction:** Across geopolitical cases globally, strategically-significant chokepoints should retain significance across political-actor transitions because the substrate-driven geographic logic that produced their significance is independent of which specific political actor controls them. When one political actor's power declines and another's rises, the chokepoints should remain the same chokepoints; the substrate-driven commercial-and-strategic logic should continue producing similar substrate-aligned outcomes regardless of which specific political actor occupies the nodes. The framework names this "chokepoint continuity" — the discrete framework concept articulating substrate-driven temporal persistence of geographic-positional significance across political transitions, paired with the cultural-middleware apparatus (Appendix A entry 9) which articulates substrate-driven cross-substrate variation across geographic contexts.
 
 **Canonical cases the framework reads through this lens:**
 - **Pacific chokepoints across Spanish-American transition** (1565 Manila founding through 1898 American Pacific acquisitions) — Manila (western terminus), Hawaii (mid-Pacific waystation where the Urdaneta route turned south), Guam (coaling station between) retained strategic significance across the political-actor transition from Spanish to American control. Spanish pioneered the route over 250 years (Manila Galleon trade); Americans acquired the same chokepoints when Spanish power declined. Mahan's *Influence of Sea Power Upon History* (1890) articulated the chokepoint apparatus explicitly; Roosevelt, Lodge, and the broader strategic class operated with explicit chokepoint logic in the 1898 acquisition program. The 1898 acquisitions are the substrate's commercial-political logic operating through new political actors on nodes the prior political actor had proven matter.

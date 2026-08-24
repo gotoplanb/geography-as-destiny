@@ -188,6 +188,7 @@ Card references are given as `(NNN)` matching filenames in `references/`. Where 
 - **395 CE** — Roman Empire formally divided into West/East under Theodosius I (225)
 - **c. 4th century CE** — Niya abandoned; southern-route oases fail one by one as the river shifts and the water table drops (054, 227)
 - **405–413 CE** — Theodosian Walls built under Theodosius II (225)
+- **406–455 CE** — Vandal-Alan-Suebi confederation crosses the Rhine (406), moves through Gaul and Iberia, crosses at Gibraltar into North Africa (429), and sacks Rome from the sea (455) — the furthest-west terminus of a steppe-originated pressure chain; a *transmitted* wave (the Huns who set it in motion stayed east; the pressure propagated through intermediaries) as distinct from the Yamnaya *direct* wave, and the Alans and Sarmatians in the confederation were themselves Iranian steppe nomads (332)
 - **early 5th century CE** — Kumarajiva's Buddhist translation projects in China (220, 221)
 - **c. 5th century CE** — Faxian's voyage from Sri Lanka toward China; stellar navigation limits exposed by 70 days of cloud cover (085)
 - **471–499 CE** — Reign of Emperor Xiaowen of Northern Wei (224, 226)
