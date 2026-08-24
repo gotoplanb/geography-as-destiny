@@ -2,6 +2,40 @@
 
 Version history for *Geography as Destiny*. Each version corresponds to a git tag and a built epub. The colophon and title page of the epub display the version that built them.
 
+## v5.0 — 2026-08-24
+
+**The print edition. The book is restructured from 8 chapters in 5 parts to 11 chapters and an interlude across 6 parts, gains a new chapter ("The Bronze Age Collapse"), and integrates the full Cunliffe/Reich card cascade (cards ~297–337) into the reader-facing prose. This is the coordinated structural release intended for print (KDP).**
+
+This is the first major version bump since v1.1. The card archive grew from 284 to 337 across the Reich (ancient DNA) and Cunliffe (*Europe Between the Oceans*; *By Steppe, Desert, and Ocean*) arcs; the substantive moves in those cards are now integrated into the prose rather than living only in the archive.
+
+**New structure (6 parts, 11 chapters + interlude):**
+
+- **Part I — The Framework:** Ch1 The Distribution; Ch2 The Anti-Hero
+- **Part II — The Bronze Age:** Interlude: The Bronze Age Substrate; Ch3 The Bronze Age Collapse
+- **Part III — The River and the Wall:** Ch4 The River Spine; Ch5 The Chokepoint
+- **Part IV — The Corridor:** Ch6 The Silk Road as Circulatory System; Ch7 The Maritime Turn; Ch8 The Islamic Diffusion
+- **Part V — The Collapse of Friction:** Ch9 The Parallel Conquests; Ch10 The Great Man's Hardest Test
+- **Part VI — The Meta-Argument:** Ch11 The Synthesis Frontier
+
+**Structural changes:**
+
+- **New chapter — Ch3 "The Bronze Age Collapse"** (~5.7k words): the ~1200 BCE Mediterranean collapse read as a network node-failure, not a system collapse. The tin bottleneck and the *shared* thin lifeline as the mechanism behind the collapse's synchronicity; the sail revaluing island geography (Crete over-optimized, the buffered mainland adopter wins); two collapses, not one (~1450 Minoan eclipse distinct from ~1200); the Sea Peoples as a Wald-bomber on the record; Egypt as the "retracted-but-intact" survivor (desert buffer + Nile self-sufficiency as circuit-breaker); the Iron Age sequel of Assyrian pressure discharging Phoenician colonization west. The tin-headwaters question is handled honestly against current scholarship (the network faced *west* — Cornwall/Sardinia/Taurus — not Central Asia; issue #35).
+- **Ch1 split** at the Section IV boundary → Ch1 (The Distribution: the distribution, robust frontiers, the three lenses) + **Ch2 "The Anti-Hero"** (the great-man reframe, the anti-hero, the optimization trap, the methodology, the toolkit).
+- **Ch4 split** at the maritime hinge → Ch6 (The Silk Road as Circulatory System: the overland corridor and its Indian-Ocean parallel through the silence) + **Ch7 "The Maritime Turn"** (the Song pivot to the sea, the Pax Mongolica peak, the corridor going dark, the Pacific recurrence).
+- **New Part II "The Bronze Age"** groups the substrate interlude with the new collapse chapter.
+
+**Prose integrations (selected):**
+
+- **Foreword:** card count updated to 337; the chariot over-emphasis nuanced — the enduring steppe-cavalry legacy belongs to the *ridden* horse, with the chariot recast as an elite, terrain-gated prestige display whose military primacy is genuinely contested.
+- **Ch1 (Distribution):** geography as the substrate that resolves scalar pressures into vectors (318/297); agriculture as constraint-response with the Baltic holdout as natural experiment (306/299/300/047/323); the thermodynamic framing made literal (elevation → lapse rate → Clausius-Clapeyron → productivity; 324/319/298).
+- **Interlude (Bronze Age Substrate):** the ridden-horse cavalry legacy vs. the chariot (204/327/325); the Uralic northern-forest two-corridor parallel (320).
+- **Ch8 (Islamic Diffusion):** Ashoka's *Dhamma* as the earliest self-documented instrumental-religion case (legitimacy cheaper than coercion), with Chandragupta's renunciation the exception (329/328/217).
+- **Ch6 / Ch7 (Silk Road / Maritime Turn):** the Sogdians squeezed as a middleman minority (334/081); Parthia as the documented-but-narratively-invisible power (331); the maritime bullion-sink and permissive-vs-demand dynamic (321/330).
+- **Ch11 (Synthesis Frontier):** two new methodological commitments (now seventeen) — the documentation-spectrum refinement of the Wald apparatus (channel-silence vs. collapse; the fully-lit calibration case; the under- and over-representation poles, Parthia and Egypt; distribution ≠ function) and the definition of "decline" as power-projection-past-peak with the Ming treasure-fleet abandonment as flagship case (314/316/331/333/327; 312/322).
+- **Ch9 (Parallel Conquests):** the Comanche as an independent, high-speed re-run of the Eurasian steppe's predatory-mounted-nomad-and-prestige institution — a natural experiment (the horse the shared catalyst; the institution reinvented with no knowledge of the steppe peoples), speed-run in ~two generations, with the documented Comanche as the fully-lit calibration case for the mute kurgan (337).
+
+**Apparatus:** table of contents rebuilt for the new structure; ~90 chapter/section cross-references remapped across the front matter, chapters, and appendices; the build manifest updated. **Appendix review** (first in a while): Appendix A entries reframed where the framework has since promoted them into core chapters (the anti-hero, risk-invisibility, time-capsule preservation), entry 5 retitled, one internal cross-reference corrected; Appendix D gained the Vandal-Alan entry; the foreword and Appendix C chapter-count/interlude references brought current. Fourth-wall "Card N" mentions removed from body prose; a stale Faxian pointer corrected.
+
 ## v4.6.1 — 2026-08-20
 
 **Appendix D (Chronology) brought current with card-archive growth from 284 to 327 cards — new dated events added across the Cunliffe *By Steppe, Desert, and Ocean* arc (cards 297–327) and the Pacific/Austronesian cluster (285–293).**
