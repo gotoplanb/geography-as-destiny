@@ -2,6 +2,13 @@
 
 Version history for *Geography as Destiny*. Each version corresponds to a git tag and a built epub. The colophon and title page of the epub display the version that built them.
 
+## v5.0.1 — 2026-08-25
+
+**Patch: integrate the gunpowder-diffusion synthesis (card 338) into Chapter 10, plus a cross-reference correction.**
+
+- **Chapter 10 (The Great Man's Hardest Test), "The Norm Enforcer":** a new passage extends the "terror remembered, postal system forgotten" beat — the *same* Mongol-era integration carried both the **Black Death** (remembered, and the barbarian-horde narrative's favorite image) and **gunpowder** (forgotten), a clean barbarism-encoding demonstration. It is written with the corrections the scholarship requires: gunpowder is a Chinese invention first used militarily by the **Song and Jin** (the Jin bombed the *Mongols* at Kaifeng in 1232), so the Mongols were **adopters and transmitters, not originators**; and the westward-transmission vector — the majority view but genuinely contested (Saunders, Raphael) — is framed as the Mongol integration being the transmission *window*, not Mongol armies literally hauling powder. The bidirectional integration (Muslim *huihui pao* trebuchets moved east to Xiangyang in 1273; gunpowder moving west) closes the point. Footnote `ch7-30` (ref 338; Andrade, Chase).
+- **Card 338 cross-reference corrected:** 269 is the Yamnaya-era plague, not the Mongol Black Death (which the framework tracks in the Silk Road / Maritime Turn chapter).
+
 ## v5.0 — 2026-08-24
 
 **The print edition. The book is restructured from 8 chapters in 5 parts to 11 chapters and an interlude across 6 parts, gains a new chapter ("The Bronze Age Collapse"), and integrates the full Cunliffe/Reich card cascade (cards ~297–337) into the reader-facing prose. This is the coordinated structural release intended for print (KDP).**
