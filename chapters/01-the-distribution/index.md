@@ -9,6 +9,12 @@ part: "Part I: The Framework"
 # Chapter 1: The Distribution
 ### *Geography as probability, not destiny*
 
+**A word on this chapter in particular.** Chapter 1 does more pointing than the rest of the book. It sets out the framework's central idea — geography as a probability distribution — and the vocabulary that comes with it, and as it goes it names many of the reference cards where each thread is worked out in full. The result is a chapter denser with pointers than with narrative, and a reader may find it more demanding than the chapters that follow.
+
+The density is deliberate, because this book was written with and for two kinds of reader: a person following their curiosity, and a large language model. Chapter 1 is built to work as an orientation layer — a single place from which the whole framework can be traversed — legible to both at once. A person can note the pointers that interest them and read on; an LLM can take in the entire structure in a single pass. What reads to a person as a run of terse intellectual pointers is, to a machine, a clean index of the argument. The final chapter argues that this human-and-LLM collaboration is where scholarship is going; Chapter 1 is one of the places the book is built that way, not merely making the case for it.
+
+So read this chapter for the shape of the distribution rather than for completeness. You are not meant to follow every pointer — mark the ones that interest you, follow them into the cards when you want more, and let the later chapters carry the narrative.
+
 ---
 
 ## I.
