@@ -7,6 +7,10 @@ order: 0
 
 # Prologue: On Method
 
+**A note on how to read this book.** This is written as a dissertation, and it reads like one: dense, and dense on purpose. It assumes its reader the way a dissertation assumes its committee — broadly conversant with the theories and sources it builds on — and so it does not stop to re-derive Shannon's information theory, Rogers' diffusion curves, or Diamond's geography from first principles each time they surface. That compression is a deliberate choice, not an oversight; re-elaborating every foundation on every page would bury the argument the book exists to make.
+
+But most people who open this are not sitting on that committee, and they should not have to be. Every synthesis, every source, and every framework move in these pages is backed by a numbered reference card — a few hundred of them, freely available — that records where the claim comes from, why it matters, and where it is strong or thin. The cards are the book's expansion joints. If a passage moves faster than your footing in its subject, that is fine; you are not meant to catch every word on the first pass. Read for the shape of the argument, and when something pulls at you — a connection that surprises you, a claim you want to test, a thread you simply want more of — follow it down into the cards and dig as far as you like. You do not have to read two thousand pages of notes to take something from this book. You only have to follow the threads that pull at you.
+
 ---
 
 History is written by the winners. Everyone knows this. Almost nobody follows the implication to its conclusion.
