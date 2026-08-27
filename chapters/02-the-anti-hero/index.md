@@ -110,7 +110,7 @@ A note on the framework's institutional position. The academic citation incentiv
 
 ## III. The Toolkit
 
-For this framework to be a theory rather than a belief, it must be falsifiable. There must be conditions under which it fails. We name them here.[^ch2-36]
+This is a framework, not a theory — but that is no license to be a belief in scientific dress. What keeps a framework honest is what keeps any empirical claim honest: it must generate predictions specific enough to fail, and it must state the conditions under which it would be wrong. We name them here.[^ch2-36]
 
 The framework fails if similar geographies consistently produce divergent outcomes with no identifiable intervening variable. If two river valleys with comparable climate, outlet, and adjacency produce radically different civilizational outcomes, and we cannot explain why, the framework has a problem.
 
@@ -118,7 +118,7 @@ The framework fails if an individual demonstrably shifts a structural outcome �
 
 The framework fails if a technology that should collapse friction does not, for reasons the framework cannot accommodate. If the railroad arrives in a steppe context and the predicted inversion does not occur, something is wrong with the model.
 
-We believe the framework survives these tests. But the tests must remain open. A theory that cannot be falsified is not a theory. It is a belief wearing the vocabulary of science.
+We believe the framework survives these tests. But the tests must remain open. A framework whose predictions could never fail would not be rigorous — it would be a belief wearing the vocabulary of science.
 
 We also acknowledge what the framework cannot do.[^ch2-37] History is an open system. It provides limitless trials and minimal reproducibility. We cannot generate actual distribution curves with real data. We cannot rerun the nineteenth century without the railroad and observe the difference. We cannot assign precise probabilities to historical outcomes. The parallel cases we use — Russia and America, the Nile and the Yellow River, the Comanche and the Kazakhs — function as natural experiments, but they are not controlled experiments. The convergence across independent cases is more than anecdote and less than proof. It is evidence at the level history can provide.
 
@@ -232,7 +232,7 @@ The chapters that follow are the evidence.
 
 [^ch2-35]: The framework's preference for structural over psychological causation — and the diagnostic for spurious correlation through geographic common cause — are developed in [ref 178](../../references/178-terrain-produces-both-variables-spurious-correlation-multilingualism.md) and [ref 175](../../references/175-naming-impulse-sedentary-nationalism-projection-iroquois-case.md). The framework reads structure first; psychological intermediaries get invoked only where structure alone is insufficient.
 
-[^ch2-36]: The falsifiability framework draws on Karl Popper, *The Logic of Scientific Discovery* (London: Hutchinson, 1959), for the principle that a theory must specify the conditions under which it fails. The specific falsification conditions stated here emerged from Alpha discussion. See [ref 003](../../references/003-falsifiability-and-counterfactual-method.md).
+[^ch2-36]: The falsifiability commitment draws on Karl Popper, *The Logic of Scientific Discovery* (London: Hutchinson, 1959), for the principle that an empirical claim earns its standing by specifying the conditions under which it fails. As Chapter 1 (and Appendix C, entry 15) sets out, this book is a framework rather than a single Popperian theory: what must be falsifiable are the specific predictions the framework generates, and the conditions named here are where those predictions — and, cumulatively, the framework's usefulness — would break. The specific falsification conditions stated here emerged from Alpha discussion. See [ref 003](../../references/003-falsifiability-and-counterfactual-method.md).
 
 [^ch2-37]: The acknowledgment that history is an open system with limitless trials and minimal reproducibility — and the argument that probabilistic discipline is valuable even without experimental data — emerged from discussion about the epistemological status of the book's claims. See [ref 024](../../references/024-history-as-open-system.md).
 
