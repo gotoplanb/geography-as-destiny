@@ -162,6 +162,8 @@ The chapters that follow are the evidence.
 
 ## Notes
 
+*These notes are the endnote apparatus: sources for the claims above, and pointers to the numbered reference cards where each thread is developed in full. Nothing in the argument depends on them — they are here for the reader who wants to follow something deeper. If you are reading for the through-line, read on.*
+
 [^ch2-1]: Thomas Carlyle, *On Heroes, Hero-Worship, and the Heroic in History* (London: James Fraser, 1841), delivered as public lectures in 1840; "the history of the world is but the biography of great men" is from the first lecture, "The Hero as Divinity." Herbert Spencer's rebuttal — that the great man is himself produced by the social state that precedes him — is in *The Study of Sociology* (London: Henry S. King, 1873), ch. 2: "Before he can remake his society, his society must make him." The Carlyle–Spencer exchange is the classic nineteenth-century framing of the individual-versus-structure question; this book's probabilistic reframe (geography sets the distribution; the individual is a high-leverage draw from it) is developed across this chapter and, in its most generous form — conceding the great man's genuine micro-level explanatory power while denying the macro-level extrapolation — in Chapter 11 Section VII. See also Appendix C for the intellectual-lineage sketch.
 
 [^ch2-2]: On convergent political evolution in similar geographic contexts: Peter Turchin, *Ultrasociety: How 10,000 Years of War Made Humans the Greatest Cooperators on Earth* (Chaplin, CT: Beresta Books, 2016). Turchin's data on the independent emergence of similar state forms in similar terrains is the statistical backbone of this claim. See [Chapter 1 stub](stub.md) for the full source assessment.

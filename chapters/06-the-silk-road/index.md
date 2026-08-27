@@ -214,6 +214,8 @@ The overland corridor had gone dark. But the commercial energy it had carried di
 
 ## Notes
 
+*These notes are the endnote apparatus: sources for the claims above, and pointers to the numbered reference cards where each thread is developed in full. Nothing in the argument depends on them — they are here for the reader who wants to follow something deeper. If you are reading for the through-line, read on.*
+
 [^ch6-1]: On Ferdinand von Richthofen and the coining of "Seidenstraße": Richthofen used the term in his 1877 work *China: Ergebnisse eigener Reisen und darauf gegründeter Studien*. His purpose was explicitly to survey potential railroad routes for German imperial interests. The observation that the name is a sender-side imposition reflecting the technology he wanted to build rather than the reality he was describing emerged from a Beta seminar discussion at the start of Hansen's audiobook. See [ref 036](../../references/036-richthofen-railroad-agenda-sender-side.md).
 
 [^ch6-2]: The "relay network, not a road" framing draws directly from Valerie Hansen, *The Silk Road: A New History* (Oxford: Oxford University Press, 2012), introduction and chapters 1–2. Hansen's archaeological approach emphasizes that no single merchant traveled the route's length — goods changed hands at nodes through overlapping local exchanges. The "series of lakes connected by streams" metaphor is our synthesis. See [ref 035](../../references/035-silk-road-relay-trade-not-road.md).

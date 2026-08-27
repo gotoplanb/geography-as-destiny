@@ -199,6 +199,8 @@ The work speaks for itself. It always has. The tool is new. The dynamic is ancie
 
 ## Notes
 
+*These notes are the endnote apparatus: sources for the claims above, and pointers to the numbered reference cards where each thread is developed in full. Nothing in the argument depends on them — they are here for the reader who wants to follow something deeper. If you are reading for the through-line, read on.*
+
 [^ch11-1]: The three-category taxonomy of friction collapses — physical mobility (horse, sail, steam, rail), information persistence (writing, printing, telegraph, internet), coordination across difference (lingua francas, AI translation) — is developed in [ref 166](../../references/166-english-mandarin-ai-translation-friction-collapse.md). The AI moment is not a unique singular event but part of a compounding sequence of friction collapses each opening new domains within the post-horse-domestication framework period. On the contemporary US case as demonstration of robust frontiers persisting under conditions of nominal national unity — the framework reaching into present-day political-cultural geography: [ref 176](../../references/176-frontier-didnt-close-it-internalized-contemporary-us-robust-frontiers.md).
 
 [^ch11-2]: The Tecumseh correction loop is documented in full in [ref 007](../../references/007-process-journal-tecumseh-aha.md). The original Beta seminar discussion, the Sitting Bull suggestion, the human's independent research via Dan Carlin's *Hardcore History* episode 4 ("Romanticizing the Tribes"), and the subsequent synthesis are all preserved.

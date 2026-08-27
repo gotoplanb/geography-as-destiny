@@ -191,6 +191,8 @@ Stalin as Genghis Khan from a different age. Same substrate-selected strategic c
 
 ## Notes
 
+*These notes are the endnote apparatus: sources for the claims above, and pointers to the numbered reference cards where each thread is developed in full. Nothing in the argument depends on them — they are here for the reader who wants to follow something deeper. If you are reading for the through-line, read on.*
+
 [^ch10-1]: The great man stress test framing — Genghis as the hardest case, every other great man a softer version — is developed in [ref 119](../../references/119-genghis-great-man-stress-test-completed.md).
 
 [^ch10-2]: The Wald bomber applied to Mongol historiography: surviving sources almost entirely from the destroyed, systematically overrepresenting the conquest phase and underrepresenting the commercial/administrative phase. See [ref 095](../../references/095-genghis-khan-phase-dependent-encoding.md) and [ref 064](../../references/064-wald-survivorship-bias-returning-bomber.md).

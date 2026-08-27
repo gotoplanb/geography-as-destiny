@@ -131,6 +131,8 @@ The counter-case, then, is not a refutation but a boundary condition: the framew
 
 ## Notes
 
+*These notes are the endnote apparatus: sources for the claims above, and pointers to the numbered reference cards where each thread is developed in full. Nothing in the argument depends on them — they are here for the reader who wants to follow something deeper. If you are reading for the through-line, read on.*
+
 [^ch5-1]: Afghanistan's invasion history and its geographic explanation (position rather than intrinsic value) is widely documented. The specific framing — "unconquerable from outside and ungovernable from inside simultaneously" as a single geographic feature producing two effects — is our synthesis.
 
 [^ch5-2]: On Dunhuang and the Jade Gate as the administrative frontier of Chinese imperial control: Valerie Hansen, *The Silk Road: A New History* (Oxford: Oxford University Press, 2012), chapters 1–4. The "pulsing frontier" concept — imperial power flowing west during strong dynasties and retreating during weak ones, correlated with climate — emerged from our semester 2 seminar discussion. See [ref 043](../../references/043-dunhuang-jade-gate-chokepoint.md).

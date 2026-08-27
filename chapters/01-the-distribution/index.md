@@ -177,6 +177,8 @@ That is the framework: a distribution set by geography, a central object in the 
 
 ## Notes
 
+*These notes are the endnote apparatus: sources for the claims above, and pointers to the numbered reference cards where each thread is developed in full. Nothing in the argument depends on them — they are here for the reader who wants to follow something deeper. If you are reading for the through-line, read on.*
+
 [^ch1-1]: The tripartite framing — geographic, cultural, or biological — follows Diamond's structure in *Guns, Germs, and Steel* but inverts his emphasis. Diamond asks why civilizations developed differently; we ask why the geographic explanation is the only one that survives elimination. See Jared Diamond, *Guns, Germs, and Steel: The Fates of Human Societies* (New York: W.W. Norton, 1997), chapters 1–3. The formulation that the geographic explanation is *necessary* rather than merely interesting emerged from [ref 011](../../references/011-eugenics-reductio-and-thermodynamic-complexity.md).
 
 [^ch1-2]: On Cahokia's population and complexity: Timothy Pauketat, *Cahokia: Ancient America's Great City on the Mississippi* (New York: Penguin, 2009). On the Comanche as an imperial power: Pekka Hämäläinen, *The Comanche Empire* (New Haven: Yale University Press, 2008). Hämäläinen's reframing of the Comanche from victims of expansion to a dominant military and economic power is foundational to our treatment of Plains nomadism as rational optimization. See [Hämäläinen lit review](../../literature-review/hamalainen-comanche-empire.md).

@@ -142,6 +142,8 @@ The river runs downhill. The prediction follows.
 
 ## Notes
 
+*These notes are the endnote apparatus: sources for the claims above, and pointers to the numbered reference cards where each thread is developed in full. Nothing in the argument depends on them — they are here for the reader who wants to follow something deeper. If you are reading for the through-line, read on.*
+
 [^ch4-1]: The thermodynamic framing of rivers as energy dissipation systems draws on standard hydrology but the application to predicting settlement patterns is this book's synthesis. The connection between energy gradient and civilization type emerged from a Beta seminar discussion correcting a mistaken prediction about the Indus. See [ref 069](../../references/069-universal-river-settlement-gradient.md).
 
 [^ch4-2]: The Goldilocks zone concept and the asymmetric boundary prediction (hard upstream, soft downstream) emerged from connecting the river gradient model to the pilot's lift-to-drag optimization analogy. See [ref 071](../../references/071-goldilocks-zone-predictive-model-quantitative.md).

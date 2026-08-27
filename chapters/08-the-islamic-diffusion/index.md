@@ -172,6 +172,8 @@ The religion designed for maximum diffusion was filtered out of the historical r
 
 ## Notes
 
+*These notes are the endnote apparatus: sources for the claims above, and pointers to the numbered reference cards where each thread is developed in full. Nothing in the argument depends on them — they are here for the reader who wants to follow something deeper. If you are reading for the through-line, read on.*
+
 [^ch8-1]: On Mani and Manichaeism: Mani (216–274 CE) is well-documented in both Manichaean primary sources and the writings of his critics. Augustine's Manichaean period is documented in his *Confessions*. The Uyghur conversion (~762 CE) and the collapse of the Uyghur Empire (840 CE) are established in Central Asian historiography. Tasar, *Crossroads of Civilization*, covers the Uyghur religious context. Hansen, *The Silk Road*, documents the Manichaean texts found in Turfan and Dunhuang.
 
 [^ch8-2]: On Mani's deliberate design for cross-cultural adoptability: Mani's incorporation of Zoroastrian, Buddhist, Christian, and Gnostic elements and his multilingual missionary strategy are documented in Jason BeDuhn, *The Manichaean Body: In Discipline and Ritual* (Baltimore: Johns Hopkins University Press, 2000) and Samuel Lieu, *Manichaeism in Central Asia and China* (Leiden: Brill, 1998). The Rogers framing — "product-market-fit optimization for a spiritual system" — is our synthesis.
