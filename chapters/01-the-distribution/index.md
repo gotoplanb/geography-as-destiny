@@ -33,6 +33,8 @@ The same mechanism that split the chimps operates within our own species at the 
 
 If both alternatives fail, the geographic explanation is not merely interesting. It is necessary. The question is not whether geography matters, but how precisely it matters and through what mechanisms.
 
+One piece of vocabulary is worth fixing in place now, because the rest of the book leans on it constantly. Call it the *substrate*: the total, slow-changing configuration of a place — its terrain and climate, its water and soil and mineral resources, the peoples arrayed around it and the pressures they exert — taken together as a single field of forces. The substrate is not any one feature, and not any one event. It is the ground beneath events: the configured set of conditions that makes some outcomes likely and others rare. In this book's central image it is precisely what sets the probability distribution — a battle, a succession, a particular ruler are draws *from* a distribution the substrate has already shaped. The word recurs because the thing recurs. When later chapters call a mechanism *substrate-driven*, an evidentiary instrument *substrate-objective* (terrain, archaeology, and ancient DNA, which record conditions without a human author re-encoding them), or an actor's choice *substrate-aligned* or *substrate-violating*, this is the referent: the underlying field of geographic and human conditions doing the causal work beneath the visible surface of events. Hold that one definition and every compound built on it resolves to the same idea.
+
 ---
 
 ## II. The Central Object: Robust Frontiers
