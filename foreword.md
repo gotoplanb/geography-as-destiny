@@ -33,6 +33,8 @@ The dissertation you're holding emerged from listening, talking, writing, and wa
 
 The collaboration is acknowledged directly because it deserves to be. The framework, the connections, the analytical architecture — those are mine, accumulated across parallel threads finally finding their common shape. The synthesis engine, the citation apparatus, the prose elaboration — that's Claude. The distinction between them is documented in the process trail anyone can read.
 
+One part of that process recurs often enough in the reference notes to name here. Much of the thinking happened in what those notes call a *Beta seminar*: walking with an audiobook playing and talking it through aloud with Claude — what the material is saying, what it might mean, what should come next, how it connects to everything already on file. It is a graduate seminar with a class of one and a machine, held on foot. ("Beta" is simply the project's name for that conversational mode, as distinct from the desk work of filing, sourcing, and drafting; the process trail records both, and a reader who wants the full division of labor will find it there.) So when a later note reports that an idea *emerged from a Beta seminar discussion* — or that the framework predicted something in a seminar before the book reached the case that bore it out — this is the setting it means.
+
 The irony of an intellectual autobiography written partly through automation isn't lost on me. It's the thesis demonstrated in miniature. The tool is new. The dynamic is ancient.
 
 Geography as destiny began as a feeling I couldn't quite articulate. It became a framework I couldn't stop applying. This book is the crystallization.
