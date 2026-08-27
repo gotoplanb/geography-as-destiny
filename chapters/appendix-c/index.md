@@ -198,4 +198,18 @@ The macro/micro economics analogy is the framework's cleanest available rhetoric
 
 ---
 
+## 15. The Philosophy of Science: Popper, Kuhn, and Lakatos
+
+Chapter 1 insists that this book is a *framework*, not a *theory*. Three twentieth-century philosophers of science supply the vocabulary that makes the distinction precise, and locate what kind of knowledge-claim the book is actually making.
+
+**Karl Popper** (1902–1994), in *The Logic of Scientific Discovery* (German 1934; English 1959), proposed *falsifiability* as the line between science and non-science. A scientific claim is one that forbids something — that makes a risky prediction which could turn out false. Theories are never proven true; they are corroborated by surviving sincere attempts to refute them, and discarded when a prediction fails. This is the strict sense of "theory" the book declines to claim for itself as a whole. History permits no controlled experiment, and the book's claims are probabilistic — about the distribution of outcomes a configuration makes likely — rather than the point-predictions a decisive test checks. What the framework *does* do, in a Popperian spirit, is throw off individual predictions sharp enough to fail (a drying oasis on a schedule, a population's ancestry signature) and log the misses beside the hits.
+
+**Thomas Kuhn** (1922–1996), in *The Structure of Scientific Revolutions* (1962), argued that science is organized not around lone theories but around *paradigms* — disciplinary matrices of shared assumptions, exemplary problems, and accepted methods within which "normal science" proceeds, punctuated by revolutionary shifts when anomalies accumulate past tolerance. A paradigm is a larger unit than a theory: it is the frame that tells practitioners what counts as a problem and what counts as a solution. The book's "framework" is a kindred idea — an organizing structure that fixes what to look for and how to read evidence, prior to and independent of any single claim.
+
+**Imre Lakatos** (1922–1974), in his *Methodology of Scientific Research Programmes* (developed through the 1970s and collected in 1978), split the difference between Popper and Kuhn. A research programme has a *hard core* of central assumptions, insulated by a *protective belt* of auxiliary hypotheses that adjust to challenges; it is judged not by a single falsification but over time — *progressive* if it keeps predicting novel facts, *degenerating* if it merely explains away failures after they occur. This is the closest formal description of what the book is and how it asks to be judged: the geographic-substrate apparatus is the hard core, the specific readings are the adjustable belt, and the test is whether the programme keeps generating predictions — the Niya aridification schedule, the holdout validations, the ancient-DNA hits and misses — that survive contact with new evidence.
+
+To these three the social sciences add the everyday term the book's readers will already recognize: the **conceptual** or **theoretical framework**, the organizing structure of concepts and relationships a qualitative study lays down before it analyzes its material. "Framework" is therefore neither a hedge nor an idiosyncrasy. It is the accurate name, drawn from an established tradition, for a structure that organizes qualitative evidence and generates testable claims without being reducible to a single testable claim itself.
+
+---
+
 *The reference cards behind each of these entries, with their full sourcing and cross-connections, are available in the project repository at <https://github.com/gotoplanb/geography-as-destiny>.*
