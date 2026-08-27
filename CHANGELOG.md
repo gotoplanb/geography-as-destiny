@@ -2,6 +2,15 @@
 
 Version history for *Geography as Destiny*. Each version corresponds to a git tag and a built epub. The colophon and title page of the epub display the version that built them.
 
+## v5.0.2 — 2026-08-27
+
+**Patch: reader-orientation front matter and two Chapter 1 prose fixes. No framework or evidence changes.**
+
+- **Prologue:** a "how to read this book" note added at the top — the book is written as a dissertation and is dense on purpose (assumes committee-level familiarity with its foundations; does not re-derive Shannon, Rogers, or Diamond on every page), most readers are not on that committee and do not have to be, and the reference cards are the expansion joints for following one's own interests. A closing paragraph points readers to **davestanton.com/book** and the MCP (Model Context Protocol) connection that exposes the whole knowledge base to a reader's own AI assistant, so the framework can be interrogated as a participant rather than only read.
+- **Chapter 1:** an opening note explaining why this chapter in particular reads as a dense run of reference-card pointers — it is the framework's orientation layer, written to be legible to two kinds of reader at once, a person following curiosity and a large language model taking in the whole structure in a single pass (the human-and-LLM collaboration the final chapter argues for, demonstrated rather than only asserted).
+- **Chapter 1:** the Madagascar friction passage rewritten for flow and geographic accuracy (Madagascar is the first Indian-Ocean landfall from Southeast Asia; the populated African mainland is the short Mozambique-Channel hop beyond it that the Austronesians declined — the empty far shore beating the crowded near one). Genome facts unchanged.
+- **Chapter 1:** a period corrected to a colon in the amplification-not-invention clarification.
+
 ## v5.0.1 — 2026-08-25
 
 **Patch: integrate the gunpowder-diffusion synthesis (card 338) into Chapter 10, plus a cross-reference correction.**
