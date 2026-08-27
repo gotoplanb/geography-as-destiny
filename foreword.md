@@ -48,6 +48,12 @@ The river found its canyon. Here it is.
 Dave Stanton, PhD
 Gainesville, Florida
 
+---
+
+## Notes
+
+*The notes below are quick identifications of the thinkers and terms named in this foreword — who they were, and why the framework leans on them — for a reader meeting them for the first time. Each points to Appendix C, where the traditions get a fuller sketch. If the names are already familiar, read on.*
+
 [^fwd-1]: Claude Shannon (1916–2001) was a Bell Labs mathematician whose 1948 *Mathematical Theory of Communication* founded information theory. He defined information as the reduction of uncertainty and modeled communication as a sender-channel-receiver process subject to unavoidable noise. The framework uses Shannon both technically (sender-side encoding distorts what reaches the receiver) and epistemologically (historical sources are encoded transmissions, not transparent windows). See Appendix C for a fuller sketch.
 
 [^fwd-2]: Everett Rogers (1931–2004) was a communication theorist whose 1962 *Diffusion of Innovations* synthesized decades of adoption research into a single model. Innovations spread through populations along a predictable S-curve whose shape is set by network structure, perceived advantage, and friction. The framework applies Rogers' apparatus to the diffusion of metallurgy, writing, religions, and trade goods across millennia. See Appendix C.
