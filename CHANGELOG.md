@@ -2,6 +2,15 @@
 
 Version history for *Geography as Destiny*. Each version corresponds to a git tag and a built epub. The colophon and title page of the epub display the version that built them.
 
+## v5.0.3 — 2026-08-27
+
+**Patch: Chapter 2 prose additions and fixes, plus a full normalization of the footnote apparatus. No framework or evidence changes.**
+
+- **Chapter 2 — the great man theory grounded:** a new opening paragraph explains what the great man theory *is* and where it came from (Carlyle's 1840 "the history of the world is but the biography of great men"; Spencer's rebuttal that "before he can remake his society, his society must make him") before the chapter argues with it — so a reader need not already know the theory the whole chapter reframes.
+- **Chapter 2 — the Wald bomber introduced at first use:** the chapter leans heavily on the survivorship-bias vocabulary ("returning bomber," "engine hit"), but the metaphor had only been explained later, in Chapter 3. Added the Abraham Wald WWII bullet-hole story and the book's application of it (the historical record is the returning bombers; the framework's task is reconstructing the engine hits) at the point of first use, with both recurring terms defined explicitly.
+- **Chapter 2 — Peter the Great fix:** corrected a directional incongruity. The passage framed Russian expansion as "southward and eastward" but cited Ivan the Terrible's reach for the Baltic (which is *west*) as its proof, and undersold Peter, whose signature achievement was the westward Baltic outlet (St. Petersburg). Reframed as the accurate multidirectional drive — west toward the Baltic, south toward the Black Sea, east across Siberia — which also strengthens the anti-great-man point.
+- **Footnote apparatus normalized (source hygiene; invisible to readers, who see sequential footnote numbers either way).** After the v5.0 restructure, every renumbered chapter still carried its *old* number as its footnote prefix (and the Ch4 split left Ch6 and Ch7 both using `ch4-`). Each chapter's footnotes now use the prefix matching its current number, renumbered sequentially in reading order, and every chapter's definition block is physically sorted to match. Three cross-chapter footnote references were traced and updated to their targets' new labels. Verified: definitions match body order and references resolve one-to-one across all chapters.
+
 ## v5.0.2 — 2026-08-27
 
 **Patch: reader-orientation front matter and two Chapter 1 prose fixes. No framework or evidence changes.**
