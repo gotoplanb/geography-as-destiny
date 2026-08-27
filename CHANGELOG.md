@@ -2,6 +2,19 @@
 
 Version history for *Geography as Destiny*. Each version corresponds to a git tag and a built epub. The colophon and title page of the epub display the version that built them.
 
+## v5.0.4 — 2026-08-27
+
+**Patch: a foundational definitions cluster at the end of Chapter 1, Section I. No framework or evidence changes — this makes explicit vocabulary the book already relied on.**
+
+The word "substrate" appears more than seven hundred times but was never defined, and the framework's category words (lens, mechanism, instrument, metaphor, apparatus) were used without distinction. A short "defined terms" block now closes Chapter 1's opening section, in the order a reader needs it — what this is, what it studies, and the words it repeats:
+
+- **Framework, not theory.** States why the book calls itself a framework rather than a theory: a theory in Popper's strict sense is decided by controlled experiment, which history does not permit, and the claims here are probabilistic (about distributions, not point-predictions). A framework is an organizing structure judged by reach, parsimony, coherence, and fruitfulness — a conceptual/theoretical framework, a Lakatos research programme — that *generates* falsifiable predictions without being reducible to a single one. This reconciles with the book's existing falsifiability claims (the Niya prediction, holdout validation, the ancient-DNA hits and misses).
+- **Substrate defined.** The total, slow-changing configuration of a place — terrain, climate, resources, surrounding peoples and the pressures they exert — taken as a single field of forces that sets the probability distribution; events are draws from it. The compound terms (*substrate-driven*, *substrate-objective*, *substrate-aligned*) are anchored to this one referent.
+- **Analytical vocabulary distinguished.** A lens is a perspective read through (the three lenses); a mechanism is a causal process in the world; an instrument is a substrate-objective evidence source (terrain, archaeology, ancient DNA); a metaphor is a thinking device (thermodynamics, gradient descent, regularization); the apparatus is all of these together. "A lens is how you look, a mechanism is what is happening, an instrument is what you look with, a metaphor is what you think with."
+- **References added.** New Appendix C entry 15 ("The Philosophy of Science: Popper, Kuhn, and Lakatos") sources the framework/theory distinction, with a Chapter 1 footnote citing the three works and pointing to it.
+
+Also included: the whole-manuscript footnote apparatus was normalized in the run-up to this release (prefixes matched to chapter numbers, sequential body-order numbering, definition blocks physically sorted to match), and several earlier Chapter 1/2 prose fixes (the Madagascar passage, the Peter the Great counterfactual, the great-man-theory grounding, the Wald bomber introduced at first use) shipped in v5.0.2–v5.0.3.
+
 ## v5.0.3 — 2026-08-27
 
 **Patch: Chapter 2 prose additions and fixes, plus a full normalization of the footnote apparatus. No framework or evidence changes.**
