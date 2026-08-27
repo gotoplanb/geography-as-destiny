@@ -2,6 +2,14 @@
 
 Version history for *Geography as Destiny*. Each version corresponds to a git tag and a built epub. The colophon and title page of the epub display the version that built them.
 
+## v5.0.6 — 2026-08-27
+
+**Patch: reader-facing clarity around the notes apparatus and the project's working vocabulary. No framework or evidence changes.**
+
+- **"Beta seminar" defined.** The reference notes attribute ideas to a "Beta seminar" 23 times, but the term was never explained. The foreword now defines it where it already describes the practice: walking with an audiobook and talking it through aloud with Claude — a graduate seminar with a class of one and a machine, held on foot — with a note that "Beta" is simply the project's label for that conversational mode and a pointer to the process trail for the full division of labor. This also covers the "predicted in a seminar before the book reached the case" moments the notes refer to.
+- **Every Notes section now announces itself.** Hitting "## Notes" was a jarring shift from narrative prose to a wall of endnote links with no transition or cue that it could be skipped. A consistent italic signpost now opens each Notes section (all twelve chapters, the interlude, and the epilogue): it says the notes are sources plus pointers to the reference cards where each thread is developed in full, that nothing in the argument depends on them, and that a reader following the through-line can read on.
+- **The foreword's glossary notes got a matching header and signpost.** The foreword's notes do a different job from the chapters' — quick "who is this" identifications of the six traditions and key terms, each pointing to Appendix C — and previously had no header at all, so they landed right after the signature block with no transition. They now sit under a "## Notes" header with a signpost worded for what they are (identifications for a reader meeting the names for the first time; skip if familiar). The content difference is intentional; the structural inconsistency is fixed.
+
 ## v5.0.5 — 2026-08-27
 
 **Patch: consolidate the framework/theory positioning and answer the "AI slop" objection. No framework or evidence changes.**
