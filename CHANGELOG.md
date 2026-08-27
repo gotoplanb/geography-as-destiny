@@ -2,6 +2,14 @@
 
 Version history for *Geography as Destiny*. Each version corresponds to a git tag and a built epub. The colophon and title page of the epub display the version that built them.
 
+## v5.0.5 — 2026-08-27
+
+**Patch: consolidate the framework/theory positioning and answer the "AI slop" objection. No framework or evidence changes.**
+
+- **Chapter 2 (The Anti-Hero), the Toolkit falsifiability language** brought into line with the Chapter 1 definition. The section had opened "For this framework to be a theory rather than a belief, it must be falsifiable" and later said "A theory that cannot be falsified is not a theory" — both equating falsifiability with being a theory, which contradicts the framework-not-a-singular-theory positioning. Reframed so the falsifiability commitment is intact but correctly attached: the framework earns its standing by generating predictions specific enough to fail and naming the conditions under which it would be wrong. Footnote updated to match.
+- **The framework/theory distinction now acknowledges grounded/emergent theory.** Chapter 1 and Appendix C entry 15 note that under the looser conventions of qualitative social science — including the *grounded theory* of Glaser and Strauss (1967), where theory is built from immersion in the material rather than a prior hypothesis — this work would often simply be called a theory. The book keeps to the stricter standard deliberately, as a matter of not overstating what history's evidence can decide; "framework" is a considered, modest label, not a hedge.
+- **Chapter 11 (The Synthesis Frontier) answers the "AI slop" objection directly.** Two paragraphs in "What This Means" concede that some prose carries the tonal signature of the tool that helped assemble it — deliberately not scrubbed, because concealment is the opposite of a book that publishes its process — and distinguish *slop* (derivative, unfalsifiable, confidently empty filler; a charge about content) from work whose ideas are novel and whose reasoning holds and whose trail is open to check. Judge the work by the rigor and originality of what it argues, not by whether the prose has been buffed free of its origins.
+
 ## v5.0.4 — 2026-08-27
 
 **Patch: a foundational definitions cluster at the end of Chapter 1, Section I. No framework or evidence changes — this makes explicit vocabulary the book already relied on.**
