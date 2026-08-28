@@ -11,7 +11,7 @@ part: "Part II: The Bronze Age"
 
 ---
 
-*One orienting note before the descent: this interlude is the framework's engine room, where several of its core mechanisms are defined from the ground up — so for the next few pages the vocabulary runs deliberately dense, compound, and technical.*
+*A brief orientation: this interlude does the work of a dissertation's literature-review and methods chapters combined — surveying the Bronze Age evidence base while defining several of the framework's core mechanisms from the ground up — so for the next few pages the vocabulary runs deliberately dense and technical.*
 
 ## I. The Reach
 
