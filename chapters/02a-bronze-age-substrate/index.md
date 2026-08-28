@@ -11,6 +11,8 @@ part: "Part II: The Bronze Age"
 
 ---
 
+*One orienting note before the descent: this interlude is the framework's engine room, where several of its core mechanisms are defined from the ground up — so for the next few pages the vocabulary runs deliberately dense, compound, and technical.*
+
 ## I. The Reach
 
 Chapter 1 established that the framework's specific dynamics begin in the Bronze Age, when terrain-mediated friction collapses on the Pontic-Caspian steppe converted human population movement from foot-speed to mobility-multiplied scale. Everything before that period the framework reads as initial conditions: real, important, evidentially detectable, but operating by different mechanisms than the period the framework specializes in. After the Bronze Age friction collapses, the framework's apparatus applies.[^int-1]
