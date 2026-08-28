@@ -2,6 +2,12 @@
 
 Version history for *Geography as Destiny*. Each version corresponds to a git tag and a built epub. The colophon and title page of the epub display the version that built them.
 
+## v5.0.7 — 2026-08-28
+
+**Patch: a single orienting line for the Bronze Age Substrate interlude. No framework or evidence changes.**
+
+- **The interlude now names what it is up front.** It is the book's most terminology-dense stretch, and it earns a one-sentence orientation before Section I — framed as purpose, not apology: "this interlude does the work of a dissertation's literature-review and methods chapters combined — surveying the Bronze Age evidence base while defining several of the framework's core mechanisms from the ground up — so for the next few pages the vocabulary runs deliberately dense and technical." Sets the expectation and explains the density (both literature-review and methods chapters are where dense terminology belongs) without softening the rigor.
+
 ## v5.0.6 — 2026-08-27
 
 **Patch: reader-facing clarity around the notes apparatus and the project's working vocabulary. No framework or evidence changes.**
