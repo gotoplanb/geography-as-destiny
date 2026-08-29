@@ -2,6 +2,13 @@
 
 Version history for *Geography as Destiny*. Each version corresponds to a git tag and a built epub. The colophon and title page of the epub display the version that built them.
 
+## v5.0.9 — 2026-08-29
+
+**Patch: a modern analog for the tin single-point-of-failure, and a directional fix. No framework or evidence changes.**
+
+- **Chapter 3 (The Bronze Age Collapse) — a COVID/ammonia analog for the shared-lifeline mechanism.** A new paragraph in Section IV makes the single-source fragility viscerally legible: the 2020 toilet-paper shock as the visceral hook, then sharpened into the real thing on two axes — toilet paper was never single-sourced (a demand spike on a redundant good, corrected in weeks) and never essential (you improvise), whereas the danger is a good that is *both* single-sourced *and* load-bearing, like ammonia (the synthetic nitrogen behind both roughly half the world's food and much of modern industrial chemistry). "Tin was the Bronze Age's ammonia." The analog earns its place by demonstrating the no-redundancy mechanism rather than decorating it.
+- **The Bronze Age Substrate interlude — directional fix.** Anatolian agricultural vocabulary entering the steppe crosses the Caucasus *northward* (Anatolia is south of the range, the Yamnaya steppe north of it); a stray "southward" was corrected.
+
 ## v5.0.8 — 2026-08-29
 
 **Patch: sharpen the Bronze Age interlude's second-friction-collapse framing — the ridden horse, not the chariot, is the collapse. No new evidence; a conceptual correction the chapter had left implicit.**
