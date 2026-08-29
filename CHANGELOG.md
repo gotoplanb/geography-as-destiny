@@ -2,6 +2,18 @@
 
 Version history for *Geography as Destiny*. Each version corresponds to a git tag and a built epub. The colophon and title page of the epub display the version that built them.
 
+## v5.1 — 2026-08-29
+
+**Minor: Chapter 4's central settlement-gradient prediction was actually tested for the first time, and the chapter revised to report the result honestly — a substantive argument revision, not a fix.**
+
+Chapter 4 ("The River Spine") had staked a falsifiable prediction — the Goldilocks middle-river zone, the settlement gradient, and the hard-upstream/soft-downstream asymmetry — and then, in a book that makes a virtue of holdout validation, never ran it. This version runs a first-pass, literature-grounded test against four independent primary river civilizations (Nile, Mesopotamia, Indus, Yellow River) under an explicit report-the-misses mandate, and rewrites the chapter to state plainly what held and what did not.
+
+**The test result (documented with per-civilization sourced verdicts in reference card 340):**
+- **Confirmed, robustly:** the asymmetry — a hard upstream boundary (the First Cataract at Aswan; the ~200 mm rainfall isohyet along the Zagros piedmont; the arid Ordos margin; the avulsive Himalayan river front) and a softer, shifting downstream edge — and the pattern that settlement avoids the violent headwaters while dense cities arise later, downstream on the alluvial plain.
+- **Corrected:** the claim that the *earliest* settlement everywhere originated in a middle-river Goldilocks zone. That holds cleanly only for the Yellow River (the loess middle valley). For the Fertile Crescent and the Indus, the earliest farming began off the trunk river, in the rain-fed uplands / hilly flanks (Braidwood's Jarmo; Mehrgarh), with the river-valley civilization a later, irrigation-enabled arrival — and the controlling variable was often the rainfall line and soil, not the river's energy gradient. The Indus adds a complication the single-river model cannot absorb: its densest settlement lies along the now-dry Ghaggar-Hakra paleochannel.
+
+**Chapter changes:** Section II's "confirms it across every major river civilization" overclaim walked back; the middle-river "earliest habitation" claim softened. Section IV's Mesopotamia example corrected (a genuine factual error — the earliest settlements were the rain-fed uplands, not "the Ubaid period in the middle zones"; Ubaid is the southern alluvium), and the Egypt example adjusted to the Upper-Egypt-state / downstream-productive-base reading with the earliest-farming-downstream wrinkle noted. Section VI converted from an untested proposal into a reported first-pass test with a "partial confirmation" verdict; footnotes updated (`ch4-13` no longer "untested"; new `ch4-14` cites the test and its sources). Net verdict stated in the chapter: the gradient's shape and asymmetry survive; the middle-river-origin claim does not — a nuanced, tested claim in place of a tidy untested one.
+
 ## v5.0.9 — 2026-08-29
 
 **Patch: a modern analog for the tin single-point-of-failure, and a directional fix. No framework or evidence changes.**
