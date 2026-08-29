@@ -2,6 +2,14 @@
 
 Version history for *Geography as Destiny*. Each version corresponds to a git tag and a built epub. The colophon and title page of the epub display the version that built them.
 
+## v5.0.8 — 2026-08-29
+
+**Patch: sharpen the Bronze Age interlude's second-friction-collapse framing — the ridden horse, not the chariot, is the collapse. No new evidence; a conceptual correction the chapter had left implicit.**
+
+The interlude had repeatedly framed the second friction collapse as "horse-and-chariot-driven" (Section I), "DOM2 and the Chariot" (Section II subheader), and a "DOM2-and-chariot conjunction" that produces cavalry warfare — all of which quietly credit the chariot with the collapse. But the chariot was not a friction collapse: it only made wagon-era mobility faster while still requiring flat, open ground. The friction collapse is the *ridden* DOM2 horse, which took horse-borne force onto broken, hilly, and wooded terrain no wheeled vehicle could cross — changing *which terrain serves whom* (the framework's strict definition of a friction collapse) and, in doing so, making the chariot obsolete. That terrain-liberation criterion is now stated explicitly in Section VI and threaded through the upstream framings (Section I overview and the Section II subheader and body). Consistent with the ridden-horse-vs-chariot thread already in the foreword and the reference archive.
+
+Also filed to the archive this cycle (card-only, no reader-facing prose): card 339, a speculative Appendix-A/closing-chapter prediction that AI translation decouples the historically bundled functions of a lingua franca (communication automated, institutional trust migrating to its own substrate, prestige-signaling freed to operate purely symbolically).
+
 ## v5.0.7 — 2026-08-28
 
 **Patch: a single orienting line for the Bronze Age Substrate interlude. No framework or evidence changes.**
