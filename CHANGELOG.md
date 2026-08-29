@@ -2,6 +2,14 @@
 
 Version history for *Geography as Destiny*. Each version corresponds to a git tag and a built epub. The colophon and title page of the epub display the version that built them.
 
+## v5.1.1 — 2026-08-29
+
+**Patch: frame the Chapter 4 settlement-gradient result as deeper framework alignment, and add the gradient's development history. No new evidence.**
+
+- **Chapter 4, Section VI** gains a closing interpretive beat: the single-dimension test coming back only partially predictive is not evidence against the framework but *for* it. The book already commits to *substrate-conjunction* (no one variable is sufficient) and a *probabilistic* frame (geography sets the distribution, not the outcome), and Chapter 4's own five-variable model already names climate, geometry, cycle, outlet, and adjacency. Had river energy alone predicted settlement everywhere, one dimension would have been doing all the work — precisely what substrate-conjunction says cannot happen. The rain-fed uplands did not break the model; they supplied the term a one-dimensional proxy had dropped.
+- **Chapter 11, Section IV (The Holdout Test)** gains a companion beat, in the chapter's first-person register: the topographical gradient was one of the framework's founding ideas — a single variable with a lot of explanatory power — matured over years of reading into the multi-variable conjunction view, and the settlement-gradient test recapitulated that same arc from the outside. A clean holdout (Niya) is reassuring; a mixed one that catches a founding idea over-reaching and corrects it toward the framework's own commitments is the more honest instrument.
+- **Reference cards:** 340 (the holdout test's per-civilization sourced verdicts) updated with the substrate-conjunction reframe; 341 added (the gradient's intellectual-development history).
+
 ## v5.1 — 2026-08-29
 
 **Minor: Chapter 4's central settlement-gradient prediction was actually tested for the first time, and the chapter revised to report the result honestly — a substantive argument revision, not a fix.**
