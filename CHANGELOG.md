@@ -2,6 +2,13 @@
 
 Version history for *Geography as Destiny*. Each version corresponds to a git tag and a built epub. The colophon and title page of the epub display the version that built them.
 
+## v5.1.3 — 2026-08-30
+
+**Patch: thin the empty adjectival uses of "substrate," and correct the monsoon-route claim. No framework or evidence changes.**
+
+- **"Substrate" adjective cleanup.** Substrate is a noun in this book — the layered field of factors that sets the probability distribution — and its overuse as an adjective had become noise. Two sweeps removed the empty adjectival uses while preserving every load-bearing form. The first trimmed the space-separated collocations where the bare noun already carries the meaning (*substrate dynamics* → dynamics, *substrate conditions* → conditions, *substrate consequences* → consequences, *substrate processes* → processes, *substrate mechanism* → mechanism). The second trimmed hyphenated padding (*substrate-level* → underlying, *substrate-establishment* → establishment, *substrate-substrate compatibility* → substrate-to-substrate compatibility, *the substrate apparatus* → the system, *substrate-erosion* rephrased to noun form). Preserved throughout: the defined vocabulary (*substrate-driven*, *substrate-aligned/-misaligned*, *substrate-objective*, *substrate-conjunction*, *substrate-selected/-selection*, *substrate-determinism*), the load-bearing *substrate change(s)*, coined concepts (*substrate-resonance*, *substrate-transition*, *substrate-creation*), all noun uses, and the reference-card filenames in citation links. Total substrate uses across the manuscript: ~763 → ~702.
+- **Chapter 6 monsoon-route correction.** The maritime-corridor passage had said the boom "fired only when Roman demand and the monsoon route arrived." The monsoon route long predated Rome — Indian Ocean sailors had ridden it for centuries, and it had already reached the Hellenistic world (Eudoxus of Cyzicus sailed direct to India with an Indian pilot c. 118 BCE). What Roman demand added was scale enough to make the route worth *codifying and distributing* — popularized for open-water crossing (Hippalus) and written into a merchant's handbook (the *Periplus of the Erythraean Sea*). Corrected accordingly: "Demand did not create the route; it wrote it down."
+
 ## v5.1.2 — 2026-08-30
 
 **Patch: name the Iranian-plateau deserts in Chapter 6 and make the funnel mechanism explicit. No framework or evidence changes.**
