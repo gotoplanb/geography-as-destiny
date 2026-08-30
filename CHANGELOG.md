@@ -2,6 +2,12 @@
 
 Version history for *Geography as Destiny*. Each version corresponds to a git tag and a built epub. The colophon and title page of the epub display the version that built them.
 
+## v5.1.2 — 2026-08-30
+
+**Patch: name the Iranian-plateau deserts in Chapter 6 and make the funnel mechanism explicit. No framework or evidence changes.**
+
+The overland-corridor description of the Iranian plateau referred vaguely to "the deserts to the south." It now names them — the Dasht-e Kavir (Great Salt Desert) and the Dasht-e Lut — and explains *why* the plateau funnels rather than opening up: its interior is filled by those two impassable deserts, and its rivers are endorheic (draining inward to salt flats, not outward to travelable valleys), so traffic is forced to the rim. The main corridor is identified as the northern snowmelt oasis string along the Alborz/Kopet Dag piedmont (Rey, Damghan, Nishapur, Merv), squeezed between the mountains and the Dasht-e Kavir, with a secondary southern line (Kerman toward Sistan) skirting the Dasht-e Lut. Route geography confirmed against the Khorasan-road sources. The clarification reinforces the chapter's funnel framing: the plateau looks broad on a map but permits only a few lines across it.
+
 ## v5.1.1 — 2026-08-29
 
 **Patch: frame the Chapter 4 settlement-gradient result as deeper framework alignment, and add the gradient's development history. No new evidence.**
