@@ -125,7 +125,7 @@ The endnotes in this book include three types of attribution: source citations (
 
 The framework is the tool for perceiving the larger system. The dissertation is the argument that the larger system is geographic and thermodynamic and legible if you use the right lens. The anti-hero is the recurring proof that ignoring the larger system has consequences proportional to its scale.[^ch11-11]
 
-That central purpose statement organizes a set of methodological commitments the framework's apparatus has developed across thousands of reference cards and now requires explicit articulation. Seventeen commitments operate together and constitute the framework's methodological posture.
+That central purpose statement organizes a set of methodological commitments the framework's apparatus has developed across hundreds of reference cards and now requires explicit articulation. Seventeen commitments operate together and constitute the framework's methodological posture.
 
 **The framework is probabilistic, not deterministic at the specific-event level.** Geography sets the distribution. Geography does not eliminate variance within the distribution. Sometimes the low-probability catastrophic draw happens anyway — not because the terrain demanded it but because human dysfunction (per the anti-hero apparatus) selected it from the available outcomes. The framework's apparatus predicts the distribution; it does not predict which specific draw from the distribution actually occurs. The macro-pattern predictions are robust; the specific micro-event predictions are not. Like a weather forecast, the framework predicts that the pressure differential will produce a storm without predicting which specific town gets the tornado.[^ch11-12]
 
