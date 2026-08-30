@@ -33,7 +33,7 @@ The geographic structure of the overland corridor is legible from a topographic 
 
 **The western fan:** The Mediterranean and Levant, spreading into multiple routes through Anatolia, Syria, and Mesopotamia. Many starting points, many paths, converging as they move east.
 
-**The Iranian plateau:** The first funnel. The multiple western routes compress into a narrower corridor as the terrain forces them between the mountains of Iran and the deserts to the south. By the time you reach eastern Iran, the options have narrowed.
+**The Iranian plateau:** The first funnel. The plateau's interior is filled by two great deserts — the Dasht-e Kavir, the Great Salt Desert, in the north-center, and the Dasht-e Lut in the southeast — and its rivers drain inward to salt flats rather than out to travelable valleys, so traffic is forced to the rim. The main corridor hugs the northern edge: the snowmelt oasis string at the foot of the Alborz and Kopet Dag mountains — Rey, Damghan, Nishapur, on to Merv — squeezed between the mountains above and the Dasht-e Kavir below, with a secondary line skirting the Dasht-e Lut to the south through Kerman toward Sistan. The plateau looks broad on a map, but its deserts and its inward-draining water allow only a few lines across it, and by eastern Iran the options have narrowed.
 
 **The Afghan corridor:** The chokepoint. Everything funnels through. Afghanistan's significance in world history is not intrinsic wealth — it is position. The same terrain that makes it unconquerable from outside and ungovernable from inside makes it unavoidable for anyone moving between the western and eastern halves of Eurasia.
 
