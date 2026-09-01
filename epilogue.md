@@ -141,7 +141,7 @@ The terrain is patient.
 
 The river found its canyon. The canyon continues to widen. The water continues to flow through it. The river remembers where it was going.
 
-The Bronze Age Pontic-Caspian steppe is still there. The Silk Road corridor's gravity wells are still there. The first island chain is still there. The Strait of Malacca is still there. The Bosphorus is still there. The Suez is still there. The Panama is still there. None of these terrain features will be there in any humanly relevant timeframe regardless of which technologies move through them or which political actors control them.
+The Bronze Age Pontic-Caspian steppe is still there. The Silk Road corridor's gravity wells are still there. The first island chain is still there. The Strait of Malacca is still there. The Bosphorus is still there. The Suez is still there. The Panama is still there. None of them is going anywhere in any humanly relevant timeframe, regardless of which technologies move through them or which political actors control them.
 
 We are not living in a post-geography world.
 
