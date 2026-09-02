@@ -15,17 +15,19 @@ If you are a researcher with the right expertise and want to test one, the evide
 
 ---
 
-## 1. The Goldilocks Zone Settlement Model — Quantitative Test
+## 1. The Goldilocks Zone Settlement Model — Quantitative Multi-Variable Test
 
-**Prediction:** Calculate the energy dissipation curve for any river system from SRTM elevation data. Identify the gradient threshold range where settlement conditions are optimal. Plot early archaeological settlements against the predicted zone. If settlements cluster in the predicted Goldilocks zone across multiple independent river civilizations (Nile, Indus, Tigris-Euphrates, Yellow River, Mekong, Mississippi), the model has explanatory power beyond any single case.
+**Prediction:** Early settlement on a major river should cluster in a predictable zone set by the river's energy gradient *in conjunction with* rainfall and soil — not by the elevation gradient alone. The clustering should be **asymmetric**: a hard upstream boundary (the catastrophic cost of sitting in the violent, high-energy headwaters) and a soft downstream boundary (gradual degradation across the alluvial plain). The asymmetry is derived from the physics of energy dissipation, and it is what distinguishes this model from a generic "middle of the river" prediction.
 
-**Specific sub-prediction:** The clustering should be asymmetric — hard upstream boundary (catastrophic cost of being too far upstream), soft downstream boundary (gradual degradation). This asymmetry is derived from the physics of energy dissipation and distinguishes this model from a generic "middle of the river" prediction.
+**What the first-pass test found:** A literature-grounded test against four independent river civilizations (Nile, Mesopotamia, Indus, Yellow River) has since been run — see Chapter 4 and [ref 340](references/340-holdout-test-settlement-gradient-goldilocks-model-four-river-civilizations-asymmetry-confirms-middle-river-origin-cuts-against-uplands-hilly-flanks-mehrgarh.md). The asymmetry held robustly. The stronger, single-variable claim — that the *earliest* settlement everywhere originated in a middle-river zone fixed by the elevation gradient — did not: for the Fertile Crescent and the Indus, farming began off the trunk river, in the rain-fed uplands and hilly flanks (Jarmo, Mehrgarh), where the controlling variable was the rainfall line and the soil, not river energy. That correction is why this entry now reads as a *multi-variable* test. The gradient is one term in a substrate conjunction, not a single-variable engine — which is exactly what the framework's own commitment to substrate-conjunction predicts ([ref 341](references/341-topographical-gradient-first-idea-single-variable-matured-to-substrate-conjunction-framework-development-mirrored-by-ch4-test-process-journal.md)).
 
-**Data required:** SRTM digital elevation models (freely available). Archaeological site databases for the six river systems. Standard GIS software.
+**The outstanding quantitative test:** The rigorous GIS version has not been run. It would overlay three layers — SRTM elevation (the energy gradient), a rainfall/isohyet layer, and a soil-quality layer — and plot early archaeological settlements against the *combined* predicted zone across multiple independent river civilizations (Nile, Indus, Tigris-Euphrates, Yellow River, Mekong, Mississippi). The single-variable version mispredicts precisely where the first-pass test caught it — the rain-fed uplands; the multi-variable version is the honest form of the prediction, and it remains genuinely untested at quantitative scale.
 
-**What would falsify it:** Settlements not clustering in the predicted zone, or the asymmetry not appearing across multiple rivers.
+**Data required:** SRTM digital elevation models, gridded rainfall/paleoclimate isohyet data, and soil-classification layers (all freely available). Archaeological site databases for the river systems. Standard GIS software.
 
-*See [ref 071](references/071-goldilocks-zone-predictive-model-quantitative.md)*
+**What would falsify it:** Early settlement not clustering in the combined-variable zone, or the upstream/downstream asymmetry not appearing across multiple rivers.
+
+*See [ref 071](references/071-goldilocks-zone-predictive-model-quantitative.md), [ref 340](references/340-holdout-test-settlement-gradient-goldilocks-model-four-river-civilizations-asymmetry-confirms-middle-river-origin-cuts-against-uplands-hilly-flanks-mehrgarh.md), and [ref 341](references/341-topographical-gradient-first-idea-single-variable-matured-to-substrate-conjunction-framework-development-mirrored-by-ch4-test-process-journal.md)*
 
 ---
 
