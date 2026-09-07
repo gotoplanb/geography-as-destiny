@@ -2,6 +2,12 @@
 
 Version history for *Geography as Destiny*. Each version corresponds to a git tag and a built epub. The colophon and title page of the epub display the version that built them.
 
+## v5.2.1 — 2026-09-07
+
+**Patch: restore a stub Appendix C so the appendix lettering no longer appears to skip. No content or framework changes.**
+
+Promoting the Intellectual Lineage to front matter (v5.2.0) left the back appendices reading A, B, D — a gap that could read as a mistake to anyone scanning the appendices. Appendix C is restored as a short stub that explains the material was moved to the front and points to the **Intellectual Lineage** section between the Prologue and Chapter 1. This closes the visible gap without the churn of re-lettering Appendix D (the chronology/citation index) and every Appendix-D citation in the book. The full lineage content now lives in its own `intellectual-lineage/` source directory as front matter; Appendices A, B, and D are unaffected.
+
 ## v5.2.0 — 2026-09-07
 
 **Minor: the intellectual-lineage primer is promoted from the back of the book to a front-matter section, changing the reader's on-ramp — a structural change, not a copy fix.**
