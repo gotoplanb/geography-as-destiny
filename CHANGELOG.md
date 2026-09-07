@@ -2,6 +2,17 @@
 
 Version history for *Geography as Destiny*. Each version corresponds to a git tag and a built epub. The colophon and title page of the epub display the version that built them.
 
+## v5.2.0 — 2026-09-07
+
+**Minor: the intellectual-lineage primer is promoted from the back of the book to a front-matter section, changing the reader's on-ramp — a structural change, not a copy fix.**
+
+What had been Appendix C ("Intellectual Lineage") — fifteen one-screen sketches of the traditions the framework synthesizes (Shannon, Rogers, propaganda research, Diamond, Gimbutas, Anthony, the Yamnaya/Sintashta/DOM2 glossary, human factors, anti-eugenics, Buddhist/Taoist convergence, Ibn Khaldun, Wald, the machine-learning apparatus, the macro/micro division of labor, and the Popper/Kuhn/Lakatos framework-not-theory material) — is the most accessible, least history-dense material in the book and is effectively the literature review the project did not formally have. It now sits where the dissertation model puts a literature review: up front, before the argument.
+
+- **Reading order** is now Foreword → Prologue → **Intellectual Lineage** → Chapter 1. The section is retitled from "Appendix C: Intellectual Lineage" to "Intellectual Lineage" and moved in the build order and front matter.
+- **The section intro is rewritten** to front-matter voice with a near-mandatory note: the primer sits before the argument on purpose, to give the reader the mental substrate the rest of the book assumes; read the entries for traditions you don't already know, skip the ones you do, but don't skip the section. The note also flags the deeper apparatus the foreword's six named traditions don't cover (Wald's survivorship logic, Ibn Khaldun's dynastic cycle, the macro/micro division of labor, the framework-not-theory distinction).
+- **Roughly thirty reader-facing cross-references** — in the foreword, Chapters 1, 2, 10, and 11, and Appendix A — are updated from "Appendix C" to "the Intellectual Lineage," along with twenty reference cards, so no locator points at a section that no longer exists.
+- **The back appendices are now A, B, and D.** The C-gap is left as-is deliberately: re-lettering Appendix D (the chronology/citation index) would touch every Appendix-D citation in the book, which is not worth the churn to close a cosmetic gap.
+
 ## v5.1.5 — 2026-09-02
 
 **Patch: one epilogue copy fix and two appendix revisions that fold in evidence the manuscript had already developed elsewhere. No framework changes; the appendix work sharpens two of the framework's falsification clauses.**
