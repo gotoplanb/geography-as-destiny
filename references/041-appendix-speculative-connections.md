@@ -1,4 +1,4 @@
-# Appendix Concept: Speculative Connections the Framework Generates
+# the Intellectual Lineageoncept: Speculative Connections the Framework Generates
 
 **Source:** Alpha discussion, 2026-04-15
 **Type:** connection

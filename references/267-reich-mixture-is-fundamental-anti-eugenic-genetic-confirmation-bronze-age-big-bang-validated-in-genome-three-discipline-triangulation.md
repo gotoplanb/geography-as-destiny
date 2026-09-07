@@ -126,7 +126,7 @@ The Reich arc has produced substantial substantive framework material; card 267 
 
 - **Chapter 8** (synthesis frontier; methodological commitments): Could absorb the framework adversarial-review-passing apparatus articulation if the methodological-commitments section develops further. The three-discipline triangulation as substantive validation methodology operates substantively at the methodological-commitments level.
 
-- **Appendix C** (Intellectual Lineage): Possible future entry on David Reich substantively extending the existing Anthony entry (entry 6) with the ancient DNA evidentiary instrument material and the substantive substantive-content engagement Reich's work has produced across the Reich arc.
+- **the Intellectual Lineage** (Intellectual Lineage): Possible future entry on David Reich substantively extending the existing Anthony entry (entry 6) with the ancient DNA evidentiary instrument material and the substantive substantive-content engagement Reich's work has produced across the Reich arc.
 
 - **Card-only retention (possible default)**: Card emerged from substantive Reich-arc engagement. Most likely retention path is as substantive reference card capturing the framework-strengthening moment with Reich's explicit articulation of foundational framework commitments. Future prose integration is substantive but should be sequenced appropriately with other Reich-arc material.
 

@@ -1,15 +1,17 @@
 ---
-title: "Appendix C: Intellectual Lineage"
+title: "Intellectual Lineage"
 status: complete
-order: 14
-part: "Appendices"
+order: 0.7
+part: "Front Matter"
 ---
 
-# Appendix C: Intellectual Lineage
+# Intellectual Lineage
 
-The foreword names six traditions whose synthesis produces this book's framework, along with several archaeological terms that may be unfamiliar. This appendix is for the curious reader who wants to know more about each one — who these thinkers were, what their key contributions were, and why they matter to the argument that geography sets the probability distribution of historical outcomes.
+This book is a synthesis, and a synthesis is only as legible as the traditions it draws on. This section sketches those traditions — who the thinkers were, what each one contributed, and why the framework leans on it. It is the closest thing the book has to a formal literature review, and it sits here, before the argument, on purpose: knowing these traditions gives you the mental substrate the rest of the book assumes you have.
 
-The entries are arranged in the order the names appear in the foreword. Each is roughly one screen long. They are sketches, not full biographies; the goal is to give a reader who has never encountered Shannon or Gimbutas enough orientation to follow why the framework leans on them.
+Read the entries for the traditions you don't already know; skip the ones you do — but don't skip the section. The argument that follows leans on all of it. The foreword named six of these traditions in passing; here they get a fuller sketch, along with the deeper apparatus the argument uses without stopping to re-explain — Wald's survivorship logic, Ibn Khaldun's dynastic cycle, the macro/micro division of labor, the framework-not-theory distinction.
+
+The entries begin with the six the foreword names, in the order they appear there, then extend to the rest. Each is roughly one screen long. They are sketches, not full biographies; the goal is to give a reader who has never encountered Shannon or Gimbutas enough orientation to follow why the framework leans on them.
 
 ---
 

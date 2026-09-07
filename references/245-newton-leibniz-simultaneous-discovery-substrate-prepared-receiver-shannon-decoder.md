@@ -40,7 +40,7 @@ The reframing of scientific genius:
 
 This card extends the framework's anti-great-man critique into scientific intellectual history substantively for the first time. Previous framework cases (Peter the Great, Tecumseh, Hitler, Timur, Genghis Khan, the Shah of Khwarazm) operated on political-military great-man cases. The Newton/Leibniz case demonstrates the same apparatus operating on scientific great-man cases with unusual clarity because the simultaneous discovery provides the cleanest natural experiment available.
 
-The card also produces a substantively new framework articulation: the **substrate-prepared receiver** reframing of scientific genius. Where the standard great-man-of-science narrative treats Newton as the uncaused first mover whose singular intellect produced the scientific revolution, the framework reads Newton as Shannon's most gifted receiver — the most sensitive decoder of signals the entire European scientific tradition had been transmitting. The receiver-side reframe extends the framework's Shannon apparatus (per Chapter 1 and Appendix C entry 1) into the analysis of individual scientific genius itself, where it has not previously operated explicitly.
+The card also produces a substantively new framework articulation: the **substrate-prepared receiver** reframing of scientific genius. Where the standard great-man-of-science narrative treats Newton as the uncaused first mover whose singular intellect produced the scientific revolution, the framework reads Newton as Shannon's most gifted receiver — the most sensitive decoder of signals the entire European scientific tradition had been transmitting. The receiver-side reframe extends the framework's Shannon apparatus (per Chapter 1 and the Intellectual Lineage entry 1) into the analysis of individual scientific genius itself, where it has not previously operated explicitly.
 
 This is also the first card where the framework's apparatus has been deployed by Dave directly to a domain (history of mathematics/physics) outside the Hammond arc's historical-Chinese material. The fact that the apparatus generates immediately tractable analytical purchase on the Newton/Leibniz case suggests the framework's reach extends substantially beyond its primary application domain.
 
@@ -98,7 +98,7 @@ The card's substantive new framework concept — substrate-prepared receiver —
 
 - **Appendix A**: New entry on substrate-prepared-receiver pattern in history of science — cross-civilizational test of simultaneous-discovery cases as natural experiments for the overdetermined-outcome argument. Canonical cases: Newton/Leibniz (calculus); Darwin/Wallace (natural selection); Mendeleev/Meyer (periodic table); Einstein/Lorentz-Poincaré (relativity); various others.
 
-- **Appendix C**: Could add entry on Stigler's law of eponymy as substrate-resonance convergence — empirical sociological observation matching framework's substrate-prepared-receiver prediction.
+- **the Intellectual Lineage**: Could add entry on Stigler's law of eponymy as substrate-resonance convergence — empirical sociological observation matching framework's substrate-prepared-receiver prediction.
 
 ## Hammond Arc Tally (with extension)
 

@@ -76,7 +76,7 @@ The five-card cluster (239-243) collectively constitutes the framework's mature 
 
 - **Appendix A**: New apparatus entries for "macro/micro-economics analogy" and "description vs. explanation" as named tools.
 
-- **Appendix C**: The existing scientific primers (Shannon, Wald bomber, ML apparatus, etc.) could be joined by a brief macroeconomics primer establishing the level-of-analysis distinction. This would make the analogy load-bearing rather than ornamental.
+- **the Intellectual Lineage**: The existing scientific primers (Shannon, Wald bomber, ML apparatus, etc.) could be joined by a brief macroeconomics primer establishing the level-of-analysis distinction. This would make the analogy load-bearing rather than ornamental.
 
 ## Hammond Arc Tally
 

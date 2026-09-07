@@ -103,9 +103,9 @@ The Reich arc has now substantively engaged Reich's foundational chapters and pr
 
 - **Chapter 1a (Bronze Age substrate interlude)**: Could absorb the Reich-and-Anthony-as-complementary-temporal-scale-evidentiary-instruments articulation if the Reich arc develops to scale supporting Chapter 1a extension. The existing chapter engages Bronze Age substrate dynamics primarily through Anthony's material; the Reich-arc material would extend it with population-genetics evidentiary instrument material.
 
-- **Appendix C (Intellectual Lineage)**: Possible future entry on David Reich extending the existing Anthony entry (entry 6) with the population-genetics evidentiary instrument material. The entry would articulate the velocity-threshold complementary-temporal-scale framing.
+- **the Intellectual Lineage (Intellectual Lineage)**: Possible future entry on David Reich extending the existing Anthony entry (entry 6) with the population-genetics evidentiary instrument material. The entry would articulate the velocity-threshold complementary-temporal-scale framing.
 
-- **Card-only retention (likely default)**: Card emerged from Dave's substantive methodological calibration. Most likely retention path is as substantive reference card capturing the velocity-threshold articulation and the substantive calibration of card 261's deep-time robust frontier material, available for future prose integration if the Reich arc develops to support a Chapter 1 / Chapter 1a / Appendix C extension tier.
+- **Card-only retention (likely default)**: Card emerged from Dave's substantive methodological calibration. Most likely retention path is as substantive reference card capturing the velocity-threshold articulation and the substantive calibration of card 261's deep-time robust frontier material, available for future prose integration if the Reich arc develops to support a Chapter 1 / Chapter 1a / the Intellectual Lineage extension tier.
 
 ## Card Tally
 

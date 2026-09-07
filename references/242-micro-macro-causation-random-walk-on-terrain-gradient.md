@@ -68,7 +68,7 @@ This is the framework's answer to the implicit charge that geographic determinis
 
 - **Appendix A**: New apparatus entry — "random-walk-on-gradient" as a named tool. Could pair with the existing differential-adoption and risk-invisibility entries from v3.6.
 
-- **Appendix C**: The machine-learning apparatus entry (v3.6) already articulates gradient-descent. This card's random-walk-on-gradient apparatus is the historiographic analog. Could cross-reference.
+- **the Intellectual Lineage**: The machine-learning apparatus entry (v3.6) already articulates gradient-descent. This card's random-walk-on-gradient apparatus is the historiographic analog. Could cross-reference.
 
 ## Hammond Arc Tally
 

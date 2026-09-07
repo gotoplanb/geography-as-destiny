@@ -54,6 +54,7 @@ CHAPTERS=(
     frontispiece.md
     foreword.md
     prologue.md
+    chapters/appendix-c/index.md
     chapters/01-the-distribution/index.md
     chapters/02-the-anti-hero/index.md
     chapters/02a-bronze-age-substrate/index.md
@@ -69,7 +70,6 @@ CHAPTERS=(
     epilogue.md
     chapters/appendix-a/index.md
     chapters/appendix-b/index.md
-    chapters/appendix-c/index.md
     chapters/appendix-d/index.md
     ${TEMP_DIR}/colophon.md
 )

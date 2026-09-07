@@ -89,9 +89,9 @@ The card's framework moves connect to multiple existing framework concepts:
 
 - **Chapter 1a (Bronze Age substrate interlude)**: Could absorb the FOXP2 / 50,000-year-expansion material as pre-Bronze-Age substrate-conjunction case demonstrating substrate dynamics operating through different specific mechanisms than the post-3300 BCE period the chapter's primary material engages. The Reich-arc material would substantively extend the chapter's pre-Bronze-Age substrate apparatus.
 
-- **Appendix C entry on David Reich** (if developed): Would articulate the ancient-DNA-as-substrate-objective-evidentiary-instrument category and the systematic Wald-bomber-recovery role Reich's work plays in the framework's apparatus.
+- **the Intellectual Lineage entry on David Reich** (if developed): Would articulate the ancient-DNA-as-substrate-objective-evidentiary-instrument category and the systematic Wald-bomber-recovery role Reich's work plays in the framework's apparatus.
 
-- **Card-only retention (likely default)**: Card emerged from Dave's first substantive Reich-arc engagement. Most likely retention path is as substantive reference card capturing the substrate-conjunction articulation and the foundational Reich-arc material, available for future prose integration if the Reich arc develops to support a Chapter 1/Chapter 1a/Appendix C extension tier.
+- **Card-only retention (likely default)**: Card emerged from Dave's first substantive Reich-arc engagement. Most likely retention path is as substantive reference card capturing the substrate-conjunction articulation and the foundational Reich-arc material, available for future prose integration if the Reich arc develops to support a Chapter 1/Chapter 1a/the Intellectual Lineage extension tier.
 
 ## Card Tally
 

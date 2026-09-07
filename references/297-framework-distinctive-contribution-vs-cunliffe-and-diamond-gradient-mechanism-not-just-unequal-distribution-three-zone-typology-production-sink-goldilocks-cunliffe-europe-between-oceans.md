@@ -2,7 +2,7 @@
 
 **Source:** Beta seminar discussion, 2026-06-16, during Dave's listening of Barry Cunliffe, *Europe Between the Oceans: 9000 BC – AD 1000* (Yale University Press, 2008)
 **Type:** methodology / framework self-articulation
-**Relevant to:** Foreword (Diamond/Anthony synthesis positioning), Chapter 1 (framework apparatus), Chapter 2 (River Spine), Appendix C (intellectual lineage), general methodology
+**Relevant to:** Foreword (Diamond/Anthony synthesis positioning), Chapter 1 (framework apparatus), Chapter 2 (River Spine), the Intellectual Lineage (intellectual lineage), general methodology
 
 ## Content
 

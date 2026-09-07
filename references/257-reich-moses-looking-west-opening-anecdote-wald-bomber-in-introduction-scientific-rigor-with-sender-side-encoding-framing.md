@@ -41,7 +41,7 @@ Beta's framework synthesis:
 
 ## Framework Move
 
-This card opens the Reich arc with a methodologically interesting reflexive move: the framework's apparatus reading the intellectual-lineage book that will become part of the framework's evidence base. David Reich's *Who We Are and How We Got Here* (2018) is the canonical contemporary synthesis of ancient DNA evidence for human population history; the Reich-arc cards will substantively engage Reich's substantive content as Bronze Age substrate evidence that extends the Anthony arc the framework's existing apparatus already incorporates (Chapter 1a Bronze Age substrate interlude; Appendix C entry 6 on Anthony). Card 257 captures the substantive framework observation about Reich's opening framing choice while flagging the calibration posture for the subsequent arc-reading.
+This card opens the Reich arc with a methodologically interesting reflexive move: the framework's apparatus reading the intellectual-lineage book that will become part of the framework's evidence base. David Reich's *Who We Are and How We Got Here* (2018) is the canonical contemporary synthesis of ancient DNA evidence for human population history; the Reich-arc cards will substantively engage Reich's substantive content as Bronze Age substrate evidence that extends the Anthony arc the framework's existing apparatus already incorporates (Chapter 1a Bronze Age substrate interlude; the Intellectual Lineage entry 6 on Anthony). Card 257 captures the substantive framework observation about Reich's opening framing choice while flagging the calibration posture for the subsequent arc-reading.
 
 Four substantive framework moves operate across the material:
 
@@ -75,7 +75,7 @@ Four substantive framework moves operate across the material:
 
 ## Reich-Arc Context
 
-Card 257 is the first card of the Reich arc — Dave's engagement with David Reich's *Who We Are and How We Got Here* (Pantheon Books, 2018), the canonical contemporary synthesis of ancient DNA evidence for human population history. Reich runs the Harvard ancient DNA lab; his book extends the Anthony arc the framework's existing apparatus already incorporates (Chapter 1a Bronze Age substrate material; foreword footnotes on Anthony, Gimbutas, DOM2, Yamnaya, Sintashta; Appendix C entries 5, 6, 7). The Reich arc will produce substantive substrate-deepening material across the framework's Bronze Age apparatus as Dave's listening sequence proceeds.
+Card 257 is the first card of the Reich arc — Dave's engagement with David Reich's *Who We Are and How We Got Here* (Pantheon Books, 2018), the canonical contemporary synthesis of ancient DNA evidence for human population history. Reich runs the Harvard ancient DNA lab; his book extends the Anthony arc the framework's existing apparatus already incorporates (Chapter 1a Bronze Age substrate material; foreword footnotes on Anthony, Gimbutas, DOM2, Yamnaya, Sintashta; the Intellectual Lineage entries 5, 6, 7). The Reich arc will produce substantive substrate-deepening material across the framework's Bronze Age apparatus as Dave's listening sequence proceeds.
 
 Card 257 is methodologically interesting because it captures the framework's apparatus operating reflexively on the book that will become part of its evidence base. The substantive Reich-arc cards will follow as Dave engages Reich's content; card 257 establishes the calibration posture: substantive science substantively engaged; framing-encoding held as separate analytical observation; reflexive-framework-engagement methodology operating across both layers.
 
@@ -87,7 +87,7 @@ Card 257 is methodologically interesting because it captures the framework's app
 
 - **Chapter 6 encoding-work-scales material**: If mythic-framing-encoding develops into established fifth sub-category across multiple cases, the four-category refinement from v3.9-v4.1 could be extended to five-category refinement. Tentative; depends on subsequent framework engagement with additional cases.
 
-- **Appendix C entry 6 (David Anthony)**: Could be paired with future Appendix C entry on David Reich if the Reich arc develops substantial enough engagement to warrant intellectual-lineage entry treatment. Reich would be substantive fourth-or-fifth canonical aDNA-and-population-history figure alongside Anthony, Gimbutas, and various others.
+- **the Intellectual Lineage entry 6 (David Anthony)**: Could be paired with future the Intellectual Lineage entry on David Reich if the Reich arc develops substantial enough engagement to warrant intellectual-lineage entry treatment. Reich would be substantive fourth-or-fifth canonical aDNA-and-population-history figure alongside Anthony, Gimbutas, and various others.
 
 ## Card Tally
 

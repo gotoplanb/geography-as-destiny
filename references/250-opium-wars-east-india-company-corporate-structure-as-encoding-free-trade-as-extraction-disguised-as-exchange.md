@@ -118,7 +118,7 @@ The card's framework moves connect to multiple existing framework concepts:
 
 - **Appendix A**: New entry on extraction-disguised-as-exchange vs mutual-exchange in corridor-civilization cases — cross-civilizational test of substrate-dynamics distinction; specific diagnostic indicators for which pattern operates in any given case.
 
-- **Appendix C**: Potential future entry on the East India Company as substrate-aligned organizational form operating across nearly three centuries (1600-1858) — substantive cross-period case study of corporate-imperial organizational form.
+- **the Intellectual Lineage**: Potential future entry on the East India Company as substrate-aligned organizational form operating across nearly three centuries (1600-1858) — substantive cross-period case study of corporate-imperial organizational form.
 
 - **Card-only retention (likely default)**: Card 250 emerged from Hammond's lecture material engagement rather than from explicit integration intent. Most likely retention path is as substantive reference card capturing the Opium Wars framework analysis, available for future prose integration if a next prose-integration tier engages the Hammond Opium-Wars-and-aftermath material substantively.
 
