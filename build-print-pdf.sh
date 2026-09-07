@@ -17,21 +17,56 @@ OUTPUT_DIR="build"
 OUTPUT_FILE="${OUTPUT_DIR}/geography-as-destiny-print.pdf"
 TEMP_DIR="${OUTPUT_DIR}/temp_print"
 
-# Version info from git (mirrors build-epub.sh)
 VERSION=$(git describe --tags --abbrev=0 2>/dev/null || echo "untagged")
 COMMIT=$(git rev-parse --short HEAD 2>/dev/null || echo "unknown")
 GIT_DESCRIBE=$(git describe --tags 2>/dev/null || echo "${COMMIT}")
 BUILD_DATE=$(date '+%Y-%m-%d')
+YEAR=$(date '+%Y')
 
 mkdir -p "$OUTPUT_DIR" "$TEMP_DIR"
 
-# Colophon with version info (same as epub)
-cat > "${TEMP_DIR}/colophon.md" << EOF
----
-title: Colophon
----
+# --- LaTeX preamble (included in header) ---------------------------------
+# secnumdepth=-1  : suppress LaTeX auto chapter/section numbers. The source
+#                   headings already carry their own labels ("Chapter 1: ...",
+#                   "Interlude: ...", "Appendix A: ..."), so auto-numbering
+#                   would double them.
+# tocdepth=0      : list only chapter-level entries in the TOC.
+# xeCJK           : render the CJK glyphs in the frontispiece caption.
+cat > "${TEMP_DIR}/preamble.tex" << 'EOF'
+\setcounter{secnumdepth}{-1}
+\setcounter{tocdepth}{0}
+\usepackage{xeCJK}
+\setCJKmainfont{Songti SC}
+\raggedbottom
+EOF
 
-# Colophon {-}
+# --- Copyright page (raw LaTeX; own page, not in TOC) --------------------
+cat > "${TEMP_DIR}/00_copyright.md" << EOF
+\`\`\`{=latex}
+\\thispagestyle{empty}
+\\vspace*{\\fill}
+\\noindent \\textit{${TITLE}: ${SUBTITLE}}\\par
+\\vspace{1em}
+\\noindent Copyright \\textcopyright\\ ${YEAR} Dave Stanton. All rights reserved.\\par
+\\vspace{1em}
+\\noindent This book is version-controlled like software. This printing is built from version \\texttt{${GIT_DESCRIBE}} (commit \\texttt{${COMMIT}}), ${BUILD_DATE}. The complete source, reference cards, and revision history are at \\texttt{github.com/gotoplanb/geography-as-destiny}.\\par
+\\vspace{1em}
+\\noindent ISBN: (assigned at publication)\\par
+\\clearpage
+\`\`\`
+EOF
+
+# --- Table of contents (placed after the copyright page) -----------------
+cat > "${TEMP_DIR}/01_toc.md" << 'EOF'
+```{=latex}
+\tableofcontents
+\clearpage
+```
+EOF
+
+# --- Colophon (back matter) ----------------------------------------------
+cat > "${TEMP_DIR}/zz_colophon.md" << EOF
+# Colophon
 
 This book is version-controlled like software. Each tagged version is a coherent readable state of the same evolving body of work.
 
@@ -42,7 +77,7 @@ The complete source — all reference cards, figures, the full revision history,
 The framework that argues geography sets the probability distribution of civilizational outcomes is itself a draw from a distribution. This is the draw at ${VERSION}.
 EOF
 
-# Reading sequence (mirrors build-epub.sh; interior only, no cover)
+# Reading sequence (interior only, no cover)
 CHAPTERS=(
     frontispiece.md
     foreword.md
@@ -65,13 +100,10 @@ CHAPTERS=(
     chapters/appendix-b/index.md
     chapters/appendix-c/index.md
     chapters/appendix-d/index.md
-    ${TEMP_DIR}/colophon.md
 )
 
-echo "Building print interior PDF..."
-echo "  Trim: 6x9 in  ·  Chapters: ${#CHAPTERS[@]}"
+echo "Building print interior PDF (6x9, polished)..."
 
-# Metadata (drives the title page)
 cat > "${TEMP_DIR}/metadata.yaml" << EOF
 ---
 title: "${TITLE}"
@@ -81,22 +113,26 @@ lang: en-US
 ---
 EOF
 
-# Strip YAML frontmatter from each source file
-STRIPPED_CHAPTERS=()
+# Front-matter title page + copyright + TOC come first.
+STRIPPED_CHAPTERS=("${TEMP_DIR}/00_copyright.md" "${TEMP_DIR}/01_toc.md")
+
+# Strip YAML frontmatter and neutralize dead cross-reference links
+# ([text](something.md) -> text) so print has no live links to files that
+# don't exist on paper; this also removes the hyperref page-break warnings.
+# Image embeds (![alt](x.png)) and real URLs (http...) are left intact.
 for i in "${!CHAPTERS[@]}"; do
     src="${CHAPTERS[$i]}"
-    dest="${TEMP_DIR}/$(printf '%02d' $i).md"
-    sed '1{/^---$/!q;};1,/^---$/d' "$src" > "$dest"
+    dest="${TEMP_DIR}/$(printf '%02d' $((i+2)))_body.md"
+    sed '1{/^---$/!q;};1,/^---$/d' "$src" \
+      | perl -pe 's/\[([^\]]*)\]\([^)]*\.md[^)]*\)/$1/g' > "$dest"
     STRIPPED_CHAPTERS+=("$dest")
 done
 
-# Build the PDF via tectonic (XeTeX; embeds fonts; 6x9 book geometry).
-# Margins sized for a ~400-450pp perfect-bound book: KDP requires a >=0.75in
-# inside (gutter) margin in that range; outside/top/bottom kept generous.
+STRIPPED_CHAPTERS+=("${TEMP_DIR}/zz_colophon.md")
+
 pandoc \
     --metadata-file="${TEMP_DIR}/metadata.yaml" \
-    --toc \
-    --toc-depth=1 \
+    -H "${TEMP_DIR}/preamble.tex" \
     --resource-path=.:figures/output:chapters \
     --pdf-engine=tectonic \
     -V documentclass=book \
