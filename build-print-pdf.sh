@@ -38,6 +38,17 @@ cat > "${TEMP_DIR}/preamble.tex" << 'EOF'
 \usepackage{xeCJK}
 \setCJKmainfont{Songti SC}
 \raggedbottom
+% Footnotes -> per-chapter endnotes (paired with print-endnotes.lua):
+% every note becomes an \endnote; \flushnotes prints a section's accumulated
+% notes under a "Notes" heading and resets numbering, or is a no-op if the
+% section had none.
+\usepackage{endnotes}
+\let\footnote\endnote
+% Suppress the endnotes package's own "Notes" heading + running-head mark:
+% every note-bearing section already carries its own "## Notes" signpost in
+% the source, which heads the list. Avoids a doubled heading.
+\renewcommand{\enoteheading}{}
+\newcommand{\flushnotes}{\ifnum\value{endnote}>0\relax\theendnotes\setcounter{endnote}{0}\fi}
 EOF
 
 # --- Copyright page (raw LaTeX; own page, not in TOC) --------------------
@@ -133,6 +144,7 @@ STRIPPED_CHAPTERS+=("${TEMP_DIR}/zz_colophon.md")
 pandoc \
     --metadata-file="${TEMP_DIR}/metadata.yaml" \
     -H "${TEMP_DIR}/preamble.tex" \
+    --lua-filter=print-endnotes.lua \
     --resource-path=.:figures/output:chapters \
     --pdf-engine=tectonic \
     -V documentclass=book \
