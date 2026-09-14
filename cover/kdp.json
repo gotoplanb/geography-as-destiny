@@ -7,6 +7,21 @@
   "isbn": "9798174359512",
   "isbn_source": "KDP-assigned (free). Locked to this paperback listing: cannot be reused with IngramSpark or any other printer/distributor, and the publisher displays as 'Independently published' -- that field is not editable. The Kindle edition needs no ISBN; leave it blank rather than reusing this one. Expanded Distribution is still available with a KDP-assigned ISBN.",
   "cover_finish": "matte",
+  "listing": {
+    "editions": "paperback only -- no Kindle edition at this time",
+    "list_price_usd": 19.99,
+    "price_strategy": "USD 19.99 set as primary; other marketplaces auto-filled by KDP",
+    "author_field": "Dave Stanton",
+    "title": "Geography as Destiny",
+    "subtitle": "A Probabilistic History of Human Civilization",
+    "_notes": [
+      "Interior upload: answer NO BLEED. The PDF is exactly 6x9 with no bleed; the 0.125in bleed applies to the cover wrap only.",
+      "Paper must be CREAM. The 1.055in spine is calculated for cream (0.0025in/page); white (0.002252in/page) would give 0.950in and the printed cover would no longer fit.",
+      "KDP Select is ebook-only and does not apply to a paperback-only listing.",
+      "If a Kindle edition is added later: title, subtitle and author must match this listing exactly or the two will not link on one product page, and it must not reuse this ISBN.",
+      "Minimum list price is printing cost / 0.60. At 422pp the print cost is about $6.06, so the floor is about $10.11; $19.99 nets roughly $5.93 per copy."
+    ]
+  },
   "spine_in": 1.055,
   "bleed_in": 0.125,
   "dpi": 300,
