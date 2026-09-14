@@ -35,6 +35,13 @@ mkdir -p "$OUTPUT_DIR" "$TEMP_DIR"
 cat > "${TEMP_DIR}/preamble.tex" << 'EOF'
 \setcounter{secnumdepth}{-1}
 \setcounter{tocdepth}{0}
+% No clickable links in a print interior. KDP strips link annotations itself
+% and then reports "we removed non-printable markup" for every page that had
+% one; giving it nothing to strip keeps the Previewer clean. draft mode leaves
+% every URL and cross-reference printed as ordinary text -- it only suppresses
+% the annotation layer. Passed as a package option because pandoc's template
+% loads hyperref after this preamble is inserted.
+\PassOptionsToPackage{draft}{hyperref}
 \usepackage{xeCJK}
 \setCJKmainfont{Songti SC}
 % xeCJK classifies em/en dashes, curly quotes and the ellipsis as CJK
