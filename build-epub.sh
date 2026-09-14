@@ -111,9 +111,12 @@ done
 # --split-level=1: split on H1 headings
 # --metadata-file: book metadata
 # --resource-path: where to find images
+# --epub-cover-image: cover-ebook.jpg, not cover.png -- KDP bills delivery at
+#   $0.15/MB and the JPEG is ~2.3 MB smaller. Rebuild it with
+#   python cover/build_ebook_cover.py after any cover art change.
 pandoc \
     --metadata-file="${OUTPUT_DIR}/metadata.yaml" \
-    --epub-cover-image=cover.png \
+    --epub-cover-image=cover-ebook.jpg \
     --css=epub.css \
     --toc \
     --toc-depth=1 \
