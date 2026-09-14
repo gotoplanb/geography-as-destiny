@@ -12,7 +12,7 @@ set -e
 
 TITLE="Geography as Destiny"
 SUBTITLE="A Probabilistic History of Human Civilization"
-AUTHOR="Dave Stanton & Claude (Anthropic)"
+AUTHOR="Dave Stanton"
 OUTPUT_DIR="build"
 OUTPUT_FILE="${OUTPUT_DIR}/geography-as-destiny-print.pdf"
 TEMP_DIR="${OUTPUT_DIR}/temp_print"

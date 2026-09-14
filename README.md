@@ -116,4 +116,4 @@ All eleven chapters complete, plus front matter, epilogue, and four appendices. 
 
 Open access. No institutional affiliation. No paywall. If three anthropology students find it useful, that's enough.
 
-*Dave Stanton & Claude (Anthropic), 2026*
+*Dave Stanton, 2026*
