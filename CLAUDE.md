@@ -28,7 +28,7 @@ This project follows the structure of a self-directed history PhD. Each "semeste
 3. Reference harvesting during reading — passages, facts, sources filed in `references/`
 4. Connectivity ideas brought back to the dissertation scaffolding
 
-Semester topics aren't predetermined — they follow the evidence within the three-lens frame. The plan projected five terms. Two were run formally (`semester-1.md`, `semester-2.md`); after that the cascade continued per-book rather than per-term, each major work serving as its own semester. Don't look for `semester-3.md` — later reading isn't filed by term. `literature-review/` holds one file per source for 11 works (not every book read: Hansen and Frankopan from the semester-2 list have no entry), and `references/` holds the 344 harvested cards.
+Semester topics aren't predetermined — they follow the evidence within the three-lens frame. The plan projected five terms. Two were run formally (`semester-1.md`, `semester-2.md`); after that the cascade continued per-book rather than per-term, each major work serving as its own semester. Don't look for `semester-3.md` — later reading isn't filed by term. `literature-review/` holds one file per source for the 11 works the argument actually leans on, and `references/` holds the 344 harvested cards. It is deliberately not a record of every book read — a source that didn't end up load-bearing doesn't get an entry, so a missing write-up is a judgment, not a gap to fill.
 
 ## Alpha and Beta Chats
 
