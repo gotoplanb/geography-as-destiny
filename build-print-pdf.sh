@@ -62,7 +62,7 @@ cat > "${TEMP_DIR}/00_copyright.md" << EOF
 \\vspace{1em}
 \\noindent This book is version-controlled like software. This printing is built from version \\texttt{${GIT_DESCRIBE}} (commit \\texttt{${COMMIT}}), ${BUILD_DATE}. The complete source, reference cards, and revision history are at \\texttt{github.com/gotoplanb/geography-as-destiny}.\\par
 \\vspace{1em}
-\\noindent ISBN: (assigned at publication)\\par
+\\noindent ISBN: 9798174359512\\par
 \\clearpage
 \`\`\`
 EOF
