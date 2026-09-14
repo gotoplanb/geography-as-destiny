@@ -11,7 +11,7 @@ __pycache__/
 # IDE
 .vscode/
 .idea/
-# build/ tracked — epub available for download
+# build/ tracked — epub and print interior available for download
 # but inspection artifacts and intermediate build files are not
 build/build/
 build/epub_inspect/
