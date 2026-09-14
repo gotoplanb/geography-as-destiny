@@ -1,0 +1,49 @@
+# KDP keywords -- 7 slots, 50 characters each.
+# The seven lines below the rule are the keywords, one per slot, nothing
+# else on the line. Copy them straight into the Keywords fields on the
+# KDP Details page. Everything under NOTES is for you, not for KDP.
+# ---------------------------------------------------------------------
+
+why empires rise and fall world cultures
+big history and deep time world survey
+great man theory and historical causation
+bronze age collapse and ancient near east
+silk road steppe nomads mongols xiongnu
+diffusion of innovations technology adoption
+comanche great plains railroad frontier
+
+# ---------------------------------------------------------------------
+# NOTES
+#
+# Use the same seven on the paperback and the ebook.
+#
+# What each slot is for:
+#   1  broadest reach -- the core genre search
+#   2  "big history" is what readers of this book self-identify with
+#   3  the actual thesis (Ch. 2, Ch. 10); low competition, high intent
+#   4  Ch. 3; strong standalone search volume
+#   5  Ch. 6 and Ch. 9; four distinct search terms in one field
+#   6  the Rogers lens; reaches the business/social-science reader
+#   7  Ch. 9; niche, but rankable at #1
+#
+# Rules these were built against:
+#   - No words from the title, subtitle or author name. Amazon already
+#     indexes those, and repeating them wastes a slot: geography,
+#     destiny, probabilistic, history, human, civilization, Dave Stanton.
+#   - No other authors' names or book titles. KDP's keyword guidelines
+#     prohibit it. That rules out the obvious comps, however tempting.
+#     Comp positioning belongs in the description and A+ content.
+#   - Phrases readers actually type, not single words. Amazon matches on
+#     individual words across all seven fields anyway, so the phrases
+#     combine with each other and with the title.
+#
+# Swap candidates for slot 7, the most replaceable:
+#   environmental determinism and human societies
+#   history of technology and social change
+#   chokepoints trade routes and sea power
+#   comparative world history and anthropology
+#
+# These are reasoned from the book's content and KDP's rules, not from
+# live search-volume data. To sanity-check before locking them in, type
+# each into the Amazon books search box and watch the autocomplete --
+# that is free, real demand data.
