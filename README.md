@@ -73,7 +73,7 @@ All chapters complete and signed off by the committee. Reading order:
 
 #### Semester materials
 - **[`semester-1.md`](semester-1.md)** — Completed: Tasar's Central Asian history, Morrison, Starr, Hämäläinen
-- **[`semester-2.md`](semester-2.md)** — Next: Hansen's Silk Road, Frankopan, Starr, Rogers
+- **[`semester-2.md`](semester-2.md)** — Completed: Hansen's Silk Road, Frankopan, Starr, Rogers
 
 #### Research
 - **[`chapters/`](chapters/)** — Chapter stubs with source references, argument scaffolding, and working notes

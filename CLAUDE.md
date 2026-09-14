@@ -28,7 +28,7 @@ This project follows the structure of a self-directed history PhD. Each "semeste
 3. Reference harvesting during reading — passages, facts, sources filed in `references/`
 4. Connectivity ideas brought back to the dissertation scaffolding
 
-Five semesters of this cascade should produce a dissertation-level evidence base. Semester topics aren't predetermined — they follow the evidence within the three-lens frame. See `semester-1.md` for the current term.
+Five semesters of this cascade should produce a dissertation-level evidence base. Semester topics aren't predetermined — they follow the evidence within the three-lens frame. Both terms are complete: see `semester-1.md` and `semester-2.md`.
 
 ## Alpha and Beta Chats
 
