@@ -396,7 +396,7 @@ Card references are given as `(NNN)` matching filenames in `references/`. Where 
 - **1864 CE** — Maximilian installed as Emperor of Mexico (149)
 - **1865 CE** — American Civil War ends; 13th Amendment (149, 150, 151)
 - **1865–1867 CE** — U.S. supplies weapons to Juárez's republican forces (149)
-- **1865–1991 CE** — Russian then Soviet Bactria (Tajik/Uzbek/Turkmen categorization) (207)
+- **1865–1991 CE** — Russian then Soviet Bactria (Tajik / Uzbek / Turkmen categorization) (207)
 - **1867 CE** — France withdraws from Mexico; Maximilian executed; Medicine Lodge Creek Treaty (October) with Comanche, Kiowa, Kiowa-Apache, Cheyenne, and Arapaho; Alaska purchase (149, 152, 193, 241, 249)
 - **1868 CE** — Meiji Restoration in Japan (042)
 - **1868–1872 CE** — Post-friction-collapse alignment of U.S. military, railroad, and industrial buffalo hunting (157)
