@@ -1,0 +1,160 @@
+{
+  "fill-upscale": {
+    "completed_at": "2026-09-14T12:42:54.425022Z",
+    "effective_params": {
+      "height": 2776,
+      "model_name": "RealESRGAN_x4plus.pth",
+      "upscale_method": "lanczos",
+      "width": 3956
+    },
+    "job_id": "9479bd1f-e0c0-4557-806e-df2f6ca111e4",
+    "kind": "job",
+    "latency_ms": 12136,
+    "media_url": "/output/9479bd1f-e0c0-4557-806e-df2f6ca111e4.png",
+    "output": "/Users/dave/geography-as-destiny/build/cover/04-fill-upscaled.png",
+    "output_sha256": "ea1ee1bc74c9dd7680522e532234bcf05c2f25985b0088f516067718058281cc",
+    "provider": "comfyui",
+    "request": {
+      "inputs": {
+        "params": {
+          "height": 2776,
+          "width": 3956
+        },
+        "source_image_job_id": "a0f0c0d7-71b4-47e4-8358-0ebab3f8bc6a"
+      },
+      "prompt": "",
+      "task_type": "upscale_image"
+    },
+    "request_sha256": "8069d4195d9f3690eb8620e109487c6d94ea0d4e42ae45852e3d1861bbf649d9",
+    "task_type": "upscale_image",
+    "workflow_template": "upscale_image"
+  },
+  "front-upscale": {
+    "completed_at": "2026-09-14T12:42:39.562781Z",
+    "effective_params": {
+      "height": 2700,
+      "model_name": "RealESRGAN_x4plus.pth",
+      "upscale_method": "lanczos",
+      "width": 1800
+    },
+    "job_id": "a00e6413-9b80-4501-b486-1fcad7fde5d9",
+    "kind": "job",
+    "latency_ms": 2071,
+    "media_url": "/output/a00e6413-9b80-4501-b486-1fcad7fde5d9.png",
+    "output": "/Users/dave/geography-as-destiny/build/cover/01-front-upscaled.png",
+    "output_sha256": "a8dfc7458123f0074e9da2cf3c6885d1f56148910c3594b8eab3eac0e663cdcf",
+    "provider": "comfyui",
+    "request": {
+      "inputs": {
+        "params": {
+          "height": 2700,
+          "width": 1800
+        },
+        "source_image_url": "/output/uploads/e83f17a3-5ab7-4b61-bd1c-9b4bddb90355.png"
+      },
+      "prompt": "",
+      "task_type": "upscale_image"
+    },
+    "request_sha256": "0f73f54329a434735041f62d7c5876707cd83e0c7f63ef8d358e1f9e3aa16d86",
+    "task_type": "upscale_image",
+    "workflow_template": "upscale_image"
+  },
+  "outpaint-working": {
+    "completed_at": "2026-09-14T12:37:05.516072Z",
+    "effective_params": {
+      "bottom": 16,
+      "cfg": 7.0,
+      "denoise": 1.0,
+      "feathering": 40,
+      "grow_mask_by": 16,
+      "left": 1072,
+      "negative_prompt": "text, letters, words, calligraphy, watermark, signature, seal, stamp, people, figures, animals, frame, border, photo, saturated color, modern, blurry, low quality",
+      "right": 0,
+      "seed": 42,
+      "steps": 30,
+      "top": 16
+    },
+    "job_id": "a0f0c0d7-71b4-47e4-8358-0ebab3f8bc6a",
+    "kind": "job",
+    "latency_ms": 118430,
+    "media_url": "/output/a0f0c0d7-71b4-47e4-8358-0ebab3f8bc6a.png",
+    "output": "/Users/dave/geography-as-destiny/build/cover/03-outpaint-working.png",
+    "output_sha256": "fe275fe009145b8b885ab49992b1e7279421ac0c43796dd023ae06ea3df193b4",
+    "provider": "comfyui",
+    "request": {
+      "inputs": {
+        "params": {
+          "bottom": 16,
+          "left": 1072,
+          "negative_prompt": "text, letters, words, calligraphy, watermark, signature, seal, stamp, people, figures, animals, frame, border, photo, saturated color, modern, blurry, low quality",
+          "right": 0,
+          "seed": 42,
+          "top": 16
+        },
+        "source_image_url": "/output/uploads/ca4ba910-aa86-4ca5-99e8-34bf53aec1b5.png"
+      },
+      "prompt": "continuation of a Song dynasty Chinese ink wash landscape painting on aged sepia parchment paper, the mountains and mist dissolve toward the left into a wide expanse of plain empty warm parchment with faint soft fog, a few faint distant peaks near the horizon, muted sepia and umber tones, delicate brushwork, seamless continuation, mostly empty negative space",
+      "task_type": "inpaint_image"
+    },
+    "request_sha256": "162eda3cd48318de0df82eca87cd90897c9442ae6fbfdf54fa305ea6d805589a",
+    "task_type": "inpaint_image",
+    "workflow_template": "inpaint_image"
+  },
+  "outpaint-working-empty-s42": {
+    "completed_at": "2026-09-14T12:40:21.579371Z",
+    "effective_params": {
+      "bottom": 16,
+      "cfg": 7.0,
+      "denoise": 1.0,
+      "feathering": 40,
+      "grow_mask_by": 16,
+      "left": 1072,
+      "negative_prompt": "text, letters, words, calligraphy, watermark, signature, seal, stamp, people, figures, animals, frame, border, photo, saturated color, modern, blurry, low quality, dense mountains, busy, cluttered, detailed, trees, forest, many peaks",
+      "right": 0,
+      "seed": 42,
+      "steps": 30,
+      "top": 16
+    },
+    "job_id": "0cdd199b-550f-4f73-a484-c30a88d959dc",
+    "kind": "job",
+    "latency_ms": 110449,
+    "media_url": "/output/0cdd199b-550f-4f73-a484-c30a88d959dc.png",
+    "output": "build/cover/03-outpaint-working-empty-s42.png",
+    "output_sha256": "645e444ca1d7af7420257731dcd9168636ba1af5616416b30c12d893bd2fe22b",
+    "provider": "comfyui",
+    "request": {
+      "inputs": {
+        "params": {
+          "bottom": 16,
+          "left": 1072,
+          "negative_prompt": "text, letters, words, calligraphy, watermark, signature, seal, stamp, people, figures, animals, frame, border, photo, saturated color, modern, blurry, low quality, dense mountains, busy, cluttered, detailed, trees, forest, many peaks",
+          "right": 0,
+          "seed": 42,
+          "top": 16
+        },
+        "source_image_url": "/output/uploads/ca4ba910-aa86-4ca5-99e8-34bf53aec1b5.png"
+      },
+      "prompt": "the left portion of a Song dynasty Chinese ink wash landscape scroll on aged sepia parchment paper: the cliff dissolves into a vast blank expanse of plain empty warm parchment, only faint drifting mist, one small faint distant mountain silhouette low near the bottom, extreme negative space, minimalist, quiet, unpainted paper, seamless continuation",
+      "task_type": "inpaint_image"
+    },
+    "request_sha256": "f409152868150ae9a676ce1ec2661268c69198f57b217ac4be120093d3f3eae3",
+    "task_type": "inpaint_image",
+    "workflow_template": "inpaint_image"
+  },
+  "upload-front": {
+    "bytes": 3258370,
+    "file": "/Users/dave/geography-as-destiny/cover.png",
+    "kind": "upload",
+    "sha256": "abb1437038461c032cadc59b40317bf61c5283a54ec14fc09b04473db0cb7975",
+    "source_url": "/output/uploads/e83f17a3-5ab7-4b61-bd1c-9b4bddb90355.png",
+    "upload_id": "e83f17a3-5ab7-4b61-bd1c-9b4bddb90355"
+  },
+  "upload-front-working": {
+    "bytes": 2274708,
+    "file": "build/cover/02-front-working-896x1344.png",
+    "kind": "upload",
+    "sha256": "53e317b8467d575e48d07e7e6142bd22d3702a18552ee31744801a9fae2e5935",
+    "source_url": "/output/uploads/ca4ba910-aa86-4ca5-99e8-34bf53aec1b5.png",
+    "upload_id": "ca4ba910-aa86-4ca5-99e8-34bf53aec1b5"
+  }
+}

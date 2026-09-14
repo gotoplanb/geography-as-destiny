@@ -1,0 +1,5 @@
+pillow>=11
+numpy>=2
+requests>=2.32
+pypdf>=5
+pytest>=8

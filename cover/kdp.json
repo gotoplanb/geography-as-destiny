@@ -1,0 +1,44 @@
+{
+  "_comment": "Numbers for the KDP paperback cover. trim/paper/page_count are inputs; spine_in must be the value KDP's own cover calculator reports for exactly this page count and paper (do not estimate). build_cover.py cross-checks spine_in against KDP's published per-page thickness for the paper and refuses to build on a mismatch. If the interior page count changes, re-run the calculator and update both page_count and spine_in.",
+  "trim_width_in": 6.0,
+  "trim_height_in": 9.0,
+  "page_count": 422,
+  "paper": "cream",
+  "spine_in": 1.055,
+  "bleed_in": 0.125,
+  "dpi": 300,
+  "source": "KDP cover calculator, recorded with the print-interior build (commit bba673b, 'Print build: convert footnotes to per-chapter endnotes': 422pp / 1.055in cream spine)",
+  "cmyk_profile": "build/cover/profiles/USWebCoatedSWOP.icc",
+  "outpaint": {
+    "prompt": "continuation of a Song dynasty Chinese ink wash landscape painting on aged sepia parchment paper, the mountains and mist dissolve toward the left into a wide expanse of plain empty warm parchment with faint soft fog, a few faint distant peaks near the horizon, muted sepia and umber tones, delicate brushwork, seamless continuation, mostly empty negative space",
+    "negative_prompt": "text, letters, words, calligraphy, watermark, signature, seal, stamp, people, figures, animals, frame, border, photo, saturated color, modern, blurry, low quality",
+    "seed": 42
+  },
+  "text": {
+    "spine_title_px": 118,
+    "spine_author_px": 88,
+    "back_margin_in": 0.5,
+    "back_top_in": 0.8,
+    "back_body_px": 50,
+    "back_small_px": 40,
+    "back_text_panel": {
+      "opacity": 0.55,
+      "color": [
+        214,
+        186,
+        146
+      ],
+      "feather": 60
+    },
+    "spine_band": {
+      "opacity": 0.85,
+      "color": [
+        214,
+        186,
+        146
+      ],
+      "feather": 12,
+      "overhang_in": 0.03
+    }
+  }
+}
