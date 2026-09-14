@@ -3,9 +3,9 @@
 
 Geography doesn't determine history. It sets the probability distribution.
 
-Rivers build states. Mountains prevent them. Chokepoints create contests. And every few centuries, a technology collapses the friction that made those geographic constraints matter — the railroad, the firearm, the internet — and the entire distribution resets.
+Rivers build states. Mountains prevent them. Chokepoints create contests. And every few centuries, a technology collapses the friction that made those geographic constraints matter — the wagon, the ridden horse, the firearm, the railroad, the internet — and the entire distribution resets.
 
-This book argues that framework across eight chapters, from the Nile to the Silk Road to a pair of parallel conquests that happened simultaneously on opposite sides of the planet, driven by the same technology, against the same kind of culture, with neither side aware of the other. That's not coincidence. That's geography.
+This book argues that framework across eleven chapters, from the Bronze Age steppe to the Nile, the Silk Road, and a pair of parallel conquests that unfolded at the same moment on opposite sides of the planet — driven by the same technology, against the same kind of culture, with neither side aware of the other. That's not coincidence. That's geography.
 
 **[Download the epub](build/geography-as-destiny.epub)** — read on Kindle, Apple Books, or any epub reader. The complete book with all figures and endnotes. Reference cards and interactive figures are available on the [website](https://davestanton.com/book).
 
@@ -31,15 +31,38 @@ The human does the reading. The human forms the interpretations. The human makes
 ### What's in the repo
 
 #### Chapters
-- **[`prologue.md`](prologue.md)** — On method: the river metaphor, the R-squared framing, Shannon, and why human-AI collaboration is scholarship *(complete — committee signed off)*
-- **[`chapters/01-the-distribution/index.md`](chapters/01-the-distribution/index.md)** — Chapter 1: the three lenses, the great man reframe, falsifiability, and the Parallel Conquests preview *(complete — committee signed off)*
-- **[`chapters/02-the-river-spine/index.md`](chapters/02-the-river-spine/index.md)** — Chapter 2: the thermodynamic river model, settlement gradient, Goldilocks zone, class structure *(complete — committee signed off)*
-- **[`chapters/03-the-chokepoint/index.md`](chapters/03-the-chokepoint/index.md)** — Chapter 3: position not wealth, the pulsing frontier, chokepoint economy, peace through irrelevance *(complete — committee signed off)*
-- **[`chapters/04-the-silk-road/index.md`](chapters/04-the-silk-road/index.md)** — Chapter 4: relay network not road, friction filter, maritime corridor, climate pulse, Sogdians *(complete — committee signed off)*
-- **[`chapters/05-the-islamic-diffusion/index.md`](chapters/05-the-islamic-diffusion/index.md)** — Chapter 5: Islam's two curves, Manichaeism as contrast case, boundaries as load-bearing *(complete — committee signed off)*
-- **[`chapters/06-the-parallel-conquests/index.md`](chapters/06-the-parallel-conquests/index.md)** — Chapter 6: the flagship chapter — horse as friction collapse quantified, bilateral deficit, Why No Dunhuang, the orthogonal rotation, Atlantic parallel *(complete — committee signed off)*
-- **[`chapters/07-the-great-mans-hardest-test/index.md`](chapters/07-the-great-mans-hardest-test/index.md)** — Chapter 7: Genghis as norm enforcer, four-khanate natural experiment, Timur as budget mechanism *(complete — committee signed off)*
-- **[`chapters/08-the-synthesis-frontier/index.md`](chapters/08-the-synthesis-frontier/index.md)** — Chapter 8: the correction loop, holdout validation, canal vs. river, process as evidence *(complete — committee signed off)*
+
+All chapters complete and signed off by the committee. Reading order:
+
+  - **[Frontispiece](frontispiece.md)**
+  - **[Foreword](foreword.md)**
+  - **[Intellectual Lineage](chapters/intellectual-lineage/index.md)** — the thinkers this framework builds on, and where it departs from them
+  - **[Prologue: On Method](prologue.md)** — the river metaphor, the R-squared framing, Shannon, and why human-AI collaboration is scholarship
+- **Part I**
+  - **[Chapter 1: The Distribution](chapters/01-the-distribution/index.md)** — geography as probability, not destiny
+  - **[Chapter 2: The Anti-Hero](chapters/02-the-anti-hero/index.md)** — the great man reframe, the method, and the toolkit
+- **Part II**
+  - **[Interlude: The Bronze Age Substrate](chapters/02a-bronze-age-substrate/index.md)** — before the documentary record
+  - **[Chapter 3: The Bronze Age Collapse](chapters/03-the-bronze-age-collapse/index.md)** — how a shared bottleneck synchronized a catastrophe
+- **Part III**
+  - **[Chapter 4: The River Spine](chapters/04-the-river-spine/index.md)** — how water builds states — and class structures
+  - **[Chapter 5: The Chokepoint](chapters/05-the-chokepoint/index.md)** — where everything funnels through
+- **Part IV**
+  - **[Chapter 6: The Silk Road as Circulatory System](chapters/06-the-silk-road/index.md)** — a relay network, not a road — overland and maritime
+  - **[Chapter 7: The Maritime Turn](chapters/07-the-maritime-turn/index.md)** — the pivot from land to sea, the Mongol peak, and the Pacific recurrence
+  - **[Chapter 8: The Islamic Diffusion](chapters/08-the-islamic-diffusion/index.md)** — two curves for one religion — and one that failed
+- **Part V**
+  - **[Chapter 9: The Parallel Conquests](chapters/09-the-parallel-conquests/index.md)** — the flagship chapter — same shock, same result, opposite sides of the planet
+  - **[Chapter 10: The Great Man's Hardest Test](chapters/10-the-great-mans-hardest-test/index.md)** — when the terrain absorbs the conqueror
+- **Part VI**
+  - **[Chapter 11: The Synthesis Frontier](chapters/11-the-synthesis-frontier/index.md)** — AI, friction collapse, and the future of scholarship
+  - **[Epilogue: The Terrain Is Patient](epilogue.md)**
+- **Appendices**
+  - **[Appendix A](chapters/appendix-a/index.md)** — speculative connections and future research
+  - **[Appendix B](chapters/appendix-b/index.md)** — where the framework doesn't apply
+  - **[Appendix D](chapters/appendix-d/index.md)** — chronology
+
+*(Appendix C, the intellectual lineage, moved to front matter.)*
 
 #### Project scaffolding
 - **[`geography-as-destiny-seed.md`](geography-as-destiny-seed.md)** — The original seed document, captured via voice-to-text on a walk in Gainesville, FL
@@ -55,7 +78,7 @@ The human does the reading. The human forms the interpretations. The human makes
 #### Research
 - **[`chapters/`](chapters/)** — Chapter stubs with source references, argument scaffolding, and working notes
 - **[`literature-review/`](literature-review/)** — One file per source: what it argues, what we use it for, key excerpts, limitations, and connections
-- **[`references/`](references/)** — 33 harvested reference cards filed during semester 1
+- **[`references/`](references/)** — 344 harvested reference cards filed during reading
 - **[`CLAUDE.md`](CLAUDE.md)** — Working instructions for the AI collaborator
 
 ## Challenge the evidence
@@ -87,7 +110,7 @@ Anyone can play committee advisor. If your review finds something ours missed, [
 
 ## Status
 
-All eight chapters drafted. 120+ reference cards harvested. Five committee reviews completed. The framework has been tested across six continents, multiple millennia, and the hardest cases available — including Genghis Khan as the great man stress test. Tentative final draft submitted for review.
+All eleven chapters complete, plus front matter, epilogue, and four appendices. 344 reference cards harvested. Seven committee reviews completed. The framework has been tested across six continents, multiple millennia, and the hardest cases available — including Genghis Khan as the great man stress test. Tentative final draft submitted for review.
 
 ---
 
