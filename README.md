@@ -24,7 +24,7 @@ The project is structured as a self-directed doctoral program. Each "semester" f
 3. **Reference harvesting** — specific passages, facts, places, and data points are filed as individual notes, the way a grad student fills index cards. These become the footnotes and endnotes later.
 4. **Dissertation scaffolding** — connectivity ideas that emerge from reading are brought to the AI research assistant (a different interface, optimized for structural work) to be filed into chapter stubs, cross-referenced with other sources, and connected to the argument.
 
-Five semesters of this cascade — each covering a different intellectual area, each building the evidence base for specific chapters — should produce a dissertation-level artifact.
+Each semester covers a different intellectual area and builds the evidence base for specific chapters. The plan projected five of them. It took two — semesters 1 and 2, 344 reference cards — to carry the argument to a complete draft. Semester topics were never predetermined; they follow the evidence, and so does the number of semesters.
 
 The human does the reading. The human forms the interpretations. The human makes every editorial decision. The AI accelerates retrieval, surfaces sources, maintains the organizational scaffolding, and helps identify connections across a wider body of scholarship than any individual could hold in memory. This is what research assistants and librarians have always done. The tool is faster. The dynamic is the same.
 
