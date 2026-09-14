@@ -59,7 +59,7 @@ mkdir -p build/cover/profiles && unzip -j /tmp/adobe-icc.zip "*/CMYK/USWebCoated
 .venv/bin/python -m pytest cover/ -q
 ```
 
-Outputs in `build/cover/` (gitignored except the proof and `jobs.json`):
+Outputs in `build/cover/` (gitignored except the proof, `jobs.json`, and the print PDF):
 `01-front-upscaled.png`, `03-outpaint-working.png`, `04-fill-upscaled.png`,
 `05-wrap-art.png` (no text), `06-wrap-final-rgb.png`, `cover-proof.jpg`,
 `geography-as-destiny-cover.pdf`, `build-report.json`.

@@ -18,8 +18,9 @@ build/epub_inspect/
 build/temp_chapters/
 build/metadata.yaml
 # print cover pipeline: generated art, CMYK PDF, and the Adobe ICC profile
-# (downloaded by cover/build_cover.py) stay out of git; the small proof JPEG
-# and the job/params record are tracked.
+# (downloaded by cover/build_cover.py) stay out of git; the proof JPEG,
+# the job/params record, and the print-ready PDF are tracked.
 build/cover/*
 !build/cover/cover-proof.jpg
 !build/cover/jobs.json
+!build/cover/geography-as-destiny-cover.pdf
