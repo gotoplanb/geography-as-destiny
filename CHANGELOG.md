@@ -2,6 +2,20 @@
 
 Version history for *Geography as Destiny*. Each version corresponds to a git tag and a built epub. The colophon and title page of the epub display the version that built them.
 
+## v6.0.0 — 2026-09-16
+
+**Major: first print edition. Approved by KDP and published as a 6x9 paperback, ISBN 9798174359512.**
+
+The book exists on paper. This is the version that went to print: 422 pages, 6 x 9 trim, cream stock, matte cover, priced at $19.99 in the US with the other marketplaces auto-filled. Paperback only — no Kindle edition at this time, though the epub remains a free download here.
+
+Getting there required fixing three print defects the screen never showed. Running heads carried *section* titles, which in this book run long enough to overflow a 324pt text block — LaTeX overflows a head rather than wrapping it, so they ran off the page edge entirely and KDP rejected the interior for text outside the margins. They now carry the book title on the verso and the chapter title on the recto, both truncated. The frontispiece plate was scaled to full text height, leaving its caption to fall past the bottom trim. And xeCJK — loaded only for the handful of Chinese glyphs in captions and names — was classifying em dashes, curly quotes and ellipses as CJK punctuation and swallowing the space after them, in 2,428 places. That last one had been shipping in every print build since xeCJK was added; the epub was never affected.
+
+The interior also drops link annotations now. KDP strips them and then reports having done so for every affected page; giving it nothing to strip keeps the Previewer clean. URLs and cross-references still print as ordinary text.
+
+The byline is **Dave Stanton** on both editions. Naming the AI collaborator in author metadata reads as brand keyword-stuffing under KDP's guidelines, and the collaboration is documented at length in the Prologue, Chapter 11, and the README regardless.
+
+One artifact of the build worth recording: the copyright page of the printed interior reads `v5.2.1-14-g3293c2d`, not `v6.0.0`. The build stamps the current HEAD, and the resulting PDF is committed after that — so the stamp always names the commit before the one carrying the file. The printed book is the PDF committed in `4b418a1`, byte-identical to the one tagged here.
+
 ## v5.2.1 — 2026-09-07
 
 **Patch: restore a stub Appendix C so the appendix lettering no longer appears to skip. No content or framework changes.**
