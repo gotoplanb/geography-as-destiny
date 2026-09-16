@@ -54,7 +54,8 @@ The corollary, developed at length in *The Art of Not Being Governed*, is that e
 
 ## Connections
 
-- **`diamond-guns-germs-steel.md`** — Diamond gets from crops to civilizational outcomes via availability and diffusion axes. Scott gets there via legibility and extraction. Same starting material, different mechanism. Worth reading as a direct challenge to the Diamond substrate the book builds on.
+- **`diamond-guns-germs-steel.md`** — not a rival explanation, a sequential one. Diamond explains why a region has a domesticable crop package at all; Scott takes the package as given and asks what happens next, via legibility and extraction. Both are geographic explanations. This is the same kind of move this project makes with thermodynamics and climatology — extension, not refutation, which is why lens one is "Diamond extended".
+  The one real point of tension is narrower: Diamond's chain runs food production → surplus → stratification → states fairly smoothly, and Scott's specific target is the smoothness — the millennia between domestication and the first states are, for him, the thing requiring explanation rather than an awkward gap. That objection arrives at the probabilistic frame from another direction: the gap is where the distribution lives. Read for that, not for a refutation of Diamond.
 - **`hamalainen-comanche-empire.md`** — the Comanche are a test case for Scott's mobility argument, and Chapter 9 already leans on Hämäläinen.
 - **`rogers-diffusion-of-innovations.md`** — escape crops are an adoption decision made *against* an S-curve, chosen for illegibility rather than advantage. An interesting inversion of Rogers' five attributes.
 - **Cards 344, 345** — the appropriability and exit-cost pair this book anchors.
