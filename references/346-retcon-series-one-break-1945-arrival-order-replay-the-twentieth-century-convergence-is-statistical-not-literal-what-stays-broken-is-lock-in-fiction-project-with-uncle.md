@@ -2,9 +2,9 @@
 
 **Source:** Dave, 2026-10-08. Research notes below were checked against the record; the rest is design.
 
-**Origin, in order.** On 4 October 2026 Dave published "The Monument Tells You What Survived" (davestanton.com/blog/the-monument-tells-you-what-survived), written after a five-hour walk in Indianapolis that included the USS *Indianapolis* memorial on the canal. Four days later, on 8 October, his uncle — having read the book — called with the idea of a novel about Yalta going differently. Dave had been thinking about the *Indianapolis* literally minutes before the phone rang. He drafted a six-season anthology to stress-test the idea, then restructured it to a single break replayed across the 20th century, with the *Indianapolis* as that break.
+**Origin, in order — all one day.** Dave took a five-hour walk in Indianapolis that included the USS *Indianapolis* memorial on the canal. He was still turning the ship over in his mind when, minutes later, his uncle — having read the book — called with the idea of a novel about Yalta going differently. A couple of hours after that call he published "The Monument Tells You What Survived" (davestanton.com/blog/the-monument-tells-you-what-survived), written up from the walk. He then drafted a six-season anthology to stress-test the idea, and restructured it to a single break replayed across the 20th century, with the *Indianapolis* as that break.
 
-So the break did not come from the call. It came from the walk, and the call supplied the form.
+So the break did not come from the call. It came from the walk, which preceded the call by minutes; the call supplied the form. The blog post is the same day's thinking written down afterward, which is why its framing and the series' premise rhyme so exactly.
 **Type:** project idea / adaptation
 **Relevant to:** not the dissertation — a separate fiction project built on the framework. Chapter cross-references noted per beat.
 
