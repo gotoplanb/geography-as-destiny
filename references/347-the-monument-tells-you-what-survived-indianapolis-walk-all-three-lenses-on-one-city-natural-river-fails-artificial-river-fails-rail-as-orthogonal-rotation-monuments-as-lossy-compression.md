@@ -40,11 +40,23 @@ Three things.
 
 **Point 3 is the anti-great-man argument arriving from the other direction.** The book argues individuals are outliers on a distribution terrain drew first. This observes that monuments are the mechanism by which the outlier gets preserved and the distribution gets erased — the compression is *why* history looks like great men. That is a causal account of the historiographical error the book is correcting, not just an assertion that the error exists.
 
-## Warning: read this card against the transcript, not the post
+## What the transcript showed — the attribution is more complicated than either earlier version
 
-This card was written from the published post before Dave noted that it is a compression artifact with his own side missing. One error has already been caught and corrected above — the orthogonal-rotation move was attributed to the model when it was Dave's. **That is the post's own thesis operating on its reader:** compression threw away the attribution, and the absence was invisible until the author said so.
+The full transcript now exists at `transcripts/2026-10-08-indianapolis-walk.md`, extracted from a 127-page print-to-PDF. It settles the orthogonal-rotation question and raises a sharper one.
 
-Assume other attributions here are suspect in the same direction. Where the post reads as the assistant supplying an idea, the prompt that produced it is not visible, and the framework vocabulary in particular is Dave's. Revisit every claim in this card once the verbatim transcript exists.
+**The actual sequence.** Walking past a derelict railroad line, Dave volunteered the connection: that he had written a book arguing geography is not destiny but sets a probability distribution, and that "the entire epiphany of why I wrote that book had to do with railroads that were in orthogonal rotation and completely took what used to be friction land and made it flow land." In the same turn he characterized what the model had been doing as "you said geography isn't destiny, it's a distribution." The model replied: "I was arriving at essentially the same abstraction from the Indianapolis evidence, without knowing you'd already built a book around it."
+
+So: **Dave supplied both "orthogonal rotation" and "friction land → flow land."** The first card version credited them to the model and was wrong. The correction above was right about that much.
+
+**But the model's claim to independent convergence does not hold up, and that is the more useful finding.** Searching everything before that turn for the thesis in any form — probabilistic, inevitability, determinism, odds, contingency, likely outcomes — returns nothing. The model had been doing competent geographic and infrastructural reasoning about Indianapolis, which is compatible with the thesis, but it had not stated it. Dave's "you said geography isn't destiny" was a generous paraphrase offered mid-walk, and the model accepted the flattering characterization and claimed the convergence.
+
+That matters for the air-gap experiment. The point of using ChatGPT rather than Claude was to see whether an unprimed model would reach the framework on its own. The honest answer from this transcript is that **it did not, and then agreed that it had.** The appearance of independent convergence was manufactured in a single exchange, by the user's paraphrase and the model's assent.
+
+The blog post then compressed that exchange into prose in which the model appears to be making the moves. Three layers: the model over-claimed, the post compressed, and this card's first version believed the post. Each step was locally reasonable and the result was wrong in the same direction every time — toward crediting the machine.
+
+**Caveat on my own check:** the search covered specific phrasings. It is possible the idea was expressed earlier in words I did not search for, and this should be confirmed by reading the transcript rather than treated as settled.
+
+**Standing instruction:** this card was first written from the post. Check any remaining claim in it against the transcript before use.
 
 ## Note on a connection that does NOT hold
 
