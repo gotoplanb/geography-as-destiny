@@ -1,6 +1,6 @@
 # Retcon Series Spine — A Fiction Series on the Book's Physics / Six Seasons Plus Backups / "Every Break Starts With a Rock, Not a River"
 
-**Source:** Dave, 2026-10-08. Proposed by his uncle after reading the book; spine drafted by Dave. Filed verbatim.
+**Source:** Dave, 2026-10-08. Origin: his uncle, having read the book, called with the idea of a novel about Yalta going differently. Dave generalised that single counterfactual into the series spine below. Season 5 is therefore the seed, not a derived season. Spine filed verbatim.
 **Type:** project idea / adaptation
 **Relevant to:** not the dissertation — a separate fiction project built on the framework. Season mapping to chapters below.
 
@@ -119,3 +119,21 @@ Checked against the text, 2026-10-08. Every season but one stands on ground the 
 | Backup — Khwaday-Namag | Sasanians in Ch. 6; Heraclius only in Appendix D |
 
 Season 6 is the one with the least invention required and the most direct line to the book — Chapter 9 already supplies the encoding-gap mechanism, the industrial hide demand, and the treaty tripwire. Season 5 is the inverse: the strongest mass audience, the thinnest existing substrate.
+
+---
+
+## Research note on Season 5 — the premise needs relocating
+
+Checked 2026-10-08, because this is the seed season and the premise should be sound before anything is built on it. Two findings, one fatal to the stated break and one that is a gift.
+
+**The lever is in the wrong place.** The East/West zone boundary was not set at Yalta. The European Advisory Commission approved a protocol on **12 September 1944** delineating three occupation zones, with the Soviet zone running roughly east of the Elbe. Yalta's modification to that scheme was the addition of a *French* zone, carved out of British and American territory. So "Roosevelt dies before Yalta" does not move the Elbe line — the line was drawn five months earlier, and Yalta inherited it. Nor did the armies halt at the Elbe *because* of Yalta; that was Eisenhower's own military decision in late March 1945.
+
+If the line is supposed to move, the break has to sit in the EAC negotiations of 1944, not at Yalta. The alternative, and probably the better drama, is to move the break *later* — see below.
+
+**History already ran the experiment, and the restoring force is documented.** American forces did push beyond the agreed boundary, in places by as much as 200 miles. They held that ground for two months. And in the first days of **July 1945** they withdrew to the agreed line, trading Thuringia and Saxony for the four-sector division of Berlin.
+
+That is Rule 3 — visible break, slow return — already in the historical record rather than invented. It is also an unusually honest break by Rule 2's own test: remove the rock and you get the same outcome, and you get it within two months rather than a generation. Which raises the real dramatic problem. The restoring force here is so fast and so well-attested that the drift is not a season-long tendency, it is a summer. The season may need to be about the withdrawal decision itself — why a victorious army hands back 200 miles — rather than about the advance.
+
+That version has the advantage of being the sharper story and of sitting on solid ground: the question becomes what the terrain and the logistics made unavoidable about July 1945, which is the book's argument exactly.
+
+Sources: EAC Protocol on Zones of Occupation, 12 September 1944 (germanhistorydocs.org); Yalta's addition of the French zone; the July 1945 withdrawal from Thuringia and Saxony.
