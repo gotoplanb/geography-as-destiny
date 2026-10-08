@@ -2,9 +2,9 @@
 
 **Source:** Dave, 2026-10-08. Research notes below were checked against the record; the rest is design.
 
-**Origin, in order — all one day.** Dave took a five-hour walk in Indianapolis that included the USS *Indianapolis* memorial on the canal. He was still turning the ship over in his mind when, minutes later, his uncle — having read the book — called with the idea of a novel about Yalta going differently. A couple of hours after that call he published "The Monument Tells You What Survived" (davestanton.com/blog/the-monument-tells-you-what-survived), written up from the walk. He then drafted a six-season anthology to stress-test the idea, and restructured it to a single break replayed across the 20th century, with the *Indianapolis* as that break.
+**Origin, in order — all one day.** Dave took a five-hour walk in Indianapolis that included the USS *Indianapolis* memorial on the canal. Within about fifteen minutes he had arrived at the counterfactual itself — what if the ship had gone down still carrying the bomb components — and he was holding that question when his uncle, having read the book, called with the idea of a novel about Yalta going differently. A couple of hours after that call he published "The Monument Tells You What Survived" (davestanton.com/blog/the-monument-tells-you-what-survived), written up from the walk. He then drafted a six-season anthology to stress-test the idea, and restructured it to a single break replayed across the 20th century, with the *Indianapolis* as that break.
 
-So the break did not come from the call. It came from the walk, which preceded the call by minutes; the call supplied the form. The blog post is the same day's thinking written down afterward, which is why its framing and the series' premise rhyme so exactly.
+So the break did not come from the call. The what-if was already Dave's, arrived at on the walk roughly a quarter of an hour earlier; what the call supplied was the vehicle — the idea of writing counterfactual history at all, which became the retcon. The blog post is the same day's thinking written down afterward, which is why its framing and the series' premise rhyme so exactly.
 **Type:** project idea / adaptation
 **Relevant to:** not the dissertation — a separate fiction project built on the framework. Chapter cross-references noted per beat.
 
