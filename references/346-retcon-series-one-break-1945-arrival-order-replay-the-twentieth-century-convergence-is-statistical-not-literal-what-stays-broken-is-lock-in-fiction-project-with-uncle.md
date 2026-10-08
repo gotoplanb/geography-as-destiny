@@ -1,20 +1,97 @@
-# Retcon Series Spine — A Fiction Series on the Book's Physics / Six Seasons Plus Backups / "Every Break Starts With a Rock, Not a River"
+# Retcon — One Break, One Century / 1945 Arrival Order Replayed Forward to 2001 / Convergence Is Statistical, Not Literal / What Stays Broken Is Lock-In
 
-**Source:** Dave, 2026-10-08. Origin: his uncle, having read the book, called with the idea of a novel about Yalta going differently. Dave generalised that single counterfactual into the series spine below. Season 5 is therefore the seed, not a derived season. Spine filed verbatim.
+**Source:** Dave, 2026-10-08. Origin: his uncle, having read the book, called with the idea of a novel about Yalta going differently. Dave drafted a six-season anthology spine to stress-test the idea, then restructured it to a single break replayed across the 20th century. Research notes below were checked against the record; the rest is design.
 **Type:** project idea / adaptation
-**Relevant to:** not the dissertation — a separate fiction project built on the framework. Season mapping to chapters below.
+**Relevant to:** not the dissertation — a separate fiction project built on the framework. Chapter cross-references noted per beat.
 
 ## Status
 
-Parked. This is a place for the idea to live, not a worked treatment. Nothing here has been researched, costed, or tested against the historical record; the counterfactual premises are dramatic propositions, not claims the framework endorses. Treat every date and name below as unverified until someone checks it.
-
-Worth noting what the structure is doing, because it is not incidental: the series rules are a dramatization of the book's central commitment. Rule 2 ("if removing the rock still gets you the same outcome within a generation, it was honest") is the falsifiability test from Chapter 1 restated as a writers'-room constraint, and Rule 3's visible-break-slow-return is the probability distribution reasserting itself. The anti-great-man position survives the translation to fiction, which is the hard part — individuals get to matter at the scene level while the river still wins.
+Parked, but with a settled shape. This is a structure, not a treatment. Nothing is costed or outlined; the historical research in the two notes at the bottom is real and verified, everything else is proposition.
 
 ---
 
-## The spine, as written
+## The premise
 
-*A fiction series built on the physics of the book. Each season is one counterfactual "break" in history. The break changes a human draw (who decides what) and a friction (what the terrain allows). The seasons then show the river drifting back toward the historical channel, without arriving.*
+One break, in 1945. Then the century runs forward and the distribution reasserts itself — not by returning history to the same events, but by returning it to the same *shape* with different particulars. The audience arrives in a 2001 they recognize completely, and realize that almost none of the specific people in it were necessary.
+
+**Why the 20th century, and only the 20th century.** Dave's craft argument, and it is decisive: an audience knows this baseline. A pre-modern break has to spend an inconvenient amount of screen time teaching what actually happened before the retcon means anything. The Song–Liao buffer is a better *idea* than the Elbe and a far worse *season*, because half of it is a lecture. Familiarity is the budget here. Spend it on drift, not exposition.
+
+---
+
+## Series rules
+
+Carried forward from the anthology draft, with 3 and 4 promoted — they do the structural work now.
+
+1. **Predictable physics, unpredictable people.** Terrain and logistics stay consistent. Drama comes from choices inside the constraints.
+2. **The break starts with a rock, not a river.** The trivial cause has to sit in a riverbed that already wanted the outcome. Test: if removing the rock still gets you the same outcome within a generation, it was honest.
+3. **Visible break, slow return.** This is now the series, not the season. The break is legible in episode one; the return runs sixty years and is never completed.
+4. **Some restoring forces fail, permanently.** *The load-bearing rule.* In an anthology this was texture. Across a century it is the only thing separating the series from a story where history runs on rails. See "What stays broken" below — the choices there are the series' real content.
+5. **Diffusion follows Rogers' compatibility.** An innovation spreads where it fits the adopter's existing substrate, and is reshaped where it doesn't.
+6. **Convergence is statistical, not literal.** *(New, and it governs rules 3 and 4.)* The book's claim is that geography sets a probability distribution. If the century replays to an identical world, the fiction argues determinism — the exact position the book refuses. Every convergence must land as same-shape, different-draw. A Cold War, not *the* Cold War. A divided city, not Berlin.
+
+---
+
+## The break: arrival order, July 1945
+
+The rock is the USS *Indianapolis*, four days early. See the research note at the bottom for why this is the cleanest break available and what it does and does not change.
+
+In short: the ship goes down on 26 July 1945 carrying the assembled U-235 projectile — about half the American uranium supply — and Little Boy dies with it. Fat Man does not. The plutonium weapon is on Tinian regardless, and the first atomic use is an implosion device, delayed by the days its own assembly and a reshuffled target list require.
+
+Those days are the whole series. The Soviet Union invaded Manchuria on 8 August 1945. Historically the bombs came first. Here they do not, and the Japanese surrender has a different proximate cause in the record, in the public mind, and at the negotiating table.
+
+**Why this rock and not the Elbe.** The Elbe is the better-known story and your uncle's original question, but the research note shows its restoring force is documented and fast — American forces went 200 miles past the line and handed it back within two months. That makes it a superb *demonstration* of Rule 3 and a weak *break*. Use it inside the series as the European restoring force that fires exactly on schedule, while the Pacific one does not. Two theatres, one question, opposite answers.
+
+---
+
+## The drift spine
+
+Six books or seasons. Each one is a restoring force arriving — or failing to.
+
+**I. 1945 — The Order of Arrival.** The break. Surrender comes with the Soviet invasion first in the sequence. Stalin's claim on the Japanese occupation, refused historically, now has leverage behind it. Korea's partition line was drawn in haste by two American officers because the Soviets were moving fast; here the haste is worse or the line is somewhere else entirely. Ends on the first negotiation where the new arithmetic is visible.
+
+**II. late 1940s–1950s — The Restoring Forces.** The Cold War forms anyway: two powers with incompatible logistics meet in the middle of a continent and neither can advance. This is the thesis stated plainly. The Elbe withdrawal happens on time. Marshall aid happens because European recovery is a logistics problem with one solution. The Soviet bomb arrives on roughly its historical schedule, because it was driven by their own program and by espionage, not by American inventory. **But the divided nation is not the one we know, and the flashpoint city is not Berlin.** (Ch. 5, chokepoints; Ch. 7, the maritime turn.)
+
+**III. 1950s–1960s — The Empires Go Anyway.** Decolonization proceeds regardless: the European powers are broke and the friction of holding empire exceeds the return. Suez still breaks British power, because a chokepoint is a chokepoint. The hot proxy war in Asia still happens — possibly along a partition line on a different peninsula or island. Same war, relocated. (Ch. 5 directly.)
+
+**IV. 1960s–1970s — Oil and the Tollbooths.** The Gulf still matters, because the Gulf is where the oil is and the straits are where it leaves. Decolonization plus oil plus superpower proxy produces a recognizable Middle East with unrecognizable borders. (Ch. 5; Ch. 7; and the Season 4 Pacific tollbooth logic from the anthology draft folds in here.)
+
+**V. 1980s–1990s — The System Fails on Its Own Logistics.** The Soviet collapse is endogenous — overextension, a resource economy, and information friction — so it happens, within a decade either way of 1991. (Ch. 11's friction material.)
+
+**VI. 1990s–2001 — The Recognizable World.** Aviation and the internet collapse friction. Globalization. The series ends with the structural conditions of 2001 fully in place and the event arriving — different actors, different target, different date, same shape. The last image should make the audience understand that the world assembled itself around them while nobody in the story was able to change it.
+
+---
+
+## What converges, and what stays broken
+
+Rule 4 made concrete. The principle below is a proposal and the most important open question in the project.
+
+**Converges** — anything where terrain, resources and logistics supply the pressure: great-power bipolarity, decolonization, the oil order, the collapse of an overextended continental empire, aviation, containerization, the computer.
+
+**Stays broken — the proposal: lock-in.** The things that should *never* heal are the ones with strong network effects and first-mover persistence, because those are precisely the outcomes geography does *not* determine. Which city becomes the financial center. Which language science publishes in. Which firm's standard wins. Which family is dynastic. Geography says a financial center emerges on a deep harbor with a hinterland; it does not say London rather than Hamburg. So: the harbor is predicted, the name is a draw, and once drawn it is permanent.
+
+That gives a principled answer to "what stays different" instead of an arbitrary one, and it is a direct dramatization of the book's distribution-versus-draw distinction. It also hands the series its permanent, visible markers of the break — a different capital, a different lingua franca of science, a different dominant firm — that persist into the final book as proof the world is not simply ours with extra steps.
+
+**Open question for Dave:** is lock-in the right principle, or does it need a second category? Candidates for a second: outcomes where a specific individual died or didn't (the book's own anti-great-man position says these should wash out, which is a testable claim the fiction can make), and genuinely stochastic technological lineages.
+
+---
+
+## The ending, and a warning by the book's own standard
+
+The 9/11-equivalent ending is right and it is also the single biggest risk in the project.
+
+It is right because the structural conditions are all downstream of things the series has argued are overdetermined: oil, chokepoints, the aftermath of superpower proxy wars, and aviation as friction collapse. If those reassert, something of that shape becomes probable, and the specific victims are a draw. That is the thesis landing on the audience in the place they feel it most.
+
+It is a risk because it is extremely vivid, and **color is a smell**. The chain from July 1945 arrival order to that event has to be genuinely load-bearing, not reverse-engineered to reach a gut-punch finale. If the series is built backward from the ending, the middle will bend to serve it and the physics will quietly stop being predictable. Decide this consciously now rather than discovering it in book five.
+
+The honest test is Rule 2 applied to the ending: if the 1945 break were removed, would something of that shape still arrive around then? If yes, it belongs. If the answer requires the break, the series has accidentally argued that one torpedo caused it — which is great-man history with a submarine in the role.
+
+---
+
+## Demoted: the original anthology seasons
+
+Kept for parts. Dave's reason for setting them aside is the exposition tax — audiences don't know the baseline, so each would spend half its runtime teaching what actually happened. Several contain mechanisms worth cannibalizing for the main line: the Paper Court's record-keeping-state-survives-a-shock, the Compass Gulf's adoption-reshapes-the-corridor, the Buffer's absorb-the-pressure-on-someone-else's-behalf.
+
+### Original spine, as drafted (anthology version)
 
 ### Series Rules
 
@@ -101,25 +178,6 @@ Held in reserve for the back half of the series or a second run.
 - **The Khwaday-Namag (Sasanian Persia, 602–628):** Khosrow II accepts a negotiated peace with Heraclius, and the mutual exhaustion that opened the Arab conquest never happens. *Alternate opener if Season 1 is cut.*
 
 ---
-
-## Where each season already has book material
-
-Checked against the text, 2026-10-08. Every season but one stands on ground the book has already surveyed, which means the research substrate largely exists.
-
-| Season | Existing material |
-|---|---|
-| 1 — The Paper Court | Sasanians in the Bronze Age Substrate interlude and Ch. 6; paper diffusion in Ch. 6, 7, 11 |
-| 2 — The Compass Gulf | compass in Ch. 1, 9, 11; the maritime corridor is Ch. 7's subject |
-| 3 — The Buffer | Liao / Jurchen / Northern Song all in Ch. 7 and Ch. 10 |
-| 4 — The Tollbooths | Hawaii and the Manila Galleon in Ch. 7 and Ch. 9; Ch. 9 §XI is "The Pacific Extension" |
-| 5 — The Elbe Line | **none** — the book has no WWII material. This season needs research from scratch |
-| 6 — The Medicine Lodge | Ch. 9 runs this directly: the treaty as relationship instrument vs. self-executing contract, and the tripwire conditional on the bison |
-| Backup — Otrar | Ch. 10 and the Bronze Age Substrate interlude |
-| Backup — Timur | Ch. 2, Ch. 10, Ch. 11, epilogue — Timur as budget mechanism |
-| Backup — Khwaday-Namag | Sasanians in Ch. 6; Heraclius only in Appendix D |
-
-Season 6 is the one with the least invention required and the most direct line to the book — Chapter 9 already supplies the encoding-gap mechanism, the industrial hide demand, and the treaty tripwire. Season 5 is the inverse: the strongest mass audience, the thinnest existing substrate.
-
 ---
 
 ## Research note on Season 5 — the premise needs relocating
@@ -137,7 +195,6 @@ That is Rule 3 — visible break, slow return — already in the historical reco
 That version has the advantage of being the sharper story and of sitting on solid ground: the question becomes what the terrain and the logistics made unavoidable about July 1945, which is the book's argument exactly.
 
 Sources: EAC Protocol on Zones of Occupation, 12 September 1944 (germanhistorydocs.org); Yalta's addition of the French zone; the July 1945 withdrawal from Thuringia and Saxony.
-
 ---
 
 ## Proposed season: The Indianapolis (Dave, 2026-10-08)
