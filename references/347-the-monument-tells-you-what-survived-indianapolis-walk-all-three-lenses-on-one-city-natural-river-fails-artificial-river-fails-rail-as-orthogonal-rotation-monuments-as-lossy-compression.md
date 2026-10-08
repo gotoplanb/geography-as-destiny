@@ -1,6 +1,10 @@
 # "The Monument Tells You What Survived" — An Indianapolis Walk Running All Three Lenses on One City / Natural River Fails, Artificial River Fails, Rail Rotates the Surface / Monuments as Lossy Compression and the Absence as Artifact
 
-**Source:** Dave Stanton, "The Monument Tells You What Survived," davestanton.com/blog/the-monument-tells-you-what-survived. Written from a five-hour walk in Indianapolis taken while in town for a company reunion, published the same day. A walking dialogue, not an essay — the collaborative method applied to a city in real time. Same day as, and a couple of hours after, the uncle's call that started the retcon project (card 346).
+**Source:** Dave Stanton, "The Monument Tells You What Survived," davestanton.com/blog/the-monument-tells-you-what-survived. Written from a five-hour walk in Indianapolis taken while in town for a company reunion, published the same day. A walking dialogue, not an essay.
+
+**Interlocutor was ChatGPT on iOS, not Claude** — deliberately, for two reasons Dave gives: to learn that model's personality, and to air-gap the exercise from the book, so the AI would not be primed toward his own framework. That makes the post a cleaner test than it first appears, and it also means any framework vocabulary in it came from Dave rather than from the model. See the warning below.
+
+**The post is a lossy artifact of that conversation, and Dave's side is largely absent.** Roughly four hours of back-and-forth were compressed into a readable post in which his guidance is baked into the responses but rarely visible verbatim. The content survives; the messiness, the whimsy and the real-time steering do not. Dave flagged this himself. A verbatim transcript is wanted — available only via ChatGPT's own Settings > Data Controls > Export (whole account, up to seven days) or a per-conversation share link, since the OpenAI API exposes no chat history. Same day as, and a couple of hours after, the uncle's call that started the retcon project (card 346).
 **Type:** framework application / connection
 **Relevant to:** Chapter 9 §VI (The Orthogonal Rotation), Chapter 5 (chokepoints and position), Chapter 2 (The Anti-Hero), the Tecumseh cards (004, 005, 007), the Shannon cluster (033, 240), Appendix B (where the framework doesn't apply), card 346 (the fiction project)
 
@@ -12,7 +16,7 @@ This is the clean case of a city attempting to **manufacture** geography and bei
 
 **2. Rail as orthogonal rotation.** *"A railroad allows humans to draw a low-friction corridor in a direction of their choosing."* The city converts from friction land to flow land not by fixing its water problem but by making the water problem irrelevant. Indianapolis becomes a rail hub precisely because rail does not care what the rivers were doing.
 
-This is Chapter 9 §VI's mechanism under Chapter 9's own name, arrived at independently on a sidewalk. The chapter uses it for the Great Plains and the Tarim Basin; here it is a mid-sized American city, which is a much smaller and more legible instance of the same move. Potentially the clearest short illustration of orthogonal rotation the project has.
+This is Chapter 9 §VI's mechanism under Chapter 9's own name — **supplied by Dave, not by the model.** The quoted line is the assistant's: "Rail performs what you just called an orthogonal rotation." Dave brought the term from his own chapter and the model reflected it back. The chapter uses the mechanism for the Great Plains and the Tarim Basin; here it is a mid-sized American city, which is a much smaller and more legible instance of the same move, and potentially the clearest short illustration of orthogonal rotation the project has. The *application* to Indianapolis is the contribution; the concept is the book's.
 
 **3. Monuments as high-compression historical media.** The Soldiers & Sailors Monument's "Tippecanoe" inscription compresses, in Dave's words, "an enormous amount of contested history into a few words" — Tecumseh's position being that individual chiefs or nations did not possess unilateral authority to sell land held collectively, against Harrison's treaty-making system that depended on their doing exactly that. The key distinction: this is not necessarily a factual lie. It is compression, and **compression throws information away**.
 
@@ -35,6 +39,12 @@ Three things.
 **Point 5 is a methodological warning the project should hold.** Survivorship bias in the built environment is the same hazard the dissertation runs on sources: the reference cards record what got written down and survived, and the framework's confirmations are drawn from the surviving record. "The absence is an artifact" is a sharper statement of that than anything currently in Appendix B. It applies directly to card 346's fiction, which would be built from surviving monuments, and it applies to the book itself.
 
 **Point 3 is the anti-great-man argument arriving from the other direction.** The book argues individuals are outliers on a distribution terrain drew first. This observes that monuments are the mechanism by which the outlier gets preserved and the distribution gets erased — the compression is *why* history looks like great men. That is a causal account of the historiographical error the book is correcting, not just an assertion that the error exists.
+
+## Warning: read this card against the transcript, not the post
+
+This card was written from the published post before Dave noted that it is a compression artifact with his own side missing. One error has already been caught and corrected above — the orthogonal-rotation move was attributed to the model when it was Dave's. **That is the post's own thesis operating on its reader:** compression threw away the attribution, and the absence was invisible until the author said so.
+
+Assume other attributions here are suspect in the same direction. Where the post reads as the assistant supplying an idea, the prompt that produced it is not visible, and the framework vocabulary in particular is Dave's. Revisit every claim in this card once the verbatim transcript exists.
 
 ## Note on a connection that does NOT hold
 
