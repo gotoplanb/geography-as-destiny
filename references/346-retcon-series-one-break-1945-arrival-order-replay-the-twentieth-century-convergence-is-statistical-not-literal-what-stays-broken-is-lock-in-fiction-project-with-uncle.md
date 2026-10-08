@@ -1,6 +1,10 @@
 # Retcon — One Break, One Century / 1945 Arrival Order Replayed Forward to 2001 / Convergence Is Statistical, Not Literal / What Stays Broken Is Lock-In
 
-**Source:** Dave, 2026-10-08. Origin: his uncle, having read the book, called with the idea of a novel about Yalta going differently. Dave drafted a six-season anthology spine to stress-test the idea, then restructured it to a single break replayed across the 20th century. Research notes below were checked against the record; the rest is design.
+**Source:** Dave, 2026-10-08. Research notes below were checked against the record; the rest is design.
+
+**Origin, in order.** On 4 October 2026 Dave published "The Monument Tells You What Survived" (davestanton.com/blog/the-monument-tells-you-what-survived), written after a five-hour walk in Indianapolis that included the USS *Indianapolis* memorial on the canal. Four days later, on 8 October, his uncle — having read the book — called with the idea of a novel about Yalta going differently. Dave had been thinking about the *Indianapolis* literally minutes before the phone rang. He drafted a six-season anthology to stress-test the idea, then restructured it to a single break replayed across the 20th century, with the *Indianapolis* as that break.
+
+So the break did not come from the call. It came from the walk, and the call supplied the form.
 **Type:** project idea / adaptation
 **Relevant to:** not the dissertation — a separate fiction project built on the framework. Chapter cross-references noted per beat.
 
@@ -38,6 +42,12 @@ The rock is the USS *Indianapolis*, four days early. See the research note at th
 In short: the ship goes down on 26 July 1945 carrying the assembled U-235 projectile — about half the American uranium supply — and Little Boy dies with it. Fat Man does not. The plutonium weapon is on Tinian regardless, and the first atomic use is an implosion device, delayed by the days its own assembly and a reshuffled target list require.
 
 Those days are the whole series. The Soviet Union invaded Manchuria on 8 August 1945. Historically the bombs came first. Here they do not, and the Japanese surrender has a different proximate cause in the record, in the public mind, and at the negotiating table.
+
+**Why this ship, beyond the logistics.** The *Indianapolis* is thematically load-bearing for a series about counterfactual history, and Dave's own blog post is where that surfaces. The post treats the sinking as a case of institutional narrative-making: Captain Charles McVay III was court-martialed and carried the blame for decades, and the record was only reopened after a schoolboy's research led Congress to clear his name in 2000. Dave's line for it is that "the institution produces a first draft of history; later generations reopen the file."
+
+That is what a retcon *is*. The series' premise and its chosen rock are the same gesture — reopening the file on an official account — which means the break is not merely convenient, it is about the thing the series is about. A show that asks "what if the record had gone differently" should break history on the ship whose record was wrong for fifty-five years.
+
+The same post is also the book's own framework applied to a city, and worth mining for the series: the Indianapolis canal as a failed attempt to *manufacture* geography, abandoned when the Panic of 1837 killed the financing; the railroads then performing an **orthogonal rotation** of the friction surface and converting the city from friction land to flow land — the same move, under the same name, as Chapter 9 §VI; monuments as "high-compression historical media" where compression throws information away (a Shannon framing, cf. the prologue and card 033); and survivorship bias, where "the surviving artifacts can make the historical ecosystem look much smaller than it was." That last one is a direct warning for this project: a fiction series built from surviving monuments will inherit their selection bias unless it is deliberate about the negative space.
 
 **Why this rock and not the Elbe.** The Elbe is the better-known story and your uncle's original question, but the research note shows its restoring force is documented and fast — American forces went 200 miles past the line and handed it back within two months. That makes it a superb *demonstration* of Rule 3 and a weak *break*. Use it inside the series as the European restoring force that fires exactly on schedule, while the Pacific one does not. Two theatres, one question, opposite answers.
 
