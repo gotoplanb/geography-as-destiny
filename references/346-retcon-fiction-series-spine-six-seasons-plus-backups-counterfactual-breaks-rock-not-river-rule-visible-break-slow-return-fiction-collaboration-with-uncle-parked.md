@@ -137,3 +137,27 @@ That is Rule 3 — visible break, slow return — already in the historical reco
 That version has the advantage of being the sharper story and of sitting on solid ground: the question becomes what the terrain and the logistics made unavoidable about July 1945, which is the book's argument exactly.
 
 Sources: EAC Protocol on Zones of Occupation, 12 September 1944 (germanhistorydocs.org); Yalta's addition of the French zone; the July 1945 withdrawal from Thuringia and Saxony.
+
+---
+
+## Proposed season: The Indianapolis (Dave, 2026-10-08)
+
+**Break as proposed:** USS *Indianapolis* is sunk while still carrying the Little Boy components, so no Hiroshima and no Nagasaki.
+
+**The rock is perfect.** Historically the ship delivered its cargo to Tinian on 26 July 1945 and was torpedoed by I-58 at 00:15 on 30 July — four days later, unescorted. The break requires moving one submarine's firing solution four days earlier, or the ship four days later. Nothing about the world has to change. This is the purest "rock, not river" in the series.
+
+**But the stated outcome does not survive checking, and the reason makes the season better.**
+
+What the ship actually carried: the assembled U-235 projectile with nine uranium rings, in a single lead-lined container — roughly **half the total American supply of U-235** — plus the partially assembled gun-type bomb. The other half, the six target discs, was **flown separately** on three aircraft arriving 28–29 July. The Navy had already hedged; the split was the paranoia.
+
+What it did **not** carry: anything to do with Fat Man. The plutonium core left Kirtland by C-54 on 26 July and reached Tinian on 28 July, with the bomb assembly moving separately again. Hanford plutonium, air transport, independent chain. Trinity on 16 July had already proved implosion worked.
+
+So sinking the *Indianapolis* kills **Little Boy only**. The plutonium weapon is on Tinian regardless, and the 30 July 1945 production schedule projected roughly three bombs per month through August, rising to five by November. Nagasaki is untouched. The atomic bombing of Japan still happens, on close to the same calendar, with a different device.
+
+**By Rule 2 this is the most honest break in the series — and that is the problem.** Remove the rock and you get the same outcome not within a generation but within about a week. The river is overwhelming here.
+
+**Where the real story is.** The interesting consequence is not whether the bomb falls but *when*, because 1945 has a second clock running. The Soviet Union declared war on Japan and invaded Manchuria on 8 August. Historically the bombs preceded that. Push the first use even a few days right — a plutonium device needing its own assembly timeline, a target list reshuffled because the available weapon is the untested-in-combat implosion type — and the Soviet entry arrives first in the causal sequence. The surrender story, the occupation of Korea, and the entire postwar settlement are downstream of which arrived first.
+
+That makes this season and Season 5 the same season asked twice: **how much of the postwar order was determined by who got somewhere first, and how little room there was to change it.** The Elbe and the Indianapolis are both about arrival order against a fixed logistical clock. Worth considering whether they pair as a two-part run rather than competing for the WWII slot.
+
+Sources: USS *Indianapolis* cargo and the projectile/target-disc split (Nuclear Museum / Atomic Heritage); Fat Man core transport Kirtland–Tinian 26–28 July 1945; bomb production schedule memo, 30 July 1945 (dannen.com/decision/bomb-rate.html).
