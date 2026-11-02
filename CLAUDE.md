@@ -53,6 +53,16 @@ There is also **Charlie (Claude with extended thinking, Opus 4.6)** — the comm
 - **Gould as structural model.** Framework → specific story → zoom back out to what it illustrated. Never lose the rigor, never lose the reader.
 - **Color is a smell.** If a detail is vivid but doesn't carry structural weight, it's probably covering for weak evidence. Anecdotes that feel compelling but don't advance the argument are a warning sign, not a feature. The classic newspaper move — "Meet Sarah, a single mother in Ohio who..." followed by 800 words of policy argument Sarah's story is supposed to make unchallengeable — is exactly what we refuse to do. The narrative descent sections earn their vividness by grounding specific scenes in the framework. The scene is there because it *demonstrates* the thesis, not because it makes a weak position feel like objective fact.
 
+## Releases and Publishing
+
+Versions follow semver, loosely: **major** for structural change (a chapter added, reordered, or substantially rearranged, or a new edition), **minor** for new material inside the existing structure, **patch** for corrections — precision fixes, dating, typos, endnote sourcing.
+
+**Patches do not go to KDP.** Tag them, push them, let them accumulate. Each upload costs a Previewer pass and a review cycle, and a correction that does not change the argument does not justify one. The repo is the live version; the printed book is a snapshot of the last release that was actually uploaded. Those are allowed to diverge, and the CHANGELOG is what reconciles them.
+
+**Re-upload at a major release, or when enough patches have piled up to be worth a cycle.** That is the moment to run the full verification: page count, spine width against `cover/kdp.json`, KDP margin sweep on every page, zero link annotations.
+
+**The one thing to check on every patch anyway: the page count.** `build-print-pdf.sh` prints it for free at the end of every run, so this costs nothing. It matters because the spine width is derived from it and the printed cover is built to that spine. If a patch moves the page count off 422, say so loudly and immediately — that patch has invalidated the cover, and the fix is a cover rebuild through `cover/`, which is a far bigger job than the edit that caused it. Catching that at the patch that caused it is cheap; discovering it months later while trying to ship is not.
+
 ## Source Standards
 
 - Multiple sources per major claim

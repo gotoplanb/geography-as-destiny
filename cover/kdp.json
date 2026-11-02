@@ -19,7 +19,8 @@
       "Paper must be CREAM. The 1.055in spine is calculated for cream (0.0025in/page); white (0.002252in/page) would give 0.950in and the printed cover would no longer fit.",
       "KDP Select is ebook-only and does not apply to a paperback-only listing.",
       "If a Kindle edition is added later: title, subtitle and author must match this listing exactly or the two will not link on one product page, and it must not reuse this ISBN.",
-      "Minimum list price is printing cost / 0.60. At 422pp the print cost is about $6.06, so the floor is about $10.11; $19.99 nets roughly $5.93 per copy."
+      "Minimum list price is printing cost / 0.60. At 422pp the print cost is about $6.06, so the floor is about $10.11; $19.99 nets roughly $5.93 per copy.",
+      "Printed edition is v6.0.0. Patch releases are not re-uploaded (see CLAUDE.md, Releases and Publishing) so the repo and the printed book diverge by design; the CHANGELOG reconciles them. Re-upload at a major release or once enough patches justify a review cycle, and run the full verification then."
     ]
   },
   "spine_in": 1.055,
