@@ -25,6 +25,27 @@ So the constraint is not that tubers cannot be stored. They store better than gr
 
 This relocates the mechanism from the *producer* side to the *extraction* side, which is a different claim than the one the essay makes and a better fit for the evidence.
 
+## Sharpening (2026-11-02): appropriability is operationally cost-to-observe × cost-to-seize
+
+Dave, reading Scott's remark that one does not hear about taxation in banana republics, initially reached for storability and then corrected himself: **tubers store extremely well — in the ground, for up to two years, for free. That is exactly why they are hard to tax.** The operative variable is not whether a staple keeps. It is whether a state can cheaply find it and cheaply take it.
+
+Grain minimizes both costs simultaneously, which nothing else does:
+
+- **Synchronized ripening** — the whole crop is ready in one window, so an assessor knows when to arrive.
+- **Above ground** — a field is assessable at a distance and cannot be concealed.
+- **Fixed in place** — it is where it was planted, and it stays there.
+- **Countable and portable** — measurable by volume, baggable, haulable, warehouseable at a centre.
+
+**But observability alone is not sufficient, and the book's own flagship chapter is the proof.** A cattle or bison herd is highly observable — visible from a ridge at distance — and still nearly untaxable, because it is *mobile*. It walks away before the assessor arrives. That is the Comanche case in Chapter 9, and it explains why the American response was not to tax the Plains economy but to destroy its resource base. You cannot assess a herd, so you remove the herd. Pastoral wealth is the counter-case that breaks a pure visibility account: seen easily, seized with difficulty.
+
+So the variable is two-term. Tubers fail on **observation**; herds fail on **seizure**; grain is the staple that fails on neither.
+
+**This collapses several of the project's mechanisms into one.** Card 345's exit cost, card 350's shift from node control to line control, and card 355's enclosure of the biological commons are all the same quantity measured on different substrates — a power takes what it can cheaply see and cheaply hold. Premodern states policed chokepoints because terrain concentrated movement into view. Modern states police whole borders because monitoring costs collapsed. A seed patent is a dead letter until infringement is detectable. **Appropriability, enforcement and enclosure are one variable wearing three costumes.**
+
+**Beta's caution on the banana case, which refines rather than complicates it.** The historical banana republics were plantation export economies, extracted at the port and the rail line rather than field by field. That is node control, not crop taxation. But this supports the unified account rather than troubling it: bananas are unassessable in the field, so extraction relocated to the one point where the product was already concentrated and visible. Same variable, different node in the chain. It also fits Scott's larger claim, since what those polities conspicuously failed to develop was a tax-based state.
+
+*Scott's banana remark is reported from Dave's reading and has not been checked against the text.*
+
 ## Why this matters — stronger than a confirmation case
 
 Dave's instinct was that this adds nothing at the macro level. The research suggests otherwise, and in the same way the Tecumseh correction did: the accurate version is sharper than the plausible one.
