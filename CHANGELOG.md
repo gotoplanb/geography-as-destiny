@@ -2,6 +2,20 @@
 
 Version history for *Geography as Destiny*. Each version corresponds to a git tag and a built epub. The colophon and title page of the epub display the version that built them.
 
+## v6.0.1 — 2026-11-02
+
+**Patch: date the bison-hide belting innovation precisely. Chapter 9's causal claim is confirmed and the correction makes it stronger. No framework or structural changes.**
+
+Chapter 9 argues that five mechanisms converged in a seven-year window to end Comanche power, one being a manufacturing innovation that turned bison hide into industrial drive belting. The text dated it to "the late 1860s." That was loose by two to four years, and loose in the direction that weakened the argument.
+
+The innovation is 1871: a German tanning process in 1870 made bison leather commercially workable, and in 1871 an English tannery worked out machine belting. Intensive commercial hunting began that same year, and the mass slaughter followed in 1872–74, with 1,378,359 hides shipped by rail across those three years.
+
+This matters because a conjunction argument draws its force from tightness. Stated accurately, the belting breakthrough and the start of the hunt are the same year — a demand shock and a hunt beginning together, with mass killing inside twelve months — rather than a mechanism arriving somewhere inside a window. The chapter now says so, the endnote carries the dating and the sources, and Appendix D gains entries for 1870–71 and 1872–74.
+
+The correction began as a falsification test rather than a copy-edit: if the bison had been killed *before* the belting innovation existed, the causal chain would invert and the passage would collapse into coincidence. The ordering was checked and holds. The argument is unchanged; only its dating was wrong.
+
+Interior remains 422 pages, so the 1.055in spine and the printed cover are unaffected.
+
 ## v6.0.0 — 2026-09-16
 
 **Major: first print edition. Approved by KDP and published as a 6x9 paperback, ISBN 9798174359512.**
