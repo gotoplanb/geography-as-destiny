@@ -46,6 +46,7 @@ There is also **Charlie (Claude with extended thinking, Opus 4.6)** — the comm
 ## Editorial Principles
 
 - **Probabilistic language, always.** This is statistics, not determinism. Geography shapes distributions, not outcomes.
+- **Name the magnitude.** When a timescale carries weight, say *decades*, *centuries*, or *millennia* — don't let a bare number stand in for it. In a book running from the Bronze Age to the internet, "a hundred years" means something different in Chapter 3 than in Chapter 11, and a reader calibrated to one register will misread the other. This applies to Dave in conversation as much as to prose: a loose figure offered as an order of magnitude reads as a precise claim, and the AI will argue with the claim instead of the point. Where the magnitude is load-bearing and unstated, ask rather than infer.
 - **Three lenses per chapter.** Every chapter must engage geographic determinism, friction collapse, and diffusion. The fractal structure is: essay mode → narrative descent → diffusion analysis.
 - **Follow the evidence.** The direction will shift as Dave engages with material. Stay within the three lenses and the probabilistic frame, but follow wherever the sources lead. Do not force a chapter into a shape the evidence doesn't support.
 - **Anti-great-man.** Individuals are real outlier events on a distribution that geography defined. Respect them. Do not center them.
