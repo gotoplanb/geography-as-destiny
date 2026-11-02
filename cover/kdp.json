@@ -59,5 +59,17 @@
       "feather": 12,
       "overhang_in": 0.03
     }
+  },
+  "printed_edition": {
+    "version": "v6.0.0",
+    "page_count": 422,
+    "spine_in": 1.055,
+    "note": "These describe the edition actually printed and are the values the existing cover PDF was built to. Do not overwrite them with current-build numbers."
+  },
+  "current_build": {
+    "version": "v6.0.2",
+    "page_count": 424,
+    "spine_in": 1.06,
+    "note": "Repo build has drifted past the printed edition. A re-upload will need the interior AND a cover rebuild through cover/build_cover.py at the then-current page count, with page_count and spine_in above re-derived from KDP's calculator. Patch releases are not uploaded (see CLAUDE.md), so this divergence is expected."
   }
 }

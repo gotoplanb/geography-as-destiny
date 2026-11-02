@@ -4,9 +4,17 @@
 **Type:** hypothesis + verification / candidate for future work
 **Relevant to:** cards 344 and 345 (appropriability, exit), 350 (node control to line control), 352 (causation needs secure ordering), 353 and 354 (frozen cost structures), Chapter 5 (chokepoints), Chapter 11
 
-## The hypothesis does not survive its own dating
+## Clarification: what Dave meant by "frontier"
 
-Patents are not a response to the closed frontier. They are four centuries older.
+Alpha initially read "closed frontier" as the American West and Turner's 1890 declaration, having spent the session in Comanche and railroad material. **That was prior context steering the interpretation, and it was wrong.** Dave meant something broader and older: that there was no longer much *cheap exploitable land anywhere in the world* — not a date on one continent.
+
+On his reading the Venice finding supports rather than refutes him, and he is right. 1474 sits on the eve of transatlantic colonization, in a Mediterranean world where the accessible land was long since conquered and under extraction, and where Venice specifically was being squeezed by Ottoman pressure on its Levantine trade after 1453. The choice facing a polity in that position was to find new cheap land for commodities or to become a refinery. Venice could not do the first.
+
+So the timing is evidence for the mechanism, not against it. What follows is the dating objection as originally written, retained because the *specific* version of the hypothesis it refutes — patents as a response to the 1890 American frontier — is one a reader could easily arrive at, and because the Venice rescue below is what survives.
+
+## The narrow version does not survive its own dating
+
+Patents are not a response to a nineteenth-century frontier closure. They are four centuries older.
 
 - **1474** — the Venetian Senate passes the first general patent statute, granting inventors exclusive rights for ten years, with a public citation of infringers and a 100-ducat fine. Historians generally treat it as the legal foundation of the modern patent system.
 - **1624** — the English Statute of Monopolies, the first statutory expression of English patent law, repealing "odious monopolies" while preserving an exception for patents on novel inventions.
@@ -20,6 +28,8 @@ The mechanism is right; it was tested in the wrong place. **Venice was a lagoon 
 That is a natural experiment, and it is the good kind — the mechanism is confirmed precisely where the general dating fails. Frontier exhaustion does drive enclosure of technique. Venice simply had no frontier to begin with, so it got there first.
 
 The reformulation this implies is stronger and testable: **it is not that patents appear when the frontier closes, but that the scope of what can be privately owned expands as the extractable frontier contracts.** Each expansion is an enclosure of something previously treated as commons or as nature.
+
+**The sub-prediction this generates**, and the falsifiable part: polities with access to a *newly opened* material frontier should develop IP institutions later and more weakly than polities excluded from it. Venice is excluded and leads. Spain and Portugal get first access to Atlantic extraction and should lag. England's Statute of Monopolies is 1624. Untested, and worth testing.
 
 ## The seed sequence, which supports Dave strongly
 

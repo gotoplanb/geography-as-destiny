@@ -2,6 +2,20 @@
 
 Version history for *Geography as Destiny*. Each version corresponds to a git tag and a built epub. The colophon and title page of the epub display the version that built them.
 
+## v6.0.2 — 2026-11-02
+
+**Patch: Appendix A gains entry 21, on the enclosure of knowledge as the extractable frontier contracts. Interior grows to 424 pages — the first build to diverge from the printed edition.**
+
+A new future-research entry, prompted by the Scott reading: the scope of what can be privately owned expands as cheap land and commodities run out, and each expansion becomes enforceable only when the cost of detecting infringement collapses. Venice is the test case — a lagoon republic with no territorial frontier, squeezed by Ottoman pressure on its Levantine trade, which arrived at refining-only extraction centuries early and passed the first general patent statute in 1474, eighteen years before the Atlantic opened. The enclosure of the biological commons supplies the enforcement half: plants were unpatentable as products of nature before 1930, and the sequence through *Chakrabarty* and Bayh-Dole in 1980 to *Ex parte Hibberd* in 1985 tracks the arrival of the means to detect infringement in a self-reproducing thing.
+
+The entry carries an explicit boundary marker. Knowledge has no terrain, and this is the point where the book's own lens runs out — it is included because the mechanism rhymes, not as a further application of the three lenses.
+
+**The page count moved, and this is the first time that has happened.** The interior is now 424 pages against the printed edition's 422, which puts the cream spine at 1.060in rather than 1.055in. The printed cover was built to 1.055in and no longer matches the current interior.
+
+Nothing is broken. Patch releases are not uploaded to KDP, so the printed book remains v6.0.0 at 422 pages with a cover that fits it. But a future re-upload now needs a cover rebuild through `cover/build_cover.py` as well as an interior upload, and `cover/kdp.json` records both sets of numbers so the printed values are not overwritten by current-build ones.
+
+All 424 pages still clear KDP's margins; zero link annotations.
+
 ## v6.0.1 — 2026-11-02
 
 **Patch: date the bison-hide belting innovation precisely. Chapter 9's causal claim is confirmed and the correction makes it stronger. No framework or structural changes.**
