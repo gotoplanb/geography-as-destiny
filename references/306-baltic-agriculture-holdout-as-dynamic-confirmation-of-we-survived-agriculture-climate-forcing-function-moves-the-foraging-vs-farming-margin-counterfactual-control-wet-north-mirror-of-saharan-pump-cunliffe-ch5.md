@@ -24,6 +24,31 @@ This is a clean, **counterintuitive confirmation of one of the dissertation's co
 
 **4. Wald survivorship operates on cultural adaptation.** The populations/economies visible in the later record are the **returning bombers** — those that made the transition when the terrain forced the calculation to tip. The forager economies that did *not* successfully transition when their resource base collapsed are the **engine hits** — gone, underrepresented, easy to overlook. Reading "agriculture spread because it was better" off the survivors is the bomber-survivorship error (cards 048, 064, 285): the failures didn't leave a thriving record to argue otherwise.
 
+## Source survey, 2026-11-03 (issue #34) — demic, not in-situ; the experiment survives in a corrected form
+
+*Pending Dave's verification. Full source list on issue #34. The decisive source is open access: Allentoft et al. 2024, *Nature* 625: 329–337 (PMC10781617).*
+
+**The calibration-1 suspicion was right: mostly demic.**
+- **Denmark: near-total replacement.** Mesolithic Danes were "genetically homogeneous until around 5,900 cal BP," and the turnover was "very abrupt," with "limited genetic contribution from local hunter-gatherers" (Allentoft et al. 2024). Early TRB farmers carry 10–35% hunter-gatherer ancestry, so locals were *absorbed into incoming farming communities*. Dragsholm Man — Mesolithic ancestry, farming diet, TRB grave goods — shows individual adoption happened, inside the newcomers' society.
+- **South-central Sweden: the same pattern**, on smaller samples (Skoglund et al. 2012, 2014). Foragers show no farmer introgression, while farmers carry forager admixture.
+- **The archaeology agrees.** Farmers migrate in c. 4000–3700 BC after about 1,500 years of a stationary frontier (Sørensen & Karg 2014). Rowley-Conwy 2011 likewise reads a rapid, immigration-led transition with few "transitional" economies.
+- **The eastern Baltic held out.** Foragers persisted with no farmer gene flow through the Early and Middle Neolithic (Mittnik et al. 2018). Allentoft's companion paper (*Nature* 625: 301–311) draws a "great divide" from the Black Sea to the Baltic: near-total replacement west of it, no substantial shift east.
+- **Pitted Ware is a separate forager population** with eastern Baltic affinity that coexisted with farmers (Malmström et al. 2009; Coutinho et al. 2020). It is not farmers reverting.
+
+**The climate timing holds; the mechanism doesn't.**
+- **Robust:** the ~4000 BC date and the abrupt marine-to-terrestrial diet shift (Richards et al. 2003; Allentoft 2024).
+- **Largely refuted:** the salinity/oyster mechanism Cunliffe uses. Lewis et al. 2016 find no significant salinity drop.
+- **Contested:** warming that made farming viable this far north (Warden et al. 2017), versus cooling and sedimentation reducing shellfish (Lewis et al.). Allentoft calls a climate driver proposed but unconfirmed, and Shennan et al. 2013 find no climate link in the later population booms and busts.
+- **Supported:** the premise that rich foragers held out — marine abundance drove pre-farming population growth (Lewis et al. 2020).
+
+**What this does to the card.**
+- **Content ¶1 and "the built-in control rules out cognition and culture."** As written ("they withheld adoption… and adopted when it stopped paying") they describe one population changing its mind. That is not what happened.
+- **The corrected experiment is spatial.** The same climate window produced opposite outcomes across the Baltic: in the west, farming became viable and farmers arrived and absorbed the foragers; in the east, foragers held out for millennia. The terrain-and-climate variable still does the work, and "intelligence uniformly distributed" still holds. What changes is the agent — the farming *frontier* advanced when the land became farmable, rather than foragers converting.
+- **Why-this-matters 3 ("resistance-then-capitulation") weakens to "resistance-then-replacement."** That is still the constraint-response reading, but a Wald-survivorship outcome (point 4), not a conversion.
+- **Rephrase the "survived agriculture" support carefully.** The Baltic shows that farming did not spread by persuasion where foraging paid. It does not show foragers adopting under duress.
+
+**⚠ Prose impact:** Chapter 1 ¶113 presents the in-situ version as "the cleanest demonstration" ("The cognitive and cultural variables were held constant; only the resource base moved"), and so does footnote ch1-25. Appendix D's c. 5,300–3,950 BCE entry says the same. Neither the prose nor the appendix has been changed yet.
+
 ## Calibration
 
 1. **EVIDENCE-STRENGTH FLAG (GitHub issue opened) — "the current population survived by *adopting*" is an in-situ-adoption claim the aDNA may partly invert; apply the issue-#33 lesson.** Dave's (and Beta's) framing — the existing Baltic foragers adopted agriculture to survive — assumes *in-situ adoption*. We were just burned (issue #33) by an unchecked adoption-vs-demic assumption: the Scandinavian Neolithic transition (the Funnel Beaker / TRB horizon, ~4000–3900 BC) likely involved **incoming farmer ancestry**, not purely Ertebølle foragers converting — and the later **Pitted Ware** culture marks a forager *resurgence*, showing the picture is mixed and contested. Discipline, per #33: **check who was already there before asserting the locals adopted.** Crucially, the framework's *robust* claim survives either mechanism: the **climate-gated timing** (why ~4000 BC and not before) and the **constraint-response logic** (the foraging margin collapsed, so agriculture followed) hold whether the agency was local adoption, incoming farmers exploiting newly-marginal forager land, or both. Foreground the timing/constraint claim; hold the "locals adopted" mechanism as the part to verify.

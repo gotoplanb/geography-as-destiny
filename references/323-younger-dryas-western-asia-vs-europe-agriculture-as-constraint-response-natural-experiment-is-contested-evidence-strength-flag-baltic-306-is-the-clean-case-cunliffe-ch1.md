@@ -51,6 +51,30 @@ What survives the debunk — and is worth referencing — is a **subtle, physica
 4. **The European relocation side is real but partial** — west→east YD settlement shift supports relocation, but population reduction shows Europe was stressed, not exempt. Don't overstate "just moved and continued."
 5. **Verify Cunliffe's Ch. 1 wording** — does he present the YD-forced-agriculture story as settled, or note the dispute? (Part of issue #36.) The Younger Dryas dates (~12,900–11,700 BP) and "~11,000 BC" framing are approximately right but should be stated as the YD window, with agriculture proper (PPNA) beginning at/after the YD's end in the early Holocene.
 
+## Source survey, 2026-11-03 (issue #36) — option (c) via (a); Cunliffe hedges
+
+*Pending Dave's verification. Full source list on issue #36.*
+
+**1. Citable only with heavy qualification.** The forcing lineage is real: Moore & Hillman 1992 (*Am. Antiquity* 57); Hillman et al. 2001 (*The Holocene* 11, not *Antiquity*); Bar-Yosef & Belfer-Cohen 2002; Bar-Yosef 2011. But the specialist balance since about 2010 runs against it:
+- **No drying in the south.** The southern Levant was cooler but not drier, and the documented response was *mobility* (Hartman et al. 2016, *PNAS*; Bar-Yosef is a co-author).
+- **Foragers coped.** The Younger Dryas shifted what they relied on rather than ending foraging (Rosen & Rivera-Collazo 2012, *PNAS*).
+- **Abu Hureyra has been reread.** The plant shifts fit diet broadening better than cultivation (Colledge & Conolly 2010, *Env. Archaeology* 15), and the domestic-looking cereals appear intrusive from later layers.
+- **Cultivation became dependable only later.** In northern Syria it comes in the Holocene, when the climate was stable and wetter (Willcox et al. 2009, *The Holocene* 19) — the opposite of forcing.
+- **The southern lake record cuts against early aridity.** The Dead Sea stayed high from 13 to 11 ka and fell only afterwards.
+
+**2. The regional version survives for aridity, not for cultivation.** The north and east show aridity — Lake Van (Wick et al. 2003, *The Holocene* 13) and the Ghab pollen, whose dating is disputed — but the human response there reads as diet broadening. Scoping to Abu Hureyra does not rescue "forced into cultivation."
+
+**3. The kernel above survives, narrowed.** Its best support comes from the critics: Hartman (growing-season cooling lowered cereal productivity) and Maher, Richter & Stock 2012 (*Evol. Anthropology* 21; the long Epipalaeolithic priming). **But** the documented responses were mobility, relocation and diet broadening, not farming. Defensible: *cooling lowered wild yields at an already-primed node.* Not demonstrated: *it nudged the margin toward farming.* Trim the kernel's last step accordingly.
+
+**4. Correct this card: Cunliffe does not present it as settled.** (Quotes from an Internet Archive scan; page positions unreliable — verify in your copy.)
+- Ch. 1: "Many writers see this as a crucial factor in forcing some communities to experiment with modes of food production." He attributes the view to others.
+- Ch. 2: how far the changes were climate-driven "is a matter for debate and requires much more fieldwork."
+- His strong "forced" language sits in the Abu Hureyra paragraph, which rests on the now-rejected rye claim.
+
+The "presented as settled by a respected author" framing in the header, the problem section and *Why this matters* overstates him.
+
+**5. Decision: (c) via (a).** Drop the natural-experiment framing for the Younger Dryas; lead with 306; keep only the narrowed kernel. **But 306 itself changed (issue #34):** the Baltic experiment is now western-Baltic farmers arriving versus eastern-Baltic foragers holding out — not local adoption. The redirect in this card should point to that corrected version. Avoid Moore et al. 2020 (*Sci. Reports*, the Abu Hureyra cosmic-impact paper), which is contested.
+
 ## Sources
 - Barry Cunliffe, *By Steppe, Desert, and Ocean* (OUP 2015), Ch. 1 — the YD-forced-agriculture-vs-European-relocation contrast (Dave's listening; verify wording, issue #36).
 - **The dispute:** Moore & Hillman (1992) and Bar-Yosef & Belfer-Cohen (2002) proposed YD-forced cultivation; recent work contests it — cooling-not-drying in the southern Levant ([Hunted gazelles evidence cooling, but not drying… — PNAS 2016](https://www.pnas.org/doi/10.1073/pnas.1519862113)); persistence of foraging economies ([PNAS 2012](https://www.pnas.org/doi/10.1073/pnas.1113931109)); reassessment of Abu Hureyra predomestication cultivation ([ResearchGate](https://www.researchgate.net/publication/233606303)); European YD survival-by-relocation / population reduction ([Sci. Reports 2024, southern North Sea basin](https://www.nature.com/articles/s41598-024-68686-z)).

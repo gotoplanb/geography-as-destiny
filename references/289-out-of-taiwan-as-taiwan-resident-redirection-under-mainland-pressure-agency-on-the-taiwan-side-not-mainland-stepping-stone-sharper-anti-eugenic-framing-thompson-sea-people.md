@@ -32,6 +32,28 @@ This refines the framework's Pacific cascade derivation (card 278) in three load
 
 The Yangtze-rise-as-specific-trigger remains contested and is the subject of issue #30. The Taiwan-resident-launch portion of this card is solidly supported by linguistic and archaeological evidence. The pressure-from-mainland-as-trigger portion is framework hypothesis pending the issue's resolution. Whether the Yangtze rise was itself driven by upstream Yamnaya energy injection (Dave's original framing) or by internal Chinese substrate dynamics is a further open question downstream of this one.
 
+## Source survey, 2026-11-03 (issue #30) — the trigger likely fails, the agency survives
+
+*Pending Dave's verification; most claims rest on abstracts. Full source list on issue #30.*
+
+**The "closed westward channel" mechanism is not supported.** The archaeology shows the Strait staying open through the launch window, not compressing:
+
+- **The Taiwanese Neolithic formed through centuries of repeated crossings.** Hung & Carson 2014, *Antiquity* 88, phase it as pre-Dabenkeng on the China coast (6000–4000 BC), early Dabenkeng (4000–2800), and late Dabenkeng (2800–2200).
+- **Material kept moving across the Strait.** Basalt adzes went between Penghu, Fujian and Taiwan c. 5000–4000 BP (Guo, Jiao, Rolett et al. 2005, *Geoarchaeology*).
+- **The mainland was supplying Taiwan, not closing it off.** Rice and millet arrived on Taiwan c. 3000 BCE, possibly by a coastal sea route (Tsang et al. 2017; Sagart et al. 2018). Mainland-farmer-related gene flow ran *into* Taiwan (Wang et al. 2021, *Nature* 591).
+- **Fujian looks like a sister maritime-farming culture, not a dense rising power.** Tanshishan is close to Dabenkeng, and Huangguashan shows rice, millet and heavy fishing.
+- **Liangzhu is the wrong shape for a trigger.** No presence was found in Fujian or on the Strait, and it *collapses* c. 2400–2300 BCE, just before the Batanes and Luzon horizon.
+
+**What the literature offers instead is a fill-up trigger internal to Taiwan.** Rice and millet arrive c. 2800 BC and large villages follow (Hung & Carson). Coastal estuary ecology with little paddy land favoured the sea on both sides of the Strait (Rolett et al. 2011, *QSR* 30). The language phylogeny shows a pause of about a thousand years in Taiwan, then a pulse that the authors tie to innovation (Gray, Drummond & Greenhill 2009, *Science* 323).
+
+**Revised framing.** Taiwan-resident populations launched the expansion when *farming filled the island and seafaring capability was ready* — not when the mainland closed. This is still a gradient story: empty terrain beats proximate terrain, the card 278 logic. But it is a pull outward, not redirection under pressure. The anti-eugenic point of this card is unaffected: the agency remains on the Taiwan side, and the trigger is substrate rather than radiating strength.
+
+**Generalization point 3 above needs the same discipline.** "Redirect-under-pressure" just failed its first test here, and the Comanche case it cites (cards 100/113/284) now reads as pull toward a colonial horse gradient (issue #24; card 098). Treat redirect-under-pressure as one candidate reading to test case by case, not a default to reach for first.
+
+**Sub-question B — Yamnaya upstream contribution: no.** Steppe ancestry before 2500 BCE stops at Dzungaria, the Altai and western Mongolia (Zhang et al. 2021, *Nature* 599; Wang et al. 2021). The Pacific cascade is independent of the Pontic-Caspian one — the cleaner outcome the issue anticipated.
+
+**Unverified:** Blust's subgrouping was not rechecked in this pass, and no Taiwan→Fujian jade flow was found (the Fengtian nephrite goes south to Luzon and Vietnam).
+
 ## Sources
 
 - Christina Thompson, *Sea People: The Puzzle of Polynesia* (William Collins, 2019), Part 3
