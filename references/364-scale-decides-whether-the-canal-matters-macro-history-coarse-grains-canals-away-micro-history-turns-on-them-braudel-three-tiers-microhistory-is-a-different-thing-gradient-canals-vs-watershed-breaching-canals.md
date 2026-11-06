@@ -52,6 +52,21 @@ This is a better reading of 363 than "the prediction failed." The over-optimizat
 
 The rule that falls out: **infrastructure belongs to macro history when it creates a connection the terrain didn't offer. It belongs to event-scale history when it speeds up one the terrain already made.** That is the friction-collapse test (card 361) applied to hydraulics, which ties Dave's scale distinction to the framework's existing machinery rather than leaving it as an impression.
 
+### Dave's sharpening, and its correction (2026-11-06)
+
+Dave: the breaching canals "ended up being friction collapses, not used for observability, control, and extraction at the local level." The friction-collapse half is right. "Not used for extraction" is not, and the correction makes the point stronger.
+
+- **The Grand Canal was an extraction instrument from the start.** Its central function across dynasties was moving tax grain from the Yangtze to the capital (*caoyun*, the grain-tribute system). It is about as close to pure appropriation infrastructure as anything in Chinese history.
+- **Suez and Panama were control instruments.**
+  - Suez: tolls; Britain bought the Khedive's shares (1875) and occupied Egypt (1882), largely to hold the route.
+  - Panama: the US-run Canal Zone.
+
+So the difference isn't extraction versus none. It is **where the extraction happens**:
+- **A gradient canal extracts at the field.** It makes the local harvest legible and seizable (Scott; card 344): the farmer is the one being counted.
+- **A breaching canal extracts at the chokepoint.** It collapses friction for everyone using the route, then concentrates the cost to seize into a single narrow point: the convoy, the lock or the toll. This is card 147's chokepoint logic. The canal *creates* a chokepoint that the terrain didn't have.
+
+Restated, the rule is this. **Infrastructure that speeds up a gradient extracts locally and acts at the event scale. Infrastructure that creates a connection collapses friction across the system, moves extraction to the new chokepoint, and acts at the structural scale.** Card 344's two terms still apply. The breaching canal changes their geography: observation and seizure move from the field to the node.
+
 ## Calibration
 
 - **Dave's "squishy" is right, and that's fine.** Braudel's tiers are bands, not borders. The probe gives a criterion without pretending to be a cutoff: an object is structural if removing it changes the distribution across many draws.
