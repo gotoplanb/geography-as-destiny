@@ -79,6 +79,17 @@ Restated, the rule is this. **Infrastructure that speeds up a gradient extracts 
 
 **Prose rule:** the book uses "canal" in two senses, the literal ditch and card 012's metaphor for technology that speeds up where the flow was already going. So when a literal canal plays a different framework role, name the role. Suez is a chokepoint that happens to be dug. The same check applies to other infrastructure: a bridge, a pass road or a strait fortress gets classified by what it does to the distribution, not by what it is made of.
 
+### Friction direction: a canal lowers friction, a chokepoint meters it
+
+Dave: the practical use of a canal is to reduce friction, while a chokepoint intentionally adds it. The two-part version:
+
+- **The breaching canal does both, in sequence.** It removes friction for the whole system: Suez cut roughly 7,000 km off the London–Bombay passage (from memory; verify). Then it concentrates whatever friction remains at one point the holder controls: the toll, the convoy, the right to close it.
+- **The friction is selective, not just added.** It stays low for the holder and its allies and can be raised at will for everyone else. Suez was closed in 1956–57 and again from 1967 to 1975, after the Six-Day War. Panama's transit stayed in US hands until 1999.
+
+So the chokepoint **turns friction into a valve.** Average friction falls, and the variance becomes a policy instrument.
+
+**"Intentionally" belongs to the holder, not the terrain.** Natural chokepoints such as the Bosphorus, Malacca and Hormuz add friction with no one intending it. What's intentional is the use: whoever holds the point decides how much friction everyone else pays. A dug chokepoint differs only in being created where the terrain offered none, so its holder is known from the day it opens.
+
 ## Calibration
 
 - **Dave's "squishy" is right, and that's fine.** Braudel's tiers are bands, not borders. The probe gives a criterion without pretending to be a cutoff: an object is structural if removing it changes the distribution across many draws.
