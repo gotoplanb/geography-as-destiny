@@ -90,6 +90,27 @@ So the chokepoint **turns friction into a valve.** Average friction falls, and t
 
 **"Intentionally" belongs to the holder, not the terrain.** Natural chokepoints such as the Bosphorus, Malacca and Hormuz add friction with no one intending it. What's intentional is the use: whoever holds the point decides how much friction everyone else pays. A dug chokepoint differs only in being created where the terrain offered none, so its holder is known from the day it opens.
 
+### No moral overlay: the motive is revenue, and the variable is whether the take grows with the activity
+
+Dave, talking it out: he does not want the argument to read as "evil rulers dig canals to prey on peaceful people." States build connecting canals because the surface becomes viable for commerce, and the state's revenue rises with the business along it. He takes the Saddam drainage (card 356's extension) as the outlier: a canal built mainly to control a population.
+
+**The framework already holds this position.** Card 148 treats hypocrisy as an encoding mismatch rather than a moral failure. Card 356's extension calls externality "one variable, not a moral overlay." Scott himself is not an "evil state" theorist either: in *Seeing Like a State*, the worst schemes are mostly well-intentioned high modernism.
+
+**The non-moral version of Dave's point has a name.** Revenue from commerce is still extraction, through tolls, duties and taxes on the activity. The question is whether the state's take *grows with* the activity or *consumes* it.
+- Mancur Olson, "Dictatorship, Democracy, and Development" (*APSR* 87, 1993): a ruler with a long horizon has an "encompassing interest" in the economy. The stationary bandit maximizes revenue by letting the base grow.
+- **Card 218** (expansion markets versus contraction extraction) and **card 343** (Neo-Assyria: extraction that erodes its own base) already sort states along this axis.
+
+On that axis the connecting canal is the expansion-phase instrument: lower friction, a larger base, a bigger take. No villain is required.
+
+**Saddam is the limiting case, not a different mechanism.** The drainage sits on the *field* side of the field-versus-node split, not the chokepoint side. It is legibility pursued for control with the revenue motive removed: make the marsh visible and reachable so its people can be governed. It isn't unique, either. Other hydraulic works built for control or war rather than commerce include:
+- Dutch defensive inundation lines;
+- the Nationalist breach of the Yellow River dikes at Huayuankou in 1938, to slow the Japanese advance;
+- Scott's own villagization cases, which are the same aim without water.
+
+So "outlier" is right in frequency: most canal-building is revenue-seeking. But the case is the extreme of the legibility mechanism, not an exception to the framework.
+
+*Olson's article and the Huayuankou date (June 1938) are cited from memory; verify.*
+
 ## Calibration
 
 - **Dave's "squishy" is right, and that's fine.** Braudel's tiers are bands, not borders. The probe gives a criterion without pretending to be a cutoff: an object is structural if removing it changes the distribution across many draws.
