@@ -57,7 +57,7 @@ A draft can be assembled from these and then edited. The editing is the part tha
 
 **Each printed version stands on its own (Dave, 2026-11-06).** No version of the book carries release notes, diffs or belief-change context inside it. The diff, the belief changes and the trail of cards, issues and commits behind them live only in the digital version. They form a graph of nodes and edges, and a linear printed book can't represent one. Print is a snapshot of the argument. The repo is the argument's history.
 
-**Print readers need a way in.** A paperback can't link. The most the printed book should carry is one stable URL for the release notes, in the colophon. Without it, the notes reach only readers who already found the repo. *(It would go in the next interior build that goes to KDP anyway. Don't make it a separate upload; see the release rules.)*
+**Print readers need a way in.** A paperback can't link. **Decided (Dave, 2026-11-06):** the printed book carries one stable URL for the release notes, in the colophon, and nothing more. Still to choose: the URL itself. It has to outlive any repo rename or site move, so it should be a redirect Dave controls, not a raw GitHub path. *(It would go in the next interior build that goes to KDP anyway. Don't make it a separate upload; see the release rules.)*
 
 ## Inbound: a periodic, claim-indexed literature sweep
 
