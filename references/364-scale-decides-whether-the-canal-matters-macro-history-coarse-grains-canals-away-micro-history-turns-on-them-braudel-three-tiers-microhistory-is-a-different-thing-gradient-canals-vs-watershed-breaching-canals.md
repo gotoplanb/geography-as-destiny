@@ -11,6 +11,8 @@
 - *social time*: economies, states and societies over decades to centuries (*conjonctures*);
 - *individual time*: events (*l'histoire événementielle*), which Braudel called surface disturbances carried on the tides beneath (paraphrased from memory; check the preface for the exact wording).
 
+**The project already uses the split.** Card 242 (micro/macro causation: a random walk on the terrain gradient) and card 244 (great-man theory as a valid micro claim, wrongly extrapolated) put it in place. So does Chapter 11: "It operates at macro scale; traditional historiography operates at micro scale; both are legitimate and neither displaces the other." This card adds the canal as a probe for that existing split. It is not a new distinction. (Note that Chapter 11's own "micro scale" is open to the *microstoria* collision below.)
+
 The Chapter 1 stub already names Braudel as "the intellectual ancestor" and asks (open question 2) whether he gets a named influence or a footnote. Card 318 lays out the same stack and notes that no Braudel card exists. This card is that card.
 
 **A terminology warning: "microhistory" is taken.** *Microstoria* is a specific Italian school of the 1970s and 1980s:
