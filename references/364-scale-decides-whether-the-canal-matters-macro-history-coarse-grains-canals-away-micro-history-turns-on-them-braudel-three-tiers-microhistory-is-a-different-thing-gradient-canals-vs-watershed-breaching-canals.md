@@ -104,12 +104,14 @@ On that axis the connecting canal is the expansion-phase instrument: lower frict
 
 **Saddam is the limiting case, not a different mechanism.** The drainage sits on the *field* side of the field-versus-node split, not the chokepoint side. It is legibility pursued for control with the revenue motive removed: make the marsh visible and reachable so its people can be governed. It isn't unique, either. Other hydraulic works built for control or war rather than commerce include:
 - Dutch defensive inundation lines;
-- the Nationalist breach of the Yellow River dikes at Huayuankou in 1938, to slow the Japanese advance;
+- the Nationalist breach of the Yellow River dike at Huayuankou, to slow the Japanese advance. After two failed attempts at Zhaokou on 4–6 June 1938, the river broke through at Huayuankou on **9 June 1938**. A 1948 postwar survey counted about 890,000 dead and 3.9 million displaced. That survey (Han & Nan) is cited by Muscolino, and other estimates vary. Some popular sources give 5 or 7 June, which are the excavation dates, not the breakthrough;
 - Scott's own villagization cases, which are the same aim without water.
 
 So "outlier" is right in frequency: most canal-building is revenue-seeking. But the case is the extreme of the legibility mechanism, not an exception to the framework.
 
-*Olson's article and the Huayuankou date (June 1938) are cited from memory; verify.*
+*Verified 2026-11-06:*
+- *Olson: Mancur Olson, "Dictatorship, Democracy, and Development,"* American Political Science Review *87, no. 3 (September 1993): 567–576, doi:10.2307/2938736. Confirmed from bibliographic records (RePEc/IDEAS, Scilit); the full text was not read. The "stationary bandit" and "encompassing interest" framing is the article's core, per its abstract. The abstract also warns that autocracies rarely sustain good economic performance beyond a generation, because of short tenure and uncertain succession. That bears on the time-horizon reading above.*
+- *Huayuankou: Micah Muscolino, "Yellow River flood, 1938–47," DisasterHistory.org. Muscolino is the author of* The Ecology of War in China: Henan Province, the Yellow River, and Beyond, 1938–1950 *(Cambridge, 2015). See also Diana Lary, "Drowned Earth: The Strategic Breaching of the Yellow River Dyke, 1938,"* War in History *8:2 (2001): 191–207.*
 
 ## Calibration
 
