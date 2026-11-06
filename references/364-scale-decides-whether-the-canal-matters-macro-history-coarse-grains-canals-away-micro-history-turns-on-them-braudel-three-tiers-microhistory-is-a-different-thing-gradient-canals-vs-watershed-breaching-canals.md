@@ -67,6 +67,18 @@ So the difference isn't extraction versus none. It is **where the extraction hap
 
 Restated, the rule is this. **Infrastructure that speeds up a gradient extracts locally and acts at the event scale. Infrastructure that creates a connection collapses friction across the system, moves extraction to the new chokepoint, and acts at the structural scale.** Card 344's two terms still apply. The breaching canal changes their geography: observation and seizure move from the field to the node.
 
+### Dave's formulation: classify by framework role, not physical type (2026-11-06)
+
+> "While it is literally a canal, in terms of the framework's components, it's a choke point… which is different than canals that are literally canals and figuratively canals."
+
+| | Literally | In the framework |
+|---|---|---|
+| Mesopotamian irrigation, Kissimmee | canal | **canal**: accelerates an existing gradient (card 012) |
+| Grand Canal, Suez, Panama | canal | **chokepoint**, created by a friction collapse |
+| Railroad, internet (card 012) | not a canal | **canal**: the book's own metaphor |
+
+**Prose rule:** the book uses "canal" in two senses, the literal ditch and card 012's metaphor for technology that speeds up where the flow was already going. So when a literal canal plays a different framework role, name the role. Suez is a chokepoint that happens to be dug. The same check applies to other infrastructure: a bridge, a pass road or a strait fortress gets classified by what it does to the distribution, not by what it is made of.
+
 ## Calibration
 
 - **Dave's "squishy" is right, and that's fine.** Braudel's tiers are bands, not borders. The probe gives a criterion without pretending to be a cutoff: an object is structural if removing it changes the distribution across many draws.
