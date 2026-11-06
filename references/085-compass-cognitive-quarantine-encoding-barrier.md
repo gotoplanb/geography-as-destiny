@@ -37,4 +37,8 @@
 
 **Shannon formulation (from Dave):** When the encoding is orthogonal to the receiver's existing categories, the signal doesn't just diffuse slowly — it doesn't register as a signal at all. This is a different failure mode than adoption resistance. Resistance = signal received, evaluated negatively. Orthogonal encoding = signal received, not recognized as relevant, filed under wrong category before evaluation begins.
 
-**Hedge (card 365, 2026-11-06):** the cause of the lag is debated, and card 236 offers a rival account (transmission friction). The early geomantic date (the Han *sinan* spoon) rests partly on a modern reconstruction. The navigational evidence clusters around 1100 CE: Shen Kuo, 1088; Zhu Yu, c. 1119. Hold cognitive quarantine as a hypothesis, not as the settled cause.
+**Hedge (card 365, verified 2026-11-06):** the cause of the lag is debated, and card 236 offers a rival account (transmission friction). Two date corrections:
+- **"~2nd century BCE" is not supported.** The spoon-shaped *sinan* is Wang Zhenduo's 1940s reconstruction, questioned by Li Shu-hua in 1954. Whether the Han-text *sinan* (*Lunheng*, c. 1st century CE) was magnetic at all is still argued (2022 and 2023 papers; see card 365). Read it as "Han, contested."
+- **Navigation:** Shen Kuo (1088) describes the needle but not its use at sea. Zhu Yu's *Pingzhou Ketan* (1119) is the first explicit maritime record, and it has pilots using the compass *on cloudy days*, as a backup to the stars. That supports this card's "good-enough incumbent" point.
+
+Hold cognitive quarantine as a hypothesis, not as the settled cause. The verifiable gap is roughly a millennium, from the contested Han *sinan* to 1119.
