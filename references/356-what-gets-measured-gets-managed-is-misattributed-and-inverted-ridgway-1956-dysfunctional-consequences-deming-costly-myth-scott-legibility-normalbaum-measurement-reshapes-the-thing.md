@@ -38,6 +38,28 @@ The reference cards are a measurement apparatus. The framework is confirmed by w
 
 Worth stating plainly because it is the honest version: a project that argues institutions optimize toward their own legibility should expect to be doing it too.
 
+## Extension, 2026-11-06: whose cost counts (externalities as the same variable)
+
+**Source:** Dave, Beta seminar, 2026-11-06, Scott Ch. 1. Two points. First, Scott keeps rephrasing "civilization" as "the state" to undo a survivorship encoding in which sedentism, civilization and the state were treated as one thing. Second, states drain marshes to make them observable and extractable, and the modern parallel is pollution: costs that land on people outside the transaction, which the circular-economy and cradle-to-grave language now tries to put back on the ledger. Beta judged it "not a card yet": the same legibility mechanism in a new setting. Alpha agrees, so this is filed here rather than as a new card.
+
+**The first point is already filed.** Card 362 separates the rich patch that sedentism needs from the rich, constrictable patch the state needs. Card 295 is the receiver-side reading discipline. Beta's "Wald bomber applied to the whole category" is the right label: foragers who left middens and no ledgers drop out of the category "civilization."
+
+**What the second point adds to this card.** The *Normalbaum* section says the unmeasured remainder erodes. Dave's point is that the remainder belonged to someone. Card 344's cost-to-observe term decides two things at once:
+- **what gets extracted:** the legible resource;
+- **whose losses count:** the claims the ledger can see.
+
+An externality is a cost imposed on a party whose claim is illegible. In Coase's terms ("The Problem of Social Cost," *Journal of Law and Economics* 3, 1960), bargaining can internalize a cost only when rights are clearly defined and transaction costs are low. Customary use of a marsh fails the first condition. *Seeing Like a State* (Ch. 1–2, on cadastral mapping and the commons) explains why: the state can't see customary tenure. So the people of the marsh are not merely uncompensated. Under the state's accounting they are not a party at all. This is one variable, not a moral overlay. That matches Dave's own "not necessarily from a morality perspective," and card 148's reading of hypocrisy as an encoding mismatch.
+
+**Keep Beta's distinction between mispriced and theft.** "Stealing" is the same move card 349 flagged as an equivocation on "extraction." The structural claim survives without it: the institution's ledger bounds which costs exist for it. Whether the transfer is theft is a separate argument, and the book doesn't need to make it.
+
+**The modern case: Beta's example, with corrections.** After the 1991 uprising, Saddam Hussein's government drained most of the Mesopotamian Marshes. UNEP's 2001 report (H. Partow, *The Mesopotamian Marshlands: Demise of an Ecosystem*) puts the loss at around 90%. Two adjustments:
+- **The stated motive was counterinsurgency, not extraction.** The marshes sheltered Shia rebels. The drainage works drew on older agricultural-reclamation plans, so extraction was a secondary rationale.
+- **Don't let the Sumerian link carry weight.** The idea that the Marsh Arabs are continuous with Sumerian marsh culture is a popular claim, not an established one. The case works as a structural rhyme: the same terrain, made legible by force about five millennia after Ubaid-era foragers lived well in it.
+
+**Where it would go.** Chapter 11, if anywhere: cradle-to-grave and full-cost accounting are attempts to make the remainder legible, which is the reverse of the *Normalbaum* move. As Beta says, the instrument is unsettled (carbon taxes, liability rules or regulation). The framework's claim is only that the ledger's edge is set by cost to observe. **Hold this until Scott supplies an anchoring case** (his chapters on early-state ecology and fragility are the likely place).
+
+*Coase, Partow/UNEP and the reading of* Seeing Like a State *are cited from Alpha's knowledge and weren't searched this session. Verify them before prose.*
+
 ## Status
 
 Not for the book. Beta judged this a card only if Scott develops it further; Alpha filed now because the quote archaeology is the perishable part and the legibility link is already solid, resting on Scott's prior book rather than on anything he might say later.
