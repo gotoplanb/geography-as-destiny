@@ -55,7 +55,9 @@ A draft can be assembled from these and then edited. The editing is the part tha
 
 **Citability is solved by tags.** The standing objection to living texts is that no one can cite a moving target. A tag is an edition: "*Geography as Destiny*, v6.0.0" is as fixed as a printed second edition, and a commit hash is finer than any edition has ever been. The innovation Dave named is the granularity, not citability itself.
 
-**Print readers need a way in.** A paperback can't link. The colophon or foreword would need one stable URL for the release notes, otherwise the notes reach only readers who already found the repo. *(It would go in the next interior build that goes to KDP anyway. Don't make it a separate upload; see the release rules.)*
+**Each printed version stands on its own (Dave, 2026-11-06).** No version of the book carries release notes, diffs or belief-change context inside it. The diff, the belief changes and the trail of cards, issues and commits behind them live only in the digital version. They form a graph of nodes and edges, and a linear printed book can't represent one. Print is a snapshot of the argument. The repo is the argument's history.
+
+**Print readers need a way in.** A paperback can't link. The most the printed book should carry is one stable URL for the release notes, in the colophon. Without it, the notes reach only readers who already found the repo. *(It would go in the next interior build that goes to KDP anyway. Don't make it a separate upload; see the release rules.)*
 
 ## Inbound: a periodic, claim-indexed literature sweep
 
