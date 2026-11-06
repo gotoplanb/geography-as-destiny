@@ -55,6 +55,8 @@ If none can be measured before the collapse, the claim is unfalsifiable and stay
 
 Prediction, partly cutting against itself. Do not let "canal over-optimization causes climate collapse" into prose. Issue #38 opened to resolve: (a) the dates and causes of the Ur III fall; (b) whether the 4.2 ka event reduced river discharge in the south; (c) whether Ur III extended its canals in the decades before it fell; (d) what Scott says in his collapse chapter.
 
+**Scale reading (card 364, 2026-11-06):** the over-optimization claim is an event-scale claim. Canals plausibly sorted which state fell when; at the structural scale the region reorganized regardless. Test it at that scale.
+
 ## Sources (from memory — verify; the issue tracks them)
 
 - H. Weiss et al., "The Genesis and Collapse of Third Millennium North Mesopotamian Civilization," *Science* 261 (1993)
